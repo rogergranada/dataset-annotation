@@ -15,6 +15,10 @@ Our annotation for this dataset consists in identifying objects that appear in t
 
 The MPII Fine-grained Kitchen Activity dataset ([MPII](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/human-activity-recognition/mpii-cooking-activities-dataset/)) [[2](#references)] contains 65 different cooking activities, named as: *lid: put on*, *open tin*, *cut stripes*, *taste*, *cut apart*, *spread*, *shake*, *open/close cupboard*, *stir*, *strew*, *take & put in fridge*, *put on cutting-board*, *rip open*, *change temperature*, *pull out*, *screw open*, *mix*, *stamp*, *take out from drawer*, *wash hands*, *take & put in drawer*, *take & put in spice holder*, *put on bread/dough*, *unroll dough*, *smell*, *wash objects*, *take & put in cupboard*, *take out from spice holder*, *take ingredient apart*, *put in bowl*, *whisk*, *take out from oven*, *peel*, *take out from cupboard*, *read*, *cut slices*, *put in pan/pot*, *package X*, *lid: remove*, *cut in*, *wipe clean*, *open/close drawer*, *cut out inside*, *grate*, *move from X to Y*, *squeeze*, *spice*, *dry*, *plug in/out*, *fill water from tap*, *take out from fridge*, *open/close fridge*, *put on plate*, *take & put in oven*, *open/close oven*, *pour*, *scratch off*, *cut off ends*, *throw in garbage*, *puree*, *cut dice*, *screw close*, *remove from package*, *open egg* and *background activity*, where in *background activity* there is not any other action occurring. Actions were recorded from 12 participants and in total there are 44 videos with a total length of more than 8 hours or 881,755 frames. It contains a total of 5,609 annotations of 65 activity categories.
 
+# Code:
+
+Code folder contains Python scripts to vizualize annotations given the dataset and a file with the annotation.
+
 ---
 ## Acknowledgment
 
