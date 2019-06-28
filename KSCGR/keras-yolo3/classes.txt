@@ -1,0 +1,33 @@
+0 pan
+1 bowl
+2 egg
+3 hashi
+4 boiled egg
+5 plate
+6 turner
+7 knife
+8 ham
+9 cutting board
+10 oil bottle
+11 frying pan
+12 saltshaker
+13 spoon
+14 glass
+15 pan lid
+16 oil
+17 ham egg
+18 salt
+19 glass of water
+20 beaten egg
+21 egg crepe 
+22 kinshi egg
+23 milk carton
+24 milk
+25 omelette
+26 egg crepe
+27 scramble egg
+28 pan handle
+29 boild egg
+30 oil bottle 
+31 bootle oil
+32 dishcloth
