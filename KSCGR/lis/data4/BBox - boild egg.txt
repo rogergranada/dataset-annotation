@@ -1,2789 +1,2789 @@
 Frame:	Label:	Points:	Bounding Box ID:	Frame path:
 0	egg	(33,226,14,17)	0	data4/boild-egg/0.jpg
-0	pan handle	(133,88,28,38)	1	data4/boild-egg/0.jpg
+0	pan handler	(133,88,28,38)	1	data4/boild-egg/0.jpg
 0	bowl	(49,116,44,40)	2	data4/boild-egg/0.jpg
 0	pan	(193,119,63,69)	3	data4/boild-egg/0.jpg
 1	pan	(193,119,63,69)	3	data4/boild-egg/1.jpg
 1	egg	(33,226,14,17)	0	data4/boild-egg/1.jpg
 1	pan	(193,119,63,69)	3	data4/boild-egg/1.jpg
-1	pan handle	(133,88,28,38)	1	data4/boild-egg/1.jpg
+1	pan handler	(133,88,28,38)	1	data4/boild-egg/1.jpg
 1	pan	(193,119,63,69)	3	data4/boild-egg/1.jpg
 1	bowl	(49,116,44,40)	2	data4/boild-egg/1.jpg
 2	pan	(193,119,63,69)	3	data4/boild-egg/2.jpg
 2	egg	(33,226,14,17)	0	data4/boild-egg/2.jpg
 2	pan	(193,119,63,69)	3	data4/boild-egg/2.jpg
-2	pan handle	(133,88,28,38)	1	data4/boild-egg/2.jpg
+2	pan handler	(133,88,28,38)	1	data4/boild-egg/2.jpg
 2	pan	(193,119,63,69)	3	data4/boild-egg/2.jpg
 2	bowl	(49,116,44,40)	2	data4/boild-egg/2.jpg
 3	pan	(193,119,63,69)	3	data4/boild-egg/3.jpg
 3	egg	(33,226,14,17)	0	data4/boild-egg/3.jpg
 3	pan	(193,119,63,69)	3	data4/boild-egg/3.jpg
-3	pan handle	(133,88,28,38)	1	data4/boild-egg/3.jpg
+3	pan handler	(133,88,28,38)	1	data4/boild-egg/3.jpg
 3	pan	(193,119,63,69)	3	data4/boild-egg/3.jpg
 3	bowl	(49,116,44,40)	2	data4/boild-egg/3.jpg
 4	pan	(193,119,63,69)	3	data4/boild-egg/4.jpg
 4	egg	(33,226,14,17)	0	data4/boild-egg/4.jpg
 4	pan	(193,119,63,69)	3	data4/boild-egg/4.jpg
-4	pan handle	(133,88,28,38)	1	data4/boild-egg/4.jpg
+4	pan handler	(133,88,28,38)	1	data4/boild-egg/4.jpg
 4	pan	(193,119,63,69)	3	data4/boild-egg/4.jpg
 4	bowl	(49,116,44,40)	2	data4/boild-egg/4.jpg
 5	pan	(193,119,63,69)	3	data4/boild-egg/5.jpg
 5	egg	(33,226,14,17)	0	data4/boild-egg/5.jpg
 5	pan	(193,119,63,69)	3	data4/boild-egg/5.jpg
-5	pan handle	(133,88,28,38)	1	data4/boild-egg/5.jpg
+5	pan handler	(133,88,28,38)	1	data4/boild-egg/5.jpg
 5	pan	(193,119,63,69)	3	data4/boild-egg/5.jpg
 5	bowl	(49,116,44,40)	2	data4/boild-egg/5.jpg
 6	pan	(193,119,63,69)	3	data4/boild-egg/6.jpg
 6	egg	(33,226,14,17)	0	data4/boild-egg/6.jpg
 6	pan	(193,119,63,69)	3	data4/boild-egg/6.jpg
-6	pan handle	(133,88,28,38)	1	data4/boild-egg/6.jpg
+6	pan handler	(133,88,28,38)	1	data4/boild-egg/6.jpg
 6	pan	(193,119,63,69)	3	data4/boild-egg/6.jpg
 6	bowl	(49,116,44,40)	2	data4/boild-egg/6.jpg
 7	pan	(193,119,63,69)	3	data4/boild-egg/7.jpg
 7	egg	(33,226,14,17)	0	data4/boild-egg/7.jpg
 7	pan	(193,119,63,69)	3	data4/boild-egg/7.jpg
-7	pan handle	(133,88,28,38)	1	data4/boild-egg/7.jpg
+7	pan handler	(133,88,28,38)	1	data4/boild-egg/7.jpg
 7	pan	(193,119,63,69)	3	data4/boild-egg/7.jpg
 7	bowl	(49,116,44,40)	2	data4/boild-egg/7.jpg
 8	pan	(193,119,63,69)	3	data4/boild-egg/8.jpg
 8	egg	(33,226,14,17)	0	data4/boild-egg/8.jpg
 8	pan	(193,119,63,69)	3	data4/boild-egg/8.jpg
-8	pan handle	(133,88,28,38)	1	data4/boild-egg/8.jpg
+8	pan handler	(133,88,28,38)	1	data4/boild-egg/8.jpg
 8	pan	(193,119,63,69)	3	data4/boild-egg/8.jpg
 8	bowl	(49,116,44,40)	2	data4/boild-egg/8.jpg
 9	pan	(193,119,63,69)	3	data4/boild-egg/9.jpg
 9	egg	(33,226,14,17)	0	data4/boild-egg/9.jpg
 9	pan	(193,119,63,69)	3	data4/boild-egg/9.jpg
-9	pan handle	(133,88,28,38)	1	data4/boild-egg/9.jpg
+9	pan handler	(133,88,28,38)	1	data4/boild-egg/9.jpg
 9	pan	(193,119,63,69)	3	data4/boild-egg/9.jpg
 9	bowl	(49,116,44,40)	2	data4/boild-egg/9.jpg
 10	pan	(193,119,63,69)	3	data4/boild-egg/10.jpg
 10	egg	(33,226,14,17)	0	data4/boild-egg/10.jpg
 10	pan	(193,119,63,69)	3	data4/boild-egg/10.jpg
-10	pan handle	(133,88,28,38)	1	data4/boild-egg/10.jpg
+10	pan handler	(133,88,28,38)	1	data4/boild-egg/10.jpg
 10	pan	(193,119,63,69)	3	data4/boild-egg/10.jpg
 10	bowl	(49,116,44,40)	2	data4/boild-egg/10.jpg
 11	pan	(193,119,63,69)	3	data4/boild-egg/11.jpg
 11	egg	(33,226,14,17)	0	data4/boild-egg/11.jpg
 11	pan	(193,119,63,69)	3	data4/boild-egg/11.jpg
-11	pan handle	(133,88,28,38)	1	data4/boild-egg/11.jpg
+11	pan handler	(133,88,28,38)	1	data4/boild-egg/11.jpg
 11	pan	(193,119,63,69)	3	data4/boild-egg/11.jpg
 11	bowl	(49,116,44,40)	2	data4/boild-egg/11.jpg
 12	pan	(193,119,63,69)	3	data4/boild-egg/12.jpg
 12	egg	(33,226,14,17)	0	data4/boild-egg/12.jpg
 12	pan	(193,119,63,69)	3	data4/boild-egg/12.jpg
-12	pan handle	(133,88,28,38)	1	data4/boild-egg/12.jpg
+12	pan handler	(133,88,28,38)	1	data4/boild-egg/12.jpg
 12	pan	(193,119,63,69)	3	data4/boild-egg/12.jpg
 12	bowl	(49,116,44,40)	2	data4/boild-egg/12.jpg
 13	pan	(193,119,63,69)	3	data4/boild-egg/13.jpg
 13	egg	(33,226,14,17)	0	data4/boild-egg/13.jpg
 13	pan	(193,119,63,69)	3	data4/boild-egg/13.jpg
-13	pan handle	(133,88,28,38)	1	data4/boild-egg/13.jpg
+13	pan handler	(133,88,28,38)	1	data4/boild-egg/13.jpg
 13	pan	(193,119,63,69)	3	data4/boild-egg/13.jpg
 13	bowl	(49,116,44,40)	2	data4/boild-egg/13.jpg
 14	pan	(193,119,63,69)	3	data4/boild-egg/14.jpg
 14	egg	(33,226,14,17)	0	data4/boild-egg/14.jpg
 14	pan	(193,119,63,69)	3	data4/boild-egg/14.jpg
-14	pan handle	(133,88,28,38)	1	data4/boild-egg/14.jpg
+14	pan handler	(133,88,28,38)	1	data4/boild-egg/14.jpg
 14	pan	(193,119,63,69)	3	data4/boild-egg/14.jpg
 14	bowl	(49,116,44,40)	2	data4/boild-egg/14.jpg
 15	pan	(193,119,63,69)	3	data4/boild-egg/15.jpg
 15	egg	(33,226,14,17)	0	data4/boild-egg/15.jpg
 15	pan	(193,119,63,69)	3	data4/boild-egg/15.jpg
-15	pan handle	(133,88,28,38)	1	data4/boild-egg/15.jpg
+15	pan handler	(133,88,28,38)	1	data4/boild-egg/15.jpg
 15	pan	(193,119,63,69)	3	data4/boild-egg/15.jpg
 15	bowl	(49,116,44,40)	2	data4/boild-egg/15.jpg
 16	pan	(193,119,63,69)	3	data4/boild-egg/16.jpg
 16	egg	(33,226,14,17)	0	data4/boild-egg/16.jpg
 16	pan	(193,119,63,69)	3	data4/boild-egg/16.jpg
-16	pan handle	(133,88,28,38)	1	data4/boild-egg/16.jpg
+16	pan handler	(133,88,28,38)	1	data4/boild-egg/16.jpg
 16	pan	(193,119,63,69)	3	data4/boild-egg/16.jpg
 16	bowl	(49,116,44,40)	2	data4/boild-egg/16.jpg
 17	pan	(193,119,63,69)	3	data4/boild-egg/17.jpg
 17	egg	(33,226,14,17)	0	data4/boild-egg/17.jpg
 17	pan	(193,119,63,69)	3	data4/boild-egg/17.jpg
-17	pan handle	(133,88,28,38)	1	data4/boild-egg/17.jpg
+17	pan handler	(133,88,28,38)	1	data4/boild-egg/17.jpg
 17	pan	(193,119,63,69)	3	data4/boild-egg/17.jpg
 17	bowl	(49,116,44,40)	2	data4/boild-egg/17.jpg
 18	pan	(193,119,63,69)	3	data4/boild-egg/18.jpg
 18	egg	(33,226,14,17)	0	data4/boild-egg/18.jpg
 18	pan	(193,119,63,69)	3	data4/boild-egg/18.jpg
-18	pan handle	(133,88,28,38)	1	data4/boild-egg/18.jpg
+18	pan handler	(133,88,28,38)	1	data4/boild-egg/18.jpg
 18	pan	(193,119,63,69)	3	data4/boild-egg/18.jpg
 18	bowl	(49,116,44,40)	2	data4/boild-egg/18.jpg
 19	pan	(193,119,63,69)	3	data4/boild-egg/19.jpg
 19	egg	(33,226,14,17)	0	data4/boild-egg/19.jpg
 19	pan	(193,119,63,69)	3	data4/boild-egg/19.jpg
-19	pan handle	(133,88,28,38)	1	data4/boild-egg/19.jpg
+19	pan handler	(133,88,28,38)	1	data4/boild-egg/19.jpg
 19	pan	(193,119,63,69)	3	data4/boild-egg/19.jpg
 19	bowl	(49,116,44,40)	2	data4/boild-egg/19.jpg
 20	pan	(193,119,63,69)	3	data4/boild-egg/20.jpg
 20	egg	(33,226,14,17)	0	data4/boild-egg/20.jpg
 20	pan	(193,119,63,69)	3	data4/boild-egg/20.jpg
-20	pan handle	(133,88,28,38)	1	data4/boild-egg/20.jpg
+20	pan handler	(133,88,28,38)	1	data4/boild-egg/20.jpg
 20	pan	(193,119,63,69)	3	data4/boild-egg/20.jpg
 20	bowl	(49,116,44,40)	2	data4/boild-egg/20.jpg
 21	pan	(193,119,63,69)	3	data4/boild-egg/21.jpg
 21	egg	(33,226,14,17)	0	data4/boild-egg/21.jpg
 21	pan	(193,119,63,69)	3	data4/boild-egg/21.jpg
-21	pan handle	(133,88,28,38)	1	data4/boild-egg/21.jpg
+21	pan handler	(133,88,28,38)	1	data4/boild-egg/21.jpg
 21	pan	(193,119,63,69)	3	data4/boild-egg/21.jpg
 21	bowl	(49,116,44,40)	2	data4/boild-egg/21.jpg
 22	pan	(193,119,63,69)	3	data4/boild-egg/22.jpg
 22	egg	(33,226,14,17)	0	data4/boild-egg/22.jpg
 22	pan	(193,119,63,69)	3	data4/boild-egg/22.jpg
-22	pan handle	(133,88,28,38)	1	data4/boild-egg/22.jpg
+22	pan handler	(133,88,28,38)	1	data4/boild-egg/22.jpg
 22	pan	(193,119,63,69)	3	data4/boild-egg/22.jpg
 22	bowl	(49,116,44,40)	2	data4/boild-egg/22.jpg
 23	pan	(193,119,63,69)	3	data4/boild-egg/23.jpg
 23	egg	(33,226,14,17)	0	data4/boild-egg/23.jpg
 23	pan	(193,119,63,69)	3	data4/boild-egg/23.jpg
-23	pan handle	(133,88,28,38)	1	data4/boild-egg/23.jpg
+23	pan handler	(133,88,28,38)	1	data4/boild-egg/23.jpg
 23	pan	(193,119,63,69)	3	data4/boild-egg/23.jpg
 23	bowl	(49,116,44,40)	2	data4/boild-egg/23.jpg
 24	pan	(193,119,63,69)	3	data4/boild-egg/24.jpg
 24	egg	(33,226,14,17)	0	data4/boild-egg/24.jpg
 24	pan	(193,119,63,69)	3	data4/boild-egg/24.jpg
-24	pan handle	(133,88,28,38)	1	data4/boild-egg/24.jpg
+24	pan handler	(133,88,28,38)	1	data4/boild-egg/24.jpg
 24	pan	(193,119,63,69)	3	data4/boild-egg/24.jpg
 24	bowl	(49,116,44,40)	2	data4/boild-egg/24.jpg
 25	pan	(193,119,63,69)	3	data4/boild-egg/25.jpg
 25	egg	(33,226,14,17)	0	data4/boild-egg/25.jpg
 25	pan	(193,119,63,69)	3	data4/boild-egg/25.jpg
-25	pan handle	(133,88,28,38)	1	data4/boild-egg/25.jpg
+25	pan handler	(133,88,28,38)	1	data4/boild-egg/25.jpg
 25	pan	(193,119,63,69)	3	data4/boild-egg/25.jpg
 25	bowl	(49,116,44,40)	2	data4/boild-egg/25.jpg
 26	pan	(193,119,63,69)	3	data4/boild-egg/26.jpg
 26	egg	(33,226,14,17)	0	data4/boild-egg/26.jpg
 26	pan	(193,119,63,69)	3	data4/boild-egg/26.jpg
-26	pan handle	(133,88,28,38)	1	data4/boild-egg/26.jpg
+26	pan handler	(133,88,28,38)	1	data4/boild-egg/26.jpg
 26	pan	(193,119,63,69)	3	data4/boild-egg/26.jpg
 26	bowl	(49,116,44,40)	2	data4/boild-egg/26.jpg
 27	pan	(193,119,63,69)	3	data4/boild-egg/27.jpg
 27	egg	(33,226,14,17)	0	data4/boild-egg/27.jpg
 27	pan	(193,119,63,69)	3	data4/boild-egg/27.jpg
-27	pan handle	(133,88,28,38)	1	data4/boild-egg/27.jpg
+27	pan handler	(133,88,28,38)	1	data4/boild-egg/27.jpg
 27	pan	(193,119,63,69)	3	data4/boild-egg/27.jpg
 27	bowl	(49,116,44,40)	2	data4/boild-egg/27.jpg
 28	pan	(193,119,63,69)	3	data4/boild-egg/28.jpg
 28	egg	(33,226,14,17)	0	data4/boild-egg/28.jpg
 28	pan	(193,119,63,69)	3	data4/boild-egg/28.jpg
-28	pan handle	(133,88,28,38)	1	data4/boild-egg/28.jpg
+28	pan handler	(133,88,28,38)	1	data4/boild-egg/28.jpg
 28	pan	(193,119,63,69)	3	data4/boild-egg/28.jpg
 28	bowl	(49,116,44,40)	2	data4/boild-egg/28.jpg
 29	pan	(193,119,63,69)	3	data4/boild-egg/29.jpg
 29	egg	(33,226,14,17)	0	data4/boild-egg/29.jpg
 29	pan	(193,119,63,69)	3	data4/boild-egg/29.jpg
-29	pan handle	(133,88,28,38)	1	data4/boild-egg/29.jpg
+29	pan handler	(133,88,28,38)	1	data4/boild-egg/29.jpg
 29	pan	(193,119,63,69)	3	data4/boild-egg/29.jpg
 29	bowl	(49,116,44,40)	2	data4/boild-egg/29.jpg
 30	pan	(193,119,63,69)	3	data4/boild-egg/30.jpg
 30	egg	(33,226,14,17)	0	data4/boild-egg/30.jpg
 30	pan	(193,119,63,69)	3	data4/boild-egg/30.jpg
-30	pan handle	(133,88,28,38)	1	data4/boild-egg/30.jpg
+30	pan handler	(133,88,28,38)	1	data4/boild-egg/30.jpg
 30	pan	(193,119,63,69)	3	data4/boild-egg/30.jpg
 30	bowl	(49,116,44,40)	2	data4/boild-egg/30.jpg
 31	pan	(193,119,63,69)	3	data4/boild-egg/31.jpg
 31	egg	(33,226,14,17)	0	data4/boild-egg/31.jpg
 31	pan	(193,119,63,69)	3	data4/boild-egg/31.jpg
-31	pan handle	(133,88,28,38)	1	data4/boild-egg/31.jpg
+31	pan handler	(133,88,28,38)	1	data4/boild-egg/31.jpg
 31	pan	(193,119,63,69)	3	data4/boild-egg/31.jpg
 31	bowl	(49,116,44,40)	2	data4/boild-egg/31.jpg
 32	pan	(193,119,63,69)	3	data4/boild-egg/32.jpg
 32	egg	(33,226,14,17)	0	data4/boild-egg/32.jpg
 32	pan	(193,119,63,69)	3	data4/boild-egg/32.jpg
-32	pan handle	(133,88,28,38)	1	data4/boild-egg/32.jpg
+32	pan handler	(133,88,28,38)	1	data4/boild-egg/32.jpg
 32	pan	(193,119,63,69)	3	data4/boild-egg/32.jpg
 32	bowl	(49,116,44,40)	2	data4/boild-egg/32.jpg
 33	pan	(193,119,63,69)	3	data4/boild-egg/33.jpg
 33	egg	(33,226,14,17)	0	data4/boild-egg/33.jpg
 33	pan	(193,119,63,69)	3	data4/boild-egg/33.jpg
-33	pan handle	(133,88,28,38)	1	data4/boild-egg/33.jpg
+33	pan handler	(133,88,28,38)	1	data4/boild-egg/33.jpg
 33	pan	(193,119,63,69)	3	data4/boild-egg/33.jpg
 33	bowl	(49,116,44,40)	2	data4/boild-egg/33.jpg
 34	pan	(193,119,63,69)	3	data4/boild-egg/34.jpg
 34	egg	(33,226,14,17)	0	data4/boild-egg/34.jpg
 34	pan	(193,119,63,69)	3	data4/boild-egg/34.jpg
-34	pan handle	(133,88,28,38)	1	data4/boild-egg/34.jpg
+34	pan handler	(133,88,28,38)	1	data4/boild-egg/34.jpg
 34	pan	(193,119,63,69)	3	data4/boild-egg/34.jpg
 34	bowl	(49,116,44,40)	2	data4/boild-egg/34.jpg
 35	pan	(193,119,63,69)	3	data4/boild-egg/35.jpg
 35	egg	(33,226,14,17)	0	data4/boild-egg/35.jpg
 35	pan	(193,119,63,69)	3	data4/boild-egg/35.jpg
-35	pan handle	(133,88,28,38)	1	data4/boild-egg/35.jpg
+35	pan handler	(133,88,28,38)	1	data4/boild-egg/35.jpg
 35	pan	(193,119,63,69)	3	data4/boild-egg/35.jpg
 35	bowl	(49,116,44,40)	2	data4/boild-egg/35.jpg
 36	pan	(193,119,63,69)	3	data4/boild-egg/36.jpg
 36	egg	(33,226,14,17)	0	data4/boild-egg/36.jpg
 36	pan	(193,119,63,69)	3	data4/boild-egg/36.jpg
-36	pan handle	(133,88,28,38)	1	data4/boild-egg/36.jpg
+36	pan handler	(133,88,28,38)	1	data4/boild-egg/36.jpg
 36	pan	(193,119,63,69)	3	data4/boild-egg/36.jpg
 36	bowl	(49,116,44,40)	2	data4/boild-egg/36.jpg
 37	pan	(193,119,63,69)	3	data4/boild-egg/37.jpg
 37	egg	(33,226,14,17)	0	data4/boild-egg/37.jpg
 37	pan	(193,119,63,69)	3	data4/boild-egg/37.jpg
-37	pan handle	(133,88,28,38)	1	data4/boild-egg/37.jpg
+37	pan handler	(133,88,28,38)	1	data4/boild-egg/37.jpg
 37	pan	(193,119,63,69)	3	data4/boild-egg/37.jpg
 37	bowl	(49,116,44,40)	2	data4/boild-egg/37.jpg
 38	pan	(193,119,63,69)	3	data4/boild-egg/38.jpg
 38	egg	(33,226,14,17)	0	data4/boild-egg/38.jpg
 38	pan	(193,119,63,69)	3	data4/boild-egg/38.jpg
-38	pan handle	(133,88,28,38)	1	data4/boild-egg/38.jpg
+38	pan handler	(133,88,28,38)	1	data4/boild-egg/38.jpg
 38	pan	(193,119,63,69)	3	data4/boild-egg/38.jpg
 38	bowl	(49,116,44,40)	2	data4/boild-egg/38.jpg
 39	pan	(193,119,63,69)	3	data4/boild-egg/39.jpg
 39	egg	(33,226,14,17)	0	data4/boild-egg/39.jpg
 39	pan	(193,119,63,69)	3	data4/boild-egg/39.jpg
-39	pan handle	(133,88,28,38)	1	data4/boild-egg/39.jpg
+39	pan handler	(133,88,28,38)	1	data4/boild-egg/39.jpg
 39	pan	(193,119,63,69)	3	data4/boild-egg/39.jpg
 39	bowl	(49,116,44,40)	2	data4/boild-egg/39.jpg
 40	pan	(193,119,63,69)	3	data4/boild-egg/40.jpg
 40	egg	(33,226,14,17)	0	data4/boild-egg/40.jpg
 40	pan	(193,119,63,69)	3	data4/boild-egg/40.jpg
-40	pan handle	(133,88,28,38)	1	data4/boild-egg/40.jpg
+40	pan handler	(133,88,28,38)	1	data4/boild-egg/40.jpg
 40	pan	(193,119,63,69)	3	data4/boild-egg/40.jpg
 40	bowl	(49,116,44,40)	2	data4/boild-egg/40.jpg
 41	pan	(193,119,63,69)	3	data4/boild-egg/41.jpg
 41	egg	(33,226,14,17)	0	data4/boild-egg/41.jpg
 41	pan	(193,119,63,69)	3	data4/boild-egg/41.jpg
-41	pan handle	(133,88,28,38)	1	data4/boild-egg/41.jpg
+41	pan handler	(133,88,28,38)	1	data4/boild-egg/41.jpg
 41	pan	(193,119,63,69)	3	data4/boild-egg/41.jpg
 41	bowl	(49,116,44,40)	2	data4/boild-egg/41.jpg
 42	pan	(193,119,63,69)	3	data4/boild-egg/42.jpg
 42	egg	(33,226,14,17)	0	data4/boild-egg/42.jpg
 42	pan	(193,119,63,69)	3	data4/boild-egg/42.jpg
-42	pan handle	(133,88,28,38)	1	data4/boild-egg/42.jpg
+42	pan handler	(133,88,28,38)	1	data4/boild-egg/42.jpg
 42	pan	(193,119,63,69)	3	data4/boild-egg/42.jpg
 42	bowl	(49,116,44,40)	2	data4/boild-egg/42.jpg
 43	pan	(193,119,63,69)	3	data4/boild-egg/43.jpg
 43	egg	(33,226,14,17)	0	data4/boild-egg/43.jpg
 43	pan	(193,119,63,69)	3	data4/boild-egg/43.jpg
-43	pan handle	(133,88,28,38)	1	data4/boild-egg/43.jpg
+43	pan handler	(133,88,28,38)	1	data4/boild-egg/43.jpg
 43	pan	(193,119,63,69)	3	data4/boild-egg/43.jpg
 43	bowl	(49,116,44,40)	2	data4/boild-egg/43.jpg
 44	pan	(193,119,63,69)	3	data4/boild-egg/44.jpg
 44	egg	(33,226,14,17)	0	data4/boild-egg/44.jpg
 44	pan	(193,119,63,69)	3	data4/boild-egg/44.jpg
-44	pan handle	(133,88,28,38)	1	data4/boild-egg/44.jpg
+44	pan handler	(133,88,28,38)	1	data4/boild-egg/44.jpg
 44	pan	(193,119,63,69)	3	data4/boild-egg/44.jpg
 44	bowl	(49,116,44,40)	2	data4/boild-egg/44.jpg
 45	pan	(193,119,63,69)	3	data4/boild-egg/45.jpg
 45	egg	(33,226,14,17)	0	data4/boild-egg/45.jpg
 45	pan	(193,119,63,69)	3	data4/boild-egg/45.jpg
-45	pan handle	(133,88,28,38)	1	data4/boild-egg/45.jpg
+45	pan handler	(133,88,28,38)	1	data4/boild-egg/45.jpg
 45	pan	(193,119,63,69)	3	data4/boild-egg/45.jpg
 45	bowl	(49,116,44,40)	2	data4/boild-egg/45.jpg
 46	pan	(193,119,63,69)	3	data4/boild-egg/46.jpg
 46	egg	(33,226,14,17)	0	data4/boild-egg/46.jpg
 46	pan	(193,119,63,69)	3	data4/boild-egg/46.jpg
-46	pan handle	(133,88,28,38)	1	data4/boild-egg/46.jpg
+46	pan handler	(133,88,28,38)	1	data4/boild-egg/46.jpg
 46	pan	(193,119,63,69)	3	data4/boild-egg/46.jpg
 46	bowl	(49,116,44,40)	2	data4/boild-egg/46.jpg
 47	pan	(193,119,63,69)	3	data4/boild-egg/47.jpg
 47	egg	(33,226,14,17)	0	data4/boild-egg/47.jpg
 47	pan	(193,119,63,69)	3	data4/boild-egg/47.jpg
-47	pan handle	(133,88,28,38)	1	data4/boild-egg/47.jpg
+47	pan handler	(133,88,28,38)	1	data4/boild-egg/47.jpg
 47	pan	(193,119,63,69)	3	data4/boild-egg/47.jpg
 47	bowl	(49,116,44,40)	2	data4/boild-egg/47.jpg
 48	pan	(193,119,63,69)	3	data4/boild-egg/48.jpg
 48	egg	(33,226,14,17)	0	data4/boild-egg/48.jpg
 48	pan	(193,119,63,69)	3	data4/boild-egg/48.jpg
-48	pan handle	(133,88,28,38)	1	data4/boild-egg/48.jpg
+48	pan handler	(133,88,28,38)	1	data4/boild-egg/48.jpg
 48	pan	(193,119,63,69)	3	data4/boild-egg/48.jpg
 48	bowl	(49,116,44,40)	2	data4/boild-egg/48.jpg
 49	pan	(193,119,63,69)	3	data4/boild-egg/49.jpg
 49	egg	(33,226,14,17)	0	data4/boild-egg/49.jpg
 49	pan	(193,119,63,69)	3	data4/boild-egg/49.jpg
-49	pan handle	(133,88,28,38)	1	data4/boild-egg/49.jpg
+49	pan handler	(133,88,28,38)	1	data4/boild-egg/49.jpg
 49	pan	(193,119,63,69)	3	data4/boild-egg/49.jpg
 49	bowl	(49,116,44,40)	2	data4/boild-egg/49.jpg
 50	pan	(193,119,63,69)	3	data4/boild-egg/50.jpg
 50	egg	(33,226,14,17)	0	data4/boild-egg/50.jpg
 50	pan	(193,119,63,69)	3	data4/boild-egg/50.jpg
-50	pan handle	(133,88,28,38)	1	data4/boild-egg/50.jpg
+50	pan handler	(133,88,28,38)	1	data4/boild-egg/50.jpg
 50	pan	(193,119,63,69)	3	data4/boild-egg/50.jpg
 50	bowl	(49,116,44,40)	2	data4/boild-egg/50.jpg
 51	pan	(193,119,63,69)	3	data4/boild-egg/51.jpg
 51	egg	(33,226,14,17)	0	data4/boild-egg/51.jpg
 51	pan	(193,119,63,69)	3	data4/boild-egg/51.jpg
-51	pan handle	(133,88,28,38)	1	data4/boild-egg/51.jpg
+51	pan handler	(133,88,28,38)	1	data4/boild-egg/51.jpg
 51	pan	(193,119,63,69)	3	data4/boild-egg/51.jpg
 51	bowl	(49,116,44,40)	2	data4/boild-egg/51.jpg
 52	pan	(193,119,63,69)	3	data4/boild-egg/52.jpg
 52	egg	(33,226,14,17)	0	data4/boild-egg/52.jpg
 52	pan	(193,119,63,69)	3	data4/boild-egg/52.jpg
-52	pan handle	(133,88,28,38)	1	data4/boild-egg/52.jpg
+52	pan handler	(133,88,28,38)	1	data4/boild-egg/52.jpg
 52	pan	(193,119,63,69)	3	data4/boild-egg/52.jpg
 52	bowl	(49,116,44,40)	2	data4/boild-egg/52.jpg
 53	pan	(193,119,63,69)	3	data4/boild-egg/53.jpg
 53	egg	(33,226,14,17)	0	data4/boild-egg/53.jpg
 53	pan	(193,119,63,69)	3	data4/boild-egg/53.jpg
-53	pan handle	(133,88,28,38)	1	data4/boild-egg/53.jpg
+53	pan handler	(133,88,28,38)	1	data4/boild-egg/53.jpg
 53	pan	(193,119,63,69)	3	data4/boild-egg/53.jpg
 53	bowl	(49,116,44,40)	2	data4/boild-egg/53.jpg
 54	pan	(193,119,63,69)	3	data4/boild-egg/54.jpg
 54	egg	(33,226,14,17)	0	data4/boild-egg/54.jpg
 54	pan	(193,119,63,69)	3	data4/boild-egg/54.jpg
-54	pan handle	(133,88,28,38)	1	data4/boild-egg/54.jpg
+54	pan handler	(133,88,28,38)	1	data4/boild-egg/54.jpg
 54	pan	(193,119,63,69)	3	data4/boild-egg/54.jpg
 54	bowl	(49,116,44,40)	2	data4/boild-egg/54.jpg
 55	pan	(193,119,63,69)	3	data4/boild-egg/55.jpg
 55	egg	(33,226,14,17)	0	data4/boild-egg/55.jpg
 55	pan	(193,119,63,69)	3	data4/boild-egg/55.jpg
-55	pan handle	(133,88,28,38)	1	data4/boild-egg/55.jpg
+55	pan handler	(133,88,28,38)	1	data4/boild-egg/55.jpg
 55	pan	(193,119,63,69)	3	data4/boild-egg/55.jpg
 55	bowl	(49,116,44,40)	2	data4/boild-egg/55.jpg
 56	pan	(193,119,63,69)	3	data4/boild-egg/56.jpg
 56	egg	(33,226,14,17)	0	data4/boild-egg/56.jpg
 56	pan	(193,119,63,69)	3	data4/boild-egg/56.jpg
-56	pan handle	(133,88,28,38)	1	data4/boild-egg/56.jpg
+56	pan handler	(133,88,28,38)	1	data4/boild-egg/56.jpg
 56	pan	(193,119,63,69)	3	data4/boild-egg/56.jpg
 56	bowl	(49,116,44,40)	2	data4/boild-egg/56.jpg
 57	pan	(193,119,63,69)	3	data4/boild-egg/57.jpg
 57	egg	(33,226,14,17)	0	data4/boild-egg/57.jpg
 57	pan	(193,119,63,69)	3	data4/boild-egg/57.jpg
-57	pan handle	(133,88,28,38)	1	data4/boild-egg/57.jpg
+57	pan handler	(133,88,28,38)	1	data4/boild-egg/57.jpg
 57	pan	(193,119,63,69)	3	data4/boild-egg/57.jpg
 57	bowl	(49,116,44,40)	2	data4/boild-egg/57.jpg
 58	pan	(193,119,63,69)	3	data4/boild-egg/58.jpg
 58	egg	(33,226,14,17)	0	data4/boild-egg/58.jpg
 58	pan	(193,119,63,69)	3	data4/boild-egg/58.jpg
-58	pan handle	(133,88,28,38)	1	data4/boild-egg/58.jpg
+58	pan handler	(133,88,28,38)	1	data4/boild-egg/58.jpg
 58	pan	(193,119,63,69)	3	data4/boild-egg/58.jpg
 58	bowl	(49,116,44,40)	2	data4/boild-egg/58.jpg
 59	pan	(193,119,63,69)	3	data4/boild-egg/59.jpg
 59	egg	(33,226,14,17)	0	data4/boild-egg/59.jpg
 59	pan	(193,119,63,69)	3	data4/boild-egg/59.jpg
-59	pan handle	(133,88,28,38)	1	data4/boild-egg/59.jpg
+59	pan handler	(133,88,28,38)	1	data4/boild-egg/59.jpg
 59	pan	(193,119,63,69)	3	data4/boild-egg/59.jpg
 59	bowl	(49,116,44,40)	2	data4/boild-egg/59.jpg
 60	pan	(193,119,63,69)	3	data4/boild-egg/60.jpg
 60	egg	(33,226,14,17)	0	data4/boild-egg/60.jpg
 60	pan	(193,119,63,69)	3	data4/boild-egg/60.jpg
-60	pan handle	(133,88,28,38)	1	data4/boild-egg/60.jpg
+60	pan handler	(133,88,28,38)	1	data4/boild-egg/60.jpg
 60	pan	(193,119,63,69)	3	data4/boild-egg/60.jpg
 60	bowl	(49,116,44,40)	2	data4/boild-egg/60.jpg
 61	pan	(193,119,63,69)	3	data4/boild-egg/61.jpg
 61	egg	(33,226,14,17)	0	data4/boild-egg/61.jpg
 61	pan	(193,119,63,69)	3	data4/boild-egg/61.jpg
-61	pan handle	(133,88,28,38)	1	data4/boild-egg/61.jpg
+61	pan handler	(133,88,28,38)	1	data4/boild-egg/61.jpg
 61	pan	(193,119,63,69)	3	data4/boild-egg/61.jpg
 61	bowl	(49,116,44,40)	2	data4/boild-egg/61.jpg
 62	pan	(193,119,63,69)	3	data4/boild-egg/62.jpg
 62	egg	(33,226,14,17)	0	data4/boild-egg/62.jpg
 62	pan	(193,119,63,69)	3	data4/boild-egg/62.jpg
-62	pan handle	(133,88,28,38)	1	data4/boild-egg/62.jpg
+62	pan handler	(133,88,28,38)	1	data4/boild-egg/62.jpg
 62	pan	(193,119,63,69)	3	data4/boild-egg/62.jpg
 62	bowl	(49,116,44,40)	2	data4/boild-egg/62.jpg
 63	pan	(193,119,63,69)	3	data4/boild-egg/63.jpg
 63	egg	(33,226,14,17)	0	data4/boild-egg/63.jpg
 63	pan	(193,119,63,69)	3	data4/boild-egg/63.jpg
-63	pan handle	(133,88,28,38)	1	data4/boild-egg/63.jpg
+63	pan handler	(133,88,28,38)	1	data4/boild-egg/63.jpg
 63	pan	(193,119,63,69)	3	data4/boild-egg/63.jpg
 63	bowl	(49,116,44,40)	2	data4/boild-egg/63.jpg
 64	pan	(193,119,63,69)	3	data4/boild-egg/64.jpg
 64	egg	(33,226,14,17)	0	data4/boild-egg/64.jpg
 64	pan	(193,119,63,69)	3	data4/boild-egg/64.jpg
-64	pan handle	(133,88,28,38)	1	data4/boild-egg/64.jpg
+64	pan handler	(133,88,28,38)	1	data4/boild-egg/64.jpg
 64	pan	(193,119,63,69)	3	data4/boild-egg/64.jpg
 64	bowl	(49,116,44,40)	2	data4/boild-egg/64.jpg
 65	pan	(193,119,63,69)	3	data4/boild-egg/65.jpg
 65	egg	(33,226,14,17)	0	data4/boild-egg/65.jpg
 65	pan	(193,119,63,69)	3	data4/boild-egg/65.jpg
-65	pan handle	(133,88,28,38)	1	data4/boild-egg/65.jpg
+65	pan handler	(133,88,28,38)	1	data4/boild-egg/65.jpg
 65	pan	(193,119,63,69)	3	data4/boild-egg/65.jpg
 65	bowl	(49,116,44,40)	2	data4/boild-egg/65.jpg
 66	pan	(193,119,63,69)	3	data4/boild-egg/66.jpg
 66	egg	(33,226,14,17)	0	data4/boild-egg/66.jpg
 66	pan	(193,119,63,69)	3	data4/boild-egg/66.jpg
-66	pan handle	(133,88,28,38)	1	data4/boild-egg/66.jpg
+66	pan handler	(133,88,28,38)	1	data4/boild-egg/66.jpg
 66	pan	(193,119,63,69)	3	data4/boild-egg/66.jpg
 66	bowl	(49,116,44,40)	2	data4/boild-egg/66.jpg
 67	pan	(193,119,63,69)	3	data4/boild-egg/67.jpg
 67	egg	(33,226,14,17)	0	data4/boild-egg/67.jpg
 67	pan	(193,119,63,69)	3	data4/boild-egg/67.jpg
-67	pan handle	(133,88,28,38)	1	data4/boild-egg/67.jpg
+67	pan handler	(133,88,28,38)	1	data4/boild-egg/67.jpg
 67	pan	(193,119,63,69)	3	data4/boild-egg/67.jpg
 67	bowl	(49,116,44,40)	2	data4/boild-egg/67.jpg
 68	pan	(193,119,63,69)	3	data4/boild-egg/68.jpg
 68	egg	(33,226,14,17)	0	data4/boild-egg/68.jpg
 68	pan	(193,119,63,69)	3	data4/boild-egg/68.jpg
-68	pan handle	(133,88,28,38)	1	data4/boild-egg/68.jpg
+68	pan handler	(133,88,28,38)	1	data4/boild-egg/68.jpg
 68	pan	(193,119,63,69)	3	data4/boild-egg/68.jpg
 68	bowl	(49,116,44,40)	2	data4/boild-egg/68.jpg
 69	pan	(193,119,63,69)	3	data4/boild-egg/69.jpg
 69	egg	(33,226,14,17)	0	data4/boild-egg/69.jpg
 69	pan	(193,119,63,69)	3	data4/boild-egg/69.jpg
-69	pan handle	(133,88,28,38)	1	data4/boild-egg/69.jpg
+69	pan handler	(133,88,28,38)	1	data4/boild-egg/69.jpg
 69	pan	(193,119,63,69)	3	data4/boild-egg/69.jpg
 69	bowl	(49,116,44,40)	2	data4/boild-egg/69.jpg
 70	pan	(193,119,63,69)	3	data4/boild-egg/70.jpg
 70	egg	(33,226,14,17)	0	data4/boild-egg/70.jpg
 70	pan	(193,119,63,69)	3	data4/boild-egg/70.jpg
-70	pan handle	(133,88,28,38)	1	data4/boild-egg/70.jpg
+70	pan handler	(133,88,28,38)	1	data4/boild-egg/70.jpg
 70	pan	(193,119,63,69)	3	data4/boild-egg/70.jpg
 70	bowl	(49,116,44,40)	2	data4/boild-egg/70.jpg
 71	pan	(193,119,63,69)	3	data4/boild-egg/71.jpg
 71	egg	(33,226,14,17)	0	data4/boild-egg/71.jpg
 71	pan	(193,119,63,69)	3	data4/boild-egg/71.jpg
-71	pan handle	(133,88,28,38)	1	data4/boild-egg/71.jpg
+71	pan handler	(133,88,28,38)	1	data4/boild-egg/71.jpg
 71	pan	(193,119,63,69)	3	data4/boild-egg/71.jpg
 71	bowl	(49,116,44,40)	2	data4/boild-egg/71.jpg
 72	pan	(193,119,63,69)	3	data4/boild-egg/72.jpg
 72	egg	(33,226,14,17)	0	data4/boild-egg/72.jpg
 72	pan	(193,119,63,69)	3	data4/boild-egg/72.jpg
-72	pan handle	(133,88,28,38)	1	data4/boild-egg/72.jpg
+72	pan handler	(133,88,28,38)	1	data4/boild-egg/72.jpg
 72	pan	(193,119,63,69)	3	data4/boild-egg/72.jpg
 72	bowl	(49,116,44,40)	2	data4/boild-egg/72.jpg
 73	pan	(193,119,63,69)	3	data4/boild-egg/73.jpg
 73	egg	(33,226,14,17)	0	data4/boild-egg/73.jpg
 73	pan	(193,119,63,69)	3	data4/boild-egg/73.jpg
-73	pan handle	(133,88,28,38)	1	data4/boild-egg/73.jpg
+73	pan handler	(133,88,28,38)	1	data4/boild-egg/73.jpg
 73	pan	(193,119,63,69)	3	data4/boild-egg/73.jpg
 73	bowl	(49,116,44,40)	2	data4/boild-egg/73.jpg
 74	pan	(193,119,63,69)	3	data4/boild-egg/74.jpg
 74	egg	(33,226,14,17)	0	data4/boild-egg/74.jpg
 74	pan	(193,119,63,69)	3	data4/boild-egg/74.jpg
-74	pan handle	(133,88,28,38)	1	data4/boild-egg/74.jpg
+74	pan handler	(133,88,28,38)	1	data4/boild-egg/74.jpg
 74	pan	(193,119,63,69)	3	data4/boild-egg/74.jpg
 74	bowl	(49,116,44,40)	2	data4/boild-egg/74.jpg
 75	pan	(193,119,63,69)	3	data4/boild-egg/75.jpg
 75	egg	(33,226,14,17)	0	data4/boild-egg/75.jpg
 75	pan	(193,119,63,69)	3	data4/boild-egg/75.jpg
-75	pan handle	(133,88,28,38)	1	data4/boild-egg/75.jpg
+75	pan handler	(133,88,28,38)	1	data4/boild-egg/75.jpg
 75	pan	(193,119,63,69)	3	data4/boild-egg/75.jpg
 75	bowl	(49,116,44,40)	2	data4/boild-egg/75.jpg
 76	pan	(193,119,63,69)	3	data4/boild-egg/76.jpg
 76	egg	(33,226,14,17)	0	data4/boild-egg/76.jpg
 76	pan	(193,119,63,69)	3	data4/boild-egg/76.jpg
-76	pan handle	(133,88,28,38)	1	data4/boild-egg/76.jpg
+76	pan handler	(133,88,28,38)	1	data4/boild-egg/76.jpg
 76	pan	(193,119,63,69)	3	data4/boild-egg/76.jpg
 76	bowl	(49,116,44,40)	2	data4/boild-egg/76.jpg
 77	pan	(193,119,63,69)	3	data4/boild-egg/77.jpg
 77	egg	(33,226,14,17)	0	data4/boild-egg/77.jpg
 77	pan	(193,119,63,69)	3	data4/boild-egg/77.jpg
-77	pan handle	(133,88,28,38)	1	data4/boild-egg/77.jpg
+77	pan handler	(133,88,28,38)	1	data4/boild-egg/77.jpg
 77	pan	(193,119,63,69)	3	data4/boild-egg/77.jpg
 77	bowl	(49,116,44,40)	2	data4/boild-egg/77.jpg
 78	pan	(193,119,63,69)	3	data4/boild-egg/78.jpg
 78	egg	(33,226,14,17)	0	data4/boild-egg/78.jpg
 78	pan	(193,119,63,69)	3	data4/boild-egg/78.jpg
-78	pan handle	(133,88,28,38)	1	data4/boild-egg/78.jpg
+78	pan handler	(133,88,28,38)	1	data4/boild-egg/78.jpg
 78	pan	(193,119,63,69)	3	data4/boild-egg/78.jpg
 78	bowl	(49,116,44,40)	2	data4/boild-egg/78.jpg
 79	pan	(193,119,63,69)	3	data4/boild-egg/79.jpg
 79	egg	(33,226,14,17)	0	data4/boild-egg/79.jpg
 79	pan	(193,119,63,69)	3	data4/boild-egg/79.jpg
-79	pan handle	(133,88,28,38)	1	data4/boild-egg/79.jpg
+79	pan handler	(133,88,28,38)	1	data4/boild-egg/79.jpg
 79	pan	(193,119,63,69)	3	data4/boild-egg/79.jpg
 79	bowl	(49,116,44,40)	2	data4/boild-egg/79.jpg
 80	pan	(193,119,63,69)	3	data4/boild-egg/80.jpg
 80	egg	(33,226,14,17)	0	data4/boild-egg/80.jpg
 80	pan	(193,119,63,69)	3	data4/boild-egg/80.jpg
-80	pan handle	(133,88,28,38)	1	data4/boild-egg/80.jpg
+80	pan handler	(133,88,28,38)	1	data4/boild-egg/80.jpg
 80	pan	(193,119,63,69)	3	data4/boild-egg/80.jpg
 80	bowl	(49,116,44,40)	2	data4/boild-egg/80.jpg
 81	pan	(193,119,63,69)	3	data4/boild-egg/81.jpg
 81	egg	(33,226,14,17)	0	data4/boild-egg/81.jpg
 81	pan	(193,119,63,69)	3	data4/boild-egg/81.jpg
-81	pan handle	(133,88,28,38)	1	data4/boild-egg/81.jpg
+81	pan handler	(133,88,28,38)	1	data4/boild-egg/81.jpg
 81	pan	(193,119,63,69)	3	data4/boild-egg/81.jpg
 81	bowl	(49,116,44,40)	2	data4/boild-egg/81.jpg
 82	pan	(193,119,63,69)	3	data4/boild-egg/82.jpg
 82	egg	(33,226,14,17)	0	data4/boild-egg/82.jpg
 82	pan	(193,119,63,69)	3	data4/boild-egg/82.jpg
-82	pan handle	(133,88,28,38)	1	data4/boild-egg/82.jpg
+82	pan handler	(133,88,28,38)	1	data4/boild-egg/82.jpg
 82	pan	(193,119,63,69)	3	data4/boild-egg/82.jpg
 82	bowl	(49,116,44,40)	2	data4/boild-egg/82.jpg
 83	pan	(193,119,63,69)	3	data4/boild-egg/83.jpg
 83	egg	(33,226,14,17)	0	data4/boild-egg/83.jpg
 83	pan	(193,119,63,69)	3	data4/boild-egg/83.jpg
-83	pan handle	(133,88,28,38)	1	data4/boild-egg/83.jpg
+83	pan handler	(133,88,28,38)	1	data4/boild-egg/83.jpg
 83	pan	(193,119,63,69)	3	data4/boild-egg/83.jpg
 83	bowl	(49,116,44,40)	2	data4/boild-egg/83.jpg
 84	pan	(193,119,63,69)	3	data4/boild-egg/84.jpg
 84	egg	(33,226,14,17)	0	data4/boild-egg/84.jpg
 84	pan	(193,119,63,69)	3	data4/boild-egg/84.jpg
-84	pan handle	(133,88,28,38)	1	data4/boild-egg/84.jpg
+84	pan handler	(133,88,28,38)	1	data4/boild-egg/84.jpg
 84	pan	(193,119,63,69)	3	data4/boild-egg/84.jpg
 84	bowl	(49,116,44,40)	2	data4/boild-egg/84.jpg
 85	pan	(193,119,63,69)	3	data4/boild-egg/85.jpg
 85	egg	(33,226,14,17)	0	data4/boild-egg/85.jpg
 85	pan	(193,119,63,69)	3	data4/boild-egg/85.jpg
-85	pan handle	(133,88,28,38)	1	data4/boild-egg/85.jpg
+85	pan handler	(133,88,28,38)	1	data4/boild-egg/85.jpg
 85	pan	(193,119,63,69)	3	data4/boild-egg/85.jpg
 85	bowl	(49,116,44,40)	2	data4/boild-egg/85.jpg
 86	pan	(193,119,63,69)	3	data4/boild-egg/86.jpg
 86	egg	(33,226,14,17)	0	data4/boild-egg/86.jpg
 86	pan	(193,119,63,69)	3	data4/boild-egg/86.jpg
-86	pan handle	(133,88,28,38)	1	data4/boild-egg/86.jpg
+86	pan handler	(133,88,28,38)	1	data4/boild-egg/86.jpg
 86	pan	(193,119,63,69)	3	data4/boild-egg/86.jpg
 86	bowl	(49,116,44,40)	2	data4/boild-egg/86.jpg
 87	pan	(193,119,63,69)	3	data4/boild-egg/87.jpg
 87	egg	(33,226,14,17)	0	data4/boild-egg/87.jpg
 87	pan	(193,119,63,69)	3	data4/boild-egg/87.jpg
-87	pan handle	(133,88,28,38)	1	data4/boild-egg/87.jpg
+87	pan handler	(133,88,28,38)	1	data4/boild-egg/87.jpg
 87	pan	(193,119,63,69)	3	data4/boild-egg/87.jpg
 87	bowl	(49,116,44,40)	2	data4/boild-egg/87.jpg
 88	pan	(193,119,63,69)	3	data4/boild-egg/88.jpg
 88	egg	(33,226,14,17)	0	data4/boild-egg/88.jpg
 88	pan	(193,119,63,69)	3	data4/boild-egg/88.jpg
-88	pan handle	(133,88,28,38)	1	data4/boild-egg/88.jpg
+88	pan handler	(133,88,28,38)	1	data4/boild-egg/88.jpg
 88	pan	(193,119,63,69)	3	data4/boild-egg/88.jpg
 88	bowl	(49,116,44,40)	2	data4/boild-egg/88.jpg
 89	pan	(193,119,63,69)	3	data4/boild-egg/89.jpg
 89	egg	(33,226,14,17)	0	data4/boild-egg/89.jpg
 89	pan	(193,119,63,69)	3	data4/boild-egg/89.jpg
-89	pan handle	(133,88,28,38)	1	data4/boild-egg/89.jpg
+89	pan handler	(133,88,28,38)	1	data4/boild-egg/89.jpg
 89	pan	(193,119,63,69)	3	data4/boild-egg/89.jpg
 89	bowl	(49,116,44,40)	2	data4/boild-egg/89.jpg
 90	pan	(193,119,63,69)	3	data4/boild-egg/90.jpg
 90	egg	(33,226,14,17)	0	data4/boild-egg/90.jpg
 90	pan	(193,119,63,69)	3	data4/boild-egg/90.jpg
-90	pan handle	(133,88,28,38)	1	data4/boild-egg/90.jpg
+90	pan handler	(133,88,28,38)	1	data4/boild-egg/90.jpg
 90	pan	(193,119,63,69)	3	data4/boild-egg/90.jpg
 90	bowl	(49,116,44,40)	2	data4/boild-egg/90.jpg
 91	pan	(193,119,63,69)	3	data4/boild-egg/91.jpg
 91	egg	(33,226,14,17)	0	data4/boild-egg/91.jpg
 91	pan	(193,119,63,69)	3	data4/boild-egg/91.jpg
-91	pan handle	(133,88,28,38)	1	data4/boild-egg/91.jpg
+91	pan handler	(133,88,28,38)	1	data4/boild-egg/91.jpg
 91	pan	(193,119,63,69)	3	data4/boild-egg/91.jpg
 91	bowl	(49,116,44,40)	2	data4/boild-egg/91.jpg
 92	pan	(193,119,63,69)	3	data4/boild-egg/92.jpg
 92	egg	(33,226,14,17)	0	data4/boild-egg/92.jpg
 92	pan	(193,119,63,69)	3	data4/boild-egg/92.jpg
-92	pan handle	(133,88,28,38)	1	data4/boild-egg/92.jpg
+92	pan handler	(133,88,28,38)	1	data4/boild-egg/92.jpg
 92	pan	(193,119,63,69)	3	data4/boild-egg/92.jpg
 92	bowl	(49,116,44,40)	2	data4/boild-egg/92.jpg
 93	pan	(193,119,63,69)	3	data4/boild-egg/93.jpg
 93	egg	(33,226,14,17)	0	data4/boild-egg/93.jpg
 93	pan	(193,119,63,69)	3	data4/boild-egg/93.jpg
-93	pan handle	(133,88,28,38)	1	data4/boild-egg/93.jpg
+93	pan handler	(133,88,28,38)	1	data4/boild-egg/93.jpg
 93	pan	(193,119,63,69)	3	data4/boild-egg/93.jpg
 93	bowl	(49,116,44,40)	2	data4/boild-egg/93.jpg
 94	pan	(193,119,63,69)	3	data4/boild-egg/94.jpg
 94	egg	(33,226,14,17)	0	data4/boild-egg/94.jpg
 94	pan	(193,119,63,69)	3	data4/boild-egg/94.jpg
-94	pan handle	(133,88,28,38)	1	data4/boild-egg/94.jpg
+94	pan handler	(133,88,28,38)	1	data4/boild-egg/94.jpg
 94	pan	(193,119,63,69)	3	data4/boild-egg/94.jpg
 94	bowl	(49,116,44,40)	2	data4/boild-egg/94.jpg
 95	pan	(193,119,63,69)	3	data4/boild-egg/95.jpg
 95	egg	(33,226,14,17)	0	data4/boild-egg/95.jpg
 95	pan	(193,119,63,69)	3	data4/boild-egg/95.jpg
-95	pan handle	(133,88,28,38)	1	data4/boild-egg/95.jpg
+95	pan handler	(133,88,28,38)	1	data4/boild-egg/95.jpg
 95	pan	(193,119,63,69)	3	data4/boild-egg/95.jpg
 95	bowl	(49,116,44,40)	2	data4/boild-egg/95.jpg
 96	pan	(193,119,63,69)	3	data4/boild-egg/96.jpg
 96	egg	(33,226,14,17)	0	data4/boild-egg/96.jpg
 96	pan	(193,119,63,69)	3	data4/boild-egg/96.jpg
-96	pan handle	(133,88,28,38)	1	data4/boild-egg/96.jpg
+96	pan handler	(133,88,28,38)	1	data4/boild-egg/96.jpg
 96	pan	(193,119,63,69)	3	data4/boild-egg/96.jpg
 96	bowl	(49,116,44,40)	2	data4/boild-egg/96.jpg
 97	pan	(193,119,63,69)	3	data4/boild-egg/97.jpg
 97	egg	(33,226,14,17)	0	data4/boild-egg/97.jpg
 97	pan	(193,119,63,69)	3	data4/boild-egg/97.jpg
-97	pan handle	(133,88,28,38)	1	data4/boild-egg/97.jpg
+97	pan handler	(133,88,28,38)	1	data4/boild-egg/97.jpg
 97	pan	(193,119,63,69)	3	data4/boild-egg/97.jpg
 97	bowl	(49,116,44,40)	2	data4/boild-egg/97.jpg
 98	pan	(193,119,63,69)	3	data4/boild-egg/98.jpg
 98	egg	(33,226,14,17)	0	data4/boild-egg/98.jpg
 98	pan	(193,119,63,69)	3	data4/boild-egg/98.jpg
-98	pan handle	(133,88,28,38)	1	data4/boild-egg/98.jpg
+98	pan handler	(133,88,28,38)	1	data4/boild-egg/98.jpg
 98	pan	(193,119,63,69)	3	data4/boild-egg/98.jpg
 98	bowl	(49,116,44,40)	2	data4/boild-egg/98.jpg
 99	pan	(193,119,63,69)	3	data4/boild-egg/99.jpg
 99	egg	(33,226,14,17)	0	data4/boild-egg/99.jpg
 99	pan	(193,119,63,69)	3	data4/boild-egg/99.jpg
-99	pan handle	(133,88,28,38)	1	data4/boild-egg/99.jpg
+99	pan handler	(133,88,28,38)	1	data4/boild-egg/99.jpg
 99	pan	(193,119,63,69)	3	data4/boild-egg/99.jpg
 99	bowl	(49,116,44,40)	2	data4/boild-egg/99.jpg
 100	pan	(193,119,63,69)	3	data4/boild-egg/100.jpg
 100	egg	(33,226,14,17)	0	data4/boild-egg/100.jpg
 100	pan	(193,119,63,69)	3	data4/boild-egg/100.jpg
-100	pan handle	(133,88,28,38)	1	data4/boild-egg/100.jpg
+100	pan handler	(133,88,28,38)	1	data4/boild-egg/100.jpg
 100	pan	(193,119,63,69)	3	data4/boild-egg/100.jpg
 100	bowl	(49,116,44,40)	2	data4/boild-egg/100.jpg
 101	pan	(193,119,63,69)	3	data4/boild-egg/101.jpg
 101	egg	(33,226,14,17)	0	data4/boild-egg/101.jpg
 101	pan	(193,119,63,69)	3	data4/boild-egg/101.jpg
-101	pan handle	(133,88,28,38)	1	data4/boild-egg/101.jpg
+101	pan handler	(133,88,28,38)	1	data4/boild-egg/101.jpg
 101	pan	(193,119,63,69)	3	data4/boild-egg/101.jpg
 101	bowl	(49,116,44,40)	2	data4/boild-egg/101.jpg
 102	pan	(193,119,63,69)	3	data4/boild-egg/102.jpg
 102	egg	(33,226,14,17)	0	data4/boild-egg/102.jpg
 102	pan	(193,119,63,69)	3	data4/boild-egg/102.jpg
-102	pan handle	(133,88,28,38)	1	data4/boild-egg/102.jpg
+102	pan handler	(133,88,28,38)	1	data4/boild-egg/102.jpg
 102	pan	(193,119,63,69)	3	data4/boild-egg/102.jpg
 102	bowl	(49,116,44,40)	2	data4/boild-egg/102.jpg
 103	pan	(193,119,63,69)	3	data4/boild-egg/103.jpg
 103	egg	(33,226,14,17)	0	data4/boild-egg/103.jpg
 103	pan	(193,119,63,69)	3	data4/boild-egg/103.jpg
-103	pan handle	(133,88,28,38)	1	data4/boild-egg/103.jpg
+103	pan handler	(133,88,28,38)	1	data4/boild-egg/103.jpg
 103	pan	(193,119,63,69)	3	data4/boild-egg/103.jpg
 103	bowl	(49,116,44,40)	2	data4/boild-egg/103.jpg
 104	pan	(193,119,63,69)	3	data4/boild-egg/104.jpg
 104	egg	(33,226,14,17)	0	data4/boild-egg/104.jpg
 104	pan	(193,119,63,69)	3	data4/boild-egg/104.jpg
-104	pan handle	(133,88,28,38)	1	data4/boild-egg/104.jpg
+104	pan handler	(133,88,28,38)	1	data4/boild-egg/104.jpg
 104	pan	(193,119,63,69)	3	data4/boild-egg/104.jpg
 104	bowl	(49,116,44,40)	2	data4/boild-egg/104.jpg
 105	pan	(193,119,63,69)	3	data4/boild-egg/105.jpg
 105	egg	(33,226,14,17)	0	data4/boild-egg/105.jpg
 105	pan	(193,119,63,69)	3	data4/boild-egg/105.jpg
-105	pan handle	(133,88,28,38)	1	data4/boild-egg/105.jpg
+105	pan handler	(133,88,28,38)	1	data4/boild-egg/105.jpg
 105	pan	(193,119,63,69)	3	data4/boild-egg/105.jpg
 105	bowl	(49,116,44,40)	2	data4/boild-egg/105.jpg
 106	pan	(193,119,63,69)	3	data4/boild-egg/106.jpg
 106	egg	(33,226,14,17)	0	data4/boild-egg/106.jpg
 106	pan	(193,119,63,69)	3	data4/boild-egg/106.jpg
-106	pan handle	(133,88,28,38)	1	data4/boild-egg/106.jpg
+106	pan handler	(133,88,28,38)	1	data4/boild-egg/106.jpg
 106	pan	(193,119,63,69)	3	data4/boild-egg/106.jpg
 106	bowl	(49,116,44,40)	2	data4/boild-egg/106.jpg
 107	pan	(193,119,63,69)	3	data4/boild-egg/107.jpg
 107	egg	(33,226,14,17)	0	data4/boild-egg/107.jpg
 107	pan	(193,119,63,69)	3	data4/boild-egg/107.jpg
-107	pan handle	(133,88,28,38)	1	data4/boild-egg/107.jpg
+107	pan handler	(133,88,28,38)	1	data4/boild-egg/107.jpg
 107	pan	(193,119,63,69)	3	data4/boild-egg/107.jpg
 107	bowl	(49,116,44,40)	2	data4/boild-egg/107.jpg
 108	pan	(193,119,63,69)	3	data4/boild-egg/108.jpg
 108	egg	(33,226,14,17)	0	data4/boild-egg/108.jpg
 108	pan	(193,119,63,69)	3	data4/boild-egg/108.jpg
-108	pan handle	(133,88,28,38)	1	data4/boild-egg/108.jpg
+108	pan handler	(133,88,28,38)	1	data4/boild-egg/108.jpg
 108	pan	(193,119,63,69)	3	data4/boild-egg/108.jpg
 108	bowl	(49,116,44,40)	2	data4/boild-egg/108.jpg
 109	pan	(193,119,63,69)	3	data4/boild-egg/109.jpg
 109	egg	(33,226,14,17)	0	data4/boild-egg/109.jpg
 109	pan	(193,119,63,69)	3	data4/boild-egg/109.jpg
-109	pan handle	(133,88,28,38)	1	data4/boild-egg/109.jpg
+109	pan handler	(133,88,28,38)	1	data4/boild-egg/109.jpg
 109	pan	(193,119,63,69)	3	data4/boild-egg/109.jpg
 109	bowl	(49,116,44,40)	2	data4/boild-egg/109.jpg
 110	pan	(193,119,63,69)	3	data4/boild-egg/110.jpg
 110	egg	(33,226,14,17)	0	data4/boild-egg/110.jpg
 110	pan	(193,119,63,69)	3	data4/boild-egg/110.jpg
-110	pan handle	(133,88,28,38)	1	data4/boild-egg/110.jpg
+110	pan handler	(133,88,28,38)	1	data4/boild-egg/110.jpg
 110	pan	(193,119,63,69)	3	data4/boild-egg/110.jpg
 110	bowl	(49,116,44,40)	2	data4/boild-egg/110.jpg
 110	person	(0,0,64,114)	6	data4/boild-egg/110.jpg
 111	pan	(193,119,63,69)	3	data4/boild-egg/111.jpg
 111	egg	(33,226,14,17)	0	data4/boild-egg/111.jpg
 111	pan	(193,119,63,69)	3	data4/boild-egg/111.jpg
-111	pan handle	(133,88,28,38)	1	data4/boild-egg/111.jpg
+111	pan handler	(133,88,28,38)	1	data4/boild-egg/111.jpg
 111	pan	(193,119,63,69)	3	data4/boild-egg/111.jpg
 111	bowl	(49,116,44,40)	2	data4/boild-egg/111.jpg
 111	person	(0,0,65,114)	6	data4/boild-egg/111.jpg
 112	pan	(193,119,63,69)	3	data4/boild-egg/112.jpg
 112	egg	(33,226,14,17)	0	data4/boild-egg/112.jpg
 112	pan	(193,119,63,69)	3	data4/boild-egg/112.jpg
-112	pan handle	(133,88,28,38)	1	data4/boild-egg/112.jpg
+112	pan handler	(133,88,28,38)	1	data4/boild-egg/112.jpg
 112	pan	(193,119,63,69)	3	data4/boild-egg/112.jpg
 112	bowl	(49,116,44,40)	2	data4/boild-egg/112.jpg
 112	person	(0,0,67,114)	6	data4/boild-egg/112.jpg
 113	pan	(193,119,63,69)	3	data4/boild-egg/113.jpg
 113	egg	(33,226,14,17)	0	data4/boild-egg/113.jpg
 113	pan	(193,119,63,69)	3	data4/boild-egg/113.jpg
-113	pan handle	(133,88,28,38)	1	data4/boild-egg/113.jpg
+113	pan handler	(133,88,28,38)	1	data4/boild-egg/113.jpg
 113	pan	(193,119,63,69)	3	data4/boild-egg/113.jpg
 113	bowl	(49,116,44,40)	2	data4/boild-egg/113.jpg
 113	person	(0,0,72,114)	6	data4/boild-egg/113.jpg
 114	pan	(193,119,63,69)	3	data4/boild-egg/114.jpg
 114	egg	(33,226,14,17)	0	data4/boild-egg/114.jpg
 114	pan	(193,119,63,69)	3	data4/boild-egg/114.jpg
-114	pan handle	(133,88,28,38)	1	data4/boild-egg/114.jpg
+114	pan handler	(133,88,28,38)	1	data4/boild-egg/114.jpg
 114	pan	(193,119,63,69)	3	data4/boild-egg/114.jpg
 114	bowl	(49,116,44,40)	2	data4/boild-egg/114.jpg
 114	person	(0,0,68,114)	6	data4/boild-egg/114.jpg
 115	pan	(193,119,63,69)	3	data4/boild-egg/115.jpg
 115	egg	(33,226,14,17)	0	data4/boild-egg/115.jpg
 115	pan	(193,119,63,69)	3	data4/boild-egg/115.jpg
-115	pan handle	(133,88,28,38)	1	data4/boild-egg/115.jpg
+115	pan handler	(133,88,28,38)	1	data4/boild-egg/115.jpg
 115	pan	(193,119,63,69)	3	data4/boild-egg/115.jpg
 115	bowl	(49,116,44,40)	2	data4/boild-egg/115.jpg
 115	person	(0,0,76,114)	6	data4/boild-egg/115.jpg
 116	pan	(193,119,63,69)	3	data4/boild-egg/116.jpg
 116	egg	(33,226,14,17)	0	data4/boild-egg/116.jpg
 116	pan	(193,119,63,69)	3	data4/boild-egg/116.jpg
-116	pan handle	(133,88,28,38)	1	data4/boild-egg/116.jpg
+116	pan handler	(133,88,28,38)	1	data4/boild-egg/116.jpg
 116	pan	(193,119,63,69)	3	data4/boild-egg/116.jpg
 116	bowl	(49,116,44,40)	2	data4/boild-egg/116.jpg
 116	person	(0,0,84,114)	6	data4/boild-egg/116.jpg
 117	pan	(193,119,63,69)	3	data4/boild-egg/117.jpg
 117	egg	(33,226,14,17)	0	data4/boild-egg/117.jpg
 117	pan	(193,119,63,69)	3	data4/boild-egg/117.jpg
-117	pan handle	(133,88,28,38)	1	data4/boild-egg/117.jpg
+117	pan handler	(133,88,28,38)	1	data4/boild-egg/117.jpg
 117	pan	(193,119,63,69)	3	data4/boild-egg/117.jpg
 117	bowl	(49,116,44,40)	2	data4/boild-egg/117.jpg
 117	person	(0,0,91,114)	6	data4/boild-egg/117.jpg
 118	pan	(193,119,63,69)	3	data4/boild-egg/118.jpg
 118	egg	(33,226,14,17)	0	data4/boild-egg/118.jpg
 118	pan	(193,119,63,69)	3	data4/boild-egg/118.jpg
-118	pan handle	(133,88,28,38)	1	data4/boild-egg/118.jpg
+118	pan handler	(133,88,28,38)	1	data4/boild-egg/118.jpg
 118	pan	(193,119,63,69)	3	data4/boild-egg/118.jpg
 118	bowl	(49,116,44,40)	2	data4/boild-egg/118.jpg
 118	person	(0,0,94,114)	6	data4/boild-egg/118.jpg
 119	pan	(193,119,63,69)	3	data4/boild-egg/119.jpg
 119	egg	(33,226,14,17)	0	data4/boild-egg/119.jpg
 119	pan	(193,119,63,69)	3	data4/boild-egg/119.jpg
-119	pan handle	(133,88,28,38)	1	data4/boild-egg/119.jpg
+119	pan handler	(133,88,28,38)	1	data4/boild-egg/119.jpg
 119	pan	(193,119,63,69)	3	data4/boild-egg/119.jpg
 119	bowl	(49,116,44,40)	2	data4/boild-egg/119.jpg
 119	person	(0,0,99,114)	6	data4/boild-egg/119.jpg
 120	pan	(193,119,63,69)	3	data4/boild-egg/120.jpg
 120	egg	(33,226,14,17)	0	data4/boild-egg/120.jpg
 120	pan	(193,119,63,69)	3	data4/boild-egg/120.jpg
-120	pan handle	(133,88,28,38)	1	data4/boild-egg/120.jpg
+120	pan handler	(133,88,28,38)	1	data4/boild-egg/120.jpg
 120	pan	(193,119,63,69)	3	data4/boild-egg/120.jpg
 120	bowl	(49,116,44,40)	2	data4/boild-egg/120.jpg
 120	person	(0,0,105,114)	6	data4/boild-egg/120.jpg
 121	pan	(193,119,63,69)	3	data4/boild-egg/121.jpg
 121	egg	(33,226,14,17)	0	data4/boild-egg/121.jpg
 121	pan	(193,119,63,69)	3	data4/boild-egg/121.jpg
-121	pan handle	(133,88,28,38)	1	data4/boild-egg/121.jpg
+121	pan handler	(133,88,28,38)	1	data4/boild-egg/121.jpg
 121	pan	(193,119,63,69)	3	data4/boild-egg/121.jpg
 121	bowl	(49,116,44,40)	2	data4/boild-egg/121.jpg
 121	person	(0,0,109,114)	6	data4/boild-egg/121.jpg
 122	pan	(193,119,63,69)	3	data4/boild-egg/122.jpg
 122	egg	(33,226,14,17)	0	data4/boild-egg/122.jpg
 122	pan	(193,119,63,69)	3	data4/boild-egg/122.jpg
-122	pan handle	(133,88,28,38)	1	data4/boild-egg/122.jpg
+122	pan handler	(133,88,28,38)	1	data4/boild-egg/122.jpg
 122	pan	(193,119,63,69)	3	data4/boild-egg/122.jpg
 122	bowl	(49,116,44,40)	2	data4/boild-egg/122.jpg
 122	person	(0,0,113,114)	6	data4/boild-egg/122.jpg
 123	pan	(193,119,63,69)	3	data4/boild-egg/123.jpg
 123	egg	(33,226,14,17)	0	data4/boild-egg/123.jpg
 123	pan	(193,119,63,69)	3	data4/boild-egg/123.jpg
-123	pan handle	(133,88,28,38)	1	data4/boild-egg/123.jpg
+123	pan handler	(133,88,28,38)	1	data4/boild-egg/123.jpg
 123	pan	(193,119,63,69)	3	data4/boild-egg/123.jpg
 123	bowl	(49,116,44,40)	2	data4/boild-egg/123.jpg
 123	person	(0,0,115,114)	6	data4/boild-egg/123.jpg
 124	pan	(193,119,63,69)	3	data4/boild-egg/124.jpg
 124	egg	(33,226,14,17)	0	data4/boild-egg/124.jpg
 124	pan	(193,119,63,69)	3	data4/boild-egg/124.jpg
-124	pan handle	(133,88,28,38)	1	data4/boild-egg/124.jpg
+124	pan handler	(133,88,28,38)	1	data4/boild-egg/124.jpg
 124	pan	(193,119,63,69)	3	data4/boild-egg/124.jpg
 124	bowl	(49,116,44,40)	2	data4/boild-egg/124.jpg
 124	person	(0,0,118,114)	6	data4/boild-egg/124.jpg
 125	pan	(193,119,63,69)	3	data4/boild-egg/125.jpg
 125	egg	(33,226,14,17)	0	data4/boild-egg/125.jpg
 125	pan	(193,119,63,69)	3	data4/boild-egg/125.jpg
-125	pan handle	(133,88,28,38)	1	data4/boild-egg/125.jpg
+125	pan handler	(133,88,28,38)	1	data4/boild-egg/125.jpg
 125	pan	(193,119,63,69)	3	data4/boild-egg/125.jpg
 125	bowl	(49,116,44,40)	2	data4/boild-egg/125.jpg
 125	person	(2,0,114,114)	6	data4/boild-egg/125.jpg
 126	pan	(193,119,63,69)	3	data4/boild-egg/126.jpg
 126	egg	(33,226,14,17)	0	data4/boild-egg/126.jpg
 126	pan	(193,119,63,69)	3	data4/boild-egg/126.jpg
-126	pan handle	(133,88,28,38)	1	data4/boild-egg/126.jpg
+126	pan handler	(133,88,28,38)	1	data4/boild-egg/126.jpg
 126	pan	(193,119,63,69)	3	data4/boild-egg/126.jpg
 126	bowl	(49,116,44,40)	2	data4/boild-egg/126.jpg
 126	person	(8,0,110,114)	6	data4/boild-egg/126.jpg
 127	pan	(193,119,63,69)	3	data4/boild-egg/127.jpg
 127	egg	(33,226,14,17)	0	data4/boild-egg/127.jpg
 127	pan	(193,119,63,69)	3	data4/boild-egg/127.jpg
-127	pan handle	(133,88,28,38)	1	data4/boild-egg/127.jpg
+127	pan handler	(133,88,28,38)	1	data4/boild-egg/127.jpg
 127	pan	(193,119,63,69)	3	data4/boild-egg/127.jpg
 127	bowl	(49,116,44,40)	2	data4/boild-egg/127.jpg
 127	person	(13,0,102,114)	6	data4/boild-egg/127.jpg
 128	pan	(193,119,63,69)	3	data4/boild-egg/128.jpg
 128	egg	(33,226,14,17)	0	data4/boild-egg/128.jpg
 128	pan	(193,119,63,69)	3	data4/boild-egg/128.jpg
-128	pan handle	(133,88,28,38)	1	data4/boild-egg/128.jpg
+128	pan handler	(133,88,28,38)	1	data4/boild-egg/128.jpg
 128	pan	(193,119,63,69)	3	data4/boild-egg/128.jpg
 128	bowl	(49,116,44,40)	2	data4/boild-egg/128.jpg
 128	person	(18,0,100,114)	6	data4/boild-egg/128.jpg
 129	pan	(193,119,63,69)	3	data4/boild-egg/129.jpg
 129	egg	(33,226,14,17)	0	data4/boild-egg/129.jpg
 129	pan	(193,119,63,69)	3	data4/boild-egg/129.jpg
-129	pan handle	(133,88,28,38)	1	data4/boild-egg/129.jpg
+129	pan handler	(133,88,28,38)	1	data4/boild-egg/129.jpg
 129	pan	(193,119,63,69)	3	data4/boild-egg/129.jpg
 129	bowl	(49,116,44,40)	2	data4/boild-egg/129.jpg
 129	person	(22,0,103,114)	6	data4/boild-egg/129.jpg
 130	pan	(193,119,63,69)	3	data4/boild-egg/130.jpg
 130	egg	(33,226,14,17)	0	data4/boild-egg/130.jpg
 130	pan	(193,119,63,69)	3	data4/boild-egg/130.jpg
-130	pan handle	(133,88,28,38)	1	data4/boild-egg/130.jpg
+130	pan handler	(133,88,28,38)	1	data4/boild-egg/130.jpg
 130	pan	(193,119,63,69)	3	data4/boild-egg/130.jpg
 130	bowl	(49,116,44,40)	2	data4/boild-egg/130.jpg
 130	person	(27,0,105,114)	6	data4/boild-egg/130.jpg
 131	pan	(193,119,63,69)	3	data4/boild-egg/131.jpg
 131	egg	(33,226,14,17)	0	data4/boild-egg/131.jpg
 131	pan	(193,119,63,69)	3	data4/boild-egg/131.jpg
-131	pan handle	(133,88,28,38)	1	data4/boild-egg/131.jpg
+131	pan handler	(133,88,28,38)	1	data4/boild-egg/131.jpg
 131	pan	(193,119,63,69)	3	data4/boild-egg/131.jpg
 131	bowl	(49,116,44,40)	2	data4/boild-egg/131.jpg
 131	person	(31,0,106,114)	6	data4/boild-egg/131.jpg
 132	pan	(193,119,63,69)	3	data4/boild-egg/132.jpg
 132	egg	(33,226,14,17)	0	data4/boild-egg/132.jpg
 132	pan	(193,119,63,69)	3	data4/boild-egg/132.jpg
-132	pan handle	(133,88,28,38)	1	data4/boild-egg/132.jpg
+132	pan handler	(133,88,28,38)	1	data4/boild-egg/132.jpg
 132	pan	(193,119,63,69)	3	data4/boild-egg/132.jpg
 132	bowl	(49,116,44,40)	2	data4/boild-egg/132.jpg
 132	person	(34,0,109,114)	6	data4/boild-egg/132.jpg
 133	pan	(193,119,63,69)	3	data4/boild-egg/133.jpg
 133	egg	(33,226,14,17)	0	data4/boild-egg/133.jpg
 133	pan	(193,119,63,69)	3	data4/boild-egg/133.jpg
-133	pan handle	(133,88,28,38)	1	data4/boild-egg/133.jpg
+133	pan handler	(133,88,28,38)	1	data4/boild-egg/133.jpg
 133	pan	(193,119,63,69)	3	data4/boild-egg/133.jpg
 133	bowl	(49,116,44,40)	2	data4/boild-egg/133.jpg
 133	person	(38,0,109,114)	6	data4/boild-egg/133.jpg
 134	pan	(193,119,63,69)	3	data4/boild-egg/134.jpg
 134	egg	(33,226,14,17)	0	data4/boild-egg/134.jpg
 134	pan	(193,119,63,69)	3	data4/boild-egg/134.jpg
-134	pan handle	(133,88,28,38)	1	data4/boild-egg/134.jpg
+134	pan handler	(133,88,28,38)	1	data4/boild-egg/134.jpg
 134	pan	(193,119,63,69)	3	data4/boild-egg/134.jpg
 134	bowl	(49,116,44,40)	2	data4/boild-egg/134.jpg
 134	person	(45,0,105,114)	6	data4/boild-egg/134.jpg
 135	pan	(193,119,63,69)	3	data4/boild-egg/135.jpg
 135	egg	(33,226,14,17)	0	data4/boild-egg/135.jpg
 135	pan	(193,119,63,69)	3	data4/boild-egg/135.jpg
-135	pan handle	(133,88,28,38)	1	data4/boild-egg/135.jpg
+135	pan handler	(133,88,28,38)	1	data4/boild-egg/135.jpg
 135	pan	(193,119,63,69)	3	data4/boild-egg/135.jpg
 135	bowl	(49,116,44,40)	2	data4/boild-egg/135.jpg
 135	person	(49,0,106,114)	6	data4/boild-egg/135.jpg
 136	pan	(193,119,63,69)	3	data4/boild-egg/136.jpg
 136	egg	(33,226,14,17)	0	data4/boild-egg/136.jpg
 136	pan	(193,119,63,69)	3	data4/boild-egg/136.jpg
-136	pan handle	(133,88,28,38)	1	data4/boild-egg/136.jpg
+136	pan handler	(133,88,28,38)	1	data4/boild-egg/136.jpg
 136	pan	(193,119,63,69)	3	data4/boild-egg/136.jpg
 136	bowl	(49,116,44,40)	2	data4/boild-egg/136.jpg
 136	person	(56,0,103,114)	6	data4/boild-egg/136.jpg
 137	pan	(193,119,63,69)	3	data4/boild-egg/137.jpg
 137	egg	(33,226,14,17)	0	data4/boild-egg/137.jpg
 137	pan	(193,119,63,69)	3	data4/boild-egg/137.jpg
-137	pan handle	(133,88,28,38)	1	data4/boild-egg/137.jpg
+137	pan handler	(133,88,28,38)	1	data4/boild-egg/137.jpg
 137	pan	(193,119,63,69)	3	data4/boild-egg/137.jpg
 137	bowl	(49,116,44,40)	2	data4/boild-egg/137.jpg
 137	person	(61,0,106,114)	6	data4/boild-egg/137.jpg
 138	pan	(193,119,63,69)	3	data4/boild-egg/138.jpg
 138	egg	(33,226,14,17)	0	data4/boild-egg/138.jpg
 138	pan	(193,119,63,69)	3	data4/boild-egg/138.jpg
-138	pan handle	(133,88,28,38)	1	data4/boild-egg/138.jpg
+138	pan handler	(133,88,28,38)	1	data4/boild-egg/138.jpg
 138	pan	(193,119,63,69)	3	data4/boild-egg/138.jpg
 138	bowl	(49,116,44,40)	2	data4/boild-egg/138.jpg
 138	person	(67,0,99,114)	6	data4/boild-egg/138.jpg
 139	pan	(193,119,63,69)	3	data4/boild-egg/139.jpg
 139	egg	(33,226,14,17)	0	data4/boild-egg/139.jpg
 139	pan	(193,119,63,69)	3	data4/boild-egg/139.jpg
-139	pan handle	(133,88,28,38)	1	data4/boild-egg/139.jpg
+139	pan handler	(133,88,28,38)	1	data4/boild-egg/139.jpg
 139	pan	(193,119,63,69)	3	data4/boild-egg/139.jpg
 139	bowl	(49,116,44,40)	2	data4/boild-egg/139.jpg
 139	person	(74,0,99,114)	6	data4/boild-egg/139.jpg
 140	pan	(193,119,63,69)	3	data4/boild-egg/140.jpg
 140	egg	(33,226,14,17)	0	data4/boild-egg/140.jpg
 140	pan	(193,119,63,69)	3	data4/boild-egg/140.jpg
-140	pan handle	(133,88,28,38)	1	data4/boild-egg/140.jpg
+140	pan handler	(133,88,28,38)	1	data4/boild-egg/140.jpg
 140	pan	(193,119,63,69)	3	data4/boild-egg/140.jpg
 140	bowl	(49,116,44,40)	2	data4/boild-egg/140.jpg
 140	person	(74,0,103,114)	6	data4/boild-egg/140.jpg
 141	pan	(193,119,63,69)	3	data4/boild-egg/141.jpg
 141	egg	(33,226,14,17)	0	data4/boild-egg/141.jpg
 141	pan	(193,119,63,69)	3	data4/boild-egg/141.jpg
-141	pan handle	(133,88,28,38)	1	data4/boild-egg/141.jpg
+141	pan handler	(133,88,28,38)	1	data4/boild-egg/141.jpg
 141	pan	(193,119,63,69)	3	data4/boild-egg/141.jpg
 141	bowl	(49,116,44,40)	2	data4/boild-egg/141.jpg
 141	person	(77,0,102,114)	6	data4/boild-egg/141.jpg
 142	pan	(193,119,63,69)	3	data4/boild-egg/142.jpg
 142	egg	(33,226,14,17)	0	data4/boild-egg/142.jpg
 142	pan	(193,119,63,69)	3	data4/boild-egg/142.jpg
-142	pan handle	(133,88,28,38)	1	data4/boild-egg/142.jpg
+142	pan handler	(133,88,28,38)	1	data4/boild-egg/142.jpg
 142	pan	(193,119,63,69)	3	data4/boild-egg/142.jpg
 142	bowl	(49,116,44,40)	2	data4/boild-egg/142.jpg
 142	person	(84,0,99,114)	6	data4/boild-egg/142.jpg
 143	pan	(193,119,63,69)	3	data4/boild-egg/143.jpg
 143	egg	(33,226,14,17)	0	data4/boild-egg/143.jpg
 143	pan	(193,119,63,69)	3	data4/boild-egg/143.jpg
-143	pan handle	(133,88,28,38)	1	data4/boild-egg/143.jpg
+143	pan handler	(133,88,28,38)	1	data4/boild-egg/143.jpg
 143	pan	(193,119,63,69)	3	data4/boild-egg/143.jpg
 143	bowl	(49,116,44,40)	2	data4/boild-egg/143.jpg
 143	person	(91,0,96,114)	6	data4/boild-egg/143.jpg
 144	pan	(193,119,63,69)	3	data4/boild-egg/144.jpg
 144	egg	(33,226,14,17)	0	data4/boild-egg/144.jpg
 144	pan	(193,119,63,69)	3	data4/boild-egg/144.jpg
-144	pan handle	(133,88,28,38)	1	data4/boild-egg/144.jpg
+144	pan handler	(133,88,28,38)	1	data4/boild-egg/144.jpg
 144	pan	(193,119,63,69)	3	data4/boild-egg/144.jpg
 144	bowl	(49,116,44,40)	2	data4/boild-egg/144.jpg
 144	person	(95,0,96,114)	6	data4/boild-egg/144.jpg
 145	pan	(193,119,63,69)	3	data4/boild-egg/145.jpg
 145	egg	(33,226,14,17)	0	data4/boild-egg/145.jpg
 145	pan	(193,119,63,69)	3	data4/boild-egg/145.jpg
-145	pan handle	(133,88,28,38)	1	data4/boild-egg/145.jpg
+145	pan handler	(133,88,28,38)	1	data4/boild-egg/145.jpg
 145	pan	(193,119,63,69)	3	data4/boild-egg/145.jpg
 145	bowl	(49,116,44,40)	2	data4/boild-egg/145.jpg
 145	person	(99,0,98,114)	6	data4/boild-egg/145.jpg
 146	pan	(193,119,63,69)	3	data4/boild-egg/146.jpg
 146	egg	(33,226,14,17)	0	data4/boild-egg/146.jpg
 146	pan	(193,119,63,69)	3	data4/boild-egg/146.jpg
-146	pan handle	(133,88,28,38)	1	data4/boild-egg/146.jpg
+146	pan handler	(133,88,28,38)	1	data4/boild-egg/146.jpg
 146	pan	(193,119,63,69)	3	data4/boild-egg/146.jpg
 146	bowl	(49,116,44,40)	2	data4/boild-egg/146.jpg
 146	person	(103,0,98,114)	6	data4/boild-egg/146.jpg
 147	pan	(193,119,63,69)	3	data4/boild-egg/147.jpg
 147	egg	(33,226,14,17)	0	data4/boild-egg/147.jpg
 147	pan	(193,119,63,69)	3	data4/boild-egg/147.jpg
-147	pan handle	(133,88,28,38)	1	data4/boild-egg/147.jpg
+147	pan handler	(133,88,28,38)	1	data4/boild-egg/147.jpg
 147	pan	(193,119,63,69)	3	data4/boild-egg/147.jpg
 147	bowl	(49,116,44,40)	2	data4/boild-egg/147.jpg
 147	person	(105,0,103,114)	6	data4/boild-egg/147.jpg
 148	pan	(193,119,63,69)	3	data4/boild-egg/148.jpg
 148	egg	(33,226,14,17)	0	data4/boild-egg/148.jpg
 148	pan	(193,119,63,69)	3	data4/boild-egg/148.jpg
-148	pan handle	(133,88,28,38)	1	data4/boild-egg/148.jpg
+148	pan handler	(133,88,28,38)	1	data4/boild-egg/148.jpg
 148	pan	(193,119,63,69)	3	data4/boild-egg/148.jpg
 148	bowl	(49,116,44,40)	2	data4/boild-egg/148.jpg
 148	person	(106,0,98,114)	6	data4/boild-egg/148.jpg
 149	pan	(193,119,63,69)	3	data4/boild-egg/149.jpg
 149	egg	(33,226,14,17)	0	data4/boild-egg/149.jpg
 149	pan	(193,119,63,69)	3	data4/boild-egg/149.jpg
-149	pan handle	(133,88,28,38)	1	data4/boild-egg/149.jpg
+149	pan handler	(133,88,28,38)	1	data4/boild-egg/149.jpg
 149	pan	(193,119,63,69)	3	data4/boild-egg/149.jpg
 149	bowl	(49,116,44,40)	2	data4/boild-egg/149.jpg
 149	person	(107,0,109,114)	6	data4/boild-egg/149.jpg
 150	pan	(193,119,63,69)	3	data4/boild-egg/150.jpg
 150	egg	(33,226,14,17)	0	data4/boild-egg/150.jpg
 150	pan	(193,119,63,69)	3	data4/boild-egg/150.jpg
-150	pan handle	(133,88,28,38)	1	data4/boild-egg/150.jpg
+150	pan handler	(133,88,28,38)	1	data4/boild-egg/150.jpg
 150	pan	(193,119,63,69)	3	data4/boild-egg/150.jpg
 150	bowl	(49,116,44,40)	2	data4/boild-egg/150.jpg
 150	person	(108,0,105,114)	6	data4/boild-egg/150.jpg
 151	pan	(193,119,63,69)	3	data4/boild-egg/151.jpg
 151	egg	(33,226,14,17)	0	data4/boild-egg/151.jpg
 151	pan	(193,119,63,69)	3	data4/boild-egg/151.jpg
-151	pan handle	(133,88,28,38)	1	data4/boild-egg/151.jpg
+151	pan handler	(133,88,28,38)	1	data4/boild-egg/151.jpg
 151	pan	(193,119,63,69)	3	data4/boild-egg/151.jpg
 151	bowl	(49,116,44,40)	2	data4/boild-egg/151.jpg
 151	person	(107,0,114,114)	6	data4/boild-egg/151.jpg
 152	pan	(193,119,63,69)	3	data4/boild-egg/152.jpg
 152	egg	(33,226,14,17)	0	data4/boild-egg/152.jpg
 152	pan	(193,119,63,69)	3	data4/boild-egg/152.jpg
-152	pan handle	(133,88,28,38)	1	data4/boild-egg/152.jpg
+152	pan handler	(133,88,28,38)	1	data4/boild-egg/152.jpg
 152	pan	(193,119,63,69)	3	data4/boild-egg/152.jpg
 152	bowl	(49,116,44,40)	2	data4/boild-egg/152.jpg
 152	person	(109,0,113,114)	6	data4/boild-egg/152.jpg
 153	pan	(193,119,63,69)	3	data4/boild-egg/153.jpg
 153	egg	(33,226,14,17)	0	data4/boild-egg/153.jpg
 153	pan	(193,119,63,69)	3	data4/boild-egg/153.jpg
-153	pan handle	(133,88,28,38)	1	data4/boild-egg/153.jpg
+153	pan handler	(133,88,28,38)	1	data4/boild-egg/153.jpg
 153	pan	(193,119,63,69)	3	data4/boild-egg/153.jpg
 153	bowl	(49,116,44,40)	2	data4/boild-egg/153.jpg
 153	person	(108,0,115,114)	6	data4/boild-egg/153.jpg
 154	pan	(193,119,63,69)	3	data4/boild-egg/154.jpg
 154	egg	(33,226,14,17)	0	data4/boild-egg/154.jpg
 154	pan	(193,119,63,69)	3	data4/boild-egg/154.jpg
-154	pan handle	(133,88,28,38)	1	data4/boild-egg/154.jpg
+154	pan handler	(133,88,28,38)	1	data4/boild-egg/154.jpg
 154	pan	(193,119,63,69)	3	data4/boild-egg/154.jpg
 154	bowl	(49,116,44,40)	2	data4/boild-egg/154.jpg
 154	person	(106,0,120,114)	6	data4/boild-egg/154.jpg
 155	pan	(193,119,63,69)	3	data4/boild-egg/155.jpg
 155	egg	(33,226,14,17)	0	data4/boild-egg/155.jpg
 155	pan	(193,119,63,69)	3	data4/boild-egg/155.jpg
-155	pan handle	(133,88,28,38)	1	data4/boild-egg/155.jpg
+155	pan handler	(133,88,28,38)	1	data4/boild-egg/155.jpg
 155	pan	(193,119,63,69)	3	data4/boild-egg/155.jpg
 155	bowl	(49,116,44,40)	2	data4/boild-egg/155.jpg
 155	person	(103,0,127,114)	6	data4/boild-egg/155.jpg
 156	pan	(193,119,63,69)	3	data4/boild-egg/156.jpg
 156	egg	(33,226,14,17)	0	data4/boild-egg/156.jpg
 156	pan	(193,119,63,69)	3	data4/boild-egg/156.jpg
-156	pan handle	(133,88,28,38)	1	data4/boild-egg/156.jpg
+156	pan handler	(133,88,28,38)	1	data4/boild-egg/156.jpg
 156	pan	(193,119,63,69)	3	data4/boild-egg/156.jpg
 156	bowl	(49,116,44,40)	2	data4/boild-egg/156.jpg
 156	person	(96,0,139,114)	6	data4/boild-egg/156.jpg
 157	pan	(193,119,63,69)	3	data4/boild-egg/157.jpg
 157	egg	(33,226,14,17)	0	data4/boild-egg/157.jpg
 157	pan	(193,119,63,69)	3	data4/boild-egg/157.jpg
-157	pan handle	(133,88,28,38)	1	data4/boild-egg/157.jpg
+157	pan handler	(133,88,28,38)	1	data4/boild-egg/157.jpg
 157	pan	(193,119,63,69)	3	data4/boild-egg/157.jpg
 157	bowl	(49,116,44,40)	2	data4/boild-egg/157.jpg
 157	person	(96,0,139,114)	6	data4/boild-egg/157.jpg
 158	pan	(193,119,63,69)	3	data4/boild-egg/158.jpg
 158	egg	(33,226,14,17)	0	data4/boild-egg/158.jpg
 158	pan	(193,119,63,69)	3	data4/boild-egg/158.jpg
-158	pan handle	(133,88,28,38)	1	data4/boild-egg/158.jpg
+158	pan handler	(133,88,28,38)	1	data4/boild-egg/158.jpg
 158	pan	(193,119,63,69)	3	data4/boild-egg/158.jpg
 158	bowl	(49,116,44,40)	2	data4/boild-egg/158.jpg
 158	person	(88,0,148,114)	6	data4/boild-egg/158.jpg
 159	pan	(193,119,63,69)	3	data4/boild-egg/159.jpg
 159	egg	(33,226,14,17)	0	data4/boild-egg/159.jpg
 159	pan	(193,119,63,69)	3	data4/boild-egg/159.jpg
-159	pan handle	(133,88,28,38)	1	data4/boild-egg/159.jpg
+159	pan handler	(133,88,28,38)	1	data4/boild-egg/159.jpg
 159	pan	(193,119,63,69)	3	data4/boild-egg/159.jpg
 159	bowl	(49,116,44,40)	2	data4/boild-egg/159.jpg
 159	person	(79,0,158,114)	6	data4/boild-egg/159.jpg
 160	pan	(193,119,63,69)	3	data4/boild-egg/160.jpg
 160	egg	(33,226,14,17)	0	data4/boild-egg/160.jpg
 160	pan	(193,119,63,69)	3	data4/boild-egg/160.jpg
-160	pan handle	(133,88,28,38)	1	data4/boild-egg/160.jpg
+160	pan handler	(133,88,28,38)	1	data4/boild-egg/160.jpg
 160	pan	(193,119,63,69)	3	data4/boild-egg/160.jpg
 160	bowl	(49,116,44,40)	2	data4/boild-egg/160.jpg
 160	person	(81,0,157,114)	6	data4/boild-egg/160.jpg
 161	pan	(193,119,63,69)	3	data4/boild-egg/161.jpg
 161	egg	(33,226,14,17)	0	data4/boild-egg/161.jpg
 161	pan	(193,119,63,69)	3	data4/boild-egg/161.jpg
-161	pan handle	(133,88,28,38)	1	data4/boild-egg/161.jpg
+161	pan handler	(133,88,28,38)	1	data4/boild-egg/161.jpg
 161	pan	(193,119,63,69)	3	data4/boild-egg/161.jpg
 161	bowl	(49,116,44,40)	2	data4/boild-egg/161.jpg
 161	person	(72,0,166,114)	6	data4/boild-egg/161.jpg
 162	pan	(193,119,63,69)	3	data4/boild-egg/162.jpg
 162	egg	(33,226,14,17)	0	data4/boild-egg/162.jpg
 162	pan	(193,119,63,69)	3	data4/boild-egg/162.jpg
-162	pan handle	(133,88,28,38)	1	data4/boild-egg/162.jpg
+162	pan handler	(133,88,28,38)	1	data4/boild-egg/162.jpg
 162	pan	(193,119,63,69)	3	data4/boild-egg/162.jpg
 162	bowl	(49,116,44,40)	2	data4/boild-egg/162.jpg
 162	person	(74,0,164,114)	6	data4/boild-egg/162.jpg
 163	pan	(193,119,63,69)	3	data4/boild-egg/163.jpg
 163	egg	(33,226,14,17)	0	data4/boild-egg/163.jpg
 163	pan	(193,119,63,69)	3	data4/boild-egg/163.jpg
-163	pan handle	(133,88,28,38)	1	data4/boild-egg/163.jpg
+163	pan handler	(133,88,28,38)	1	data4/boild-egg/163.jpg
 163	pan	(193,119,63,69)	3	data4/boild-egg/163.jpg
 163	bowl	(49,116,44,40)	2	data4/boild-egg/163.jpg
 163	person	(68,0,169,114)	6	data4/boild-egg/163.jpg
 164	pan	(193,119,63,69)	3	data4/boild-egg/164.jpg
 164	egg	(33,226,14,17)	0	data4/boild-egg/164.jpg
 164	pan	(193,119,63,69)	3	data4/boild-egg/164.jpg
-164	pan handle	(133,88,28,38)	1	data4/boild-egg/164.jpg
+164	pan handler	(133,88,28,38)	1	data4/boild-egg/164.jpg
 164	pan	(193,119,63,69)	3	data4/boild-egg/164.jpg
 164	bowl	(49,116,44,40)	2	data4/boild-egg/164.jpg
 164	person	(65,0,171,114)	6	data4/boild-egg/164.jpg
 165	pan	(193,119,63,69)	3	data4/boild-egg/165.jpg
 165	egg	(33,226,14,17)	0	data4/boild-egg/165.jpg
 165	pan	(193,119,63,69)	3	data4/boild-egg/165.jpg
-165	pan handle	(133,88,28,38)	1	data4/boild-egg/165.jpg
+165	pan handler	(133,88,28,38)	1	data4/boild-egg/165.jpg
 165	pan	(193,119,63,69)	3	data4/boild-egg/165.jpg
 165	bowl	(49,116,44,40)	2	data4/boild-egg/165.jpg
 165	person	(69,0,164,114)	6	data4/boild-egg/165.jpg
 166	pan	(193,119,63,69)	3	data4/boild-egg/166.jpg
 166	egg	(33,226,14,17)	0	data4/boild-egg/166.jpg
 166	pan	(193,119,63,69)	3	data4/boild-egg/166.jpg
-166	pan handle	(133,88,28,38)	1	data4/boild-egg/166.jpg
+166	pan handler	(133,88,28,38)	1	data4/boild-egg/166.jpg
 166	pan	(193,119,63,69)	3	data4/boild-egg/166.jpg
 166	bowl	(49,116,44,40)	2	data4/boild-egg/166.jpg
 166	person	(66,0,165,114)	6	data4/boild-egg/166.jpg
 167	pan	(193,119,63,69)	3	data4/boild-egg/167.jpg
 167	egg	(33,226,14,17)	0	data4/boild-egg/167.jpg
 167	pan	(193,119,63,69)	3	data4/boild-egg/167.jpg
-167	pan handle	(133,88,28,38)	1	data4/boild-egg/167.jpg
+167	pan handler	(133,88,28,38)	1	data4/boild-egg/167.jpg
 167	pan	(193,119,63,69)	3	data4/boild-egg/167.jpg
 167	bowl	(49,116,44,40)	2	data4/boild-egg/167.jpg
 167	person	(64,0,164,114)	6	data4/boild-egg/167.jpg
 168	pan	(193,119,63,69)	3	data4/boild-egg/168.jpg
 168	egg	(33,226,14,17)	0	data4/boild-egg/168.jpg
 168	pan	(193,119,63,69)	3	data4/boild-egg/168.jpg
-168	pan handle	(133,88,28,38)	1	data4/boild-egg/168.jpg
+168	pan handler	(133,88,28,38)	1	data4/boild-egg/168.jpg
 168	pan	(193,119,63,69)	3	data4/boild-egg/168.jpg
 168	bowl	(49,116,44,40)	2	data4/boild-egg/168.jpg
 168	person	(64,0,161,114)	6	data4/boild-egg/168.jpg
 169	pan	(193,119,63,69)	3	data4/boild-egg/169.jpg
 169	egg	(33,226,14,17)	0	data4/boild-egg/169.jpg
 169	pan	(193,119,63,69)	3	data4/boild-egg/169.jpg
-169	pan handle	(133,88,28,38)	1	data4/boild-egg/169.jpg
+169	pan handler	(133,88,28,38)	1	data4/boild-egg/169.jpg
 169	pan	(193,119,63,69)	3	data4/boild-egg/169.jpg
 169	bowl	(49,116,44,40)	2	data4/boild-egg/169.jpg
 169	person	(57,0,166,114)	6	data4/boild-egg/169.jpg
 170	pan	(193,119,63,69)	3	data4/boild-egg/170.jpg
 170	egg	(33,226,14,17)	0	data4/boild-egg/170.jpg
 170	pan	(193,119,63,69)	3	data4/boild-egg/170.jpg
-170	pan handle	(133,88,28,38)	1	data4/boild-egg/170.jpg
+170	pan handler	(133,88,28,38)	1	data4/boild-egg/170.jpg
 170	pan	(193,119,63,69)	3	data4/boild-egg/170.jpg
 170	bowl	(49,116,44,40)	2	data4/boild-egg/170.jpg
 170	person	(55,0,165,123)	6	data4/boild-egg/170.jpg
 171	pan	(193,119,63,69)	3	data4/boild-egg/171.jpg
 171	egg	(33,226,14,17)	0	data4/boild-egg/171.jpg
 171	pan	(193,119,63,69)	3	data4/boild-egg/171.jpg
-171	pan handle	(133,88,28,38)	1	data4/boild-egg/171.jpg
+171	pan handler	(133,88,28,38)	1	data4/boild-egg/171.jpg
 171	pan	(193,119,63,69)	3	data4/boild-egg/171.jpg
 171	bowl	(49,116,44,40)	2	data4/boild-egg/171.jpg
 171	person	(46,0,171,140)	6	data4/boild-egg/171.jpg
 172	pan	(193,119,63,69)	3	data4/boild-egg/172.jpg
 172	egg	(33,226,14,17)	0	data4/boild-egg/172.jpg
 172	pan	(193,119,63,69)	3	data4/boild-egg/172.jpg
-172	pan handle	(133,88,28,38)	1	data4/boild-egg/172.jpg
+172	pan handler	(133,88,28,38)	1	data4/boild-egg/172.jpg
 172	pan	(193,119,63,69)	3	data4/boild-egg/172.jpg
 172	bowl	(49,116,44,40)	2	data4/boild-egg/172.jpg
 172	person	(45,0,169,156)	6	data4/boild-egg/172.jpg
 173	pan	(193,119,63,69)	3	data4/boild-egg/173.jpg
 173	egg	(33,226,14,17)	0	data4/boild-egg/173.jpg
 173	pan	(193,119,63,69)	3	data4/boild-egg/173.jpg
-173	pan handle	(133,88,28,38)	1	data4/boild-egg/173.jpg
+173	pan handler	(133,88,28,38)	1	data4/boild-egg/173.jpg
 173	pan	(193,119,63,69)	3	data4/boild-egg/173.jpg
 173	bowl	(49,116,44,40)	2	data4/boild-egg/173.jpg
 173	person	(41,0,171,166)	6	data4/boild-egg/173.jpg
 174	pan	(193,119,63,69)	3	data4/boild-egg/174.jpg
 174	egg	(33,226,14,17)	0	data4/boild-egg/174.jpg
 174	pan	(193,119,63,69)	3	data4/boild-egg/174.jpg
-174	pan handle	(133,88,28,38)	1	data4/boild-egg/174.jpg
+174	pan handler	(133,88,28,38)	1	data4/boild-egg/174.jpg
 174	pan	(193,119,63,69)	3	data4/boild-egg/174.jpg
 174	bowl	(49,116,44,40)	2	data4/boild-egg/174.jpg
 174	person	(38,0,170,170)	6	data4/boild-egg/174.jpg
 175	pan	(193,119,63,69)	3	data4/boild-egg/175.jpg
 175	egg	(33,226,14,17)	0	data4/boild-egg/175.jpg
 175	pan	(193,119,63,69)	3	data4/boild-egg/175.jpg
-175	pan handle	(133,88,28,38)	1	data4/boild-egg/175.jpg
+175	pan handler	(133,88,28,38)	1	data4/boild-egg/175.jpg
 175	pan	(193,119,63,69)	3	data4/boild-egg/175.jpg
 175	bowl	(49,116,44,40)	2	data4/boild-egg/175.jpg
 175	person	(34,0,171,184)	6	data4/boild-egg/175.jpg
 176	pan	(193,119,63,69)	3	data4/boild-egg/176.jpg
 176	egg	(33,226,14,17)	0	data4/boild-egg/176.jpg
 176	pan	(193,119,63,69)	3	data4/boild-egg/176.jpg
-176	pan handle	(133,88,28,38)	1	data4/boild-egg/176.jpg
+176	pan handler	(133,88,28,38)	1	data4/boild-egg/176.jpg
 176	pan	(193,119,63,69)	3	data4/boild-egg/176.jpg
 176	bowl	(49,116,44,40)	2	data4/boild-egg/176.jpg
 176	person	(33,0,169,194)	6	data4/boild-egg/176.jpg
 177	pan	(193,119,63,69)	3	data4/boild-egg/177.jpg
 177	egg	(33,226,14,17)	0	data4/boild-egg/177.jpg
 177	pan	(193,119,63,69)	3	data4/boild-egg/177.jpg
-177	pan handle	(133,88,28,38)	1	data4/boild-egg/177.jpg
+177	pan handler	(133,88,28,38)	1	data4/boild-egg/177.jpg
 177	pan	(193,119,63,69)	3	data4/boild-egg/177.jpg
 177	bowl	(49,116,44,40)	2	data4/boild-egg/177.jpg
 177	person	(31,0,168,201)	6	data4/boild-egg/177.jpg
 178	pan	(193,119,63,69)	3	data4/boild-egg/178.jpg
 178	egg	(33,226,14,17)	0	data4/boild-egg/178.jpg
 178	pan	(193,119,63,69)	3	data4/boild-egg/178.jpg
-178	pan handle	(133,88,28,38)	1	data4/boild-egg/178.jpg
+178	pan handler	(133,88,28,38)	1	data4/boild-egg/178.jpg
 178	pan	(193,119,63,69)	3	data4/boild-egg/178.jpg
 178	bowl	(49,116,44,40)	2	data4/boild-egg/178.jpg
 178	person	(27,0,170,209)	6	data4/boild-egg/178.jpg
 179	pan	(193,119,63,69)	3	data4/boild-egg/179.jpg
 179	egg	(33,226,14,17)	0	data4/boild-egg/179.jpg
 179	pan	(193,119,63,69)	3	data4/boild-egg/179.jpg
-179	pan handle	(133,88,28,38)	1	data4/boild-egg/179.jpg
+179	pan handler	(133,88,28,38)	1	data4/boild-egg/179.jpg
 179	pan	(193,119,63,69)	3	data4/boild-egg/179.jpg
 179	bowl	(49,116,44,40)	2	data4/boild-egg/179.jpg
 179	person	(25,0,170,218)	6	data4/boild-egg/179.jpg
 180	pan	(193,119,63,69)	3	data4/boild-egg/180.jpg
 180	egg	(33,226,14,17)	0	data4/boild-egg/180.jpg
 180	pan	(193,119,63,69)	3	data4/boild-egg/180.jpg
-180	pan handle	(133,88,28,38)	1	data4/boild-egg/180.jpg
+180	pan handler	(133,88,28,38)	1	data4/boild-egg/180.jpg
 180	pan	(193,119,63,69)	3	data4/boild-egg/180.jpg
 180	bowl	(49,116,44,40)	2	data4/boild-egg/180.jpg
 180	person	(25,0,168,223)	6	data4/boild-egg/180.jpg
 181	pan	(193,119,63,69)	3	data4/boild-egg/181.jpg
 181	egg	(33,226,14,17)	0	data4/boild-egg/181.jpg
 181	pan	(193,119,63,69)	3	data4/boild-egg/181.jpg
-181	pan handle	(133,88,28,38)	1	data4/boild-egg/181.jpg
+181	pan handler	(133,88,28,38)	1	data4/boild-egg/181.jpg
 181	pan	(193,119,63,69)	3	data4/boild-egg/181.jpg
 181	bowl	(49,116,44,40)	2	data4/boild-egg/181.jpg
 181	person	(23,0,168,228)	6	data4/boild-egg/181.jpg
 182	pan	(193,119,63,69)	3	data4/boild-egg/182.jpg
 182	egg	(33,226,14,17)	0	data4/boild-egg/182.jpg
 182	pan	(193,119,63,69)	3	data4/boild-egg/182.jpg
-182	pan handle	(133,88,28,38)	1	data4/boild-egg/182.jpg
+182	pan handler	(133,88,28,38)	1	data4/boild-egg/182.jpg
 182	pan	(193,119,63,69)	3	data4/boild-egg/182.jpg
 182	bowl	(49,116,44,40)	2	data4/boild-egg/182.jpg
 182	person	(22,0,168,226)	6	data4/boild-egg/182.jpg
 183	pan	(193,119,63,69)	3	data4/boild-egg/183.jpg
 183	egg	(33,226,14,17)	0	data4/boild-egg/183.jpg
 183	pan	(193,119,63,69)	3	data4/boild-egg/183.jpg
-183	pan handle	(133,88,28,38)	1	data4/boild-egg/183.jpg
+183	pan handler	(133,88,28,38)	1	data4/boild-egg/183.jpg
 183	pan	(193,119,63,69)	3	data4/boild-egg/183.jpg
 183	bowl	(49,116,44,40)	2	data4/boild-egg/183.jpg
 183	person	(21,0,167,234)	6	data4/boild-egg/183.jpg
 184	pan	(193,119,63,69)	3	data4/boild-egg/184.jpg
 184	egg	(33,226,14,17)	0	data4/boild-egg/184.jpg
 184	pan	(193,119,63,69)	3	data4/boild-egg/184.jpg
-184	pan handle	(133,88,28,38)	1	data4/boild-egg/184.jpg
+184	pan handler	(133,88,28,38)	1	data4/boild-egg/184.jpg
 184	pan	(193,119,63,69)	3	data4/boild-egg/184.jpg
 184	bowl	(49,116,44,40)	2	data4/boild-egg/184.jpg
 184	person	(20,0,167,236)	6	data4/boild-egg/184.jpg
 185	pan	(193,119,63,69)	3	data4/boild-egg/185.jpg
 185	egg	(33,226,14,17)	0	data4/boild-egg/185.jpg
 185	pan	(193,119,63,69)	3	data4/boild-egg/185.jpg
-185	pan handle	(133,88,28,38)	1	data4/boild-egg/185.jpg
+185	pan handler	(133,88,28,38)	1	data4/boild-egg/185.jpg
 185	pan	(193,119,63,69)	3	data4/boild-egg/185.jpg
 185	bowl	(49,116,44,40)	2	data4/boild-egg/185.jpg
 185	person	(18,0,168,240)	6	data4/boild-egg/185.jpg
 186	pan	(193,119,63,69)	3	data4/boild-egg/186.jpg
 186	egg	(33,226,14,17)	0	data4/boild-egg/186.jpg
 186	pan	(193,119,63,69)	3	data4/boild-egg/186.jpg
-186	pan handle	(133,88,28,38)	1	data4/boild-egg/186.jpg
+186	pan handler	(133,88,28,38)	1	data4/boild-egg/186.jpg
 186	pan	(193,119,63,69)	3	data4/boild-egg/186.jpg
 186	bowl	(49,116,44,40)	2	data4/boild-egg/186.jpg
 186	person	(20,0,165,241)	6	data4/boild-egg/186.jpg
 187	pan	(193,119,63,69)	3	data4/boild-egg/187.jpg
 187	egg	(33,226,14,17)	0	data4/boild-egg/187.jpg
 187	pan	(193,119,63,69)	3	data4/boild-egg/187.jpg
-187	pan handle	(133,88,28,38)	1	data4/boild-egg/187.jpg
+187	pan handler	(133,88,28,38)	1	data4/boild-egg/187.jpg
 187	pan	(193,119,63,69)	3	data4/boild-egg/187.jpg
 187	bowl	(49,116,44,40)	2	data4/boild-egg/187.jpg
 187	person	(18,0,167,242)	6	data4/boild-egg/187.jpg
 188	pan	(193,119,63,69)	3	data4/boild-egg/188.jpg
 188	egg	(33,226,14,17)	0	data4/boild-egg/188.jpg
 188	pan	(193,119,63,69)	3	data4/boild-egg/188.jpg
-188	pan handle	(133,88,28,38)	1	data4/boild-egg/188.jpg
+188	pan handler	(133,88,28,38)	1	data4/boild-egg/188.jpg
 188	pan	(193,119,63,69)	3	data4/boild-egg/188.jpg
 188	bowl	(49,116,44,40)	2	data4/boild-egg/188.jpg
 188	person	(17,0,167,244)	6	data4/boild-egg/188.jpg
 189	pan	(193,119,63,69)	3	data4/boild-egg/189.jpg
 189	egg	(33,226,14,17)	0	data4/boild-egg/189.jpg
 189	pan	(193,119,63,69)	3	data4/boild-egg/189.jpg
-189	pan handle	(133,88,28,38)	1	data4/boild-egg/189.jpg
+189	pan handler	(133,88,28,38)	1	data4/boild-egg/189.jpg
 189	pan	(193,119,63,69)	3	data4/boild-egg/189.jpg
 189	bowl	(49,116,44,40)	2	data4/boild-egg/189.jpg
 189	person	(17,0,167,245)	6	data4/boild-egg/189.jpg
 190	pan	(193,119,63,69)	3	data4/boild-egg/190.jpg
 190	egg	(33,226,14,17)	0	data4/boild-egg/190.jpg
 190	pan	(193,119,63,69)	3	data4/boild-egg/190.jpg
-190	pan handle	(133,88,28,38)	1	data4/boild-egg/190.jpg
+190	pan handler	(133,88,28,38)	1	data4/boild-egg/190.jpg
 190	pan	(193,119,63,69)	3	data4/boild-egg/190.jpg
 190	bowl	(49,116,44,40)	2	data4/boild-egg/190.jpg
 190	person	(17,0,167,245)	6	data4/boild-egg/190.jpg
 191	pan	(193,119,63,69)	3	data4/boild-egg/191.jpg
 191	egg	(33,226,14,17)	0	data4/boild-egg/191.jpg
 191	pan	(193,119,63,69)	3	data4/boild-egg/191.jpg
-191	pan handle	(133,88,28,38)	1	data4/boild-egg/191.jpg
+191	pan handler	(133,88,28,38)	1	data4/boild-egg/191.jpg
 191	pan	(193,119,63,69)	3	data4/boild-egg/191.jpg
 191	bowl	(49,116,44,40)	2	data4/boild-egg/191.jpg
 191	person	(14,0,170,248)	6	data4/boild-egg/191.jpg
 192	pan	(193,119,63,69)	3	data4/boild-egg/192.jpg
 192	pan	(193,119,63,69)	3	data4/boild-egg/192.jpg
-192	pan handle	(133,88,28,38)	1	data4/boild-egg/192.jpg
+192	pan handler	(133,88,28,38)	1	data4/boild-egg/192.jpg
 192	pan	(193,119,63,69)	3	data4/boild-egg/192.jpg
 192	bowl	(49,116,44,40)	2	data4/boild-egg/192.jpg
 192	person	(14,0,170,248)	6	data4/boild-egg/192.jpg
 193	pan	(193,119,63,69)	3	data4/boild-egg/193.jpg
 193	pan	(193,119,63,69)	3	data4/boild-egg/193.jpg
-193	pan handle	(133,88,28,38)	1	data4/boild-egg/193.jpg
+193	pan handler	(133,88,28,38)	1	data4/boild-egg/193.jpg
 193	pan	(193,119,63,69)	3	data4/boild-egg/193.jpg
 193	bowl	(49,116,44,40)	2	data4/boild-egg/193.jpg
 193	person	(14,0,170,248)	6	data4/boild-egg/193.jpg
 194	pan	(193,119,63,69)	3	data4/boild-egg/194.jpg
 194	pan	(193,119,63,69)	3	data4/boild-egg/194.jpg
-194	pan handle	(133,88,28,38)	1	data4/boild-egg/194.jpg
+194	pan handler	(133,88,28,38)	1	data4/boild-egg/194.jpg
 194	pan	(193,119,63,69)	3	data4/boild-egg/194.jpg
 194	bowl	(49,116,44,40)	2	data4/boild-egg/194.jpg
 194	person	(14,0,170,248)	6	data4/boild-egg/194.jpg
 195	pan	(193,119,63,69)	3	data4/boild-egg/195.jpg
 195	pan	(193,119,63,69)	3	data4/boild-egg/195.jpg
-195	pan handle	(133,88,28,38)	1	data4/boild-egg/195.jpg
+195	pan handler	(133,88,28,38)	1	data4/boild-egg/195.jpg
 195	pan	(193,119,63,69)	3	data4/boild-egg/195.jpg
 195	bowl	(49,116,44,40)	2	data4/boild-egg/195.jpg
 195	person	(14,0,170,248)	6	data4/boild-egg/195.jpg
 196	pan	(193,119,63,69)	3	data4/boild-egg/196.jpg
 196	pan	(193,119,63,69)	3	data4/boild-egg/196.jpg
-196	pan handle	(133,88,28,38)	1	data4/boild-egg/196.jpg
+196	pan handler	(133,88,28,38)	1	data4/boild-egg/196.jpg
 196	pan	(193,119,63,69)	3	data4/boild-egg/196.jpg
 196	bowl	(49,116,44,40)	2	data4/boild-egg/196.jpg
 196	person	(14,0,170,248)	6	data4/boild-egg/196.jpg
 197	pan	(193,119,63,69)	3	data4/boild-egg/197.jpg
 197	pan	(193,119,63,69)	3	data4/boild-egg/197.jpg
-197	pan handle	(133,88,28,38)	1	data4/boild-egg/197.jpg
+197	pan handler	(133,88,28,38)	1	data4/boild-egg/197.jpg
 197	pan	(193,119,63,69)	3	data4/boild-egg/197.jpg
 197	bowl	(49,116,44,40)	2	data4/boild-egg/197.jpg
 197	person	(14,0,170,248)	6	data4/boild-egg/197.jpg
 198	pan	(193,119,63,69)	3	data4/boild-egg/198.jpg
 198	pan	(193,119,63,69)	3	data4/boild-egg/198.jpg
-198	pan handle	(133,88,28,38)	1	data4/boild-egg/198.jpg
+198	pan handler	(133,88,28,38)	1	data4/boild-egg/198.jpg
 198	pan	(193,119,63,69)	3	data4/boild-egg/198.jpg
 198	bowl	(49,116,44,40)	2	data4/boild-egg/198.jpg
 198	person	(14,0,170,248)	6	data4/boild-egg/198.jpg
 199	pan	(193,119,63,69)	3	data4/boild-egg/199.jpg
 199	pan	(193,119,63,69)	3	data4/boild-egg/199.jpg
-199	pan handle	(133,88,28,38)	1	data4/boild-egg/199.jpg
+199	pan handler	(133,88,28,38)	1	data4/boild-egg/199.jpg
 199	pan	(193,119,63,69)	3	data4/boild-egg/199.jpg
 199	bowl	(49,116,44,40)	2	data4/boild-egg/199.jpg
 199	person	(14,0,170,248)	6	data4/boild-egg/199.jpg
 200	pan	(193,119,63,69)	3	data4/boild-egg/200.jpg
 200	pan	(193,119,63,69)	3	data4/boild-egg/200.jpg
-200	pan handle	(133,88,28,38)	1	data4/boild-egg/200.jpg
+200	pan handler	(133,88,28,38)	1	data4/boild-egg/200.jpg
 200	pan	(193,119,63,69)	3	data4/boild-egg/200.jpg
 200	bowl	(49,116,44,40)	2	data4/boild-egg/200.jpg
 200	person	(14,0,170,248)	6	data4/boild-egg/200.jpg
 201	pan	(193,119,63,69)	3	data4/boild-egg/201.jpg
 201	pan	(193,119,63,69)	3	data4/boild-egg/201.jpg
-201	pan handle	(133,88,28,38)	1	data4/boild-egg/201.jpg
+201	pan handler	(133,88,28,38)	1	data4/boild-egg/201.jpg
 201	pan	(193,119,63,69)	3	data4/boild-egg/201.jpg
 201	bowl	(49,116,44,40)	2	data4/boild-egg/201.jpg
 201	person	(14,0,170,248)	6	data4/boild-egg/201.jpg
 202	pan	(193,119,63,69)	3	data4/boild-egg/202.jpg
 202	pan	(193,119,63,69)	3	data4/boild-egg/202.jpg
-202	pan handle	(133,88,28,38)	1	data4/boild-egg/202.jpg
+202	pan handler	(133,88,28,38)	1	data4/boild-egg/202.jpg
 202	pan	(193,119,63,69)	3	data4/boild-egg/202.jpg
 202	bowl	(49,116,44,40)	2	data4/boild-egg/202.jpg
 202	person	(14,0,170,248)	6	data4/boild-egg/202.jpg
 203	pan	(193,119,63,69)	3	data4/boild-egg/203.jpg
 203	pan	(193,119,63,69)	3	data4/boild-egg/203.jpg
-203	pan handle	(133,88,28,38)	1	data4/boild-egg/203.jpg
+203	pan handler	(133,88,28,38)	1	data4/boild-egg/203.jpg
 203	pan	(193,119,63,69)	3	data4/boild-egg/203.jpg
 203	bowl	(49,116,44,40)	2	data4/boild-egg/203.jpg
 203	person	(14,0,170,248)	6	data4/boild-egg/203.jpg
 204	pan	(193,119,63,69)	3	data4/boild-egg/204.jpg
 204	pan	(193,119,63,69)	3	data4/boild-egg/204.jpg
-204	pan handle	(133,88,28,38)	1	data4/boild-egg/204.jpg
+204	pan handler	(133,88,28,38)	1	data4/boild-egg/204.jpg
 204	pan	(193,119,63,69)	3	data4/boild-egg/204.jpg
 204	bowl	(49,116,44,40)	2	data4/boild-egg/204.jpg
 204	person	(14,0,170,248)	6	data4/boild-egg/204.jpg
 205	pan	(193,119,63,69)	3	data4/boild-egg/205.jpg
 205	pan	(193,119,63,69)	3	data4/boild-egg/205.jpg
-205	pan handle	(133,88,28,38)	1	data4/boild-egg/205.jpg
+205	pan handler	(133,88,28,38)	1	data4/boild-egg/205.jpg
 205	pan	(193,119,63,69)	3	data4/boild-egg/205.jpg
 205	bowl	(49,116,44,40)	2	data4/boild-egg/205.jpg
 205	person	(14,0,170,248)	6	data4/boild-egg/205.jpg
 206	pan	(193,119,63,69)	3	data4/boild-egg/206.jpg
 206	pan	(193,119,63,69)	3	data4/boild-egg/206.jpg
-206	pan handle	(133,88,28,38)	1	data4/boild-egg/206.jpg
+206	pan handler	(133,88,28,38)	1	data4/boild-egg/206.jpg
 206	pan	(193,119,63,69)	3	data4/boild-egg/206.jpg
 206	bowl	(49,116,44,40)	2	data4/boild-egg/206.jpg
 206	person	(14,0,170,248)	6	data4/boild-egg/206.jpg
 207	pan	(193,119,63,69)	3	data4/boild-egg/207.jpg
 207	pan	(193,119,63,69)	3	data4/boild-egg/207.jpg
-207	pan handle	(133,88,28,38)	1	data4/boild-egg/207.jpg
+207	pan handler	(133,88,28,38)	1	data4/boild-egg/207.jpg
 207	pan	(193,119,63,69)	3	data4/boild-egg/207.jpg
 207	bowl	(49,116,44,40)	2	data4/boild-egg/207.jpg
 207	person	(14,0,170,248)	6	data4/boild-egg/207.jpg
 208	pan	(193,119,63,69)	3	data4/boild-egg/208.jpg
 208	pan	(193,119,63,69)	3	data4/boild-egg/208.jpg
-208	pan handle	(133,88,28,38)	1	data4/boild-egg/208.jpg
+208	pan handler	(133,88,28,38)	1	data4/boild-egg/208.jpg
 208	pan	(193,119,63,69)	3	data4/boild-egg/208.jpg
 208	bowl	(49,116,44,40)	2	data4/boild-egg/208.jpg
 208	person	(14,0,170,248)	6	data4/boild-egg/208.jpg
 209	pan	(193,119,63,69)	3	data4/boild-egg/209.jpg
 209	pan	(193,119,63,69)	3	data4/boild-egg/209.jpg
-209	pan handle	(133,88,28,38)	1	data4/boild-egg/209.jpg
+209	pan handler	(133,88,28,38)	1	data4/boild-egg/209.jpg
 209	pan	(193,119,63,69)	3	data4/boild-egg/209.jpg
 209	bowl	(49,116,44,40)	2	data4/boild-egg/209.jpg
 209	person	(14,0,170,248)	6	data4/boild-egg/209.jpg
 210	pan	(193,119,63,69)	3	data4/boild-egg/210.jpg
 210	pan	(193,119,63,69)	3	data4/boild-egg/210.jpg
-210	pan handle	(133,88,28,38)	1	data4/boild-egg/210.jpg
+210	pan handler	(133,88,28,38)	1	data4/boild-egg/210.jpg
 210	pan	(193,119,63,69)	3	data4/boild-egg/210.jpg
 210	bowl	(49,116,44,40)	2	data4/boild-egg/210.jpg
 210	person	(14,0,170,248)	6	data4/boild-egg/210.jpg
 211	pan	(193,119,63,69)	3	data4/boild-egg/211.jpg
 211	pan	(193,119,63,69)	3	data4/boild-egg/211.jpg
-211	pan handle	(133,88,28,38)	1	data4/boild-egg/211.jpg
+211	pan handler	(133,88,28,38)	1	data4/boild-egg/211.jpg
 211	pan	(193,119,63,69)	3	data4/boild-egg/211.jpg
 211	bowl	(49,116,44,40)	2	data4/boild-egg/211.jpg
 211	person	(14,0,170,248)	6	data4/boild-egg/211.jpg
 212	pan	(193,119,63,69)	3	data4/boild-egg/212.jpg
 212	pan	(193,119,63,69)	3	data4/boild-egg/212.jpg
-212	pan handle	(133,88,28,38)	1	data4/boild-egg/212.jpg
+212	pan handler	(133,88,28,38)	1	data4/boild-egg/212.jpg
 212	pan	(193,119,63,69)	3	data4/boild-egg/212.jpg
 212	bowl	(49,116,44,40)	2	data4/boild-egg/212.jpg
 212	person	(14,0,170,248)	6	data4/boild-egg/212.jpg
 213	pan	(193,119,63,69)	3	data4/boild-egg/213.jpg
 213	pan	(193,119,63,69)	3	data4/boild-egg/213.jpg
-213	pan handle	(133,88,28,38)	1	data4/boild-egg/213.jpg
+213	pan handler	(133,88,28,38)	1	data4/boild-egg/213.jpg
 213	pan	(193,119,63,69)	3	data4/boild-egg/213.jpg
 213	bowl	(49,116,44,40)	2	data4/boild-egg/213.jpg
 213	person	(14,0,170,248)	6	data4/boild-egg/213.jpg
 214	pan	(193,119,63,69)	3	data4/boild-egg/214.jpg
 214	pan	(193,119,63,69)	3	data4/boild-egg/214.jpg
-214	pan handle	(133,88,28,38)	1	data4/boild-egg/214.jpg
+214	pan handler	(133,88,28,38)	1	data4/boild-egg/214.jpg
 214	pan	(193,119,63,69)	3	data4/boild-egg/214.jpg
 214	bowl	(49,116,44,40)	2	data4/boild-egg/214.jpg
 214	person	(14,0,170,248)	6	data4/boild-egg/214.jpg
 215	pan	(193,119,63,69)	3	data4/boild-egg/215.jpg
 215	pan	(193,119,63,69)	3	data4/boild-egg/215.jpg
-215	pan handle	(133,88,28,38)	1	data4/boild-egg/215.jpg
+215	pan handler	(133,88,28,38)	1	data4/boild-egg/215.jpg
 215	pan	(193,119,63,69)	3	data4/boild-egg/215.jpg
 215	bowl	(49,116,44,40)	2	data4/boild-egg/215.jpg
 215	person	(14,0,170,248)	6	data4/boild-egg/215.jpg
 216	pan	(193,119,63,69)	3	data4/boild-egg/216.jpg
 216	pan	(193,119,63,69)	3	data4/boild-egg/216.jpg
-216	pan handle	(133,88,28,38)	1	data4/boild-egg/216.jpg
+216	pan handler	(133,88,28,38)	1	data4/boild-egg/216.jpg
 216	pan	(193,119,63,69)	3	data4/boild-egg/216.jpg
 216	bowl	(49,116,44,40)	2	data4/boild-egg/216.jpg
 216	person	(14,0,170,248)	6	data4/boild-egg/216.jpg
 217	pan	(193,119,63,69)	3	data4/boild-egg/217.jpg
 217	pan	(193,119,63,69)	3	data4/boild-egg/217.jpg
-217	pan handle	(133,88,28,38)	1	data4/boild-egg/217.jpg
+217	pan handler	(133,88,28,38)	1	data4/boild-egg/217.jpg
 217	pan	(193,119,63,69)	3	data4/boild-egg/217.jpg
 217	bowl	(49,116,44,40)	2	data4/boild-egg/217.jpg
 217	person	(14,0,170,248)	6	data4/boild-egg/217.jpg
 218	pan	(193,119,63,69)	3	data4/boild-egg/218.jpg
 218	egg	(34,222,17,17)	0	data4/boild-egg/218.jpg
 218	pan	(193,119,63,69)	3	data4/boild-egg/218.jpg
-218	pan handle	(133,88,28,38)	1	data4/boild-egg/218.jpg
+218	pan handler	(133,88,28,38)	1	data4/boild-egg/218.jpg
 218	pan	(193,119,63,69)	3	data4/boild-egg/218.jpg
 218	bowl	(49,116,44,40)	2	data4/boild-egg/218.jpg
 218	person	(14,0,170,248)	6	data4/boild-egg/218.jpg
 219	pan	(193,119,63,69)	3	data4/boild-egg/219.jpg
 219	egg	(33,215,22,22)	0	data4/boild-egg/219.jpg
 219	pan	(193,119,63,69)	3	data4/boild-egg/219.jpg
-219	pan handle	(133,88,28,38)	1	data4/boild-egg/219.jpg
+219	pan handler	(133,88,28,38)	1	data4/boild-egg/219.jpg
 219	pan	(193,119,63,69)	3	data4/boild-egg/219.jpg
 219	bowl	(49,116,44,40)	2	data4/boild-egg/219.jpg
 219	person	(10,0,179,239)	6	data4/boild-egg/219.jpg
 220	pan	(193,119,63,69)	3	data4/boild-egg/220.jpg
 220	egg	(38,215,18,19)	0	data4/boild-egg/220.jpg
 220	pan	(193,119,63,69)	3	data4/boild-egg/220.jpg
-220	pan handle	(133,88,28,38)	1	data4/boild-egg/220.jpg
+220	pan handler	(133,88,28,38)	1	data4/boild-egg/220.jpg
 220	pan	(193,119,63,69)	3	data4/boild-egg/220.jpg
 220	bowl	(49,116,44,40)	2	data4/boild-egg/220.jpg
 220	person	(11,0,183,231)	6	data4/boild-egg/220.jpg
 221	pan	(193,119,63,69)	3	data4/boild-egg/221.jpg
 221	egg	(40,207,18,22)	0	data4/boild-egg/221.jpg
 221	pan	(193,119,63,69)	3	data4/boild-egg/221.jpg
-221	pan handle	(133,88,28,38)	1	data4/boild-egg/221.jpg
+221	pan handler	(133,88,28,38)	1	data4/boild-egg/221.jpg
 221	pan	(193,119,63,69)	3	data4/boild-egg/221.jpg
 221	bowl	(49,116,44,40)	2	data4/boild-egg/221.jpg
 221	person	(11,0,187,227)	6	data4/boild-egg/221.jpg
 222	pan	(193,119,63,69)	3	data4/boild-egg/222.jpg
 222	egg	(43,200,18,22)	0	data4/boild-egg/222.jpg
 222	pan	(193,119,63,69)	3	data4/boild-egg/222.jpg
-222	pan handle	(133,88,28,38)	1	data4/boild-egg/222.jpg
+222	pan handler	(133,88,28,38)	1	data4/boild-egg/222.jpg
 222	pan	(193,119,63,69)	3	data4/boild-egg/222.jpg
 222	bowl	(49,116,44,40)	2	data4/boild-egg/222.jpg
 222	person	(12,0,189,226)	6	data4/boild-egg/222.jpg
 223	pan	(193,119,63,69)	3	data4/boild-egg/223.jpg
 223	egg	(50,189,19,25)	0	data4/boild-egg/223.jpg
 223	pan	(193,119,63,69)	3	data4/boild-egg/223.jpg
-223	pan handle	(133,88,28,38)	1	data4/boild-egg/223.jpg
+223	pan handler	(133,88,28,38)	1	data4/boild-egg/223.jpg
 223	pan	(193,119,63,69)	3	data4/boild-egg/223.jpg
 223	bowl	(49,116,44,40)	2	data4/boild-egg/223.jpg
 223	person	(12,0,193,210)	6	data4/boild-egg/223.jpg
 224	pan	(193,119,63,69)	3	data4/boild-egg/224.jpg
 224	egg	(55,181,17,20)	0	data4/boild-egg/224.jpg
 224	pan	(193,119,63,69)	3	data4/boild-egg/224.jpg
-224	pan handle	(133,88,28,38)	1	data4/boild-egg/224.jpg
+224	pan handler	(133,88,28,38)	1	data4/boild-egg/224.jpg
 224	pan	(193,119,63,69)	3	data4/boild-egg/224.jpg
 224	bowl	(49,116,44,40)	2	data4/boild-egg/224.jpg
 224	person	(13,0,194,202)	6	data4/boild-egg/224.jpg
 225	pan	(193,119,63,69)	3	data4/boild-egg/225.jpg
 225	egg	(64,168,18,22)	0	data4/boild-egg/225.jpg
 225	pan	(193,119,63,69)	3	data4/boild-egg/225.jpg
-225	pan handle	(133,88,28,38)	1	data4/boild-egg/225.jpg
+225	pan handler	(133,88,28,38)	1	data4/boild-egg/225.jpg
 225	pan	(193,119,63,69)	3	data4/boild-egg/225.jpg
 225	bowl	(49,116,44,40)	2	data4/boild-egg/225.jpg
 225	person	(14,0,191,188)	6	data4/boild-egg/225.jpg
 226	pan	(193,119,63,69)	3	data4/boild-egg/226.jpg
 226	egg	(67,154,23,24)	0	data4/boild-egg/226.jpg
 226	pan	(193,119,63,69)	3	data4/boild-egg/226.jpg
-226	pan handle	(133,88,28,38)	1	data4/boild-egg/226.jpg
+226	pan handler	(133,88,28,38)	1	data4/boild-egg/226.jpg
 226	pan	(193,119,63,69)	3	data4/boild-egg/226.jpg
 226	bowl	(49,116,44,40)	2	data4/boild-egg/226.jpg
 226	person	(15,0,190,173)	6	data4/boild-egg/226.jpg
 227	pan	(193,119,63,69)	3	data4/boild-egg/227.jpg
 227	egg	(81,138,15,24)	0	data4/boild-egg/227.jpg
 227	pan	(193,119,63,69)	3	data4/boild-egg/227.jpg
-227	pan handle	(133,88,28,38)	1	data4/boild-egg/227.jpg
+227	pan handler	(133,88,28,38)	1	data4/boild-egg/227.jpg
 227	pan	(193,119,63,69)	3	data4/boild-egg/227.jpg
 227	bowl	(49,116,44,40)	2	data4/boild-egg/227.jpg
 227	person	(16,0,190,167)	6	data4/boild-egg/227.jpg
 228	pan	(193,119,63,69)	3	data4/boild-egg/228.jpg
 228	egg	(85,127,19,24)	0	data4/boild-egg/228.jpg
 228	pan	(193,119,63,69)	3	data4/boild-egg/228.jpg
-228	pan handle	(133,88,28,38)	1	data4/boild-egg/228.jpg
+228	pan handler	(133,88,28,38)	1	data4/boild-egg/228.jpg
 228	pan	(193,119,63,69)	3	data4/boild-egg/228.jpg
 228	bowl	(49,116,44,40)	2	data4/boild-egg/228.jpg
 228	person	(18,0,185,154)	6	data4/boild-egg/228.jpg
 229	pan	(193,119,63,69)	3	data4/boild-egg/229.jpg
 229	egg	(95,111,17,23)	0	data4/boild-egg/229.jpg
 229	pan	(193,119,63,69)	3	data4/boild-egg/229.jpg
-229	pan handle	(133,88,28,38)	1	data4/boild-egg/229.jpg
+229	pan handler	(133,88,28,38)	1	data4/boild-egg/229.jpg
 229	pan	(193,119,63,69)	3	data4/boild-egg/229.jpg
 229	bowl	(49,116,44,40)	2	data4/boild-egg/229.jpg
 229	person	(20,0,174,145)	6	data4/boild-egg/229.jpg
 230	pan	(193,119,63,69)	3	data4/boild-egg/230.jpg
 230	egg	(101,97,19,25)	0	data4/boild-egg/230.jpg
 230	pan	(193,119,63,69)	3	data4/boild-egg/230.jpg
-230	pan handle	(133,88,28,38)	1	data4/boild-egg/230.jpg
+230	pan handler	(133,88,28,38)	1	data4/boild-egg/230.jpg
 230	pan	(193,119,63,69)	3	data4/boild-egg/230.jpg
 230	bowl	(49,116,44,40)	2	data4/boild-egg/230.jpg
 230	person	(22,0,176,131)	6	data4/boild-egg/230.jpg
 231	pan	(193,119,63,69)	3	data4/boild-egg/231.jpg
 231	egg	(111,90,17,20)	0	data4/boild-egg/231.jpg
 231	pan	(193,119,63,69)	3	data4/boild-egg/231.jpg
-231	pan handle	(133,88,28,38)	1	data4/boild-egg/231.jpg
+231	pan handler	(133,88,28,38)	1	data4/boild-egg/231.jpg
 231	pan	(193,119,63,69)	3	data4/boild-egg/231.jpg
 231	bowl	(49,116,44,40)	2	data4/boild-egg/231.jpg
 231	person	(24,0,176,121)	6	data4/boild-egg/231.jpg
 232	pan	(193,119,63,69)	3	data4/boild-egg/232.jpg
 232	egg	(118,81,17,20)	0	data4/boild-egg/232.jpg
 232	pan	(193,119,63,69)	3	data4/boild-egg/232.jpg
-232	pan handle	(133,88,28,38)	1	data4/boild-egg/232.jpg
+232	pan handler	(133,88,28,38)	1	data4/boild-egg/232.jpg
 232	pan	(193,119,63,69)	3	data4/boild-egg/232.jpg
 232	bowl	(49,116,44,40)	2	data4/boild-egg/232.jpg
 232	person	(26,0,173,114)	6	data4/boild-egg/232.jpg
 233	pan	(193,119,63,69)	3	data4/boild-egg/233.jpg
 233	egg	(124,74,18,20)	0	data4/boild-egg/233.jpg
 233	pan	(193,119,63,69)	3	data4/boild-egg/233.jpg
-233	pan handle	(133,88,28,38)	1	data4/boild-egg/233.jpg
+233	pan handler	(133,88,28,38)	1	data4/boild-egg/233.jpg
 233	pan	(193,119,63,69)	3	data4/boild-egg/233.jpg
 233	bowl	(49,116,44,40)	2	data4/boild-egg/233.jpg
 233	person	(29,0,171,114)	6	data4/boild-egg/233.jpg
 234	pan	(193,119,63,69)	3	data4/boild-egg/234.jpg
 234	egg	(130,71,17,20)	0	data4/boild-egg/234.jpg
 234	pan	(193,119,63,69)	3	data4/boild-egg/234.jpg
-234	pan handle	(133,88,28,38)	1	data4/boild-egg/234.jpg
+234	pan handler	(133,88,28,38)	1	data4/boild-egg/234.jpg
 234	pan	(193,119,63,69)	3	data4/boild-egg/234.jpg
 234	bowl	(49,116,44,40)	2	data4/boild-egg/234.jpg
 234	person	(31,0,167,114)	6	data4/boild-egg/234.jpg
 235	pan	(193,119,63,69)	3	data4/boild-egg/235.jpg
 235	egg	(131,70,17,20)	0	data4/boild-egg/235.jpg
 235	pan	(193,119,63,69)	3	data4/boild-egg/235.jpg
-235	pan handle	(133,88,28,38)	1	data4/boild-egg/235.jpg
+235	pan handler	(133,88,28,38)	1	data4/boild-egg/235.jpg
 235	pan	(193,119,63,69)	3	data4/boild-egg/235.jpg
 235	bowl	(49,116,44,40)	2	data4/boild-egg/235.jpg
 235	person	(34,0,164,114)	6	data4/boild-egg/235.jpg
 236	pan	(193,119,63,69)	3	data4/boild-egg/236.jpg
 236	egg	(134,67,17,21)	0	data4/boild-egg/236.jpg
 236	pan	(193,119,63,69)	3	data4/boild-egg/236.jpg
-236	pan handle	(133,88,28,38)	1	data4/boild-egg/236.jpg
+236	pan handler	(133,88,28,38)	1	data4/boild-egg/236.jpg
 236	pan	(193,119,63,69)	3	data4/boild-egg/236.jpg
 236	bowl	(49,116,44,40)	2	data4/boild-egg/236.jpg
 236	person	(36,0,163,114)	6	data4/boild-egg/236.jpg
 237	pan	(193,119,63,69)	3	data4/boild-egg/237.jpg
 237	egg	(139,69,16,21)	0	data4/boild-egg/237.jpg
 237	pan	(193,119,63,69)	3	data4/boild-egg/237.jpg
-237	pan handle	(133,88,28,38)	1	data4/boild-egg/237.jpg
+237	pan handler	(133,88,28,38)	1	data4/boild-egg/237.jpg
 237	pan	(193,119,63,69)	3	data4/boild-egg/237.jpg
 237	bowl	(49,116,44,40)	2	data4/boild-egg/237.jpg
 237	person	(39,0,161,114)	6	data4/boild-egg/237.jpg
 238	pan	(193,119,63,69)	3	data4/boild-egg/238.jpg
 238	egg	(138,70,21,20)	0	data4/boild-egg/238.jpg
 238	pan	(193,119,63,69)	3	data4/boild-egg/238.jpg
-238	pan handle	(133,88,28,38)	1	data4/boild-egg/238.jpg
+238	pan handler	(133,88,28,38)	1	data4/boild-egg/238.jpg
 238	pan	(193,119,63,69)	3	data4/boild-egg/238.jpg
 238	person	(42,0,159,114)	6	data4/boild-egg/238.jpg
 239	pan	(193,119,63,69)	3	data4/boild-egg/239.jpg
 239	egg	(138,70,23,23)	0	data4/boild-egg/239.jpg
 239	pan	(193,119,63,69)	3	data4/boild-egg/239.jpg
-239	pan handle	(133,88,28,38)	1	data4/boild-egg/239.jpg
+239	pan handler	(133,88,28,38)	1	data4/boild-egg/239.jpg
 239	pan	(193,119,63,69)	3	data4/boild-egg/239.jpg
 239	person	(44,0,158,114)	6	data4/boild-egg/239.jpg
 240	pan	(193,119,63,69)	3	data4/boild-egg/240.jpg
 240	egg	(142,73,18,22)	0	data4/boild-egg/240.jpg
 240	pan	(193,119,63,69)	3	data4/boild-egg/240.jpg
-240	pan handle	(133,88,28,38)	1	data4/boild-egg/240.jpg
+240	pan handler	(133,88,28,38)	1	data4/boild-egg/240.jpg
 240	pan	(193,119,63,69)	3	data4/boild-egg/240.jpg
 240	person	(47,0,157,114)	6	data4/boild-egg/240.jpg
 241	pan	(193,119,63,69)	3	data4/boild-egg/241.jpg
 241	egg	(141,72,22,20)	0	data4/boild-egg/241.jpg
 241	pan	(193,119,63,69)	3	data4/boild-egg/241.jpg
-241	pan handle	(133,88,28,38)	1	data4/boild-egg/241.jpg
+241	pan handler	(133,88,28,38)	1	data4/boild-egg/241.jpg
 241	pan	(193,119,63,69)	3	data4/boild-egg/241.jpg
 241	person	(48,0,158,114)	6	data4/boild-egg/241.jpg
 242	pan	(193,119,63,69)	3	data4/boild-egg/242.jpg
 242	egg	(144,74,21,20)	0	data4/boild-egg/242.jpg
 242	pan	(193,119,63,69)	3	data4/boild-egg/242.jpg
-242	pan handle	(133,88,28,38)	1	data4/boild-egg/242.jpg
+242	pan handler	(133,88,28,38)	1	data4/boild-egg/242.jpg
 242	pan	(193,119,63,69)	3	data4/boild-egg/242.jpg
 242	person	(51,0,157,114)	6	data4/boild-egg/242.jpg
 243	pan	(193,119,63,69)	3	data4/boild-egg/243.jpg
 243	egg	(145,75,24,19)	0	data4/boild-egg/243.jpg
 243	pan	(193,119,63,69)	3	data4/boild-egg/243.jpg
-243	pan handle	(133,88,28,38)	1	data4/boild-egg/243.jpg
+243	pan handler	(133,88,28,38)	1	data4/boild-egg/243.jpg
 243	pan	(193,119,63,69)	3	data4/boild-egg/243.jpg
 243	person	(53,0,159,114)	6	data4/boild-egg/243.jpg
 244	pan	(193,119,63,69)	3	data4/boild-egg/244.jpg
 244	egg	(147,75,26,21)	0	data4/boild-egg/244.jpg
 244	pan	(193,119,63,69)	3	data4/boild-egg/244.jpg
-244	pan handle	(133,88,28,38)	1	data4/boild-egg/244.jpg
+244	pan handler	(133,88,28,38)	1	data4/boild-egg/244.jpg
 244	pan	(193,119,63,69)	3	data4/boild-egg/244.jpg
 244	person	(55,0,160,114)	6	data4/boild-egg/244.jpg
 245	pan	(193,119,63,69)	3	data4/boild-egg/245.jpg
 245	egg	(151,75,24,22)	0	data4/boild-egg/245.jpg
 245	pan	(193,119,63,69)	3	data4/boild-egg/245.jpg
-245	pan handle	(133,88,28,38)	1	data4/boild-egg/245.jpg
+245	pan handler	(133,88,28,38)	1	data4/boild-egg/245.jpg
 245	pan	(193,119,63,69)	3	data4/boild-egg/245.jpg
 245	person	(60,0,158,114)	6	data4/boild-egg/245.jpg
 246	pan	(193,119,63,69)	3	data4/boild-egg/246.jpg
 246	egg	(157,77,24,22)	0	data4/boild-egg/246.jpg
 246	pan	(193,119,63,69)	3	data4/boild-egg/246.jpg
-246	pan handle	(133,88,28,38)	1	data4/boild-egg/246.jpg
+246	pan handler	(133,88,28,38)	1	data4/boild-egg/246.jpg
 246	pan	(193,119,63,69)	3	data4/boild-egg/246.jpg
 246	person	(64,0,158,114)	6	data4/boild-egg/246.jpg
 247	pan	(193,119,63,69)	3	data4/boild-egg/247.jpg
 247	egg	(165,80,24,22)	0	data4/boild-egg/247.jpg
 247	pan	(193,119,63,69)	3	data4/boild-egg/247.jpg
-247	pan handle	(133,88,28,38)	1	data4/boild-egg/247.jpg
+247	pan handler	(133,88,28,38)	1	data4/boild-egg/247.jpg
 247	pan	(193,119,63,69)	3	data4/boild-egg/247.jpg
 247	person	(67,0,159,114)	6	data4/boild-egg/247.jpg
 248	pan	(193,119,63,69)	3	data4/boild-egg/248.jpg
 248	egg	(175,84,26,23)	0	data4/boild-egg/248.jpg
 248	pan	(193,119,63,69)	3	data4/boild-egg/248.jpg
-248	pan handle	(133,88,28,38)	1	data4/boild-egg/248.jpg
+248	pan handler	(133,88,28,38)	1	data4/boild-egg/248.jpg
 248	pan	(193,119,63,69)	3	data4/boild-egg/248.jpg
 248	person	(70,0,161,114)	6	data4/boild-egg/248.jpg
 249	pan	(193,119,63,69)	3	data4/boild-egg/249.jpg
 249	egg	(188,91,19,21)	0	data4/boild-egg/249.jpg
 249	pan	(193,119,63,69)	3	data4/boild-egg/249.jpg
-249	pan handle	(133,88,28,38)	1	data4/boild-egg/249.jpg
+249	pan handler	(133,88,28,38)	1	data4/boild-egg/249.jpg
 249	pan	(193,119,63,69)	3	data4/boild-egg/249.jpg
 249	person	(73,0,162,114)	6	data4/boild-egg/249.jpg
 250	pan	(193,119,63,69)	3	data4/boild-egg/250.jpg
 250	egg	(198,99,18,21)	0	data4/boild-egg/250.jpg
 250	pan	(193,119,63,69)	3	data4/boild-egg/250.jpg
-250	pan handle	(133,88,28,38)	1	data4/boild-egg/250.jpg
+250	pan handler	(133,88,28,38)	1	data4/boild-egg/250.jpg
 250	pan	(193,119,63,69)	3	data4/boild-egg/250.jpg
 250	person	(76,0,170,120)	6	data4/boild-egg/250.jpg
 251	pan	(193,119,63,69)	3	data4/boild-egg/251.jpg
 251	egg	(207,108,17,20)	0	data4/boild-egg/251.jpg
 251	pan	(193,119,63,69)	3	data4/boild-egg/251.jpg
-251	pan handle	(133,88,28,38)	1	data4/boild-egg/251.jpg
+251	pan handler	(133,88,28,38)	1	data4/boild-egg/251.jpg
 251	pan	(193,119,63,69)	3	data4/boild-egg/251.jpg
 251	person	(79,0,172,131)	6	data4/boild-egg/251.jpg
 252	pan	(193,119,63,69)	3	data4/boild-egg/252.jpg
 252	egg	(212,115,17,21)	0	data4/boild-egg/252.jpg
 252	pan	(193,119,63,69)	3	data4/boild-egg/252.jpg
-252	pan handle	(133,88,28,38)	1	data4/boild-egg/252.jpg
+252	pan handler	(133,88,28,38)	1	data4/boild-egg/252.jpg
 252	pan	(193,119,63,69)	3	data4/boild-egg/252.jpg
 252	person	(83,0,173,138)	6	data4/boild-egg/252.jpg
 253	pan	(193,119,63,69)	3	data4/boild-egg/253.jpg
 253	egg	(215,121,17,21)	0	data4/boild-egg/253.jpg
 253	pan	(193,119,63,69)	3	data4/boild-egg/253.jpg
-253	pan handle	(133,88,28,38)	1	data4/boild-egg/253.jpg
+253	pan handler	(133,88,28,38)	1	data4/boild-egg/253.jpg
 253	pan	(193,119,63,69)	3	data4/boild-egg/253.jpg
 253	person	(85,0,172,146)	6	data4/boild-egg/253.jpg
 254	pan	(193,119,63,69)	3	data4/boild-egg/254.jpg
 254	egg	(216,129,17,20)	0	data4/boild-egg/254.jpg
 254	pan	(193,119,63,69)	3	data4/boild-egg/254.jpg
-254	pan handle	(133,88,28,38)	1	data4/boild-egg/254.jpg
+254	pan handler	(133,88,28,38)	1	data4/boild-egg/254.jpg
 254	pan	(193,119,63,69)	3	data4/boild-egg/254.jpg
 254	person	(88,0,169,157)	6	data4/boild-egg/254.jpg
 255	pan	(193,119,63,69)	3	data4/boild-egg/255.jpg
 255	egg	(216,134,21,23)	0	data4/boild-egg/255.jpg
 255	pan	(193,119,63,69)	3	data4/boild-egg/255.jpg
-255	pan handle	(133,88,28,38)	1	data4/boild-egg/255.jpg
+255	pan handler	(133,88,28,38)	1	data4/boild-egg/255.jpg
 255	pan	(193,119,63,69)	3	data4/boild-egg/255.jpg
 255	person	(92,0,165,159)	6	data4/boild-egg/255.jpg
 256	pan	(193,119,63,69)	3	data4/boild-egg/256.jpg
 256	egg	(216,138,22,22)	0	data4/boild-egg/256.jpg
 256	pan	(193,119,63,69)	3	data4/boild-egg/256.jpg
-256	pan handle	(133,88,28,38)	1	data4/boild-egg/256.jpg
+256	pan handler	(133,88,28,38)	1	data4/boild-egg/256.jpg
 256	pan	(193,119,63,69)	3	data4/boild-egg/256.jpg
 256	person	(95,0,162,161)	6	data4/boild-egg/256.jpg
 257	pan	(193,119,63,69)	3	data4/boild-egg/257.jpg
 257	egg	(214,142,22,20)	0	data4/boild-egg/257.jpg
 257	pan	(193,119,63,69)	3	data4/boild-egg/257.jpg
-257	pan handle	(133,88,28,38)	1	data4/boild-egg/257.jpg
+257	pan handler	(133,88,28,38)	1	data4/boild-egg/257.jpg
 257	pan	(193,119,63,69)	3	data4/boild-egg/257.jpg
 257	person	(100,0,157,166)	6	data4/boild-egg/257.jpg
 258	pan	(193,119,63,69)	3	data4/boild-egg/258.jpg
 258	egg	(213,142,23,22)	0	data4/boild-egg/258.jpg
 258	pan	(193,119,63,69)	3	data4/boild-egg/258.jpg
-258	pan handle	(133,88,28,38)	1	data4/boild-egg/258.jpg
+258	pan handler	(133,88,28,38)	1	data4/boild-egg/258.jpg
 258	pan	(193,119,63,69)	3	data4/boild-egg/258.jpg
 258	person	(98,0,159,166)	6	data4/boild-egg/258.jpg
 259	pan	(193,119,63,69)	3	data4/boild-egg/259.jpg
 259	egg	(214,143,23,24)	0	data4/boild-egg/259.jpg
 259	pan	(193,119,63,69)	3	data4/boild-egg/259.jpg
-259	pan handle	(133,88,28,38)	1	data4/boild-egg/259.jpg
+259	pan handler	(133,88,28,38)	1	data4/boild-egg/259.jpg
 259	pan	(193,119,63,69)	3	data4/boild-egg/259.jpg
 259	bowl	(49,116,44,40)	2	data4/boild-egg/259.jpg
 259	person	(97,0,160,167)	6	data4/boild-egg/259.jpg
 260	pan	(193,119,63,69)	3	data4/boild-egg/260.jpg
 260	egg	(214,143,22,23)	0	data4/boild-egg/260.jpg
 260	pan	(193,119,63,69)	3	data4/boild-egg/260.jpg
-260	pan handle	(133,88,28,38)	1	data4/boild-egg/260.jpg
+260	pan handler	(133,88,28,38)	1	data4/boild-egg/260.jpg
 260	pan	(193,119,63,69)	3	data4/boild-egg/260.jpg
 260	bowl	(49,116,44,40)	2	data4/boild-egg/260.jpg
 260	person	(97,0,160,167)	6	data4/boild-egg/260.jpg
 261	pan	(193,119,63,69)	3	data4/boild-egg/261.jpg
 261	egg	(215,144,23,23)	0	data4/boild-egg/261.jpg
 261	pan	(193,119,63,69)	3	data4/boild-egg/261.jpg
-261	pan handle	(133,88,28,38)	1	data4/boild-egg/261.jpg
+261	pan handler	(133,88,28,38)	1	data4/boild-egg/261.jpg
 261	pan	(193,119,63,69)	3	data4/boild-egg/261.jpg
 261	bowl	(49,116,44,40)	2	data4/boild-egg/261.jpg
 261	person	(97,0,160,167)	6	data4/boild-egg/261.jpg
 262	pan	(193,119,63,69)	3	data4/boild-egg/262.jpg
 262	egg	(215,144,23,23)	0	data4/boild-egg/262.jpg
 262	pan	(193,119,63,69)	3	data4/boild-egg/262.jpg
-262	pan handle	(133,88,28,38)	1	data4/boild-egg/262.jpg
+262	pan handler	(133,88,28,38)	1	data4/boild-egg/262.jpg
 262	pan	(193,119,63,69)	3	data4/boild-egg/262.jpg
 262	bowl	(49,116,44,40)	2	data4/boild-egg/262.jpg
 262	person	(97,0,160,167)	6	data4/boild-egg/262.jpg
 263	pan	(193,119,63,69)	3	data4/boild-egg/263.jpg
 263	egg	(215,144,23,23)	0	data4/boild-egg/263.jpg
 263	pan	(193,119,63,69)	3	data4/boild-egg/263.jpg
-263	pan handle	(133,88,28,38)	1	data4/boild-egg/263.jpg
+263	pan handler	(133,88,28,38)	1	data4/boild-egg/263.jpg
 263	pan	(193,119,63,69)	3	data4/boild-egg/263.jpg
 263	bowl	(49,116,44,40)	2	data4/boild-egg/263.jpg
 263	person	(97,0,160,167)	6	data4/boild-egg/263.jpg
 264	pan	(193,119,63,69)	3	data4/boild-egg/264.jpg
 264	egg	(215,144,23,23)	0	data4/boild-egg/264.jpg
 264	pan	(193,119,63,69)	3	data4/boild-egg/264.jpg
-264	pan handle	(133,88,28,38)	1	data4/boild-egg/264.jpg
+264	pan handler	(133,88,28,38)	1	data4/boild-egg/264.jpg
 264	pan	(193,119,63,69)	3	data4/boild-egg/264.jpg
 264	bowl	(49,116,44,40)	2	data4/boild-egg/264.jpg
 264	person	(97,0,160,167)	6	data4/boild-egg/264.jpg
 265	pan	(193,119,63,69)	3	data4/boild-egg/265.jpg
 265	egg	(215,144,23,23)	0	data4/boild-egg/265.jpg
 265	pan	(193,119,63,69)	3	data4/boild-egg/265.jpg
-265	pan handle	(133,88,28,38)	1	data4/boild-egg/265.jpg
+265	pan handler	(133,88,28,38)	1	data4/boild-egg/265.jpg
 265	pan	(193,119,63,69)	3	data4/boild-egg/265.jpg
 265	bowl	(49,116,44,40)	2	data4/boild-egg/265.jpg
 265	person	(97,0,160,167)	6	data4/boild-egg/265.jpg
 266	pan	(193,119,63,69)	3	data4/boild-egg/266.jpg
 266	egg	(215,144,23,23)	0	data4/boild-egg/266.jpg
 266	pan	(193,119,63,69)	3	data4/boild-egg/266.jpg
-266	pan handle	(133,88,28,38)	1	data4/boild-egg/266.jpg
+266	pan handler	(133,88,28,38)	1	data4/boild-egg/266.jpg
 266	pan	(193,119,63,69)	3	data4/boild-egg/266.jpg
 266	bowl	(49,116,44,40)	2	data4/boild-egg/266.jpg
 266	person	(97,0,160,167)	6	data4/boild-egg/266.jpg
 267	pan	(193,119,63,69)	3	data4/boild-egg/267.jpg
 267	egg	(215,144,23,23)	0	data4/boild-egg/267.jpg
 267	pan	(193,119,63,69)	3	data4/boild-egg/267.jpg
-267	pan handle	(133,88,28,38)	1	data4/boild-egg/267.jpg
+267	pan handler	(133,88,28,38)	1	data4/boild-egg/267.jpg
 267	pan	(193,119,63,69)	3	data4/boild-egg/267.jpg
 267	bowl	(49,116,44,40)	2	data4/boild-egg/267.jpg
 267	person	(97,0,160,167)	6	data4/boild-egg/267.jpg
 268	pan	(193,119,63,69)	3	data4/boild-egg/268.jpg
 268	egg	(215,144,23,23)	0	data4/boild-egg/268.jpg
 268	pan	(193,119,63,69)	3	data4/boild-egg/268.jpg
-268	pan handle	(133,88,28,38)	1	data4/boild-egg/268.jpg
+268	pan handler	(133,88,28,38)	1	data4/boild-egg/268.jpg
 268	pan	(193,119,63,69)	3	data4/boild-egg/268.jpg
 268	bowl	(49,116,44,40)	2	data4/boild-egg/268.jpg
 268	person	(97,0,160,167)	6	data4/boild-egg/268.jpg
 269	pan	(193,119,63,69)	3	data4/boild-egg/269.jpg
 269	egg	(215,144,23,23)	0	data4/boild-egg/269.jpg
 269	pan	(193,119,63,69)	3	data4/boild-egg/269.jpg
-269	pan handle	(133,88,28,38)	1	data4/boild-egg/269.jpg
+269	pan handler	(133,88,28,38)	1	data4/boild-egg/269.jpg
 269	pan	(193,119,63,69)	3	data4/boild-egg/269.jpg
 269	bowl	(49,116,44,40)	2	data4/boild-egg/269.jpg
 269	person	(97,0,160,167)	6	data4/boild-egg/269.jpg
 270	pan	(193,119,63,69)	3	data4/boild-egg/270.jpg
 270	egg	(215,144,23,23)	0	data4/boild-egg/270.jpg
 270	pan	(193,119,63,69)	3	data4/boild-egg/270.jpg
-270	pan handle	(133,88,28,38)	1	data4/boild-egg/270.jpg
+270	pan handler	(133,88,28,38)	1	data4/boild-egg/270.jpg
 270	pan	(193,119,63,69)	3	data4/boild-egg/270.jpg
 270	bowl	(49,116,44,40)	2	data4/boild-egg/270.jpg
 270	person	(97,0,160,167)	6	data4/boild-egg/270.jpg
 271	pan	(193,119,63,69)	3	data4/boild-egg/271.jpg
 271	egg	(215,144,23,23)	0	data4/boild-egg/271.jpg
 271	pan	(193,119,63,69)	3	data4/boild-egg/271.jpg
-271	pan handle	(133,88,28,38)	1	data4/boild-egg/271.jpg
+271	pan handler	(133,88,28,38)	1	data4/boild-egg/271.jpg
 271	pan	(193,119,63,69)	3	data4/boild-egg/271.jpg
 271	bowl	(49,116,44,40)	2	data4/boild-egg/271.jpg
 271	person	(97,0,160,167)	6	data4/boild-egg/271.jpg
 272	pan	(193,119,63,69)	3	data4/boild-egg/272.jpg
 272	egg	(215,144,23,23)	0	data4/boild-egg/272.jpg
 272	pan	(193,119,63,69)	3	data4/boild-egg/272.jpg
-272	pan handle	(133,88,28,38)	1	data4/boild-egg/272.jpg
+272	pan handler	(133,88,28,38)	1	data4/boild-egg/272.jpg
 272	pan	(193,119,63,69)	3	data4/boild-egg/272.jpg
 272	bowl	(49,116,44,40)	2	data4/boild-egg/272.jpg
 272	person	(97,0,160,167)	6	data4/boild-egg/272.jpg
 273	pan	(193,119,63,69)	3	data4/boild-egg/273.jpg
 273	egg	(215,144,23,23)	0	data4/boild-egg/273.jpg
 273	pan	(193,119,63,69)	3	data4/boild-egg/273.jpg
-273	pan handle	(133,88,28,38)	1	data4/boild-egg/273.jpg
+273	pan handler	(133,88,28,38)	1	data4/boild-egg/273.jpg
 273	pan	(193,119,63,69)	3	data4/boild-egg/273.jpg
 273	bowl	(49,116,44,40)	2	data4/boild-egg/273.jpg
 273	person	(97,0,160,167)	6	data4/boild-egg/273.jpg
 274	pan	(193,119,63,69)	3	data4/boild-egg/274.jpg
 274	egg	(215,144,23,23)	0	data4/boild-egg/274.jpg
 274	pan	(193,119,63,69)	3	data4/boild-egg/274.jpg
-274	pan handle	(133,88,28,38)	1	data4/boild-egg/274.jpg
+274	pan handler	(133,88,28,38)	1	data4/boild-egg/274.jpg
 274	pan	(193,119,63,69)	3	data4/boild-egg/274.jpg
 274	bowl	(49,116,44,40)	2	data4/boild-egg/274.jpg
 274	person	(97,0,160,167)	6	data4/boild-egg/274.jpg
 275	pan	(193,119,63,69)	3	data4/boild-egg/275.jpg
 275	egg	(215,144,23,23)	0	data4/boild-egg/275.jpg
 275	pan	(193,119,63,69)	3	data4/boild-egg/275.jpg
-275	pan handle	(133,88,28,38)	1	data4/boild-egg/275.jpg
+275	pan handler	(133,88,28,38)	1	data4/boild-egg/275.jpg
 275	pan	(193,119,63,69)	3	data4/boild-egg/275.jpg
 275	bowl	(49,116,44,40)	2	data4/boild-egg/275.jpg
 275	person	(97,0,160,167)	6	data4/boild-egg/275.jpg
 276	pan	(193,119,63,69)	3	data4/boild-egg/276.jpg
 276	egg	(215,144,23,23)	0	data4/boild-egg/276.jpg
 276	pan	(193,119,63,69)	3	data4/boild-egg/276.jpg
-276	pan handle	(133,88,28,38)	1	data4/boild-egg/276.jpg
+276	pan handler	(133,88,28,38)	1	data4/boild-egg/276.jpg
 276	pan	(193,119,63,69)	3	data4/boild-egg/276.jpg
 276	bowl	(49,116,44,40)	2	data4/boild-egg/276.jpg
 276	person	(97,0,160,167)	6	data4/boild-egg/276.jpg
 277	pan	(193,119,63,69)	3	data4/boild-egg/277.jpg
 277	egg	(215,144,23,23)	0	data4/boild-egg/277.jpg
 277	pan	(193,119,63,69)	3	data4/boild-egg/277.jpg
-277	pan handle	(133,88,28,38)	1	data4/boild-egg/277.jpg
+277	pan handler	(133,88,28,38)	1	data4/boild-egg/277.jpg
 277	pan	(193,119,63,69)	3	data4/boild-egg/277.jpg
 277	bowl	(49,116,44,40)	2	data4/boild-egg/277.jpg
 277	person	(97,0,160,167)	6	data4/boild-egg/277.jpg
 278	pan	(193,119,63,69)	3	data4/boild-egg/278.jpg
 278	egg	(215,144,23,23)	0	data4/boild-egg/278.jpg
 278	pan	(193,119,63,69)	3	data4/boild-egg/278.jpg
-278	pan handle	(133,88,28,38)	1	data4/boild-egg/278.jpg
+278	pan handler	(133,88,28,38)	1	data4/boild-egg/278.jpg
 278	pan	(193,119,63,69)	3	data4/boild-egg/278.jpg
 278	bowl	(49,116,44,40)	2	data4/boild-egg/278.jpg
 278	person	(97,0,160,167)	6	data4/boild-egg/278.jpg
 279	pan	(193,119,63,69)	3	data4/boild-egg/279.jpg
 279	egg	(215,144,23,23)	0	data4/boild-egg/279.jpg
 279	pan	(193,119,63,69)	3	data4/boild-egg/279.jpg
-279	pan handle	(133,88,28,38)	1	data4/boild-egg/279.jpg
+279	pan handler	(133,88,28,38)	1	data4/boild-egg/279.jpg
 279	pan	(193,119,63,69)	3	data4/boild-egg/279.jpg
 279	bowl	(49,116,44,40)	2	data4/boild-egg/279.jpg
 279	person	(97,0,160,167)	6	data4/boild-egg/279.jpg
 280	pan	(193,119,63,69)	3	data4/boild-egg/280.jpg
 280	egg	(215,144,23,23)	0	data4/boild-egg/280.jpg
 280	pan	(193,119,63,69)	3	data4/boild-egg/280.jpg
-280	pan handle	(133,88,28,38)	1	data4/boild-egg/280.jpg
+280	pan handler	(133,88,28,38)	1	data4/boild-egg/280.jpg
 280	pan	(193,119,63,69)	3	data4/boild-egg/280.jpg
 280	bowl	(49,116,44,40)	2	data4/boild-egg/280.jpg
 280	person	(97,0,160,167)	6	data4/boild-egg/280.jpg
 281	pan	(193,119,63,69)	3	data4/boild-egg/281.jpg
 281	egg	(215,144,23,23)	0	data4/boild-egg/281.jpg
 281	pan	(193,119,63,69)	3	data4/boild-egg/281.jpg
-281	pan handle	(133,88,28,38)	1	data4/boild-egg/281.jpg
+281	pan handler	(133,88,28,38)	1	data4/boild-egg/281.jpg
 281	pan	(193,119,63,69)	3	data4/boild-egg/281.jpg
 281	bowl	(49,116,44,40)	2	data4/boild-egg/281.jpg
 281	person	(97,0,160,167)	6	data4/boild-egg/281.jpg
 282	pan	(193,119,63,69)	3	data4/boild-egg/282.jpg
 282	egg	(215,144,23,23)	0	data4/boild-egg/282.jpg
 282	pan	(193,119,63,69)	3	data4/boild-egg/282.jpg
-282	pan handle	(133,88,28,38)	1	data4/boild-egg/282.jpg
+282	pan handler	(133,88,28,38)	1	data4/boild-egg/282.jpg
 282	pan	(193,119,63,69)	3	data4/boild-egg/282.jpg
 282	bowl	(49,116,44,40)	2	data4/boild-egg/282.jpg
 282	person	(97,0,160,167)	6	data4/boild-egg/282.jpg
 283	pan	(193,119,63,69)	3	data4/boild-egg/283.jpg
 283	egg	(215,144,23,23)	0	data4/boild-egg/283.jpg
 283	pan	(193,119,63,69)	3	data4/boild-egg/283.jpg
-283	pan handle	(133,88,28,38)	1	data4/boild-egg/283.jpg
+283	pan handler	(133,88,28,38)	1	data4/boild-egg/283.jpg
 283	pan	(193,119,63,69)	3	data4/boild-egg/283.jpg
 283	bowl	(49,116,44,40)	2	data4/boild-egg/283.jpg
 283	person	(97,0,160,167)	6	data4/boild-egg/283.jpg
 284	pan	(193,119,63,69)	3	data4/boild-egg/284.jpg
 284	egg	(213,146,20,19)	0	data4/boild-egg/284.jpg
 284	pan	(193,119,63,69)	3	data4/boild-egg/284.jpg
-284	pan handle	(133,88,28,38)	1	data4/boild-egg/284.jpg
+284	pan handler	(133,88,28,38)	1	data4/boild-egg/284.jpg
 284	pan	(193,119,63,69)	3	data4/boild-egg/284.jpg
 284	bowl	(49,116,44,40)	2	data4/boild-egg/284.jpg
 284	person	(104,0,153,159)	6	data4/boild-egg/284.jpg
 285	pan	(193,119,63,69)	3	data4/boild-egg/285.jpg
 285	egg	(213,146,20,19)	0	data4/boild-egg/285.jpg
 285	pan	(193,119,63,69)	3	data4/boild-egg/285.jpg
-285	pan handle	(133,88,28,38)	1	data4/boild-egg/285.jpg
+285	pan handler	(133,88,28,38)	1	data4/boild-egg/285.jpg
 285	pan	(193,119,63,69)	3	data4/boild-egg/285.jpg
 285	bowl	(49,116,44,40)	2	data4/boild-egg/285.jpg
 285	person	(104,0,153,155)	6	data4/boild-egg/285.jpg
 286	pan	(193,119,63,69)	3	data4/boild-egg/286.jpg
 286	egg	(213,146,20,19)	0	data4/boild-egg/286.jpg
 286	pan	(193,119,63,69)	3	data4/boild-egg/286.jpg
-286	pan handle	(133,88,28,38)	1	data4/boild-egg/286.jpg
+286	pan handler	(133,88,28,38)	1	data4/boild-egg/286.jpg
 286	pan	(193,119,63,69)	3	data4/boild-egg/286.jpg
 286	bowl	(49,116,44,40)	2	data4/boild-egg/286.jpg
 286	person	(106,0,151,151)	6	data4/boild-egg/286.jpg
 287	pan	(193,119,63,69)	3	data4/boild-egg/287.jpg
 287	egg	(213,146,20,19)	0	data4/boild-egg/287.jpg
 287	pan	(193,119,63,69)	3	data4/boild-egg/287.jpg
-287	pan handle	(133,88,28,38)	1	data4/boild-egg/287.jpg
+287	pan handler	(133,88,28,38)	1	data4/boild-egg/287.jpg
 287	pan	(193,119,63,69)	3	data4/boild-egg/287.jpg
 287	bowl	(49,116,44,40)	2	data4/boild-egg/287.jpg
 287	person	(103,0,154,146)	6	data4/boild-egg/287.jpg
 288	pan	(193,119,63,69)	3	data4/boild-egg/288.jpg
 288	egg	(213,146,20,19)	0	data4/boild-egg/288.jpg
 288	pan	(193,119,63,69)	3	data4/boild-egg/288.jpg
-288	pan handle	(133,88,28,38)	1	data4/boild-egg/288.jpg
+288	pan handler	(133,88,28,38)	1	data4/boild-egg/288.jpg
 288	pan	(193,119,63,69)	3	data4/boild-egg/288.jpg
 288	bowl	(49,116,44,40)	2	data4/boild-egg/288.jpg
 288	person	(104,0,153,139)	6	data4/boild-egg/288.jpg
 289	pan	(193,119,63,69)	3	data4/boild-egg/289.jpg
 289	egg	(213,146,20,19)	0	data4/boild-egg/289.jpg
 289	pan	(193,119,63,69)	3	data4/boild-egg/289.jpg
-289	pan handle	(133,88,28,38)	1	data4/boild-egg/289.jpg
+289	pan handler	(133,88,28,38)	1	data4/boild-egg/289.jpg
 289	pan	(193,119,63,69)	3	data4/boild-egg/289.jpg
 289	bowl	(49,116,44,40)	2	data4/boild-egg/289.jpg
 289	person	(105,0,152,128)	6	data4/boild-egg/289.jpg
 290	pan	(193,119,63,69)	3	data4/boild-egg/290.jpg
 290	egg	(213,146,20,19)	0	data4/boild-egg/290.jpg
 290	pan	(193,119,63,69)	3	data4/boild-egg/290.jpg
-290	pan handle	(133,88,28,38)	1	data4/boild-egg/290.jpg
+290	pan handler	(133,88,28,38)	1	data4/boild-egg/290.jpg
 290	pan	(193,119,63,69)	3	data4/boild-egg/290.jpg
 290	bowl	(49,116,44,40)	2	data4/boild-egg/290.jpg
 290	person	(101,0,154,132)	6	data4/boild-egg/290.jpg
 291	pan	(193,119,63,69)	3	data4/boild-egg/291.jpg
 291	egg	(213,146,20,19)	0	data4/boild-egg/291.jpg
 291	pan	(193,119,63,69)	3	data4/boild-egg/291.jpg
-291	pan handle	(133,88,28,38)	1	data4/boild-egg/291.jpg
+291	pan handler	(133,88,28,38)	1	data4/boild-egg/291.jpg
 291	pan	(193,119,63,69)	3	data4/boild-egg/291.jpg
 291	bowl	(49,116,44,40)	2	data4/boild-egg/291.jpg
 291	person	(102,0,150,124)	6	data4/boild-egg/291.jpg
 292	pan	(193,119,63,69)	3	data4/boild-egg/292.jpg
 292	egg	(213,146,20,19)	0	data4/boild-egg/292.jpg
 292	pan	(193,119,63,69)	3	data4/boild-egg/292.jpg
-292	pan handle	(133,88,28,38)	1	data4/boild-egg/292.jpg
+292	pan handler	(133,88,28,38)	1	data4/boild-egg/292.jpg
 292	pan	(193,119,63,69)	3	data4/boild-egg/292.jpg
 292	bowl	(49,116,44,40)	2	data4/boild-egg/292.jpg
 292	person	(101,0,148,114)	6	data4/boild-egg/292.jpg
 293	pan	(193,119,63,69)	3	data4/boild-egg/293.jpg
 293	egg	(213,146,20,19)	0	data4/boild-egg/293.jpg
 293	pan	(193,119,63,69)	3	data4/boild-egg/293.jpg
-293	pan handle	(133,88,28,38)	1	data4/boild-egg/293.jpg
+293	pan handler	(133,88,28,38)	1	data4/boild-egg/293.jpg
 293	pan	(193,119,63,69)	3	data4/boild-egg/293.jpg
 293	bowl	(49,116,44,40)	2	data4/boild-egg/293.jpg
 293	person	(103,0,142,114)	6	data4/boild-egg/293.jpg
 294	pan	(193,119,63,69)	3	data4/boild-egg/294.jpg
 294	egg	(213,146,20,19)	0	data4/boild-egg/294.jpg
 294	pan	(193,119,63,69)	3	data4/boild-egg/294.jpg
-294	pan handle	(133,88,28,38)	1	data4/boild-egg/294.jpg
+294	pan handler	(133,88,28,38)	1	data4/boild-egg/294.jpg
 294	pan	(193,119,63,69)	3	data4/boild-egg/294.jpg
 294	bowl	(49,116,44,40)	2	data4/boild-egg/294.jpg
 294	person	(100,0,141,114)	6	data4/boild-egg/294.jpg
 295	pan	(193,119,63,69)	3	data4/boild-egg/295.jpg
 295	egg	(213,146,20,19)	0	data4/boild-egg/295.jpg
 295	pan	(193,119,63,69)	3	data4/boild-egg/295.jpg
-295	pan handle	(133,88,28,38)	1	data4/boild-egg/295.jpg
+295	pan handler	(133,88,28,38)	1	data4/boild-egg/295.jpg
 295	pan	(193,119,63,69)	3	data4/boild-egg/295.jpg
 295	bowl	(49,116,44,40)	2	data4/boild-egg/295.jpg
 295	person	(96,0,140,114)	6	data4/boild-egg/295.jpg
 296	pan	(193,119,63,69)	3	data4/boild-egg/296.jpg
 296	egg	(213,146,20,19)	0	data4/boild-egg/296.jpg
 296	pan	(193,119,63,69)	3	data4/boild-egg/296.jpg
-296	pan handle	(133,88,28,38)	1	data4/boild-egg/296.jpg
+296	pan handler	(133,88,28,38)	1	data4/boild-egg/296.jpg
 296	pan	(193,119,63,69)	3	data4/boild-egg/296.jpg
 296	bowl	(49,116,44,40)	2	data4/boild-egg/296.jpg
 296	person	(93,0,139,114)	6	data4/boild-egg/296.jpg
 297	pan	(193,119,63,69)	3	data4/boild-egg/297.jpg
 297	egg	(213,146,20,19)	0	data4/boild-egg/297.jpg
 297	pan	(193,119,63,69)	3	data4/boild-egg/297.jpg
-297	pan handle	(133,88,28,38)	1	data4/boild-egg/297.jpg
+297	pan handler	(133,88,28,38)	1	data4/boild-egg/297.jpg
 297	pan	(193,119,63,69)	3	data4/boild-egg/297.jpg
 297	bowl	(49,116,44,40)	2	data4/boild-egg/297.jpg
 297	person	(90,0,139,114)	6	data4/boild-egg/297.jpg
 298	pan	(193,119,63,69)	3	data4/boild-egg/298.jpg
 298	egg	(213,146,20,19)	0	data4/boild-egg/298.jpg
 298	pan	(193,119,63,69)	3	data4/boild-egg/298.jpg
-298	pan handle	(133,88,28,38)	1	data4/boild-egg/298.jpg
+298	pan handler	(133,88,28,38)	1	data4/boild-egg/298.jpg
 298	pan	(193,119,63,69)	3	data4/boild-egg/298.jpg
 298	bowl	(49,116,44,40)	2	data4/boild-egg/298.jpg
 298	person	(88,0,137,114)	6	data4/boild-egg/298.jpg
 299	pan	(193,119,63,69)	3	data4/boild-egg/299.jpg
 299	egg	(213,146,20,19)	0	data4/boild-egg/299.jpg
 299	pan	(193,119,63,69)	3	data4/boild-egg/299.jpg
-299	pan handle	(133,88,28,38)	1	data4/boild-egg/299.jpg
+299	pan handler	(133,88,28,38)	1	data4/boild-egg/299.jpg
 299	pan	(193,119,63,69)	3	data4/boild-egg/299.jpg
 299	bowl	(49,116,44,40)	2	data4/boild-egg/299.jpg
 299	person	(85,0,137,114)	6	data4/boild-egg/299.jpg
 300	pan	(193,119,63,69)	3	data4/boild-egg/300.jpg
 300	egg	(213,146,20,19)	0	data4/boild-egg/300.jpg
 300	pan	(193,119,63,69)	3	data4/boild-egg/300.jpg
-300	pan handle	(133,88,28,38)	1	data4/boild-egg/300.jpg
+300	pan handler	(133,88,28,38)	1	data4/boild-egg/300.jpg
 300	pan	(193,119,63,69)	3	data4/boild-egg/300.jpg
 300	bowl	(49,116,44,40)	2	data4/boild-egg/300.jpg
 300	person	(84,0,135,114)	6	data4/boild-egg/300.jpg
 301	pan	(193,119,63,69)	3	data4/boild-egg/301.jpg
 301	egg	(206,144,23,20)	0	data4/boild-egg/301.jpg
 301	pan	(193,119,63,69)	3	data4/boild-egg/301.jpg
-301	pan handle	(133,88,28,38)	1	data4/boild-egg/301.jpg
+301	pan handler	(133,88,28,38)	1	data4/boild-egg/301.jpg
 301	pan	(193,119,63,69)	3	data4/boild-egg/301.jpg
 301	bowl	(49,116,44,40)	2	data4/boild-egg/301.jpg
 301	person	(82,0,134,114)	6	data4/boild-egg/301.jpg
 302	pan	(193,119,63,69)	3	data4/boild-egg/302.jpg
 302	egg	(206,144,23,20)	0	data4/boild-egg/302.jpg
 302	pan	(193,119,63,69)	3	data4/boild-egg/302.jpg
-302	pan handle	(133,88,28,38)	1	data4/boild-egg/302.jpg
+302	pan handler	(133,88,28,38)	1	data4/boild-egg/302.jpg
 302	pan	(193,119,63,69)	3	data4/boild-egg/302.jpg
 302	bowl	(49,116,44,40)	2	data4/boild-egg/302.jpg
 302	person	(80,0,134,114)	6	data4/boild-egg/302.jpg
 303	pan	(193,119,63,69)	3	data4/boild-egg/303.jpg
 303	egg	(206,144,23,20)	0	data4/boild-egg/303.jpg
 303	pan	(193,119,63,69)	3	data4/boild-egg/303.jpg
-303	pan handle	(133,88,28,38)	1	data4/boild-egg/303.jpg
+303	pan handler	(133,88,28,38)	1	data4/boild-egg/303.jpg
 303	pan	(193,119,63,69)	3	data4/boild-egg/303.jpg
 303	bowl	(49,116,44,40)	2	data4/boild-egg/303.jpg
 303	person	(77,0,134,114)	6	data4/boild-egg/303.jpg
 304	pan	(193,119,63,69)	3	data4/boild-egg/304.jpg
 304	egg	(206,144,23,20)	0	data4/boild-egg/304.jpg
 304	pan	(193,119,63,69)	3	data4/boild-egg/304.jpg
-304	pan handle	(133,88,28,38)	1	data4/boild-egg/304.jpg
+304	pan handler	(133,88,28,38)	1	data4/boild-egg/304.jpg
 304	pan	(193,119,63,69)	3	data4/boild-egg/304.jpg
 304	bowl	(49,116,44,40)	2	data4/boild-egg/304.jpg
 304	person	(75,0,134,114)	6	data4/boild-egg/304.jpg
 305	pan	(193,119,63,69)	3	data4/boild-egg/305.jpg
 305	egg	(206,144,23,20)	0	data4/boild-egg/305.jpg
 305	pan	(193,119,63,69)	3	data4/boild-egg/305.jpg
-305	pan handle	(133,88,28,38)	1	data4/boild-egg/305.jpg
+305	pan handler	(133,88,28,38)	1	data4/boild-egg/305.jpg
 305	pan	(193,119,63,69)	3	data4/boild-egg/305.jpg
 305	bowl	(49,116,44,40)	2	data4/boild-egg/305.jpg
 305	person	(72,0,135,114)	6	data4/boild-egg/305.jpg
 306	pan	(193,119,63,69)	3	data4/boild-egg/306.jpg
 306	egg	(206,144,23,20)	0	data4/boild-egg/306.jpg
 306	pan	(193,119,63,69)	3	data4/boild-egg/306.jpg
-306	pan handle	(133,88,28,38)	1	data4/boild-egg/306.jpg
+306	pan handler	(133,88,28,38)	1	data4/boild-egg/306.jpg
 306	pan	(193,119,63,69)	3	data4/boild-egg/306.jpg
 306	bowl	(49,116,44,40)	2	data4/boild-egg/306.jpg
 306	person	(70,0,134,114)	6	data4/boild-egg/306.jpg
 307	pan	(193,119,63,69)	3	data4/boild-egg/307.jpg
 307	egg	(206,144,23,20)	0	data4/boild-egg/307.jpg
 307	pan	(193,119,63,69)	3	data4/boild-egg/307.jpg
-307	pan handle	(133,88,28,38)	1	data4/boild-egg/307.jpg
+307	pan handler	(133,88,28,38)	1	data4/boild-egg/307.jpg
 307	pan	(193,119,63,69)	3	data4/boild-egg/307.jpg
 307	bowl	(49,116,44,40)	2	data4/boild-egg/307.jpg
 307	person	(67,0,136,114)	6	data4/boild-egg/307.jpg
 308	pan	(193,119,63,69)	3	data4/boild-egg/308.jpg
 308	egg	(206,144,23,20)	0	data4/boild-egg/308.jpg
 308	pan	(193,119,63,69)	3	data4/boild-egg/308.jpg
-308	pan handle	(133,88,28,38)	1	data4/boild-egg/308.jpg
+308	pan handler	(133,88,28,38)	1	data4/boild-egg/308.jpg
 308	pan	(193,119,63,69)	3	data4/boild-egg/308.jpg
 308	bowl	(49,116,44,40)	2	data4/boild-egg/308.jpg
 308	person	(65,0,136,114)	6	data4/boild-egg/308.jpg
 309	pan	(193,119,63,69)	3	data4/boild-egg/309.jpg
 309	egg	(206,144,23,20)	0	data4/boild-egg/309.jpg
 309	pan	(193,119,63,69)	3	data4/boild-egg/309.jpg
-309	pan handle	(133,88,28,38)	1	data4/boild-egg/309.jpg
+309	pan handler	(133,88,28,38)	1	data4/boild-egg/309.jpg
 309	pan	(193,119,63,69)	3	data4/boild-egg/309.jpg
 309	bowl	(49,116,44,40)	2	data4/boild-egg/309.jpg
 309	person	(63,0,137,114)	6	data4/boild-egg/309.jpg
 310	pan	(193,119,63,69)	3	data4/boild-egg/310.jpg
 310	egg	(206,144,23,20)	0	data4/boild-egg/310.jpg
 310	pan	(193,119,63,69)	3	data4/boild-egg/310.jpg
-310	pan handle	(133,88,28,38)	1	data4/boild-egg/310.jpg
+310	pan handler	(133,88,28,38)	1	data4/boild-egg/310.jpg
 310	pan	(193,119,63,69)	3	data4/boild-egg/310.jpg
 310	bowl	(49,116,44,40)	2	data4/boild-egg/310.jpg
 310	person	(61,0,138,114)	6	data4/boild-egg/310.jpg
 311	pan	(193,119,63,69)	3	data4/boild-egg/311.jpg
 311	egg	(206,144,23,20)	0	data4/boild-egg/311.jpg
 311	pan	(193,119,63,69)	3	data4/boild-egg/311.jpg
-311	pan handle	(133,88,28,38)	1	data4/boild-egg/311.jpg
+311	pan handler	(133,88,28,38)	1	data4/boild-egg/311.jpg
 311	pan	(193,119,63,69)	3	data4/boild-egg/311.jpg
 311	bowl	(49,116,44,40)	2	data4/boild-egg/311.jpg
 311	person	(59,0,138,114)	6	data4/boild-egg/311.jpg
 312	pan	(193,119,63,69)	3	data4/boild-egg/312.jpg
 312	egg	(206,144,23,20)	0	data4/boild-egg/312.jpg
 312	pan	(193,119,63,69)	3	data4/boild-egg/312.jpg
-312	pan handle	(133,88,28,38)	1	data4/boild-egg/312.jpg
+312	pan handler	(133,88,28,38)	1	data4/boild-egg/312.jpg
 312	pan	(193,119,63,69)	3	data4/boild-egg/312.jpg
 312	bowl	(49,116,44,40)	2	data4/boild-egg/312.jpg
 312	person	(58,0,138,114)	6	data4/boild-egg/312.jpg
 313	pan	(193,119,63,69)	3	data4/boild-egg/313.jpg
 313	egg	(206,144,23,20)	0	data4/boild-egg/313.jpg
 313	pan	(193,119,63,69)	3	data4/boild-egg/313.jpg
-313	pan handle	(133,88,28,38)	1	data4/boild-egg/313.jpg
+313	pan handler	(133,88,28,38)	1	data4/boild-egg/313.jpg
 313	pan	(193,119,63,69)	3	data4/boild-egg/313.jpg
 313	bowl	(49,116,44,40)	2	data4/boild-egg/313.jpg
 313	person	(56,0,140,114)	6	data4/boild-egg/313.jpg
 314	pan	(193,119,63,69)	3	data4/boild-egg/314.jpg
 314	egg	(206,144,23,20)	0	data4/boild-egg/314.jpg
 314	pan	(193,119,63,69)	3	data4/boild-egg/314.jpg
-314	pan handle	(133,88,28,38)	1	data4/boild-egg/314.jpg
+314	pan handler	(133,88,28,38)	1	data4/boild-egg/314.jpg
 314	pan	(193,119,63,69)	3	data4/boild-egg/314.jpg
 314	bowl	(49,116,44,40)	2	data4/boild-egg/314.jpg
 314	person	(55,0,140,114)	6	data4/boild-egg/314.jpg
 315	pan	(193,119,63,69)	3	data4/boild-egg/315.jpg
 315	egg	(206,144,23,20)	0	data4/boild-egg/315.jpg
 315	pan	(193,119,63,69)	3	data4/boild-egg/315.jpg
-315	pan handle	(133,88,28,38)	1	data4/boild-egg/315.jpg
+315	pan handler	(133,88,28,38)	1	data4/boild-egg/315.jpg
 315	pan	(193,119,63,69)	3	data4/boild-egg/315.jpg
 315	bowl	(49,116,44,40)	2	data4/boild-egg/315.jpg
 315	person	(54,0,141,114)	6	data4/boild-egg/315.jpg
 316	pan	(193,119,63,69)	3	data4/boild-egg/316.jpg
 316	egg	(208,143,25,23)	0	data4/boild-egg/316.jpg
 316	pan	(193,119,63,69)	3	data4/boild-egg/316.jpg
-316	pan handle	(133,88,28,38)	1	data4/boild-egg/316.jpg
+316	pan handler	(133,88,28,38)	1	data4/boild-egg/316.jpg
 316	pan	(193,119,63,69)	3	data4/boild-egg/316.jpg
 316	bowl	(49,116,44,40)	2	data4/boild-egg/316.jpg
 316	person	(53,0,141,114)	6	data4/boild-egg/316.jpg
 317	pan	(193,119,63,69)	3	data4/boild-egg/317.jpg
 317	egg	(208,143,25,23)	0	data4/boild-egg/317.jpg
 317	pan	(193,119,63,69)	3	data4/boild-egg/317.jpg
-317	pan handle	(133,88,28,38)	1	data4/boild-egg/317.jpg
+317	pan handler	(133,88,28,38)	1	data4/boild-egg/317.jpg
 317	pan	(193,119,63,69)	3	data4/boild-egg/317.jpg
 317	bowl	(49,116,44,40)	2	data4/boild-egg/317.jpg
 317	person	(53,0,141,114)	6	data4/boild-egg/317.jpg
 318	pan	(193,119,63,69)	3	data4/boild-egg/318.jpg
 318	egg	(208,143,25,23)	0	data4/boild-egg/318.jpg
 318	pan	(193,119,63,69)	3	data4/boild-egg/318.jpg
-318	pan handle	(133,88,28,38)	1	data4/boild-egg/318.jpg
+318	pan handler	(133,88,28,38)	1	data4/boild-egg/318.jpg
 318	pan	(193,119,63,69)	3	data4/boild-egg/318.jpg
 318	bowl	(49,116,44,40)	2	data4/boild-egg/318.jpg
 318	person	(52,0,141,114)	6	data4/boild-egg/318.jpg
 319	pan	(193,119,63,69)	3	data4/boild-egg/319.jpg
 319	egg	(208,143,25,23)	0	data4/boild-egg/319.jpg
 319	pan	(193,119,63,69)	3	data4/boild-egg/319.jpg
-319	pan handle	(133,88,28,38)	1	data4/boild-egg/319.jpg
+319	pan handler	(133,88,28,38)	1	data4/boild-egg/319.jpg
 319	pan	(193,119,63,69)	3	data4/boild-egg/319.jpg
 319	bowl	(49,116,44,40)	2	data4/boild-egg/319.jpg
 319	person	(52,0,141,114)	6	data4/boild-egg/319.jpg
 320	pan	(193,119,63,69)	3	data4/boild-egg/320.jpg
 320	egg	(208,143,25,23)	0	data4/boild-egg/320.jpg
 320	pan	(193,119,63,69)	3	data4/boild-egg/320.jpg
-320	pan handle	(133,88,28,38)	1	data4/boild-egg/320.jpg
+320	pan handler	(133,88,28,38)	1	data4/boild-egg/320.jpg
 320	pan	(193,119,63,69)	3	data4/boild-egg/320.jpg
 320	bowl	(49,116,44,40)	2	data4/boild-egg/320.jpg
 320	person	(52,0,141,114)	6	data4/boild-egg/320.jpg
 321	pan	(193,119,63,69)	3	data4/boild-egg/321.jpg
 321	egg	(208,143,25,23)	0	data4/boild-egg/321.jpg
 321	pan	(193,119,63,69)	3	data4/boild-egg/321.jpg
-321	pan handle	(133,88,28,38)	1	data4/boild-egg/321.jpg
+321	pan handler	(133,88,28,38)	1	data4/boild-egg/321.jpg
 321	pan	(193,119,63,69)	3	data4/boild-egg/321.jpg
 321	bowl	(49,116,44,40)	2	data4/boild-egg/321.jpg
 321	person	(52,0,140,114)	6	data4/boild-egg/321.jpg
 322	pan	(193,119,63,69)	3	data4/boild-egg/322.jpg
 322	egg	(208,143,25,23)	0	data4/boild-egg/322.jpg
 322	pan	(193,119,63,69)	3	data4/boild-egg/322.jpg
-322	pan handle	(133,88,28,38)	1	data4/boild-egg/322.jpg
+322	pan handler	(133,88,28,38)	1	data4/boild-egg/322.jpg
 322	pan	(193,119,63,69)	3	data4/boild-egg/322.jpg
 322	bowl	(49,116,44,40)	2	data4/boild-egg/322.jpg
 322	person	(52,0,140,114)	6	data4/boild-egg/322.jpg
 323	pan	(193,119,63,69)	3	data4/boild-egg/323.jpg
 323	egg	(208,143,25,23)	0	data4/boild-egg/323.jpg
 323	pan	(193,119,63,69)	3	data4/boild-egg/323.jpg
-323	pan handle	(133,88,28,38)	1	data4/boild-egg/323.jpg
+323	pan handler	(133,88,28,38)	1	data4/boild-egg/323.jpg
 323	pan	(193,119,63,69)	3	data4/boild-egg/323.jpg
 323	bowl	(49,116,44,40)	2	data4/boild-egg/323.jpg
 323	person	(51,0,141,114)	6	data4/boild-egg/323.jpg
 324	pan	(193,119,63,69)	3	data4/boild-egg/324.jpg
 324	egg	(208,143,25,23)	0	data4/boild-egg/324.jpg
 324	pan	(193,119,63,69)	3	data4/boild-egg/324.jpg
-324	pan handle	(133,88,28,38)	1	data4/boild-egg/324.jpg
+324	pan handler	(133,88,28,38)	1	data4/boild-egg/324.jpg
 324	pan	(193,119,63,69)	3	data4/boild-egg/324.jpg
 324	bowl	(49,116,44,40)	2	data4/boild-egg/324.jpg
 324	person	(51,0,141,114)	6	data4/boild-egg/324.jpg
 325	pan	(193,119,63,69)	3	data4/boild-egg/325.jpg
 325	egg	(208,143,25,23)	0	data4/boild-egg/325.jpg
 325	pan	(193,119,63,69)	3	data4/boild-egg/325.jpg
-325	pan handle	(133,88,28,38)	1	data4/boild-egg/325.jpg
+325	pan handler	(133,88,28,38)	1	data4/boild-egg/325.jpg
 325	pan	(193,119,63,69)	3	data4/boild-egg/325.jpg
 325	bowl	(49,116,44,40)	2	data4/boild-egg/325.jpg
 325	person	(50,0,142,114)	6	data4/boild-egg/325.jpg
 326	pan	(193,119,63,69)	3	data4/boild-egg/326.jpg
 326	egg	(208,143,25,23)	0	data4/boild-egg/326.jpg
 326	pan	(193,119,63,69)	3	data4/boild-egg/326.jpg
-326	pan handle	(133,88,28,38)	1	data4/boild-egg/326.jpg
+326	pan handler	(133,88,28,38)	1	data4/boild-egg/326.jpg
 326	pan	(193,119,63,69)	3	data4/boild-egg/326.jpg
 326	bowl	(49,116,44,40)	2	data4/boild-egg/326.jpg
 326	person	(51,0,141,114)	6	data4/boild-egg/326.jpg
 327	pan	(193,119,63,69)	3	data4/boild-egg/327.jpg
 327	egg	(208,143,25,23)	0	data4/boild-egg/327.jpg
 327	pan	(193,119,63,69)	3	data4/boild-egg/327.jpg
-327	pan handle	(133,88,28,38)	1	data4/boild-egg/327.jpg
+327	pan handler	(133,88,28,38)	1	data4/boild-egg/327.jpg
 327	pan	(193,119,63,69)	3	data4/boild-egg/327.jpg
 327	bowl	(49,116,44,40)	2	data4/boild-egg/327.jpg
 327	person	(51,0,141,114)	6	data4/boild-egg/327.jpg
 328	pan	(193,119,63,69)	3	data4/boild-egg/328.jpg
 328	egg	(208,143,25,23)	0	data4/boild-egg/328.jpg
 328	pan	(193,119,63,69)	3	data4/boild-egg/328.jpg
-328	pan handle	(133,88,28,38)	1	data4/boild-egg/328.jpg
+328	pan handler	(133,88,28,38)	1	data4/boild-egg/328.jpg
 328	pan	(193,119,63,69)	3	data4/boild-egg/328.jpg
 328	bowl	(49,116,44,40)	2	data4/boild-egg/328.jpg
 328	person	(51,0,140,114)	6	data4/boild-egg/328.jpg
 329	pan	(193,119,63,69)	3	data4/boild-egg/329.jpg
 329	egg	(208,143,25,23)	0	data4/boild-egg/329.jpg
 329	pan	(193,119,63,69)	3	data4/boild-egg/329.jpg
-329	pan handle	(133,88,28,38)	1	data4/boild-egg/329.jpg
+329	pan handler	(133,88,28,38)	1	data4/boild-egg/329.jpg
 329	pan	(193,119,63,69)	3	data4/boild-egg/329.jpg
 329	bowl	(49,116,44,40)	2	data4/boild-egg/329.jpg
 329	person	(51,0,140,114)	6	data4/boild-egg/329.jpg
 330	pan	(193,119,63,69)	3	data4/boild-egg/330.jpg
 330	egg	(208,143,25,23)	0	data4/boild-egg/330.jpg
 330	pan	(193,119,63,69)	3	data4/boild-egg/330.jpg
-330	pan handle	(133,88,28,38)	1	data4/boild-egg/330.jpg
+330	pan handler	(133,88,28,38)	1	data4/boild-egg/330.jpg
 330	pan	(193,119,63,69)	3	data4/boild-egg/330.jpg
 330	bowl	(49,116,44,40)	2	data4/boild-egg/330.jpg
 330	person	(50,0,141,114)	6	data4/boild-egg/330.jpg
 331	pan	(193,119,63,69)	3	data4/boild-egg/331.jpg
 331	egg	(208,143,25,23)	0	data4/boild-egg/331.jpg
 331	pan	(193,119,63,69)	3	data4/boild-egg/331.jpg
-331	pan handle	(133,88,28,38)	1	data4/boild-egg/331.jpg
+331	pan handler	(133,88,28,38)	1	data4/boild-egg/331.jpg
 331	pan	(193,119,63,69)	3	data4/boild-egg/331.jpg
 331	bowl	(49,116,44,40)	2	data4/boild-egg/331.jpg
 331	person	(50,0,142,114)	6	data4/boild-egg/331.jpg
 332	pan	(193,119,63,69)	3	data4/boild-egg/332.jpg
 332	egg	(208,143,25,23)	0	data4/boild-egg/332.jpg
 332	pan	(193,119,63,69)	3	data4/boild-egg/332.jpg
-332	pan handle	(135,85,23,40)	1	data4/boild-egg/332.jpg
+332	pan handler	(135,85,23,40)	1	data4/boild-egg/332.jpg
 332	pan	(193,119,63,69)	3	data4/boild-egg/332.jpg
 332	bowl	(49,116,44,40)	2	data4/boild-egg/332.jpg
 332	person	(50,0,142,114)	6	data4/boild-egg/332.jpg
 333	pan	(193,119,63,69)	3	data4/boild-egg/333.jpg
 333	egg	(208,143,25,23)	0	data4/boild-egg/333.jpg
 333	pan	(193,119,63,69)	3	data4/boild-egg/333.jpg
-333	pan handle	(136,84,23,41)	1	data4/boild-egg/333.jpg
+333	pan handler	(136,84,23,41)	1	data4/boild-egg/333.jpg
 333	pan	(193,119,63,69)	3	data4/boild-egg/333.jpg
 333	bowl	(49,116,44,40)	2	data4/boild-egg/333.jpg
 333	person	(50,0,142,114)	6	data4/boild-egg/333.jpg
 334	pan	(193,119,63,69)	3	data4/boild-egg/334.jpg
 334	egg	(208,143,25,23)	0	data4/boild-egg/334.jpg
 334	pan	(193,119,63,69)	3	data4/boild-egg/334.jpg
-334	pan handle	(136,86,27,39)	1	data4/boild-egg/334.jpg
+334	pan handler	(136,86,27,39)	1	data4/boild-egg/334.jpg
 334	pan	(193,119,63,69)	3	data4/boild-egg/334.jpg
 334	bowl	(49,116,44,40)	2	data4/boild-egg/334.jpg
 334	person	(50,0,142,114)	6	data4/boild-egg/334.jpg
 335	pan	(193,119,63,69)	3	data4/boild-egg/335.jpg
 335	egg	(208,143,25,23)	0	data4/boild-egg/335.jpg
 335	pan	(193,119,63,69)	3	data4/boild-egg/335.jpg
-335	pan handle	(137,91,28,37)	1	data4/boild-egg/335.jpg
+335	pan handler	(137,91,28,37)	1	data4/boild-egg/335.jpg
 335	pan	(193,119,63,69)	3	data4/boild-egg/335.jpg
 335	bowl	(49,116,44,40)	2	data4/boild-egg/335.jpg
 335	person	(50,0,142,114)	6	data4/boild-egg/335.jpg
 336	pan	(193,119,63,69)	3	data4/boild-egg/336.jpg
 336	egg	(208,143,25,23)	0	data4/boild-egg/336.jpg
 336	pan	(193,119,63,69)	3	data4/boild-egg/336.jpg
-336	pan handle	(137,89,26,40)	1	data4/boild-egg/336.jpg
+336	pan handler	(137,89,26,40)	1	data4/boild-egg/336.jpg
 336	pan	(193,119,63,69)	3	data4/boild-egg/336.jpg
 336	bowl	(49,116,44,40)	2	data4/boild-egg/336.jpg
 336	person	(51,0,141,114)	6	data4/boild-egg/336.jpg
 337	pan	(193,119,63,69)	3	data4/boild-egg/337.jpg
 337	egg	(208,143,25,23)	0	data4/boild-egg/337.jpg
 337	pan	(193,119,63,69)	3	data4/boild-egg/337.jpg
-337	pan handle	(138,90,28,37)	1	data4/boild-egg/337.jpg
+337	pan handler	(138,90,28,37)	1	data4/boild-egg/337.jpg
 337	pan	(193,119,63,69)	3	data4/boild-egg/337.jpg
 337	bowl	(49,116,44,40)	2	data4/boild-egg/337.jpg
 337	person	(51,0,142,114)	6	data4/boild-egg/337.jpg
 338	pan	(193,119,63,69)	3	data4/boild-egg/338.jpg
 338	egg	(208,143,25,23)	0	data4/boild-egg/338.jpg
 338	pan	(193,119,63,69)	3	data4/boild-egg/338.jpg
-338	pan handle	(139,86,24,39)	1	data4/boild-egg/338.jpg
+338	pan handler	(139,86,24,39)	1	data4/boild-egg/338.jpg
 338	pan	(193,119,63,69)	3	data4/boild-egg/338.jpg
 338	bowl	(49,116,44,40)	2	data4/boild-egg/338.jpg
 338	person	(51,0,142,114)	6	data4/boild-egg/338.jpg
 339	pan	(193,119,63,69)	3	data4/boild-egg/339.jpg
 339	egg	(208,143,25,23)	0	data4/boild-egg/339.jpg
 339	pan	(193,119,63,69)	3	data4/boild-egg/339.jpg
-339	pan handle	(140,86,28,42)	1	data4/boild-egg/339.jpg
+339	pan handler	(140,86,28,42)	1	data4/boild-egg/339.jpg
 339	pan	(193,119,63,69)	3	data4/boild-egg/339.jpg
 339	bowl	(49,116,44,40)	2	data4/boild-egg/339.jpg
 339	person	(52,0,142,114)	6	data4/boild-egg/339.jpg
 340	pan	(193,119,63,69)	3	data4/boild-egg/340.jpg
 340	egg	(208,143,25,23)	0	data4/boild-egg/340.jpg
 340	pan	(193,119,63,69)	3	data4/boild-egg/340.jpg
-340	pan handle	(141,86,25,40)	1	data4/boild-egg/340.jpg
+340	pan handler	(141,86,25,40)	1	data4/boild-egg/340.jpg
 340	pan	(193,119,63,69)	3	data4/boild-egg/340.jpg
 340	bowl	(49,116,44,40)	2	data4/boild-egg/340.jpg
 340	person	(52,0,142,114)	6	data4/boild-egg/340.jpg
 341	pan	(193,119,63,69)	3	data4/boild-egg/341.jpg
 341	egg	(208,143,25,23)	0	data4/boild-egg/341.jpg
 341	pan	(193,119,63,69)	3	data4/boild-egg/341.jpg
-341	pan handle	(144,84,25,44)	1	data4/boild-egg/341.jpg
+341	pan handler	(144,84,25,44)	1	data4/boild-egg/341.jpg
 341	pan	(193,119,63,69)	3	data4/boild-egg/341.jpg
 341	bowl	(49,116,44,40)	2	data4/boild-egg/341.jpg
 341	person	(53,0,142,114)	6	data4/boild-egg/341.jpg
 342	pan	(193,119,63,69)	3	data4/boild-egg/342.jpg
 342	egg	(208,143,25,23)	0	data4/boild-egg/342.jpg
 342	pan	(193,119,63,69)	3	data4/boild-egg/342.jpg
-342	pan handle	(146,86,25,37)	1	data4/boild-egg/342.jpg
+342	pan handler	(146,86,25,37)	1	data4/boild-egg/342.jpg
 342	pan	(193,119,63,69)	3	data4/boild-egg/342.jpg
 342	bowl	(49,116,44,40)	2	data4/boild-egg/342.jpg
 342	person	(54,0,142,114)	6	data4/boild-egg/342.jpg
 343	pan	(193,119,63,69)	3	data4/boild-egg/343.jpg
 343	egg	(208,143,25,23)	0	data4/boild-egg/343.jpg
 343	pan	(193,119,63,69)	3	data4/boild-egg/343.jpg
-343	pan handle	(149,88,24,36)	1	data4/boild-egg/343.jpg
+343	pan handler	(149,88,24,36)	1	data4/boild-egg/343.jpg
 343	pan	(193,119,63,69)	3	data4/boild-egg/343.jpg
 343	bowl	(49,116,44,40)	2	data4/boild-egg/343.jpg
 343	person	(55,0,142,114)	6	data4/boild-egg/343.jpg
 344	pan	(193,119,63,69)	3	data4/boild-egg/344.jpg
 344	egg	(208,143,25,23)	0	data4/boild-egg/344.jpg
 344	pan	(193,119,63,69)	3	data4/boild-egg/344.jpg
-344	pan handle	(152,86,27,39)	1	data4/boild-egg/344.jpg
+344	pan handler	(152,86,27,39)	1	data4/boild-egg/344.jpg
 344	pan	(193,119,63,69)	3	data4/boild-egg/344.jpg
 344	bowl	(49,116,44,40)	2	data4/boild-egg/344.jpg
 344	person	(56,0,142,114)	6	data4/boild-egg/344.jpg
 345	pan	(193,119,63,69)	3	data4/boild-egg/345.jpg
 345	egg	(208,143,25,23)	0	data4/boild-egg/345.jpg
 345	pan	(193,119,63,69)	3	data4/boild-egg/345.jpg
-345	pan handle	(156,81,24,39)	1	data4/boild-egg/345.jpg
+345	pan handler	(156,81,24,39)	1	data4/boild-egg/345.jpg
 345	pan	(193,119,63,69)	3	data4/boild-egg/345.jpg
 345	bowl	(49,116,44,40)	2	data4/boild-egg/345.jpg
 345	person	(57,0,143,114)	6	data4/boild-egg/345.jpg
 346	pan	(193,119,63,69)	3	data4/boild-egg/346.jpg
 346	egg	(208,143,25,23)	0	data4/boild-egg/346.jpg
 346	pan	(193,119,63,69)	3	data4/boild-egg/346.jpg
-346	pan handle	(162,78,23,40)	1	data4/boild-egg/346.jpg
+346	pan handler	(162,78,23,40)	1	data4/boild-egg/346.jpg
 346	pan	(193,119,63,69)	3	data4/boild-egg/346.jpg
 346	bowl	(49,116,44,40)	2	data4/boild-egg/346.jpg
 346	person	(58,0,144,114)	6	data4/boild-egg/346.jpg
 347	pan	(193,119,63,69)	3	data4/boild-egg/347.jpg
 347	egg	(208,143,25,23)	0	data4/boild-egg/347.jpg
 347	pan	(193,119,63,69)	3	data4/boild-egg/347.jpg
-347	pan handle	(164,70,24,47)	1	data4/boild-egg/347.jpg
+347	pan handler	(164,70,24,47)	1	data4/boild-egg/347.jpg
 347	pan	(193,119,63,69)	3	data4/boild-egg/347.jpg
 347	bowl	(49,116,44,40)	2	data4/boild-egg/347.jpg
 347	person	(59,0,144,114)	6	data4/boild-egg/347.jpg
 348	pan	(193,119,63,69)	3	data4/boild-egg/348.jpg
 348	egg	(208,143,25,23)	0	data4/boild-egg/348.jpg
 348	pan	(193,119,63,69)	3	data4/boild-egg/348.jpg
-348	pan handle	(171,67,24,49)	1	data4/boild-egg/348.jpg
+348	pan handler	(171,67,24,49)	1	data4/boild-egg/348.jpg
 348	pan	(193,119,63,69)	3	data4/boild-egg/348.jpg
 348	bowl	(49,116,44,40)	2	data4/boild-egg/348.jpg
 348	person	(60,0,145,114)	6	data4/boild-egg/348.jpg
 349	pan	(193,119,63,69)	3	data4/boild-egg/349.jpg
 349	egg	(208,143,25,23)	0	data4/boild-egg/349.jpg
 349	pan	(193,119,63,69)	3	data4/boild-egg/349.jpg
-349	pan handle	(174,65,27,51)	1	data4/boild-egg/349.jpg
+349	pan handler	(174,65,27,51)	1	data4/boild-egg/349.jpg
 349	pan	(193,119,63,69)	3	data4/boild-egg/349.jpg
 349	bowl	(49,116,44,40)	2	data4/boild-egg/349.jpg
 349	person	(62,0,145,114)	6	data4/boild-egg/349.jpg
 350	pan	(193,119,63,69)	3	data4/boild-egg/350.jpg
 350	egg	(208,143,25,23)	0	data4/boild-egg/350.jpg
 350	pan	(193,119,63,69)	3	data4/boild-egg/350.jpg
-350	pan handle	(179,61,29,54)	1	data4/boild-egg/350.jpg
+350	pan handler	(179,61,29,54)	1	data4/boild-egg/350.jpg
 350	pan	(193,119,63,69)	3	data4/boild-egg/350.jpg
 350	bowl	(49,116,44,40)	2	data4/boild-egg/350.jpg
 350	person	(63,0,146,114)	6	data4/boild-egg/350.jpg
 351	pan	(193,119,63,69)	3	data4/boild-egg/351.jpg
 351	egg	(208,143,25,23)	0	data4/boild-egg/351.jpg
 351	pan	(193,119,63,69)	3	data4/boild-egg/351.jpg
-351	pan handle	(187,67,27,52)	1	data4/boild-egg/351.jpg
+351	pan handler	(187,67,27,52)	1	data4/boild-egg/351.jpg
 351	pan	(193,119,63,69)	3	data4/boild-egg/351.jpg
 351	bowl	(49,116,44,40)	2	data4/boild-egg/351.jpg
 351	person	(64,0,153,114)	6	data4/boild-egg/351.jpg
 352	pan	(193,119,63,69)	3	data4/boild-egg/352.jpg
 352	egg	(208,143,25,23)	0	data4/boild-egg/352.jpg
 352	pan	(193,119,63,69)	3	data4/boild-egg/352.jpg
-352	pan handle	(191,69,31,48)	1	data4/boild-egg/352.jpg
+352	pan handler	(191,69,31,48)	1	data4/boild-egg/352.jpg
 352	pan	(193,119,63,69)	3	data4/boild-egg/352.jpg
 352	bowl	(49,116,44,40)	2	data4/boild-egg/352.jpg
 352	person	(66,0,156,114)	6	data4/boild-egg/352.jpg
 353	pan	(193,119,63,69)	3	data4/boild-egg/353.jpg
 353	egg	(208,143,25,23)	0	data4/boild-egg/353.jpg
 353	pan	(193,119,63,69)	3	data4/boild-egg/353.jpg
-353	pan handle	(196,69,29,48)	1	data4/boild-egg/353.jpg
+353	pan handler	(196,69,29,48)	1	data4/boild-egg/353.jpg
 353	pan	(193,119,63,69)	3	data4/boild-egg/353.jpg
 353	bowl	(49,116,44,40)	2	data4/boild-egg/353.jpg
 353	person	(67,0,163,114)	6	data4/boild-egg/353.jpg
 354	pan	(193,119,63,69)	3	data4/boild-egg/354.jpg
 354	egg	(208,143,25,23)	0	data4/boild-egg/354.jpg
 354	pan	(193,119,63,69)	3	data4/boild-egg/354.jpg
-354	pan handle	(200,71,28,47)	1	data4/boild-egg/354.jpg
+354	pan handler	(200,71,28,47)	1	data4/boild-egg/354.jpg
 354	pan	(193,119,63,69)	3	data4/boild-egg/354.jpg
 354	bowl	(49,116,44,40)	2	data4/boild-egg/354.jpg
 354	person	(69,0,162,114)	6	data4/boild-egg/354.jpg
 355	pan	(193,119,63,69)	3	data4/boild-egg/355.jpg
 355	egg	(208,143,25,23)	0	data4/boild-egg/355.jpg
 355	pan	(193,119,63,69)	3	data4/boild-egg/355.jpg
-355	pan handle	(205,68,30,53)	1	data4/boild-egg/355.jpg
+355	pan handler	(205,68,30,53)	1	data4/boild-egg/355.jpg
 355	pan	(193,119,63,69)	3	data4/boild-egg/355.jpg
 355	bowl	(49,116,44,40)	2	data4/boild-egg/355.jpg
 355	person	(71,0,166,114)	6	data4/boild-egg/355.jpg
 356	pan	(193,119,63,69)	3	data4/boild-egg/356.jpg
 356	egg	(208,143,25,23)	0	data4/boild-egg/356.jpg
 356	pan	(193,119,63,69)	3	data4/boild-egg/356.jpg
-356	pan handle	(206,71,30,49)	1	data4/boild-egg/356.jpg
+356	pan handler	(206,71,30,49)	1	data4/boild-egg/356.jpg
 356	pan	(193,119,63,69)	3	data4/boild-egg/356.jpg
 356	bowl	(49,116,44,40)	2	data4/boild-egg/356.jpg
 356	person	(73,0,167,114)	6	data4/boild-egg/356.jpg
 357	pan	(193,119,63,69)	3	data4/boild-egg/357.jpg
 357	egg	(208,143,25,23)	0	data4/boild-egg/357.jpg
 357	pan	(193,119,63,69)	3	data4/boild-egg/357.jpg
-357	pan handle	(206,73,33,48)	1	data4/boild-egg/357.jpg
+357	pan handler	(206,73,33,48)	1	data4/boild-egg/357.jpg
 357	pan	(193,119,63,69)	3	data4/boild-egg/357.jpg
 357	bowl	(49,116,44,40)	2	data4/boild-egg/357.jpg
 357	person	(75,0,163,114)	6	data4/boild-egg/357.jpg
 358	pan	(193,119,63,69)	3	data4/boild-egg/358.jpg
 358	egg	(208,143,25,23)	0	data4/boild-egg/358.jpg
 358	pan	(193,119,63,69)	3	data4/boild-egg/358.jpg
-358	pan handle	(210,72,28,50)	1	data4/boild-egg/358.jpg
+358	pan handler	(210,72,28,50)	1	data4/boild-egg/358.jpg
 358	pan	(193,119,63,69)	3	data4/boild-egg/358.jpg
 358	bowl	(49,116,44,40)	2	data4/boild-egg/358.jpg
 358	person	(77,0,166,114)	6	data4/boild-egg/358.jpg
 359	pan	(193,119,63,69)	3	data4/boild-egg/359.jpg
 359	egg	(208,143,25,23)	0	data4/boild-egg/359.jpg
 359	pan	(193,119,63,69)	3	data4/boild-egg/359.jpg
-359	pan handle	(211,76,27,52)	1	data4/boild-egg/359.jpg
+359	pan handler	(211,76,27,52)	1	data4/boild-egg/359.jpg
 359	pan	(193,119,63,69)	3	data4/boild-egg/359.jpg
 359	bowl	(49,116,44,40)	2	data4/boild-egg/359.jpg
 359	person	(78,0,165,114)	6	data4/boild-egg/359.jpg
 360	pan	(193,119,63,69)	3	data4/boild-egg/360.jpg
 360	egg	(208,143,25,23)	0	data4/boild-egg/360.jpg
 360	pan	(193,119,63,69)	3	data4/boild-egg/360.jpg
-360	pan handle	(212,76,27,55)	1	data4/boild-egg/360.jpg
+360	pan handler	(212,76,27,55)	1	data4/boild-egg/360.jpg
 360	pan	(193,119,63,69)	3	data4/boild-egg/360.jpg
 360	bowl	(49,116,44,40)	2	data4/boild-egg/360.jpg
 360	person	(80,0,163,114)	6	data4/boild-egg/360.jpg
 361	pan	(193,119,63,69)	3	data4/boild-egg/361.jpg
 361	egg	(208,143,25,23)	0	data4/boild-egg/361.jpg
 361	pan	(193,119,63,69)	3	data4/boild-egg/361.jpg
-361	pan handle	(214,84,24,45)	1	data4/boild-egg/361.jpg
+361	pan handler	(214,84,24,45)	1	data4/boild-egg/361.jpg
 361	pan	(193,119,63,69)	3	data4/boild-egg/361.jpg
 361	bowl	(49,116,44,40)	2	data4/boild-egg/361.jpg
 361	person	(81,0,164,114)	6	data4/boild-egg/361.jpg
 362	pan	(193,119,63,69)	3	data4/boild-egg/362.jpg
 362	egg	(208,143,25,23)	0	data4/boild-egg/362.jpg
 362	pan	(193,119,63,69)	3	data4/boild-egg/362.jpg
-362	pan handle	(214,88,24,44)	1	data4/boild-egg/362.jpg
+362	pan handler	(214,88,24,44)	1	data4/boild-egg/362.jpg
 362	pan	(193,119,63,69)	3	data4/boild-egg/362.jpg
 362	bowl	(49,116,44,40)	2	data4/boild-egg/362.jpg
 362	person	(83,0,162,114)	6	data4/boild-egg/362.jpg
 363	pan	(193,119,63,69)	3	data4/boild-egg/363.jpg
 363	egg	(208,143,25,23)	0	data4/boild-egg/363.jpg
 363	pan	(193,119,63,69)	3	data4/boild-egg/363.jpg
-363	pan handle	(213,87,26,44)	1	data4/boild-egg/363.jpg
+363	pan handler	(213,87,26,44)	1	data4/boild-egg/363.jpg
 363	pan	(193,119,63,69)	3	data4/boild-egg/363.jpg
 363	bowl	(49,116,44,40)	2	data4/boild-egg/363.jpg
 363	person	(85,0,161,114)	6	data4/boild-egg/363.jpg
 364	pan	(193,119,63,69)	3	data4/boild-egg/364.jpg
 364	egg	(208,143,25,23)	0	data4/boild-egg/364.jpg
 364	pan	(193,119,63,69)	3	data4/boild-egg/364.jpg
-364	pan handle	(214,91,24,42)	1	data4/boild-egg/364.jpg
+364	pan handler	(214,91,24,42)	1	data4/boild-egg/364.jpg
 364	pan	(193,119,63,69)	3	data4/boild-egg/364.jpg
 364	bowl	(49,116,44,40)	2	data4/boild-egg/364.jpg
 364	person	(86,0,159,114)	6	data4/boild-egg/364.jpg
 365	pan	(193,119,63,69)	3	data4/boild-egg/365.jpg
 365	egg	(208,143,25,23)	0	data4/boild-egg/365.jpg
 365	pan	(193,119,63,69)	3	data4/boild-egg/365.jpg
-365	pan handle	(213,86,28,47)	1	data4/boild-egg/365.jpg
+365	pan handler	(213,86,28,47)	1	data4/boild-egg/365.jpg
 365	pan	(193,119,63,69)	3	data4/boild-egg/365.jpg
 365	bowl	(49,116,44,40)	2	data4/boild-egg/365.jpg
 365	person	(88,0,158,114)	6	data4/boild-egg/365.jpg
 366	pan	(193,119,63,69)	3	data4/boild-egg/366.jpg
 366	egg	(208,143,25,23)	0	data4/boild-egg/366.jpg
 366	pan	(193,119,63,69)	3	data4/boild-egg/366.jpg
-366	pan handle	(213,89,28,43)	1	data4/boild-egg/366.jpg
+366	pan handler	(213,89,28,43)	1	data4/boild-egg/366.jpg
 366	pan	(193,119,63,69)	3	data4/boild-egg/366.jpg
 366	bowl	(49,116,44,40)	2	data4/boild-egg/366.jpg
 366	person	(89,0,155,114)	6	data4/boild-egg/366.jpg
 367	pan	(193,119,63,69)	3	data4/boild-egg/367.jpg
 367	egg	(208,143,25,23)	0	data4/boild-egg/367.jpg
 367	pan	(193,119,63,69)	3	data4/boild-egg/367.jpg
-367	pan handle	(215,94,26,40)	1	data4/boild-egg/367.jpg
+367	pan handler	(215,94,26,40)	1	data4/boild-egg/367.jpg
 367	pan	(193,119,63,69)	3	data4/boild-egg/367.jpg
 367	bowl	(49,116,44,40)	2	data4/boild-egg/367.jpg
 367	person	(91,0,153,114)	6	data4/boild-egg/367.jpg
 368	pan	(193,119,63,69)	3	data4/boild-egg/368.jpg
 368	egg	(208,143,25,23)	0	data4/boild-egg/368.jpg
 368	pan	(193,119,63,69)	3	data4/boild-egg/368.jpg
-368	pan handle	(215,94,26,40)	1	data4/boild-egg/368.jpg
+368	pan handler	(215,94,26,40)	1	data4/boild-egg/368.jpg
 368	pan	(193,119,63,69)	3	data4/boild-egg/368.jpg
 368	bowl	(49,116,44,40)	2	data4/boild-egg/368.jpg
 368	person	(92,0,153,114)	6	data4/boild-egg/368.jpg
 369	pan	(193,119,63,69)	3	data4/boild-egg/369.jpg
 369	egg	(208,143,25,23)	0	data4/boild-egg/369.jpg
 369	pan	(193,119,63,69)	3	data4/boild-egg/369.jpg
-369	pan handle	(215,94,26,40)	1	data4/boild-egg/369.jpg
+369	pan handler	(215,94,26,40)	1	data4/boild-egg/369.jpg
 369	pan	(193,119,63,69)	3	data4/boild-egg/369.jpg
 369	bowl	(49,116,44,40)	2	data4/boild-egg/369.jpg
 369	person	(93,0,154,114)	6	data4/boild-egg/369.jpg
 370	pan	(193,119,63,69)	3	data4/boild-egg/370.jpg
 370	egg	(208,143,25,23)	0	data4/boild-egg/370.jpg
 370	pan	(193,119,63,69)	3	data4/boild-egg/370.jpg
-370	pan handle	(215,94,26,40)	1	data4/boild-egg/370.jpg
+370	pan handler	(215,94,26,40)	1	data4/boild-egg/370.jpg
 370	pan	(193,119,63,69)	3	data4/boild-egg/370.jpg
 370	bowl	(49,116,44,40)	2	data4/boild-egg/370.jpg
 370	person	(94,0,153,114)	6	data4/boild-egg/370.jpg
 371	pan	(193,119,63,69)	3	data4/boild-egg/371.jpg
 371	egg	(208,143,25,23)	0	data4/boild-egg/371.jpg
 371	pan	(193,119,63,69)	3	data4/boild-egg/371.jpg
-371	pan handle	(215,94,26,40)	1	data4/boild-egg/371.jpg
+371	pan handler	(215,94,26,40)	1	data4/boild-egg/371.jpg
 371	pan	(193,119,63,69)	3	data4/boild-egg/371.jpg
 371	bowl	(49,116,44,40)	2	data4/boild-egg/371.jpg
 371	person	(94,0,155,114)	6	data4/boild-egg/371.jpg
 372	pan	(193,119,63,69)	3	data4/boild-egg/372.jpg
 372	egg	(208,143,25,23)	0	data4/boild-egg/372.jpg
 372	pan	(193,119,63,69)	3	data4/boild-egg/372.jpg
-372	pan handle	(215,94,26,40)	1	data4/boild-egg/372.jpg
+372	pan handler	(215,94,26,40)	1	data4/boild-egg/372.jpg
 372	pan	(193,119,63,69)	3	data4/boild-egg/372.jpg
 372	bowl	(49,116,44,40)	2	data4/boild-egg/372.jpg
 372	person	(95,0,153,114)	6	data4/boild-egg/372.jpg
 373	pan	(193,119,63,69)	3	data4/boild-egg/373.jpg
 373	egg	(208,143,25,23)	0	data4/boild-egg/373.jpg
 373	pan	(193,119,63,69)	3	data4/boild-egg/373.jpg
-373	pan handle	(215,94,26,40)	1	data4/boild-egg/373.jpg
+373	pan handler	(215,94,26,40)	1	data4/boild-egg/373.jpg
 373	pan	(193,119,63,69)	3	data4/boild-egg/373.jpg
 373	bowl	(49,116,44,40)	2	data4/boild-egg/373.jpg
 373	person	(96,0,153,114)	6	data4/boild-egg/373.jpg
 374	pan	(193,119,63,69)	3	data4/boild-egg/374.jpg
 374	egg	(208,143,25,23)	0	data4/boild-egg/374.jpg
 374	pan	(193,119,63,69)	3	data4/boild-egg/374.jpg
-374	pan handle	(215,94,26,40)	1	data4/boild-egg/374.jpg
+374	pan handler	(215,94,26,40)	1	data4/boild-egg/374.jpg
 374	pan	(193,119,63,69)	3	data4/boild-egg/374.jpg
 374	bowl	(49,116,44,40)	2	data4/boild-egg/374.jpg
 374	person	(97,0,152,114)	6	data4/boild-egg/374.jpg
 375	pan	(193,119,63,69)	3	data4/boild-egg/375.jpg
 375	egg	(208,143,25,23)	0	data4/boild-egg/375.jpg
 375	pan	(193,119,63,69)	3	data4/boild-egg/375.jpg
-375	pan handle	(214,82,28,50)	1	data4/boild-egg/375.jpg
+375	pan handler	(214,82,28,50)	1	data4/boild-egg/375.jpg
 375	pan	(193,119,63,69)	3	data4/boild-egg/375.jpg
 375	bowl	(49,116,44,40)	2	data4/boild-egg/375.jpg
 375	person	(97,0,154,114)	6	data4/boild-egg/375.jpg
 376	pan	(193,119,63,69)	3	data4/boild-egg/376.jpg
 376	egg	(208,143,25,23)	0	data4/boild-egg/376.jpg
 376	pan	(193,119,63,69)	3	data4/boild-egg/376.jpg
-376	pan handle	(214,82,28,50)	1	data4/boild-egg/376.jpg
+376	pan handler	(214,82,28,50)	1	data4/boild-egg/376.jpg
 376	pan	(193,119,63,69)	3	data4/boild-egg/376.jpg
 376	bowl	(49,116,44,40)	2	data4/boild-egg/376.jpg
 376	person	(98,0,153,120)	6	data4/boild-egg/376.jpg
 377	pan	(193,119,63,69)	3	data4/boild-egg/377.jpg
 377	egg	(208,143,25,23)	0	data4/boild-egg/377.jpg
 377	pan	(193,119,63,69)	3	data4/boild-egg/377.jpg
-377	pan handle	(214,82,28,50)	1	data4/boild-egg/377.jpg
+377	pan handler	(214,82,28,50)	1	data4/boild-egg/377.jpg
 377	pan	(193,119,63,69)	3	data4/boild-egg/377.jpg
 377	bowl	(49,116,44,40)	2	data4/boild-egg/377.jpg
 377	person	(99,0,150,114)	6	data4/boild-egg/377.jpg
 378	pan	(193,119,63,69)	3	data4/boild-egg/378.jpg
 378	egg	(208,143,25,23)	0	data4/boild-egg/378.jpg
 378	pan	(193,119,63,69)	3	data4/boild-egg/378.jpg
-378	pan handle	(214,82,28,50)	1	data4/boild-egg/378.jpg
+378	pan handler	(214,82,28,50)	1	data4/boild-egg/378.jpg
 378	pan	(193,119,63,69)	3	data4/boild-egg/378.jpg
 378	bowl	(49,116,44,40)	2	data4/boild-egg/378.jpg
 378	person	(99,0,151,114)	6	data4/boild-egg/378.jpg
 379	pan	(193,119,63,69)	3	data4/boild-egg/379.jpg
 379	egg	(208,143,25,23)	0	data4/boild-egg/379.jpg
 379	pan	(193,119,63,69)	3	data4/boild-egg/379.jpg
-379	pan handle	(214,82,28,50)	1	data4/boild-egg/379.jpg
+379	pan handler	(214,82,28,50)	1	data4/boild-egg/379.jpg
 379	pan	(193,119,63,69)	3	data4/boild-egg/379.jpg
 379	bowl	(49,116,44,40)	2	data4/boild-egg/379.jpg
 379	person	(100,0,152,114)	6	data4/boild-egg/379.jpg
 380	pan	(193,119,63,69)	3	data4/boild-egg/380.jpg
 380	egg	(208,143,25,23)	0	data4/boild-egg/380.jpg
 380	pan	(193,119,63,69)	3	data4/boild-egg/380.jpg
-380	pan handle	(214,82,28,50)	1	data4/boild-egg/380.jpg
+380	pan handler	(214,82,28,50)	1	data4/boild-egg/380.jpg
 380	pan	(193,119,63,69)	3	data4/boild-egg/380.jpg
 380	bowl	(49,116,44,40)	2	data4/boild-egg/380.jpg
 380	person	(101,0,152,114)	6	data4/boild-egg/380.jpg
 381	pan	(193,119,63,69)	3	data4/boild-egg/381.jpg
 381	egg	(208,143,25,23)	0	data4/boild-egg/381.jpg
 381	pan	(193,119,63,69)	3	data4/boild-egg/381.jpg
-381	pan handle	(214,82,28,50)	1	data4/boild-egg/381.jpg
+381	pan handler	(214,82,28,50)	1	data4/boild-egg/381.jpg
 381	pan	(193,119,63,69)	3	data4/boild-egg/381.jpg
 381	bowl	(49,116,44,40)	2	data4/boild-egg/381.jpg
 381	person	(101,0,154,114)	6	data4/boild-egg/381.jpg
 382	pan	(193,119,63,69)	3	data4/boild-egg/382.jpg
 382	egg	(208,143,25,23)	0	data4/boild-egg/382.jpg
 382	pan	(193,119,63,69)	3	data4/boild-egg/382.jpg
-382	pan handle	(214,82,28,50)	1	data4/boild-egg/382.jpg
+382	pan handler	(214,82,28,50)	1	data4/boild-egg/382.jpg
 382	pan	(193,119,63,69)	3	data4/boild-egg/382.jpg
 382	bowl	(49,116,44,40)	2	data4/boild-egg/382.jpg
 382	person	(102,0,155,114)	6	data4/boild-egg/382.jpg
 383	pan	(193,119,63,69)	3	data4/boild-egg/383.jpg
 383	egg	(208,143,25,23)	0	data4/boild-egg/383.jpg
 383	pan	(193,119,63,69)	3	data4/boild-egg/383.jpg
-383	pan handle	(214,82,28,50)	1	data4/boild-egg/383.jpg
+383	pan handler	(214,82,28,50)	1	data4/boild-egg/383.jpg
 383	pan	(193,119,63,69)	3	data4/boild-egg/383.jpg
 383	bowl	(49,116,44,40)	2	data4/boild-egg/383.jpg
 383	person	(103,0,154,114)	6	data4/boild-egg/383.jpg
 384	pan	(193,119,63,69)	3	data4/boild-egg/384.jpg
 384	egg	(208,143,25,23)	0	data4/boild-egg/384.jpg
 384	pan	(193,119,63,69)	3	data4/boild-egg/384.jpg
-384	pan handle	(214,82,28,50)	1	data4/boild-egg/384.jpg
+384	pan handler	(214,82,28,50)	1	data4/boild-egg/384.jpg
 384	pan	(193,119,63,69)	3	data4/boild-egg/384.jpg
 384	bowl	(49,116,44,40)	2	data4/boild-egg/384.jpg
 384	person	(104,0,153,114)	6	data4/boild-egg/384.jpg
 385	pan	(193,119,63,69)	3	data4/boild-egg/385.jpg
 385	egg	(208,143,25,23)	0	data4/boild-egg/385.jpg
 385	pan	(193,119,63,69)	3	data4/boild-egg/385.jpg
-385	pan handle	(214,82,28,50)	1	data4/boild-egg/385.jpg
+385	pan handler	(214,82,28,50)	1	data4/boild-egg/385.jpg
 385	pan	(193,119,63,69)	3	data4/boild-egg/385.jpg
 385	bowl	(49,116,44,40)	2	data4/boild-egg/385.jpg
 385	person	(104,0,153,114)	6	data4/boild-egg/385.jpg
 386	pan	(193,119,63,69)	3	data4/boild-egg/386.jpg
 386	egg	(208,143,25,23)	0	data4/boild-egg/386.jpg
 386	pan	(193,119,63,69)	3	data4/boild-egg/386.jpg
-386	pan handle	(214,82,28,50)	1	data4/boild-egg/386.jpg
+386	pan handler	(214,82,28,50)	1	data4/boild-egg/386.jpg
 386	pan	(193,119,63,69)	3	data4/boild-egg/386.jpg
 386	bowl	(49,116,44,40)	2	data4/boild-egg/386.jpg
 386	person	(102,0,155,121)	6	data4/boild-egg/386.jpg
 387	pan	(193,119,63,69)	3	data4/boild-egg/387.jpg
 387	egg	(208,143,25,23)	0	data4/boild-egg/387.jpg
 387	pan	(193,119,63,69)	3	data4/boild-egg/387.jpg
-387	pan handle	(214,82,28,50)	1	data4/boild-egg/387.jpg
+387	pan handler	(214,82,28,50)	1	data4/boild-egg/387.jpg
 387	pan	(193,119,63,69)	3	data4/boild-egg/387.jpg
 387	bowl	(49,116,44,40)	2	data4/boild-egg/387.jpg
 387	person	(102,0,155,121)	6	data4/boild-egg/387.jpg
 388	pan	(193,119,63,69)	3	data4/boild-egg/388.jpg
 388	egg	(208,143,25,23)	0	data4/boild-egg/388.jpg
 388	pan	(193,119,63,69)	3	data4/boild-egg/388.jpg
-388	pan handle	(214,82,28,50)	1	data4/boild-egg/388.jpg
+388	pan handler	(214,82,28,50)	1	data4/boild-egg/388.jpg
 388	pan	(193,119,63,69)	3	data4/boild-egg/388.jpg
 388	bowl	(49,116,44,40)	2	data4/boild-egg/388.jpg
 388	person	(102,0,155,121)	6	data4/boild-egg/388.jpg
 389	pan	(193,119,63,69)	3	data4/boild-egg/389.jpg
 389	egg	(208,143,25,23)	0	data4/boild-egg/389.jpg
 389	pan	(193,119,63,69)	3	data4/boild-egg/389.jpg
-389	pan handle	(214,82,28,50)	1	data4/boild-egg/389.jpg
+389	pan handler	(214,82,28,50)	1	data4/boild-egg/389.jpg
 389	pan	(193,119,63,69)	3	data4/boild-egg/389.jpg
 389	bowl	(49,116,44,40)	2	data4/boild-egg/389.jpg
 389	person	(102,0,155,121)	6	data4/boild-egg/389.jpg
 390	pan	(193,119,63,69)	3	data4/boild-egg/390.jpg
 390	egg	(208,143,25,23)	0	data4/boild-egg/390.jpg
 390	pan	(193,119,63,69)	3	data4/boild-egg/390.jpg
-390	pan handle	(214,82,28,50)	1	data4/boild-egg/390.jpg
+390	pan handler	(214,82,28,50)	1	data4/boild-egg/390.jpg
 390	pan	(193,119,63,69)	3	data4/boild-egg/390.jpg
 390	bowl	(49,116,44,40)	2	data4/boild-egg/390.jpg
 390	person	(102,0,155,121)	6	data4/boild-egg/390.jpg
 391	pan	(193,119,63,69)	3	data4/boild-egg/391.jpg
 391	egg	(208,143,25,23)	0	data4/boild-egg/391.jpg
 391	pan	(193,119,63,69)	3	data4/boild-egg/391.jpg
-391	pan handle	(214,82,28,50)	1	data4/boild-egg/391.jpg
+391	pan handler	(214,82,28,50)	1	data4/boild-egg/391.jpg
 391	pan	(193,119,63,69)	3	data4/boild-egg/391.jpg
 391	bowl	(49,116,44,40)	2	data4/boild-egg/391.jpg
 391	person	(102,0,155,121)	6	data4/boild-egg/391.jpg
 392	pan	(193,119,63,69)	3	data4/boild-egg/392.jpg
 392	egg	(208,143,25,23)	0	data4/boild-egg/392.jpg
 392	pan	(193,119,63,69)	3	data4/boild-egg/392.jpg
-392	pan handle	(214,82,28,50)	1	data4/boild-egg/392.jpg
+392	pan handler	(214,82,28,50)	1	data4/boild-egg/392.jpg
 392	pan	(193,119,63,69)	3	data4/boild-egg/392.jpg
 392	bowl	(49,116,44,40)	2	data4/boild-egg/392.jpg
 392	person	(102,0,155,121)	6	data4/boild-egg/392.jpg
 393	pan	(193,119,63,69)	3	data4/boild-egg/393.jpg
 393	egg	(208,143,25,23)	0	data4/boild-egg/393.jpg
 393	pan	(193,119,63,69)	3	data4/boild-egg/393.jpg
-393	pan handle	(214,82,28,50)	1	data4/boild-egg/393.jpg
+393	pan handler	(214,82,28,50)	1	data4/boild-egg/393.jpg
 393	pan	(193,119,63,69)	3	data4/boild-egg/393.jpg
 393	bowl	(49,116,44,40)	2	data4/boild-egg/393.jpg
 393	person	(102,0,155,121)	6	data4/boild-egg/393.jpg
 394	pan	(193,119,63,69)	3	data4/boild-egg/394.jpg
 394	egg	(208,143,25,23)	0	data4/boild-egg/394.jpg
 394	pan	(193,119,63,69)	3	data4/boild-egg/394.jpg
-394	pan handle	(214,82,28,50)	1	data4/boild-egg/394.jpg
+394	pan handler	(214,82,28,50)	1	data4/boild-egg/394.jpg
 394	pan	(193,119,63,69)	3	data4/boild-egg/394.jpg
 394	bowl	(49,116,44,40)	2	data4/boild-egg/394.jpg
 394	person	(102,0,155,121)	6	data4/boild-egg/394.jpg
 395	pan	(193,119,63,69)	3	data4/boild-egg/395.jpg
 395	egg	(208,143,25,23)	0	data4/boild-egg/395.jpg
 395	pan	(193,119,63,69)	3	data4/boild-egg/395.jpg
-395	pan handle	(214,82,28,50)	1	data4/boild-egg/395.jpg
+395	pan handler	(214,82,28,50)	1	data4/boild-egg/395.jpg
 395	pan	(193,119,63,69)	3	data4/boild-egg/395.jpg
 395	bowl	(49,116,44,40)	2	data4/boild-egg/395.jpg
 395	person	(102,0,155,121)	6	data4/boild-egg/395.jpg
 396	pan	(193,119,63,69)	3	data4/boild-egg/396.jpg
 396	egg	(208,143,25,23)	0	data4/boild-egg/396.jpg
 396	pan	(193,119,63,69)	3	data4/boild-egg/396.jpg
-396	pan handle	(214,82,28,50)	1	data4/boild-egg/396.jpg
+396	pan handler	(214,82,28,50)	1	data4/boild-egg/396.jpg
 396	pan	(193,119,63,69)	3	data4/boild-egg/396.jpg
 396	bowl	(49,116,44,40)	2	data4/boild-egg/396.jpg
 396	person	(102,0,155,121)	6	data4/boild-egg/396.jpg
 397	pan	(193,119,63,69)	3	data4/boild-egg/397.jpg
 397	egg	(208,143,25,23)	0	data4/boild-egg/397.jpg
 397	pan	(193,119,63,69)	3	data4/boild-egg/397.jpg
-397	pan handle	(214,82,28,50)	1	data4/boild-egg/397.jpg
+397	pan handler	(214,82,28,50)	1	data4/boild-egg/397.jpg
 397	pan	(193,119,63,69)	3	data4/boild-egg/397.jpg
 397	bowl	(49,116,44,40)	2	data4/boild-egg/397.jpg
 397	person	(102,0,155,121)	6	data4/boild-egg/397.jpg
 398	pan	(193,119,63,69)	3	data4/boild-egg/398.jpg
 398	egg	(208,143,25,23)	0	data4/boild-egg/398.jpg
 398	pan	(193,119,63,69)	3	data4/boild-egg/398.jpg
-398	pan handle	(214,82,28,50)	1	data4/boild-egg/398.jpg
+398	pan handler	(214,82,28,50)	1	data4/boild-egg/398.jpg
 398	pan	(193,119,63,69)	3	data4/boild-egg/398.jpg
 398	bowl	(49,116,44,40)	2	data4/boild-egg/398.jpg
 398	person	(102,0,155,121)	6	data4/boild-egg/398.jpg
 399	pan	(193,119,63,69)	3	data4/boild-egg/399.jpg
 399	egg	(208,143,25,23)	0	data4/boild-egg/399.jpg
 399	pan	(193,119,63,69)	3	data4/boild-egg/399.jpg
-399	pan handle	(214,82,28,50)	1	data4/boild-egg/399.jpg
+399	pan handler	(214,82,28,50)	1	data4/boild-egg/399.jpg
 399	pan	(193,119,63,69)	3	data4/boild-egg/399.jpg
 399	bowl	(49,116,44,40)	2	data4/boild-egg/399.jpg
 399	person	(102,0,155,121)	6	data4/boild-egg/399.jpg
 400	pan	(193,119,63,69)	3	data4/boild-egg/400.jpg
 400	egg	(208,143,25,23)	0	data4/boild-egg/400.jpg
 400	pan	(193,119,63,69)	3	data4/boild-egg/400.jpg
-400	pan handle	(214,82,28,50)	1	data4/boild-egg/400.jpg
+400	pan handler	(214,82,28,50)	1	data4/boild-egg/400.jpg
 400	pan	(193,119,63,69)	3	data4/boild-egg/400.jpg
 400	bowl	(49,116,44,40)	2	data4/boild-egg/400.jpg
 400	person	(102,0,155,121)	6	data4/boild-egg/400.jpg
 401	pan	(193,119,63,69)	3	data4/boild-egg/401.jpg
 401	egg	(208,143,25,23)	0	data4/boild-egg/401.jpg
 401	pan	(193,119,63,69)	3	data4/boild-egg/401.jpg
-401	pan handle	(214,82,28,50)	1	data4/boild-egg/401.jpg
+401	pan handler	(214,82,28,50)	1	data4/boild-egg/401.jpg
 401	pan	(193,119,63,69)	3	data4/boild-egg/401.jpg
 401	bowl	(49,116,44,40)	2	data4/boild-egg/401.jpg
 401	person	(102,0,155,121)	6	data4/boild-egg/401.jpg
 402	pan	(193,119,63,69)	3	data4/boild-egg/402.jpg
 402	egg	(208,143,25,23)	0	data4/boild-egg/402.jpg
 402	pan	(193,119,63,69)	3	data4/boild-egg/402.jpg
-402	pan handle	(214,82,28,50)	1	data4/boild-egg/402.jpg
+402	pan handler	(214,82,28,50)	1	data4/boild-egg/402.jpg
 402	pan	(193,119,63,69)	3	data4/boild-egg/402.jpg
 402	bowl	(49,116,44,40)	2	data4/boild-egg/402.jpg
 402	person	(102,0,155,121)	6	data4/boild-egg/402.jpg
 403	pan	(193,119,63,69)	3	data4/boild-egg/403.jpg
 403	egg	(208,143,25,23)	0	data4/boild-egg/403.jpg
 403	pan	(193,119,63,69)	3	data4/boild-egg/403.jpg
-403	pan handle	(214,82,28,50)	1	data4/boild-egg/403.jpg
+403	pan handler	(214,82,28,50)	1	data4/boild-egg/403.jpg
 403	pan	(193,119,63,69)	3	data4/boild-egg/403.jpg
 403	bowl	(49,116,44,40)	2	data4/boild-egg/403.jpg
 403	person	(102,0,155,121)	6	data4/boild-egg/403.jpg
 404	pan	(193,119,63,69)	3	data4/boild-egg/404.jpg
 404	egg	(208,143,25,23)	0	data4/boild-egg/404.jpg
 404	pan	(193,119,63,69)	3	data4/boild-egg/404.jpg
-404	pan handle	(214,82,28,50)	1	data4/boild-egg/404.jpg
+404	pan handler	(214,82,28,50)	1	data4/boild-egg/404.jpg
 404	pan	(193,119,63,69)	3	data4/boild-egg/404.jpg
 404	bowl	(49,116,44,40)	2	data4/boild-egg/404.jpg
 404	person	(102,0,155,121)	6	data4/boild-egg/404.jpg
 405	pan	(193,119,63,69)	3	data4/boild-egg/405.jpg
 405	egg	(208,143,25,23)	0	data4/boild-egg/405.jpg
 405	pan	(193,119,63,69)	3	data4/boild-egg/405.jpg
-405	pan handle	(214,82,28,50)	1	data4/boild-egg/405.jpg
+405	pan handler	(214,82,28,50)	1	data4/boild-egg/405.jpg
 405	pan	(193,119,63,69)	3	data4/boild-egg/405.jpg
 405	bowl	(49,116,44,40)	2	data4/boild-egg/405.jpg
 405	person	(102,0,155,121)	6	data4/boild-egg/405.jpg
 406	pan	(193,119,63,69)	3	data4/boild-egg/406.jpg
 406	egg	(208,143,25,23)	0	data4/boild-egg/406.jpg
 406	pan	(193,119,63,69)	3	data4/boild-egg/406.jpg
-406	pan handle	(214,82,28,50)	1	data4/boild-egg/406.jpg
+406	pan handler	(214,82,28,50)	1	data4/boild-egg/406.jpg
 406	pan	(193,119,63,69)	3	data4/boild-egg/406.jpg
 406	bowl	(49,116,44,40)	2	data4/boild-egg/406.jpg
 406	person	(102,0,155,121)	6	data4/boild-egg/406.jpg
 407	pan	(193,119,63,69)	3	data4/boild-egg/407.jpg
 407	egg	(208,143,25,23)	0	data4/boild-egg/407.jpg
 407	pan	(193,119,63,69)	3	data4/boild-egg/407.jpg
-407	pan handle	(214,82,28,50)	1	data4/boild-egg/407.jpg
+407	pan handler	(214,82,28,50)	1	data4/boild-egg/407.jpg
 407	pan	(193,119,63,69)	3	data4/boild-egg/407.jpg
 407	bowl	(49,116,44,40)	2	data4/boild-egg/407.jpg
 407	person	(102,0,155,121)	6	data4/boild-egg/407.jpg
 408	pan	(193,119,63,69)	3	data4/boild-egg/408.jpg
 408	egg	(208,143,25,23)	0	data4/boild-egg/408.jpg
 408	pan	(193,119,63,69)	3	data4/boild-egg/408.jpg
-408	pan handle	(214,82,28,50)	1	data4/boild-egg/408.jpg
+408	pan handler	(214,82,28,50)	1	data4/boild-egg/408.jpg
 408	pan	(193,119,63,69)	3	data4/boild-egg/408.jpg
 408	bowl	(49,116,44,40)	2	data4/boild-egg/408.jpg
 408	person	(102,0,155,121)	6	data4/boild-egg/408.jpg
 409	pan	(193,119,63,69)	3	data4/boild-egg/409.jpg
 409	egg	(208,143,25,23)	0	data4/boild-egg/409.jpg
 409	pan	(193,119,63,69)	3	data4/boild-egg/409.jpg
-409	pan handle	(214,82,28,50)	1	data4/boild-egg/409.jpg
+409	pan handler	(214,82,28,50)	1	data4/boild-egg/409.jpg
 409	pan	(193,119,63,69)	3	data4/boild-egg/409.jpg
 409	bowl	(49,116,44,40)	2	data4/boild-egg/409.jpg
 409	person	(102,0,155,121)	6	data4/boild-egg/409.jpg
 410	pan	(193,119,63,69)	3	data4/boild-egg/410.jpg
 410	egg	(208,143,25,23)	0	data4/boild-egg/410.jpg
 410	pan	(193,119,63,69)	3	data4/boild-egg/410.jpg
-410	pan handle	(214,82,28,50)	1	data4/boild-egg/410.jpg
+410	pan handler	(214,82,28,50)	1	data4/boild-egg/410.jpg
 410	pan	(193,119,63,69)	3	data4/boild-egg/410.jpg
 410	bowl	(49,116,44,40)	2	data4/boild-egg/410.jpg
 410	person	(102,0,155,121)	6	data4/boild-egg/410.jpg
 411	pan	(193,119,63,69)	3	data4/boild-egg/411.jpg
 411	egg	(208,143,25,23)	0	data4/boild-egg/411.jpg
 411	pan	(193,119,63,69)	3	data4/boild-egg/411.jpg
-411	pan handle	(214,82,28,50)	1	data4/boild-egg/411.jpg
+411	pan handler	(214,82,28,50)	1	data4/boild-egg/411.jpg
 411	pan	(193,119,63,69)	3	data4/boild-egg/411.jpg
 411	bowl	(49,116,44,40)	2	data4/boild-egg/411.jpg
 411	person	(102,0,155,121)	6	data4/boild-egg/411.jpg
 412	pan	(193,119,63,69)	3	data4/boild-egg/412.jpg
 412	egg	(208,143,25,23)	0	data4/boild-egg/412.jpg
 412	pan	(193,119,63,69)	3	data4/boild-egg/412.jpg
-412	pan handle	(214,82,28,50)	1	data4/boild-egg/412.jpg
+412	pan handler	(214,82,28,50)	1	data4/boild-egg/412.jpg
 412	pan	(193,119,63,69)	3	data4/boild-egg/412.jpg
 412	bowl	(49,116,44,40)	2	data4/boild-egg/412.jpg
 412	person	(102,0,155,121)	6	data4/boild-egg/412.jpg
 413	pan	(193,119,63,69)	3	data4/boild-egg/413.jpg
 413	egg	(208,143,25,23)	0	data4/boild-egg/413.jpg
 413	pan	(193,119,63,69)	3	data4/boild-egg/413.jpg
-413	pan handle	(214,82,28,50)	1	data4/boild-egg/413.jpg
+413	pan handler	(214,82,28,50)	1	data4/boild-egg/413.jpg
 413	pan	(193,119,63,69)	3	data4/boild-egg/413.jpg
 413	bowl	(49,116,44,40)	2	data4/boild-egg/413.jpg
 413	person	(102,0,155,121)	6	data4/boild-egg/413.jpg
 414	pan	(193,119,63,69)	3	data4/boild-egg/414.jpg
 414	egg	(208,143,25,23)	0	data4/boild-egg/414.jpg
 414	pan	(193,119,63,69)	3	data4/boild-egg/414.jpg
-414	pan handle	(214,82,28,50)	1	data4/boild-egg/414.jpg
+414	pan handler	(214,82,28,50)	1	data4/boild-egg/414.jpg
 414	pan	(193,119,63,69)	3	data4/boild-egg/414.jpg
 414	bowl	(49,116,44,40)	2	data4/boild-egg/414.jpg
 414	person	(102,0,155,121)	6	data4/boild-egg/414.jpg
 415	pan	(193,119,63,69)	3	data4/boild-egg/415.jpg
 415	egg	(208,143,25,23)	0	data4/boild-egg/415.jpg
 415	pan	(193,119,63,69)	3	data4/boild-egg/415.jpg
-415	pan handle	(214,82,28,50)	1	data4/boild-egg/415.jpg
+415	pan handler	(214,82,28,50)	1	data4/boild-egg/415.jpg
 415	pan	(193,119,63,69)	3	data4/boild-egg/415.jpg
 415	bowl	(49,116,44,40)	2	data4/boild-egg/415.jpg
 415	person	(102,0,155,121)	6	data4/boild-egg/415.jpg
 416	pan	(193,119,63,69)	3	data4/boild-egg/416.jpg
 416	egg	(208,143,25,23)	0	data4/boild-egg/416.jpg
 416	pan	(193,119,63,69)	3	data4/boild-egg/416.jpg
-416	pan handle	(214,82,28,50)	1	data4/boild-egg/416.jpg
+416	pan handler	(214,82,28,50)	1	data4/boild-egg/416.jpg
 416	pan	(193,119,63,69)	3	data4/boild-egg/416.jpg
 416	bowl	(49,116,44,40)	2	data4/boild-egg/416.jpg
 416	person	(102,0,155,121)	6	data4/boild-egg/416.jpg
 417	pan	(193,119,63,69)	3	data4/boild-egg/417.jpg
 417	egg	(208,143,25,23)	0	data4/boild-egg/417.jpg
 417	pan	(193,119,63,69)	3	data4/boild-egg/417.jpg
-417	pan handle	(214,82,28,50)	1	data4/boild-egg/417.jpg
+417	pan handler	(214,82,28,50)	1	data4/boild-egg/417.jpg
 417	pan	(193,119,63,69)	3	data4/boild-egg/417.jpg
 417	bowl	(49,116,44,40)	2	data4/boild-egg/417.jpg
 417	person	(102,0,155,121)	6	data4/boild-egg/417.jpg
 418	pan	(193,119,63,69)	3	data4/boild-egg/418.jpg
 418	egg	(208,143,25,23)	0	data4/boild-egg/418.jpg
 418	pan	(193,119,63,69)	3	data4/boild-egg/418.jpg
-418	pan handle	(214,82,28,50)	1	data4/boild-egg/418.jpg
+418	pan handler	(214,82,28,50)	1	data4/boild-egg/418.jpg
 418	pan	(193,119,63,69)	3	data4/boild-egg/418.jpg
 418	bowl	(49,116,44,40)	2	data4/boild-egg/418.jpg
 418	person	(102,0,155,121)	6	data4/boild-egg/418.jpg
 419	pan	(193,119,63,69)	3	data4/boild-egg/419.jpg
 419	egg	(208,143,25,23)	0	data4/boild-egg/419.jpg
 419	pan	(193,119,63,69)	3	data4/boild-egg/419.jpg
-419	pan handle	(214,82,28,50)	1	data4/boild-egg/419.jpg
+419	pan handler	(214,82,28,50)	1	data4/boild-egg/419.jpg
 419	pan	(193,119,63,69)	3	data4/boild-egg/419.jpg
 419	bowl	(49,116,44,40)	2	data4/boild-egg/419.jpg
 419	person	(102,0,155,121)	6	data4/boild-egg/419.jpg
 420	pan	(193,119,63,69)	3	data4/boild-egg/420.jpg
 420	egg	(208,143,25,23)	0	data4/boild-egg/420.jpg
 420	pan	(193,119,63,69)	3	data4/boild-egg/420.jpg
-420	pan handle	(214,82,28,50)	1	data4/boild-egg/420.jpg
+420	pan handler	(214,82,28,50)	1	data4/boild-egg/420.jpg
 420	pan	(193,119,63,69)	3	data4/boild-egg/420.jpg
 420	bowl	(49,116,44,40)	2	data4/boild-egg/420.jpg
 420	pan	(193,119,63,69)	3	data4/boild-egg/420.jpg
