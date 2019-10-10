@@ -40,12 +40,12 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 
 import os
 import argparse
-import ast
-from os.path import dirname, join, exists, isdir
-from os.path import splitext, basename, dirname
+from os.path import join, isdir, splitext, basename
 #import xml.etree.cElementTree as ET
 from lxml import etree as ET
 from PIL import Image
+
+import lis
 
 
 class VOCFile(object):
@@ -92,44 +92,33 @@ class VOCFile(object):
         fileout = join(folderout, fname+'.xml')
         tree = ET.ElementTree(self.xml)
         tree.write(fileout, pretty_print=True)
+# End of VOCFile class
 
 
 def main(inputfile, folderout):
     if not isdir(folderout):
         os.mkdir(folderout)
-    with open(inputfile) as fin:
-        last_id = -1
-        for line in fin:
-            if line.startswith('Frame') or \
-               line.startswith('---') or \
-               line.startswith('Modified'):
-                continue
-            #0 \t object \t (52,104,52,43) \t 0 \t data1/boild-egg/0.jpg 
-            arr = line.strip().split('\t')
-            idfr = int(arr[0])
-            obj = arr[1]
-            x, y, w, h = map(int, ast.literal_eval(arr[2]))
-            idobj = arr[3]
-            path = arr[4]
 
-            if last_id == -1:
-                xml = VOCFile(path, width=256, height=256)
-                xml.add_object(obj, x, y, w, h)
-                last_id = idfr
-            elif idfr != last_id:
-                xml.save_xml(folderout)
-                xml = VOCFile(path, width=256, height=256)
-                xml.add_object(obj, x, y, w, h)
-                last_id = idfr
-            else:
-                xml.add_object(obj, x, y, w, h)
+    flis = lis.LIS(inputfile)
+    last_id = -1
+    for _ in flis:
+        #0 \t object \t (52,104,52,43) \t 0 \t data1/boild-egg/0.jpg 
+        if last_id == -1:
+            xml = VOCFile(flis.path, width=256, height=256)
+            xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
+            last_id = flis.idfr
+        elif flis.idfr != last_id:
+            xml.save_xml(folderout)
+            xml = VOCFile(flis.path, width=256, height=256)
+            xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
+            last_id = flis.idfr
+        else:
+            xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('inputfile', metavar='file_input', help='File containing LIS annotation')
     parser.add_argument('output', metavar='folder_output', help='Folder to save the VOC annotation')
-    #parser.add_argument('-o', '--output', help='Folder to save the VOC annotation', default=None)
     args = parser.parse_args()
-
     main(args.inputfile, args.output)
