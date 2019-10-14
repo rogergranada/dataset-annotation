@@ -31,12 +31,19 @@ def main(lis_file, map_file, output=None):
             dpaths[path_kscgr] = path_voc
 
     lis_annotation = lis.LIS(lis_file)
-    pb = progressbar.ProgressBar(lis_annotation.count_lines())
-    with open(lis_annotation) as flis, open(output, 'w') as fout:
-        for content in flis:
-            #0	egg	(58,241,19,16)	0	/home/roger/KSCGR/data3/boild-egg/rgb256/0.jpg
-            fout.write('%s\t%s\t%s\t%s\t%s\n' % (flis.idfr, flis.obj, content[2], flis.idobj, dpaths[flis.path]))
-            pb.update()
+    #pb = progressbar.ProgressBar(lis_annotation.count_lines())
+    with lis_annotation as flis, open(output, 'w') as fout:
+        last_path = ''
+        for i, content in enumerate(flis, start=2):
+            #0	egg	(58,241,19,16)	0	/home/roger/KSCGR/data3/boild-egg/0.jpg
+            path = '/'.join(content[4].split('/')[1:7])
+            if path != last_path:
+                logger.info('Processing: /%s' % path)
+                last_path = path
+            #if content[4] == '/usr/share/datasets/KSCGR/data5/':
+            #    print i
+            #    break
+            fout.write('%s\t%s\t%s\t%s\t%s\n' % (flis.idfr, flis.obj, content[2], flis.idobj, dpaths[content[4]]))
 
 
 if __name__ == "__main__":
