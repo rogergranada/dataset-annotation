@@ -46,7 +46,7 @@ from lxml import etree as ET
 from PIL import Image
 
 import lis
-
+import progressbar
 
 class VOCFile(object):
     def __init__(self, image_file, width=None, height=None):
@@ -99,21 +99,25 @@ def main(inputfile, folderout):
     if not isdir(folderout):
         os.mkdir(folderout)
 
-    flis = lis.LIS(inputfile)
-    last_id = -1
-    for _ in flis:
-        #0 \t object \t (52,104,52,43) \t 0 \t data1/boild-egg/0.jpg 
-        if last_id == -1:
-            xml = VOCFile(flis.path, width=256, height=256)
-            xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
-            last_id = flis.idfr
-        elif flis.idfr != last_id:
-            xml.save_xml(folderout)
-            xml = VOCFile(flis.path, width=256, height=256)
-            xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
-            last_id = flis.idfr
-        else:
-            xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
+    fann = lis.LIS(inputfile)
+    pb = progressbar.ProgressBar(fann.count_lines())
+    with fann as flis:
+        last_id = -1
+        for _ in flis:
+            #0 \t object \t (52,104,52,43) \t 0 \t data1/boild-egg/0.jpg 
+            if last_id == -1:
+                xml = VOCFile(flis.path, width=256, height=256)
+                xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
+                last_id = flis.idfr
+            elif flis.idfr != last_id:
+                xml.save_xml(folderout)
+                xml = VOCFile(flis.path, width=256, height=256)
+                xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
+                last_id = flis.idfr
+            else:
+                xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
+            pb.update()
+        xml.save_xml(folderout)
 
 
 if __name__ == "__main__":
