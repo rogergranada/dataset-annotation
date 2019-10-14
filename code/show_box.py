@@ -25,10 +25,9 @@ import argparse
 from PIL import Image
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
+from matplotlib import colors
 import numpy as np
 import ast
-
-COLORS=['r', 'b', 'c', 'm', 'y', 'g', 'k']
 
 
 def draw_box(img, boundaries):
@@ -54,8 +53,9 @@ def draw_from_file(fileinput):
             for i, pos_label in enumerate(arr[1:]):
                 pos_label = ast.literal_eval(pos_label)
                 xmin, ymin, xmax, ymax, class_id = pos_label
+                cname = colors.cnames.keys()[i]
                 rect = patches.Rectangle((xmin, ymin), xmax-xmin, ymax-ymin, 
-                                         linewidth=1, edgecolor=COLORS[i], facecolor='none')
+                                         linewidth=1, edgecolor=cname, facecolor='none')
                 ax.add_patch(rect)
             plt.show()
 
@@ -73,5 +73,5 @@ if __name__ == "__main__":
     if args.txt:
         draw_from_file(args.imgfile)
     else:
-        draw_box(args.imgfile, [args.xmin, args.ymin, args.xmax, args.ymax])
+        draw_box(args.imgfile, [args.xmin_value, args.ymin_value, args.xmax_value, args.ymax_value])
 
