@@ -18,9 +18,9 @@ DIC_CLASSES = {'person': 0, 'egg': 1, 'beaten egg': 2, 'boiled egg': 3, 'egg cre
                'glass': 17, 'hashi': 18, 'knife': 19, 'milk carton': 20, 'oil bottle': 21, 'plate': 22, 
                'saltshaker': 23, 'spoon': 24, 'turner': 25}
 
-def merge(folder_input, output=None):
+def merge_lis(folder_input, output=None):
     if not output:
-        output = join(folder_input, 'merged_annotations.txt')
+        output = join(folder_input, 'files_merged.txt')
 
     list_files = [files for _, _, files in os.walk(folder_input)]
     list_files = sorted(list_files[0])
@@ -32,7 +32,7 @@ def merge(folder_input, output=None):
             logger.info('Processing file [%d/%d]: %s' % (i, len(list_files), lis_file))
             fann = lis.LIS(lis_file)
             with fann as flis:
-                for i, arr in enumerate(flis, start=1):
+                for arr in flis:
                     obj = flis.obj
                     #0 \t egg \t (58,241,19,16) \t 0 \t data1/boild-egg/0.jpg
                     if flis.obj == 'boild egg':
@@ -45,8 +45,9 @@ def merge(folder_input, output=None):
                         obj = 'pan handle'
                     elif flis.obj == 'bootle oil':
                         obj = 'pan handle'
-                    fout.write('%s\t%s\t%s\t%s\t%s\n' % (flis.idfr, obj, arr[2], DIC_CLASSES[obj], join(HOME, flis.path)))
-                    logger.info('End of processing: %d lines' % i)
+                    fout.write('%s\t%s\t%s\t%s\t%s\n' % (flis.idfr, obj, flis.bbox, DIC_CLASSES[obj], join(HOME, flis.path)))
+            logger.info('End of processing: %d frames' % flis.idfr)
+    logger.info('File saved at: %s' % output)
 
     
 def check_labels(fileinput):
@@ -60,11 +61,20 @@ def check_labels(fileinput):
     print sorted(dic)
     print len(dic.keys()), 'labels'
 
+def check_wrong(inputfile):
+    with open(inputfile) as fin:
+        for i, l in enumerate(fin):
+            if i > 2102810 and i < 2102819:
+                print l
+            if i > 2102819:
+                break
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('input', metavar='input_folder', help='Plain text file')
     parser.add_argument('-o', '--output', help='Plain text file', default=None)
     args = parser.parse_args()
     
-    #merge(args.input, output=args.output)
-    check_labels(args.input)
+    merge_lis(args.input, output=args.output)
+    #check_labels(args.input)
+    check_wrong(join(args.input, 'files_merged.txt'))
