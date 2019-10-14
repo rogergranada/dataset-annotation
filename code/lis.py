@@ -43,7 +43,8 @@ class LIS(object):
             arr = line.strip().split('\t')
             self.idfr = int(arr[0])
             self.obj = arr[1]
-            self.x, self.y, self.w, self.h = map(int, ast.literal_eval(arr[2]))
+            #self.x, self.y, self.w, self.h = map(int, ast.literal_eval(arr[2]))
+            self.bbox = arr[2]
             self.idobj = arr[3]
             self.path = arr[4]
             yield arr
