@@ -41,7 +41,6 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 import os
 import argparse
 from os.path import join, isdir, splitext, basename
-#import xml.etree.cElementTree as ET
 from lxml import etree as ET
 from PIL import Image
 
@@ -71,20 +70,32 @@ class VOCFile(object):
 
     def add_object(self, name, x, y, w, h):
         """ Add the annotation for an object """
-        xmin = str(x)
-        ymin = str(y)
-        xmax = str(x + w)
-        ymax = str(y + h) 
+        # VOC cannot have xmin or ymin equals zero
+        if x <= 0: 
+            w -= x-1
+            x = 1
+        if y <= 0: 
+            h -= y-1
+            y = 1
+        xmin = x
+        ymin = y
+        xmax = x + w
+        ymax = y + h 
+        if xmax > 256:
+            xmax = 256
+        if ymax > 256:
+            ymax = 256
+
         obj = ET.SubElement(self.xml, "object")
         ET.SubElement(obj, "name").text = name
         ET.SubElement(obj, "pose").text = "Unspecified"
         ET.SubElement(obj, "truncated").text = '0'
         ET.SubElement(obj, "difficult").text = '0'
         bbox = ET.SubElement(obj, "bndbox")
-        ET.SubElement(bbox, "xmin").text = xmin
-        ET.SubElement(bbox, "ymin").text = ymin
-        ET.SubElement(bbox, "xmax").text = xmax
-        ET.SubElement(bbox, "ymax").text = ymax
+        ET.SubElement(bbox, "xmin").text = str(xmin)
+        ET.SubElement(bbox, "ymin").text = str(ymin)
+        ET.SubElement(bbox, "xmax").text = str(xmax)
+        ET.SubElement(bbox, "ymax").text = str(ymax)
     
     def save_xml(self, folderout):
         """ Save the XML corresponding to an image in folderout """
@@ -103,22 +114,23 @@ def main(inputfile, folderout):
     pb = progressbar.ProgressBar(fann.count_lines())
     with fann as flis:
         last_id = -1
-        for _ in flis:
+        for v in flis:
+            idf = flis.id()
             #0 \t object \t (52,104,52,43) \t 0 \t data1/boild-egg/0.jpg 
             if last_id == -1:
+                last_id = idf
                 xml = VOCFile(flis.path, width=256, height=256)
                 xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
-                last_id = flis.idfr
-            elif flis.idfr != last_id:
+            elif idf != last_id:
+                last_id = idf
                 xml.save_xml(folderout)
                 xml = VOCFile(flis.path, width=256, height=256)
                 xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
-                last_id = flis.idfr
             else:
                 xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
             pb.update()
         xml.save_xml(folderout)
-
+        
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
