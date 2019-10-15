@@ -14,6 +14,7 @@ logger = logging.getLogger(__name__)
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 import ast
+from os.path import splitext, basename
 
 class LIS(object):
     def __init__(self, inputfile):
@@ -43,11 +44,16 @@ class LIS(object):
             arr = line.strip().split('\t')
             self.idfr = int(arr[0])
             self.obj = arr[1]
-            #self.x, self.y, self.w, self.h = map(int, ast.literal_eval(arr[2]))
+            self.x, self.y, self.w, self.h = map(int, ast.literal_eval(arr[2]))
             self.bbox = arr[2]
             self.idobj = arr[3]
             self.path = arr[4]
             yield arr
+
+
+    def id(self):
+        id, _ = splitext(basename(self.path))
+        return int(id)
 
 
     def count_lines(self):
