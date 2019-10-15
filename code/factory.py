@@ -24,8 +24,7 @@ for split in ['train', 'val', 'trainval', 'test']:
     name = 'kscgr_{}'.format(split)
     devkit_path = 'data/KSCGR'
     data_path = 'data/KSCGR'
-    __sets[name] = (lambda split=split, devkit_path=devkit_path, data_path=data_path: kscgr(split,devkit_path,data_path))
-print __sets
+    __sets[name] = (lambda split=split, devkit_path=devkit_path, data_path=data_path: kscgr(split))
 
 # Set up voc_<year>_<split>
 for year in ['2007', '2012']:
