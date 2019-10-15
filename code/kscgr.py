@@ -120,7 +120,7 @@ class kscgr(imdb):
             print('{} gt roidb loaded from {}'.format(self.name, cache_file))
             return roidb
 
-        gt_roidb = [self._load_pascal_annotation(index)
+        gt_roidb = [self._load_kscgr_annotation(index)
                     for index in self.image_index]
         with open(cache_file, 'wb') as fid:
             pickle.dump(gt_roidb, fid, pickle.HIGHEST_PROTOCOL)
@@ -194,7 +194,7 @@ class kscgr(imdb):
 
         return self.create_roidb_from_box_list(box_list, gt_roidb)
 
-    def _load_pascal_annotation(self, index):
+    def _load_kscgr_annotation(self, index):
         """
         Load image and bounding boxes info from XML file in the PASCAL VOC
         format.
@@ -202,14 +202,6 @@ class kscgr(imdb):
         filename = os.path.join(self._data_path, 'Annotations', index + '.xml')
         tree = ET.parse(filename)
         objs = tree.findall('object')
-        # if not self.config['use_diff']:
-        #     # Exclude the samples labeled as difficult
-        #     non_diff_objs = [
-        #         obj for obj in objs if int(obj.find('difficult').text) == 0]
-        #     # if len(non_diff_objs) != len(objs):
-        #     #     print 'Removed {} difficult objects'.format(
-        #     #         len(objs) - len(non_diff_objs))
-        #     objs = non_diff_objs
         num_objs = len(objs)
 
         boxes = np.zeros((num_objs, 4), dtype=np.uint16)
@@ -253,9 +245,9 @@ class kscgr(imdb):
         return comp_id
 
     def _get_voc_results_file_template(self):
-        # VOCdevkit/results/VOC2007/Main/<comp_id>_det_test_aeroplane.txt
+        # KSCGR/results/Main/<comp_id>_det_test_aeroplane.txt
         filename = self._get_comp_id() + '_det_' + self._image_set + '_{:s}.txt'
-        filedir = os.path.join(self._devkit_path, 'results', 'VOC' + self._year, 'Main')
+        filedir = os.path.join(self._devkit_path, 'results', 'Main')
         if not os.path.exists(filedir):
             os.makedirs(filedir)
         path = os.path.join(filedir, filename)
@@ -280,17 +272,8 @@ class kscgr(imdb):
                                        dets[k, 2] + 1, dets[k, 3] + 1))
 
     def _do_python_eval(self, output_dir='output'):
-        annopath = os.path.join(
-            self._devkit_path,
-            'VOC' + self._year,
-            'Annotations',
-            '{:s}.xml')
-        imagesetfile = os.path.join(
-            self._devkit_path,
-            'VOC' + self._year,
-            'ImageSets',
-            'Main',
-            self._image_set + '.txt')
+        annopath = os.path.join(self._devkit_path, 'Annotations', '{:s}.xml')
+        imagesetfile = os.path.join(self._devkit_path, 'ImageSets', 'Main', self._image_set + '.txt')
         cachedir = os.path.join(self._devkit_path, 'annotations_cache')
         aps = []
         # The PASCAL VOC metric changed in 2010
@@ -361,7 +344,7 @@ class kscgr(imdb):
 
 
 if __name__ == '__main__':
-    d = pascal_voc('trainval', '2007')
+    d = pascal_voc('trainval')
     res = d.roidb
     from IPython import embed;
 
