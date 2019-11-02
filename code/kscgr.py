@@ -24,6 +24,7 @@ from .imdb import imdb
 from .imdb import ROOT_DIR
 from . import ds_utils
 from .voc_eval import voc_eval
+from os.path import exists
 
 # TODO: make fast_rcnn irrelevant
 # >>>> obsolete, because it depends on sth outside of this project
@@ -36,13 +37,24 @@ except NameError:
 
 # <<<< obsolete
 
+def load_classes(cfg_file):
+    classes = []
+    with open(cfg_file) as fin:
+        for line in fin:
+            arr = line.strip().split()
+            classes.append(arr[1])
+    return set(classes)
+
 class kscgr(imdb):
     def __init__(self, image_set):
         imdb.__init__(self, 'kscgr_' + image_set) #kscgr_train
         self._image_set = image_set
         self._devkit_path = os.path.join(cfg.DATA_DIR, 'KSCGR')
         self._data_path = self._devkit_path
-        self._classes = ('__background__',  # always index 0
+        if exists('classes.cfg'):
+            self._classes = load_classes('classes.cfg')
+        else:
+            self._classes = ('__background__',  # always index 0
                          'person', 'egg', 'beaten egg', 'boiled egg', 'egg crepe', 'ham egg', 
                          'kinshi egg', 'scramble egg', 'omelette', 'ham', 'pan', 'frying pan', 
                          'pan handle', 'pan lid', 'bowl', 'cutting board', 'dishcloth',
