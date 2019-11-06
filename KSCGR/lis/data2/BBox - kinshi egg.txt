@@ -4331,6 +4331,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 614	oil_bottle	(0,145,26,45)	24	614.jpg
 614	chopstick	(77,47,68,58)	18	614.jpg
 614	person	(26,0,153,114)	1	614.jpg
+614	mixed_egg	(62,93,31,22)	6	614.jpg
 615	bowl	(53,77,51,48)	17	615.jpg
 615	frying_pan	(96,87,80,100)	14	615.jpg
 615	knife	(37,99,20,69)	22	615.jpg
@@ -4338,6 +4339,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 615	oil_bottle	(1,145,27,45)	24	615.jpg
 615	chopstick	(78,48,68,57)	18	615.jpg
 615	person	(26,0,152,114)	1	615.jpg
+615	mixed_egg	(68,95,26,19)	6	615.jpg
 616	bowl	(52,76,53,50)	17	616.jpg
 616	frying_pan	(98,87,82,103)	14	616.jpg
 616	knife	(38,100,20,69)	22	616.jpg
@@ -4345,6 +4347,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 616	oil_bottle	(0,144,27,46)	24	616.jpg
 616	chopstick	(77,47,68,58)	18	616.jpg
 616	person	(26,0,152,114)	1	616.jpg
+616	mixed_egg	(66,97,27,17)	6	616.jpg
 617	bowl	(52,75,53,50)	17	617.jpg
 617	frying_pan	(99,88,79,100)	14	617.jpg
 617	knife	(37,100,20,68)	22	617.jpg
@@ -4352,6 +4355,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 617	oil_bottle	(0,144,28,47)	24	617.jpg
 617	chopstick	(75,46,70,59)	18	617.jpg
 617	person	(26,0,152,114)	1	617.jpg
+617	mixed_egg	(63,92,33,24)	6	617.jpg
 618	bowl	(53,75,52,50)	17	618.jpg
 618	frying_pan	(98,87,80,100)	14	618.jpg
 618	knife	(38,99,20,71)	22	618.jpg
@@ -4359,6 +4363,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 618	oil_bottle	(1,144,28,47)	24	618.jpg
 618	chopstick	(76,46,70,59)	18	618.jpg
 618	person	(26,0,153,114)	1	618.jpg
+618	mixed_egg	(66,93,27,19)	6	618.jpg
 619	bowl	(53,75,52,50)	17	619.jpg
 619	frying_pan	(100,87,80,100)	14	619.jpg
 619	knife	(37,99,20,69)	22	619.jpg
@@ -4366,6 +4371,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 619	oil_bottle	(0,144,28,47)	24	619.jpg
 619	chopstick	(77,47,68,58)	18	619.jpg
 619	person	(26,0,152,114)	1	619.jpg
+619	mixed_egg	(64,95,26,18)	6	619.jpg
 620	bowl	(53,77,49,46)	17	620.jpg
 620	frying_pan	(97,87,79,100)	14	620.jpg
 620	knife	(38,99,20,69)	22	620.jpg
@@ -4373,6 +4379,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 620	oil_bottle	(0,145,26,45)	24	620.jpg
 620	chopstick	(78,47,70,58)	18	620.jpg
 620	person	(26,0,152,114)	1	620.jpg
+620	mixed_egg	(67,94,24,20)	6	620.jpg
 621	bowl	(55,78,49,46)	17	621.jpg
 621	frying_pan	(99,86,83,104)	14	621.jpg
 621	knife	(37,97,21,72)	22	621.jpg
@@ -4380,6 +4387,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 621	oil_bottle	(1,145,27,45)	24	621.jpg
 621	chopstick	(76,47,67,57)	18	621.jpg
 621	person	(26,0,152,114)	1	621.jpg
+621	mixed_egg	(64,95,29,19)	6	621.jpg
 622	bowl	(53,78,48,46)	17	622.jpg
 622	frying_pan	(96,87,81,102)	14	622.jpg
 622	knife	(37,99,20,70)	22	622.jpg
@@ -4387,6 +4395,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 622	oil_bottle	(1,145,26,45)	24	622.jpg
 622	chopstick	(77,46,68,57)	18	622.jpg
 622	person	(27,0,151,114)	1	622.jpg
+622	mixed_egg	(69,94,24,21)	6	622.jpg
 623	bowl	(53,78,49,46)	17	623.jpg
 623	frying_pan	(99,86,84,105)	14	623.jpg
 623	knife	(38,99,20,69)	22	623.jpg
@@ -4394,6 +4403,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 623	oil_bottle	(1,145,26,45)	24	623.jpg
 623	chopstick	(76,48,66,56)	18	623.jpg
 623	person	(26,0,153,114)	1	623.jpg
+623	mixed_egg	(67,93,26,19)	6	623.jpg
 624	bowl	(53,78,50,47)	17	624.jpg
 624	frying_pan	(95,86,83,104)	14	624.jpg
 624	knife	(37,100,20,68)	22	624.jpg
@@ -22868,6 +22878,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 2895	oil_bottle	(0,155,12,29)	24	2895.jpg
 2895	baked_egg	(0,49,55,40)	2	2895.jpg
 2895	person	(0,0,168,114)	1	2895.jpg
+2895	chopstick	(34,50,37,55)	18	2895.jpg
 2896	bowl	(52,118,47,44)	17	2896.jpg
 2896	frying_pan	(0,10,69,87)	14	2896.jpg
 2896	knife	(10,116,34,55)	22	2896.jpg
@@ -22875,6 +22886,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 2896	oil_bottle	(0,155,12,29)	24	2896.jpg
 2896	baked_egg	(0,48,52,41)	2	2896.jpg
 2896	person	(0,0,165,114)	1	2896.jpg
+2896	chopstick	(14,46,64,61)	18	2896.jpg
 2897	bowl	(52,118,46,43)	17	2897.jpg
 2897	frying_pan	(0,9,68,88)	14	2897.jpg
 2897	knife	(9,116,34,55)	22	2897.jpg
@@ -22882,6 +22894,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 2897	oil_bottle	(0,156,11,27)	24	2897.jpg
 2897	baked_egg	(0,47,52,42)	2	2897.jpg
 2897	person	(0,0,162,114)	1	2897.jpg
+2897	chopstick	(1,37,79,81)	18	2897.jpg
 2898	bowl	(53,118,46,43)	17	2898.jpg
 2898	frying_pan	(0,8,65,88)	14	2898.jpg
 2898	knife	(10,116,34,54)	22	2898.jpg
@@ -22889,6 +22902,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 2898	oil_bottle	(0,155,12,29)	24	2898.jpg
 2898	baked_egg	(0,46,50,42)	2	2898.jpg
 2898	person	(0,0,159,114)	1	2898.jpg
+2898	chopstick	(0,37,86,81)	18	2898.jpg
 2899	bowl	(52,118,46,43)	17	2899.jpg
 2899	frying_pan	(0,8,64,87)	14	2899.jpg
 2899	knife	(9,117,33,52)	22	2899.jpg
@@ -22896,6 +22910,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 2899	oil_bottle	(0,155,12,28)	24	2899.jpg
 2899	baked_egg	(0,46,50,42)	2	2899.jpg
 2899	person	(0,0,156,114)	1	2899.jpg
+2899	chopstick	(0,47,89,71)	18	2899.jpg
 2900	bowl	(53,118,46,43)	17	2900.jpg
 2900	frying_pan	(0,8,63,85)	14	2900.jpg
 2900	knife	(11,117,33,53)	22	2900.jpg
@@ -22903,6 +22918,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 2900	oil_bottle	(0,156,11,27)	24	2900.jpg
 2900	baked_egg	(0,44,48,42)	2	2900.jpg
 2900	person	(0,0,155,114)	1	2900.jpg
+2900	chopstick	(0,60,81,63)	18	2900.jpg
 2901	bowl	(50,117,48,44)	17	2901.jpg
 2901	frying_pan	(0,7,62,87)	14	2901.jpg
 2901	knife	(10,117,34,54)	22	2901.jpg
@@ -22910,6 +22926,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 2901	oil_bottle	(0,155,12,29)	24	2901.jpg
 2901	baked_egg	(0,44,45,41)	2	2901.jpg
 2901	person	(0,0,152,114)	1	2901.jpg
+2901	chopstick	(0,74,80,57)	18	2901.jpg
 2902	bowl	(52,118,46,43)	17	2902.jpg
 2902	frying_pan	(0,7,61,86)	14	2902.jpg
 2902	knife	(10,117,34,54)	22	2902.jpg
@@ -55593,4 +55610,4 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/kinshi-egg/
 6902	kinshi_egg	(65,114,29,33)	9	6902.jpg
 6902	plate	(52,109,51,42)	25	6902.jpg
 ---
-Modified on:	11.6.2019	15:26
+Modified on:	11.6.2019	16:14
