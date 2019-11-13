@@ -44,8 +44,9 @@ def create_pathfile(root_folder, output=None):
 
     with open(output, 'w') as fout:
         nb_files = 0
-        for folder, _, files in os.walk(root_folder):
-            for f in files:
+        for folder, _, files in sorted(os.walk(root_folder)):
+            if folder == root_folder: continue
+            for f in sorted(files):
                 fout.write('%s\n' % join(folder, f))
                 nb_files += 1
     logger.info('Create file containing %d paths' % nb_files)
