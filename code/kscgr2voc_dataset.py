@@ -55,7 +55,7 @@ def main(kscgrfile, vocfolder):
          open(join(vocfolder, 'paths.txt'), 'w') as fout, \
          open(join(dirname(kscgrfile), 'map_paths.txt'), 'w') as fout_map:
         for i, line in enumerate(fin, start=1):
-            path, label = line.strip().split()
+            path = line.strip().split()[0]
             namefile, ext = splitext(basename(path))
             fname = str(i).zfill(6)
             pathout = join(folderout, fname+'.jpg')
