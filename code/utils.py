@@ -4,7 +4,7 @@ logger = logging.getLogger(__name__)
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 import os
-from os.path import exists, join
+from os.path import exists, join, splitext
 import lis
 import progressbar
 
@@ -46,8 +46,12 @@ def create_pathfile(root_folder, output=None):
         nb_files = 0
         for folder, _, files in sorted(os.walk(root_folder)):
             if folder == root_folder: continue
+            dnames = {}
             for f in sorted(files):
-                fout.write('%s\n' % join(folder, f))
+                idf = int(splitext(f)[0])
+                dnames[idf] = f
+            for idf in sorted(dnames):
+                fout.write('%s\n' % join(folder, dnames[idf]))
                 nb_files += 1
     logger.info('Create file containing %d paths' % nb_files)
     logger.info('File saved at: %s' % output)
