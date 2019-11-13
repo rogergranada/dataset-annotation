@@ -26,11 +26,13 @@ class LIS(object):
         self.w = -1
         self.h = -1
         self.idobj = -1
-        self.path = None
+        self.fname = None
 
 
     def __enter__(self):
         self.fin = open(self.inputfile)
+        header = self.fin.next()
+        self.path = header.split('Frame path:')[1].strip()
         return self
 
 
@@ -47,12 +49,12 @@ class LIS(object):
             self.x, self.y, self.w, self.h = map(int, ast.literal_eval(arr[2]))
             self.bbox = arr[2]
             self.idobj = arr[3]
-            self.path = arr[4]
+            self.fname = arr[4]
             yield arr
 
 
     def id(self):
-        id, _ = splitext(basename(self.path))
+        id, _ = splitext(basename(self.fname))
         return int(id)
 
 
