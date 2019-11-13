@@ -40,17 +40,12 @@ def merge_lis(folder_input, output=None, cfg_file='classes.cfg', home_path=None)
                 for arr in flis:
                     obj = flis.obj
                     #0 \t egg \t (58,241,19,16) \t 0 \t data1/boild-egg/0.jpg
-                    if flis.obj == 'boild egg':
-                        obj = 'boiled egg'
-                    elif flis.obj == 'egg crepe ':
-                        obj = 'egg crepe'
-                    elif flis.obj == 'oil bottle ':
-                        obj = 'oil bottle'
-                    elif flis.obj == 'pan handler':
-                        obj = 'pan handle'
-                    elif flis.obj == 'bootle oil':
-                        obj = 'pan handle'
-                    fout.write('%s\t%s\t%s\t%s\t%s\n' % (flis.idfr, obj, flis.bbox, dclasses[obj], join(home_path, flis.path)))
+                    if obj == 'None':
+                        logger.warning('None found in file: %s' % lis_file)
+                    elif not dclasses.has_key(obj):
+                        logger.error('Class `%s` does not exist in dictionary' % obj)
+                        sys.exit(0)
+                    fout.write('%s\t%s\t%s\t%s\t%s\n' % (flis.idfr, obj, flis.bbox, flis.idobj, join(home_path, flis.path, flis.fname)))
             logger.info('End of processing: %d frames' % flis.idfr)
     logger.info('File saved at: %s' % output)
 
@@ -60,7 +55,7 @@ if __name__ == '__main__':
     parser.add_argument('input', metavar='input_folder', help='Plain text file')
     parser.add_argument('-o', '--output', help='Plain text file', default=None)
     parser.add_argument('-c', '--config_file', help='File containing ids and classes', default='classes.cfg')
-    parser.add_argument('-h', '--home_path', help='Path to add to images', default='/usr/share/datasets/KSCGR/')
+    parser.add_argument('-p', '--home_path', help='Path to add to images', default='/usr/share/datasets/KSCGR/')
     args = parser.parse_args()
     
-    merge_lis(args.input, output=args.output, args.config_file, args.home_path)
+    merge_lis(args.input, args.output, args.config_file, args.home_path)
