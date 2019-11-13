@@ -44,6 +44,7 @@ def main(lis_file, map_file, output=None):
             #    print i
             #    break
             fout.write('%s\t%s\t%s\t%s\t%s\n' % (flis.idfr, flis.obj, content[2], flis.idobj, dpaths[content[4]]))
+    logger.info('File containing new paths saved at: %s' % output)
 
 
 if __name__ == "__main__":
