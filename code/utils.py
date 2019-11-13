@@ -3,6 +3,7 @@ import logging
 logger = logging.getLogger(__name__)
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
+import os
 from os.path import exists, join
 import lis
 import progressbar
