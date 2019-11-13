@@ -31,8 +31,9 @@ class LIS(object):
 
     def __enter__(self):
         self.fin = open(self.inputfile)
-        header = self.fin.next()
-        self.path = header.split('Frame path:')[1].strip()
+        line = self.fin.next()
+        self.header = line.split('Frame path:')[0]+'Frame path:'
+        self.path = line.split('Frame path:')[1].strip()
         return self
 
 

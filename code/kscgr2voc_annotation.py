@@ -34,6 +34,7 @@ def main(lis_file, map_file, output=None):
     #pb = progressbar.ProgressBar(lis_annotation.count_lines())
     with lis_annotation as flis, open(output, 'w') as fout:
         last_path = ''
+        fout.write('%s\n' % flis.header)
         for i, content in enumerate(flis, start=2):
             #0	egg	(58,241,19,16)	0	/home/roger/KSCGR/data3/boild-egg/0.jpg
             path = '/'.join(content[4].split('/')[1:7])
