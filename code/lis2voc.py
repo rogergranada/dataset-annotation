@@ -119,12 +119,12 @@ def main(inputfile, folderout):
             #0 \t object \t (52,104,52,43) \t 0 \t data1/boild-egg/0.jpg 
             if last_id == -1:
                 last_id = idf
-                xml = VOCFile(flis.path, width=256, height=256)
+                xml = VOCFile(flis.fname, width=256, height=256)
                 xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
             elif idf != last_id:
                 last_id = idf
                 xml.save_xml(folderout)
-                xml = VOCFile(flis.path, width=256, height=256)
+                xml = VOCFile(flis.fname, width=256, height=256)
                 xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
             else:
                 xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
