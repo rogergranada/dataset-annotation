@@ -47,6 +47,7 @@ def create_pathfile(root_folder, output=None):
         for folder, _, files in sorted(os.walk(root_folder)):
             if folder == root_folder: continue
             dnames = {}
+            logger.info('Processing folder: %s' % folder)
             for f in sorted(files):
                 idf = int(splitext(f)[0])
                 dnames[idf] = f
