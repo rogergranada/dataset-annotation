@@ -13309,6 +13309,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data4/boiled-egg/
 4165	bowl	(49,116,48,45)	17	4165.jpg
 4165	pan	(188,87,68,101)	13	4165.jpg
 4165	person	(0,0,158,142)	1	4165.jpg
+4165	hard-boiled_egg	(47,107,30,24)	5	4165.jpg
 4166	bowl	(49,116,48,45)	17	4166.jpg
 4166	pan	(188,87,68,101)	13	4166.jpg
 4166	hard-boiled_egg	(50,107,30,27)	5	4166.jpg
@@ -23362,4 +23363,4 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data4/boiled-egg/
 6624	hard-boiled_egg	(60,120,31,27)	5	6624.jpg
 6624	plate	(47,104,56,43)	25	6624.jpg
 ---
-Modified on:	11.14.2019	8:33
+Modified on:	11.14.2019	8:49
