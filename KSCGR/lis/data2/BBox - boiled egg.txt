@@ -1,4 +1,4 @@
-Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/boild-egg/
+Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/boiled-egg/
 0	shell_egg	(75,207,18,15)	7	0.jpg
 0	cutting_board	(9,116,50,54)	19	0.jpg
 0	knife	(22,111,33,66)	22	0.jpg
