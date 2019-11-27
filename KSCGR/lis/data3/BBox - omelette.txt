@@ -43580,7 +43580,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4551	turner	(137,64,17,81)	28	4551.jpg
 4551	plate	(46,104,51,36)	25	4551.jpg
 4551	person	(37,0,161,114)	1	4551.jpg
-4551	baked_egg	(110,131,35,21)	23	4551.jpg
+4551	baked_egg	(110,131,35,21)	2	4551.jpg
 4552	bowl	(35,130,47,43)	17	4552.jpg
 4552	frying_pan	(96,84,82,108)	14	4552.jpg
 4552	knife	(0,134,42,32)	22	4552.jpg
@@ -43589,7 +43589,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4552	spoon	(31,174,25,24)	27	4552.jpg
 4552	chopstick	(65,119,33,94)	18	4552.jpg
 4552	baked_egg	(139,134,31,23)	2	4552.jpg
-4552	baked_egg	(110,131,35,21)	23	4552.jpg
+4552	baked_egg	(110,131,35,21)	2	4552.jpg
 4552	turner	(136,65,18,80)	28	4552.jpg
 4552	plate	(46,104,51,36)	25	4552.jpg
 4552	person	(37,0,159,114)	1	4552.jpg
@@ -43601,7 +43601,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4553	spoon	(29,174,26,24)	27	4553.jpg
 4553	chopstick	(65,119,33,94)	18	4553.jpg
 4553	baked_egg	(139,134,31,23)	2	4553.jpg
-4553	baked_egg	(110,131,35,21)	23	4553.jpg
+4553	baked_egg	(110,131,35,21)	2	4553.jpg
 4553	turner	(137,65,17,79)	28	4553.jpg
 4553	plate	(46,104,51,36)	25	4553.jpg
 4553	person	(37,0,159,114)	1	4553.jpg
@@ -43613,7 +43613,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4554	spoon	(31,175,24,22)	27	4554.jpg
 4554	chopstick	(65,119,33,94)	18	4554.jpg
 4554	baked_egg	(139,134,31,23)	2	4554.jpg
-4554	baked_egg	(110,131,35,21)	23	4554.jpg
+4554	baked_egg	(110,131,35,21)	2	4554.jpg
 4554	turner	(137,65,17,79)	28	4554.jpg
 4554	plate	(46,104,51,36)	25	4554.jpg
 4554	person	(37,0,157,114)	1	4554.jpg
@@ -43625,7 +43625,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4555	spoon	(31,174,24,24)	27	4555.jpg
 4555	chopstick	(65,119,33,94)	18	4555.jpg
 4555	baked_egg	(139,134,31,23)	2	4555.jpg
-4555	baked_egg	(110,131,35,21)	23	4555.jpg
+4555	baked_egg	(110,131,35,21)	2	4555.jpg
 4555	turner	(138,63,18,81)	28	4555.jpg
 4555	plate	(46,105,51,35)	25	4555.jpg
 4555	person	(38,0,158,114)	1	4555.jpg
@@ -43637,7 +43637,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4556	spoon	(30,174,25,24)	27	4556.jpg
 4556	chopstick	(65,119,33,94)	18	4556.jpg
 4556	baked_egg	(139,134,31,23)	2	4556.jpg
-4556	baked_egg	(110,131,35,21)	23	4556.jpg
+4556	baked_egg	(110,131,35,21)	2	4556.jpg
 4556	turner	(140,64,17,80)	28	4556.jpg
 4556	plate	(45,104,52,36)	25	4556.jpg
 4556	person	(38,0,158,114)	1	4556.jpg
@@ -43649,7 +43649,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4557	spoon	(30,175,24,22)	27	4557.jpg
 4557	chopstick	(65,119,33,94)	18	4557.jpg
 4557	baked_egg	(139,134,31,23)	2	4557.jpg
-4557	baked_egg	(110,131,35,21)	23	4557.jpg
+4557	baked_egg	(110,131,35,21)	2	4557.jpg
 4557	turner	(141,64,18,80)	28	4557.jpg
 4557	plate	(45,105,49,34)	25	4557.jpg
 4557	person	(38,0,161,114)	1	4557.jpg
@@ -43661,7 +43661,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4558	spoon	(32,175,23,22)	27	4558.jpg
 4558	chopstick	(65,119,33,94)	18	4558.jpg
 4558	baked_egg	(139,134,31,23)	2	4558.jpg
-4558	baked_egg	(110,131,35,21)	23	4558.jpg
+4558	baked_egg	(110,131,35,21)	2	4558.jpg
 4558	turner	(142,64,18,80)	28	4558.jpg
 4558	plate	(48,105,49,34)	25	4558.jpg
 4558	person	(38,0,162,114)	1	4558.jpg
@@ -43673,7 +43673,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4559	spoon	(30,175,23,22)	27	4559.jpg
 4559	chopstick	(65,119,33,94)	18	4559.jpg
 4559	baked_egg	(139,134,31,23)	2	4559.jpg
-4559	baked_egg	(110,131,35,21)	23	4559.jpg
+4559	baked_egg	(110,131,35,21)	2	4559.jpg
 4559	turner	(143,64,18,80)	28	4559.jpg
 4559	plate	(46,105,51,35)	25	4559.jpg
 4559	person	(37,0,164,114)	1	4559.jpg
@@ -43685,7 +43685,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4560	spoon	(31,175,24,22)	27	4560.jpg
 4560	chopstick	(65,119,33,94)	18	4560.jpg
 4560	baked_egg	(139,134,31,23)	2	4560.jpg
-4560	baked_egg	(110,131,35,21)	23	4560.jpg
+4560	baked_egg	(110,131,35,21)	2	4560.jpg
 4560	turner	(142,64,18,80)	28	4560.jpg
 4560	plate	(46,104,51,35)	25	4560.jpg
 4560	person	(36,0,166,114)	1	4560.jpg
@@ -43697,7 +43697,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4561	spoon	(31,175,23,22)	27	4561.jpg
 4561	chopstick	(65,119,33,94)	18	4561.jpg
 4561	baked_egg	(139,134,31,23)	2	4561.jpg
-4561	baked_egg	(110,131,35,21)	23	4561.jpg
+4561	baked_egg	(110,131,35,21)	2	4561.jpg
 4561	turner	(143,63,18,81)	28	4561.jpg
 4561	plate	(45,105,49,34)	25	4561.jpg
 4561	person	(35,0,165,114)	1	4561.jpg
@@ -43709,7 +43709,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4562	spoon	(31,175,23,23)	27	4562.jpg
 4562	chopstick	(65,119,33,94)	18	4562.jpg
 4562	baked_egg	(139,134,31,23)	2	4562.jpg
-4562	baked_egg	(110,131,35,21)	23	4562.jpg
+4562	baked_egg	(110,131,35,21)	2	4562.jpg
 4562	turner	(144,63,17,80)	28	4562.jpg
 4562	plate	(48,105,49,34)	25	4562.jpg
 4562	person	(34,0,165,114)	1	4562.jpg
@@ -43721,7 +43721,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4563	spoon	(30,174,25,24)	27	4563.jpg
 4563	chopstick	(65,119,33,94)	18	4563.jpg
 4563	baked_egg	(139,134,31,23)	2	4563.jpg
-4563	baked_egg	(110,131,35,21)	23	4563.jpg
+4563	baked_egg	(110,131,35,21)	2	4563.jpg
 4563	turner	(144,64,18,79)	28	4563.jpg
 4563	plate	(46,105,47,33)	25	4563.jpg
 4563	person	(31,0,163,114)	1	4563.jpg
@@ -43733,7 +43733,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4564	spoon	(30,174,25,24)	27	4564.jpg
 4564	chopstick	(66,119,34,97)	18	4564.jpg
 4564	baked_egg	(139,134,31,23)	2	4564.jpg
-4564	baked_egg	(110,131,35,21)	23	4564.jpg
+4564	baked_egg	(110,131,35,21)	2	4564.jpg
 4564	turner	(144,64,17,79)	28	4564.jpg
 4564	plate	(48,105,48,34)	25	4564.jpg
 4564	person	(33,0,160,114)	1	4564.jpg
@@ -43745,7 +43745,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4565	spoon	(30,174,25,24)	27	4565.jpg
 4565	chopstick	(65,120,33,94)	18	4565.jpg
 4565	baked_egg	(139,134,31,23)	2	4565.jpg
-4565	baked_egg	(110,131,35,21)	23	4565.jpg
+4565	baked_egg	(110,131,35,21)	2	4565.jpg
 4565	turner	(145,64,17,79)	28	4565.jpg
 4565	plate	(46,105,51,35)	25	4565.jpg
 4565	person	(33,0,160,114)	1	4565.jpg
@@ -43757,7 +43757,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4566	spoon	(30,174,25,24)	27	4566.jpg
 4566	chopstick	(66,119,34,97)	18	4566.jpg
 4566	baked_egg	(139,134,31,23)	2	4566.jpg
-4566	baked_egg	(110,131,35,21)	23	4566.jpg
+4566	baked_egg	(110,131,35,21)	2	4566.jpg
 4566	turner	(145,63,18,81)	28	4566.jpg
 4566	plate	(46,105,51,34)	25	4566.jpg
 4566	person	(34,0,158,114)	1	4566.jpg
@@ -43769,7 +43769,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4567	spoon	(30,174,25,24)	27	4567.jpg
 4567	chopstick	(65,120,33,94)	18	4567.jpg
 4567	baked_egg	(139,134,31,23)	2	4567.jpg
-4567	baked_egg	(110,131,35,21)	23	4567.jpg
+4567	baked_egg	(110,131,35,21)	2	4567.jpg
 4567	turner	(145,63,18,81)	28	4567.jpg
 4567	plate	(46,105,51,34)	25	4567.jpg
 4567	person	(34,0,154,114)	1	4567.jpg
@@ -43781,7 +43781,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4568	spoon	(30,175,24,22)	27	4568.jpg
 4568	chopstick	(66,119,34,97)	18	4568.jpg
 4568	baked_egg	(139,134,31,23)	2	4568.jpg
-4568	baked_egg	(110,131,35,21)	23	4568.jpg
+4568	baked_egg	(110,131,35,21)	2	4568.jpg
 4568	turner	(145,63,18,81)	28	4568.jpg
 4568	plate	(46,104,51,36)	25	4568.jpg
 4568	person	(34,0,156,114)	1	4568.jpg
@@ -43793,7 +43793,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4569	spoon	(31,175,24,22)	27	4569.jpg
 4569	chopstick	(65,120,33,94)	18	4569.jpg
 4569	baked_egg	(139,134,31,23)	2	4569.jpg
-4569	baked_egg	(110,131,35,21)	23	4569.jpg
+4569	baked_egg	(110,131,35,21)	2	4569.jpg
 4569	turner	(146,62,18,82)	28	4569.jpg
 4569	plate	(46,104,51,36)	25	4569.jpg
 4569	person	(34,0,156,114)	1	4569.jpg
@@ -43805,7 +43805,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4570	spoon	(30,175,23,22)	27	4570.jpg
 4570	chopstick	(66,119,34,98)	18	4570.jpg
 4570	baked_egg	(139,134,31,23)	2	4570.jpg
-4570	baked_egg	(110,131,35,21)	23	4570.jpg
+4570	baked_egg	(110,131,35,21)	2	4570.jpg
 4570	turner	(146,62,18,82)	28	4570.jpg
 4570	plate	(46,104,51,36)	25	4570.jpg
 4570	person	(35,0,155,114)	1	4570.jpg
@@ -43817,7 +43817,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4571	spoon	(31,175,24,22)	27	4571.jpg
 4571	chopstick	(64,120,34,94)	18	4571.jpg
 4571	baked_egg	(139,134,31,23)	2	4571.jpg
-4571	baked_egg	(110,131,35,21)	23	4571.jpg
+4571	baked_egg	(110,131,35,21)	2	4571.jpg
 4571	turner	(147,61,18,82)	28	4571.jpg
 4571	plate	(45,104,52,36)	25	4571.jpg
 4571	person	(34,0,157,114)	1	4571.jpg
@@ -43829,7 +43829,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4572	spoon	(30,174,24,24)	27	4572.jpg
 4572	chopstick	(66,119,34,98)	18	4572.jpg
 4572	baked_egg	(139,134,31,23)	2	4572.jpg
-4572	baked_egg	(110,131,35,21)	23	4572.jpg
+4572	baked_egg	(110,131,35,21)	2	4572.jpg
 4572	turner	(147,61,19,84)	28	4572.jpg
 4572	plate	(47,105,50,34)	25	4572.jpg
 4572	person	(34,0,157,114)	1	4572.jpg
@@ -43841,7 +43841,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4573	spoon	(31,175,24,22)	27	4573.jpg
 4573	chopstick	(65,120,33,94)	18	4573.jpg
 4573	baked_egg	(139,134,31,23)	2	4573.jpg
-4573	baked_egg	(110,131,35,21)	23	4573.jpg
+4573	baked_egg	(110,131,35,21)	2	4573.jpg
 4573	turner	(148,50,22,96)	28	4573.jpg
 4573	plate	(46,104,51,36)	25	4573.jpg
 4573	person	(34,0,158,114)	1	4573.jpg
@@ -43853,7 +43853,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4574	spoon	(30,174,24,23)	27	4574.jpg
 4574	chopstick	(64,119,33,94)	18	4574.jpg
 4574	baked_egg	(139,134,31,23)	2	4574.jpg
-4574	baked_egg	(110,131,35,21)	23	4574.jpg
+4574	baked_egg	(110,131,35,21)	2	4574.jpg
 4574	turner	(149,52,21,93)	28	4574.jpg
 4574	plate	(45,103,51,36)	25	4574.jpg
 4574	person	(34,0,159,114)	1	4574.jpg
@@ -43865,7 +43865,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4575	spoon	(31,175,23,21)	27	4575.jpg
 4575	chopstick	(64,119,33,94)	18	4575.jpg
 4575	baked_egg	(139,134,31,23)	2	4575.jpg
-4575	baked_egg	(110,131,35,21)	23	4575.jpg
+4575	baked_egg	(110,131,35,21)	2	4575.jpg
 4575	turner	(149,50,22,96)	28	4575.jpg
 4575	plate	(46,103,50,36)	25	4575.jpg
 4575	person	(34,0,159,114)	1	4575.jpg
@@ -43877,7 +43877,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4576	spoon	(31,175,23,21)	27	4576.jpg
 4576	chopstick	(64,119,33,94)	18	4576.jpg
 4576	baked_egg	(139,134,31,23)	2	4576.jpg
-4576	baked_egg	(110,131,35,21)	23	4576.jpg
+4576	baked_egg	(110,131,35,21)	2	4576.jpg
 4576	turner	(149,48,23,99)	28	4576.jpg
 4576	plate	(46,104,51,35)	25	4576.jpg
 4576	person	(34,0,160,114)	1	4576.jpg
@@ -43889,7 +43889,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4577	spoon	(30,175,24,22)	27	4577.jpg
 4577	chopstick	(64,119,33,94)	18	4577.jpg
 4577	baked_egg	(139,134,31,23)	2	4577.jpg
-4577	baked_egg	(110,131,35,21)	23	4577.jpg
+4577	baked_egg	(110,131,35,21)	2	4577.jpg
 4577	turner	(150,50,22,95)	28	4577.jpg
 4577	plate	(45,103,54,38)	25	4577.jpg
 4577	person	(35,0,159,114)	1	4577.jpg
@@ -43901,7 +43901,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4578	spoon	(30,175,24,22)	27	4578.jpg
 4578	chopstick	(64,119,33,94)	18	4578.jpg
 4578	baked_egg	(139,134,31,23)	2	4578.jpg
-4578	baked_egg	(110,131,35,21)	23	4578.jpg
+4578	baked_egg	(110,131,35,21)	2	4578.jpg
 4578	turner	(150,49,22,97)	28	4578.jpg
 4578	plate	(43,102,53,38)	25	4578.jpg
 4578	person	(35,0,160,114)	1	4578.jpg
@@ -43913,7 +43913,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4579	spoon	(31,175,24,21)	27	4579.jpg
 4579	chopstick	(64,119,33,94)	18	4579.jpg
 4579	baked_egg	(139,134,31,23)	2	4579.jpg
-4579	baked_egg	(110,131,35,21)	23	4579.jpg
+4579	baked_egg	(110,131,35,21)	2	4579.jpg
 4579	turner	(152,52,21,93)	28	4579.jpg
 4579	plate	(45,103,55,38)	25	4579.jpg
 4579	person	(35,0,160,114)	1	4579.jpg
@@ -43925,7 +43925,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4580	spoon	(31,175,23,21)	27	4580.jpg
 4580	chopstick	(64,119,33,94)	18	4580.jpg
 4580	baked_egg	(139,134,31,23)	2	4580.jpg
-4580	baked_egg	(110,131,35,21)	23	4580.jpg
+4580	baked_egg	(110,131,35,21)	2	4580.jpg
 4580	turner	(152,52,22,92)	28	4580.jpg
 4580	plate	(43,102,53,38)	25	4580.jpg
 4580	person	(35,0,160,114)	1	4580.jpg
@@ -43937,7 +43937,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4581	spoon	(31,175,23,21)	27	4581.jpg
 4581	chopstick	(64,119,33,94)	18	4581.jpg
 4581	baked_egg	(139,134,31,23)	2	4581.jpg
-4581	baked_egg	(110,131,35,21)	23	4581.jpg
+4581	baked_egg	(110,131,35,21)	2	4581.jpg
 4581	turner	(154,51,20,87)	28	4581.jpg
 4581	plate	(45,102,54,38)	25	4581.jpg
 4581	person	(34,0,162,114)	1	4581.jpg
@@ -43949,7 +43949,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4582	spoon	(32,175,23,21)	27	4582.jpg
 4582	chopstick	(65,119,33,94)	18	4582.jpg
 4582	baked_egg	(139,134,31,23)	2	4582.jpg
-4582	baked_egg	(110,131,35,21)	23	4582.jpg
+4582	baked_egg	(110,131,35,21)	2	4582.jpg
 4582	turner	(155,52,20,86)	28	4582.jpg
 4582	plate	(43,102,53,38)	25	4582.jpg
 4582	person	(34,0,155,114)	1	4582.jpg
@@ -43961,7 +43961,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4583	spoon	(30,175,23,21)	27	4583.jpg
 4583	chopstick	(64,120,33,93)	18	4583.jpg
 4583	baked_egg	(139,134,31,23)	2	4583.jpg
-4583	baked_egg	(110,131,35,21)	23	4583.jpg
+4583	baked_egg	(110,131,35,21)	2	4583.jpg
 4583	turner	(157,51,19,86)	28	4583.jpg
 4583	plate	(45,102,55,39)	25	4583.jpg
 4583	person	(34,0,156,114)	1	4583.jpg
@@ -43973,7 +43973,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4584	spoon	(31,175,23,21)	27	4584.jpg
 4584	chopstick	(65,119,34,97)	18	4584.jpg
 4584	baked_egg	(139,134,31,23)	2	4584.jpg
-4584	baked_egg	(110,131,35,21)	23	4584.jpg
+4584	baked_egg	(110,131,35,21)	2	4584.jpg
 4584	turner	(159,50,20,86)	28	4584.jpg
 4584	plate	(43,102,53,38)	25	4584.jpg
 4584	person	(36,0,146,114)	1	4584.jpg
@@ -43985,7 +43985,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4585	spoon	(31,175,24,22)	27	4585.jpg
 4585	chopstick	(64,120,33,93)	18	4585.jpg
 4585	baked_egg	(139,134,31,23)	2	4585.jpg
-4585	baked_egg	(110,131,35,21)	23	4585.jpg
+4585	baked_egg	(110,131,35,21)	2	4585.jpg
 4585	turner	(160,48,20,88)	28	4585.jpg
 4585	plate	(45,102,54,38)	25	4585.jpg
 4585	person	(36,0,145,114)	1	4585.jpg
@@ -43997,7 +43997,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4586	spoon	(31,175,24,22)	27	4586.jpg
 4586	chopstick	(65,119,34,97)	18	4586.jpg
 4586	baked_egg	(139,134,31,23)	2	4586.jpg
-4586	baked_egg	(110,131,35,21)	23	4586.jpg
+4586	baked_egg	(110,131,35,21)	2	4586.jpg
 4586	turner	(161,47,21,88)	28	4586.jpg
 4586	plate	(43,102,53,38)	25	4586.jpg
 4586	person	(38,0,142,114)	1	4586.jpg
@@ -44009,7 +44009,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4587	spoon	(31,174,24,23)	27	4587.jpg
 4587	chopstick	(64,120,33,94)	18	4587.jpg
 4587	baked_egg	(139,134,31,23)	2	4587.jpg
-4587	baked_egg	(110,131,35,21)	23	4587.jpg
+4587	baked_egg	(110,131,35,21)	2	4587.jpg
 4587	turner	(163,49,20,86)	28	4587.jpg
 4587	plate	(45,103,54,37)	25	4587.jpg
 4587	person	(38,0,142,124)	1	4587.jpg
@@ -44021,7 +44021,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4588	spoon	(30,174,24,23)	27	4588.jpg
 4588	chopstick	(65,119,34,97)	18	4588.jpg
 4588	baked_egg	(139,134,31,23)	2	4588.jpg
-4588	baked_egg	(110,131,35,21)	23	4588.jpg
+4588	baked_egg	(110,131,35,21)	2	4588.jpg
 4588	turner	(165,49,20,86)	28	4588.jpg
 4588	plate	(43,102,53,38)	25	4588.jpg
 4588	person	(36,0,143,121)	1	4588.jpg
@@ -44033,7 +44033,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4589	spoon	(31,175,25,22)	27	4589.jpg
 4589	chopstick	(64,120,33,94)	18	4589.jpg
 4589	baked_egg	(139,134,31,23)	2	4589.jpg
-4589	baked_egg	(110,131,35,21)	23	4589.jpg
+4589	baked_egg	(110,131,35,21)	2	4589.jpg
 4589	turner	(165,48,20,88)	28	4589.jpg
 4589	plate	(45,103,54,37)	25	4589.jpg
 4589	person	(35,0,143,122)	1	4589.jpg
@@ -44045,7 +44045,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4590	spoon	(30,174,24,23)	27	4590.jpg
 4590	chopstick	(65,119,34,97)	18	4590.jpg
 4590	baked_egg	(139,134,31,23)	2	4590.jpg
-4590	baked_egg	(110,131,35,21)	23	4590.jpg
+4590	baked_egg	(110,131,35,21)	2	4590.jpg
 4590	turner	(165,48,20,88)	28	4590.jpg
 4590	plate	(45,103,51,37)	25	4590.jpg
 4590	person	(35,0,142,122)	1	4590.jpg
@@ -44057,7 +44057,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4591	spoon	(30,174,25,23)	27	4591.jpg
 4591	chopstick	(64,120,32,94)	18	4591.jpg
 4591	baked_egg	(139,134,31,23)	2	4591.jpg
-4591	baked_egg	(110,131,35,21)	23	4591.jpg
+4591	baked_egg	(110,131,35,21)	2	4591.jpg
 4591	turner	(165,47,20,88)	28	4591.jpg
 4591	plate	(45,103,52,37)	25	4591.jpg
 4591	person	(35,0,142,124)	1	4591.jpg
@@ -44069,7 +44069,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4592	spoon	(30,174,25,23)	27	4592.jpg
 4592	chopstick	(65,119,34,97)	18	4592.jpg
 4592	baked_egg	(139,134,31,23)	2	4592.jpg
-4592	baked_egg	(110,131,35,21)	23	4592.jpg
+4592	baked_egg	(110,131,35,21)	2	4592.jpg
 4592	turner	(165,47,20,88)	28	4592.jpg
 4592	plate	(44,103,52,37)	25	4592.jpg
 4592	person	(34,0,142,124)	1	4592.jpg
@@ -44081,7 +44081,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4593	spoon	(30,174,24,23)	27	4593.jpg
 4593	chopstick	(64,120,33,94)	18	4593.jpg
 4593	baked_egg	(139,134,31,23)	2	4593.jpg
-4593	baked_egg	(110,131,35,21)	23	4593.jpg
+4593	baked_egg	(110,131,35,21)	2	4593.jpg
 4593	turner	(159,30,27,103)	28	4593.jpg
 4593	plate	(45,103,52,37)	25	4593.jpg
 4593	person	(34,0,148,124)	1	4593.jpg
@@ -44093,7 +44093,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4594	spoon	(29,174,24,22)	27	4594.jpg
 4594	chopstick	(64,120,33,94)	18	4594.jpg
 4594	baked_egg	(139,134,31,23)	2	4594.jpg
-4594	baked_egg	(110,131,35,21)	23	4594.jpg
+4594	baked_egg	(110,131,35,21)	2	4594.jpg
 4594	turner	(159,28,27,105)	28	4594.jpg
 4594	plate	(45,102,53,38)	25	4594.jpg
 4594	person	(34,0,139,124)	1	4594.jpg
@@ -44105,7 +44105,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4595	spoon	(29,174,24,23)	27	4595.jpg
 4595	chopstick	(64,120,33,94)	18	4595.jpg
 4595	baked_egg	(139,134,31,23)	2	4595.jpg
-4595	baked_egg	(110,131,35,21)	23	4595.jpg
+4595	baked_egg	(110,131,35,21)	2	4595.jpg
 4595	turner	(158,26,28,107)	28	4595.jpg
 4595	plate	(43,102,53,38)	25	4595.jpg
 4595	person	(34,0,140,121)	1	4595.jpg
@@ -44117,7 +44117,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4596	spoon	(30,173,24,24)	27	4596.jpg
 4596	chopstick	(63,120,33,94)	18	4596.jpg
 4596	baked_egg	(139,134,31,23)	2	4596.jpg
-4596	baked_egg	(110,131,35,21)	23	4596.jpg
+4596	baked_egg	(110,131,35,21)	2	4596.jpg
 4596	turner	(159,24,28,110)	28	4596.jpg
 4596	plate	(45,102,55,39)	25	4596.jpg
 4596	person	(34,0,140,123)	1	4596.jpg
@@ -44129,7 +44129,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4597	spoon	(29,173,25,23)	27	4597.jpg
 4597	chopstick	(64,119,34,97)	18	4597.jpg
 4597	baked_egg	(139,134,31,23)	2	4597.jpg
-4597	baked_egg	(110,131,35,21)	23	4597.jpg
+4597	baked_egg	(110,131,35,21)	2	4597.jpg
 4597	turner	(158,23,29,111)	28	4597.jpg
 4597	plate	(42,102,54,38)	25	4597.jpg
 4597	person	(34,0,138,122)	1	4597.jpg
@@ -44141,7 +44141,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4598	spoon	(29,173,24,24)	27	4598.jpg
 4598	chopstick	(63,120,33,94)	18	4598.jpg
 4598	baked_egg	(139,134,31,23)	2	4598.jpg
-4598	baked_egg	(110,131,35,21)	23	4598.jpg
+4598	baked_egg	(110,131,35,21)	2	4598.jpg
 4598	turner	(159,22,29,111)	28	4598.jpg
 4598	plate	(45,101,54,39)	25	4598.jpg
 4598	person	(34,0,138,120)	1	4598.jpg
@@ -44156,7 +44156,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4599	turner	(158,18,30,116)	28	4599.jpg
 4599	plate	(41,101,55,39)	25	4599.jpg
 4599	person	(34,0,148,114)	1	4599.jpg
-4599	baked_egg	(111,127,32,21)	23	4599.jpg
+4599	baked_egg	(111,127,32,21)	2	4599.jpg
 4600	bowl	(32,129,50,44)	17	4600.jpg
 4600	frying_pan	(95,86,88,103)	14	4600.jpg
 4600	knife	(0,131,48,34)	22	4600.jpg
@@ -44168,7 +44168,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4600	turner	(158,15,31,119)	28	4600.jpg
 4600	plate	(40,100,56,39)	25	4600.jpg
 4600	person	(35,0,148,114)	1	4600.jpg
-4600	baked_egg	(109,123,34,23)	23	4600.jpg
+4600	baked_egg	(109,123,34,23)	2	4600.jpg
 4601	bowl	(30,129,51,43)	17	4601.jpg
 4601	frying_pan	(96,84,87,102)	14	4601.jpg
 4601	knife	(0,131,46,33)	22	4601.jpg
@@ -44180,7 +44180,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4601	turner	(157,11,32,123)	28	4601.jpg
 4601	plate	(39,100,56,40)	25	4601.jpg
 4601	person	(38,0,145,114)	1	4601.jpg
-4601	baked_egg	(109,119,34,24)	23	4601.jpg
+4601	baked_egg	(109,119,34,24)	2	4601.jpg
 4602	bowl	(31,129,50,44)	17	4602.jpg
 4602	frying_pan	(94,80,88,103)	14	4602.jpg
 4602	knife	(0,132,43,32)	22	4602.jpg
@@ -44192,7 +44192,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4602	turner	(158,9,32,123)	28	4602.jpg
 4602	plate	(40,100,56,39)	25	4602.jpg
 4602	person	(41,0,142,114)	1	4602.jpg
-4602	baked_egg	(108,117,37,22)	23	4602.jpg
+4602	baked_egg	(108,117,37,22)	2	4602.jpg
 4603	bowl	(31,130,48,42)	17	4603.jpg
 4603	frying_pan	(94,75,90,105)	14	4603.jpg
 4603	knife	(0,131,47,34)	22	4603.jpg
@@ -44204,7 +44204,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4603	turner	(158,7,32,122)	28	4603.jpg
 4603	plate	(40,100,55,39)	25	4603.jpg
 4603	person	(43,0,140,114)	1	4603.jpg
-4603	baked_egg	(107,114,37,22)	23	4603.jpg
+4603	baked_egg	(107,114,37,22)	2	4603.jpg
 4604	bowl	(34,131,47,41)	17	4604.jpg
 4604	frying_pan	(92,72,87,102)	14	4604.jpg
 4604	knife	(0,132,43,32)	22	4604.jpg
@@ -44216,7 +44216,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4604	turner	(159,5,32,121)	28	4604.jpg
 4604	plate	(40,100,55,39)	25	4604.jpg
 4604	person	(43,0,123,114)	1	4604.jpg
-4604	baked_egg	(109,110,31,21)	23	4604.jpg
+4604	baked_egg	(109,110,31,21)	2	4604.jpg
 4605	bowl	(32,130,47,41)	17	4605.jpg
 4605	frying_pan	(92,67,89,103)	14	4605.jpg
 4605	knife	(0,131,47,34)	22	4605.jpg
@@ -44228,7 +44228,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4605	turner	(160,3,32,122)	28	4605.jpg
 4605	plate	(40,100,55,39)	25	4605.jpg
 4605	person	(43,0,140,114)	1	4605.jpg
-4605	baked_egg	(106,105,34,23)	23	4605.jpg
+4605	baked_egg	(106,105,34,23)	2	4605.jpg
 4606	bowl	(31,129,50,43)	17	4606.jpg
 4606	frying_pan	(89,62,87,103)	14	4606.jpg
 4606	knife	(0,131,46,33)	22	4606.jpg
@@ -44240,7 +44240,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4606	turner	(160,2,31,122)	28	4606.jpg
 4606	plate	(43,101,53,38)	25	4606.jpg
 4606	person	(41,0,136,114)	1	4606.jpg
-4606	baked_egg	(105,99,33,25)	23	4606.jpg
+4606	baked_egg	(105,99,33,25)	2	4606.jpg
 4607	bowl	(31,129,50,43)	17	4607.jpg
 4607	frying_pan	(87,57,89,105)	14	4607.jpg
 4607	knife	(0,131,48,34)	22	4607.jpg
@@ -44252,7 +44252,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4607	turner	(159,0,32,123)	28	4607.jpg
 4607	plate	(41,102,50,35)	25	4607.jpg
 4607	person	(45,0,137,114)	1	4607.jpg
-4607	baked_egg	(103,93,32,25)	23	4607.jpg
+4607	baked_egg	(103,93,32,25)	2	4607.jpg
 4608	bowl	(31,130,48,42)	17	4608.jpg
 4608	frying_pan	(84,51,91,106)	14	4608.jpg
 4608	knife	(0,132,43,32)	22	4608.jpg
@@ -44264,7 +44264,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4608	turner	(159,0,32,123)	28	4608.jpg
 4608	plate	(43,102,52,36)	25	4608.jpg
 4608	person	(47,0,133,114)	1	4608.jpg
-4608	baked_egg	(100,91,34,22)	23	4608.jpg
+4608	baked_egg	(100,91,34,22)	2	4608.jpg
 4609	bowl	(34,131,47,41)	17	4609.jpg
 4609	frying_pan	(80,47,90,105)	14	4609.jpg
 4609	knife	(0,131,48,34)	22	4609.jpg
@@ -44276,7 +44276,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4609	turner	(154,12,45,96)	28	4609.jpg
 4609	plate	(48,105,50,36)	25	4609.jpg
 4609	person	(49,0,114,114)	1	4609.jpg
-4609	baked_egg	(97,86,33,21)	23	4609.jpg
+4609	baked_egg	(97,86,33,21)	2	4609.jpg
 4610	bowl	(34,130,48,42)	17	4610.jpg
 4610	frying_pan	(76,41,92,108)	14	4610.jpg
 4610	knife	(0,130,50,35)	22	4610.jpg
@@ -44288,7 +44288,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4610	turner	(152,13,43,91)	28	4610.jpg
 4610	plate	(45,104,52,37)	25	4610.jpg
 4610	person	(51,0,112,114)	1	4610.jpg
-4610	baked_egg	(94,82,32,21)	23	4610.jpg
+4610	baked_egg	(94,82,32,21)	2	4610.jpg
 4611	bowl	(30,129,51,44)	17	4611.jpg
 4611	frying_pan	(72,37,92,108)	14	4611.jpg
 4611	knife	(0,130,47,34)	22	4611.jpg
@@ -44300,7 +44300,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4611	turner	(151,11,43,91)	28	4611.jpg
 4611	plate	(47,103,52,38)	25	4611.jpg
 4611	person	(54,0,109,114)	1	4611.jpg
-4611	baked_egg	(89,79,35,19)	23	4611.jpg
+4611	baked_egg	(89,79,35,19)	2	4611.jpg
 4612	bowl	(33,130,50,43)	17	4612.jpg
 4612	frying_pan	(66,35,91,106)	14	4612.jpg
 4612	knife	(0,130,48,35)	22	4612.jpg
@@ -44312,7 +44312,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4612	turner	(152,9,44,93)	28	4612.jpg
 4612	plate	(45,103,52,38)	25	4612.jpg
 4612	person	(62,0,100,114)	1	4612.jpg
-4612	baked_egg	(86,74,33,21)	23	4612.jpg
+4612	baked_egg	(86,74,33,21)	2	4612.jpg
 4613	bowl	(31,130,50,43)	17	4613.jpg
 4613	frying_pan	(63,32,90,106)	14	4613.jpg
 4613	knife	(0,131,45,33)	22	4613.jpg
@@ -44324,7 +44324,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4613	turner	(151,9,43,93)	28	4613.jpg
 4613	plate	(47,103,52,38)	25	4613.jpg
 4613	person	(66,0,96,114)	1	4613.jpg
-4613	baked_egg	(83,71,33,22)	23	4613.jpg
+4613	baked_egg	(83,71,33,22)	2	4613.jpg
 4614	bowl	(34,130,49,43)	17	4614.jpg
 4614	frying_pan	(58,31,90,105)	14	4614.jpg
 4614	knife	(0,130,50,35)	22	4614.jpg
@@ -44336,7 +44336,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4614	turner	(149,10,44,92)	28	4614.jpg
 4614	plate	(44,103,54,39)	25	4614.jpg
 4614	person	(66,0,96,114)	1	4614.jpg
-4614	baked_egg	(79,70,33,21)	23	4614.jpg
+4614	baked_egg	(79,70,33,21)	2	4614.jpg
 4615	bowl	(31,130,50,43)	17	4615.jpg
 4615	frying_pan	(58,30,88,104)	14	4615.jpg
 4615	knife	(0,131,45,33)	22	4615.jpg
@@ -44348,7 +44348,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4615	turner	(150,10,43,93)	28	4615.jpg
 4615	plate	(47,103,54,39)	25	4615.jpg
 4615	person	(62,0,100,114)	1	4615.jpg
-4615	baked_egg	(77,66,32,22)	23	4615.jpg
+4615	baked_egg	(77,66,32,22)	2	4615.jpg
 4616	bowl	(33,130,49,43)	17	4616.jpg
 4616	frying_pan	(53,29,88,103)	14	4616.jpg
 4616	knife	(0,130,50,35)	22	4616.jpg
@@ -44360,7 +44360,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4616	turner	(102,17,43,64)	28	4616.jpg
 4616	plate	(44,103,54,38)	25	4616.jpg
 4616	person	(59,0,101,114)	1	4616.jpg
-4616	baked_egg	(73,64,33,25)	23	4616.jpg
+4616	baked_egg	(73,64,33,25)	2	4616.jpg
 4617	bowl	(32,130,49,43)	17	4617.jpg
 4617	frying_pan	(47,27,90,104)	14	4617.jpg
 4617	knife	(0,128,52,38)	22	4617.jpg
@@ -44372,7 +44372,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4617	turner	(99,16,43,63)	28	4617.jpg
 4617	plate	(44,103,53,38)	25	4617.jpg
 4617	person	(55,0,133,114)	1	4617.jpg
-4617	baked_egg	(69,62,36,24)	23	4617.jpg
+4617	baked_egg	(69,62,36,24)	2	4617.jpg
 4618	bowl	(32,130,48,42)	17	4618.jpg
 4618	frying_pan	(47,26,89,104)	14	4618.jpg
 4618	knife	(0,129,50,36)	22	4618.jpg
@@ -44384,7 +44384,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4618	turner	(98,17,41,61)	28	4618.jpg
 4618	plate	(44,103,53,37)	25	4618.jpg
 4618	person	(51,0,136,114)	1	4618.jpg
-4618	baked_egg	(61,61,41,26)	23	4618.jpg
+4618	baked_egg	(61,61,41,26)	2	4618.jpg
 4619	bowl	(35,131,47,41)	17	4619.jpg
 4619	frying_pan	(41,24,90,105)	14	4619.jpg
 4619	knife	(0,130,48,34)	22	4619.jpg
@@ -44396,7 +44396,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4619	turner	(98,16,41,62)	28	4619.jpg
 4619	plate	(45,103,54,37)	25	4619.jpg
 4619	person	(48,0,136,114)	1	4619.jpg
-4619	baked_egg	(62,58,37,27)	23	4619.jpg
+4619	baked_egg	(62,58,37,27)	2	4619.jpg
 4620	bowl	(33,130,47,42)	17	4620.jpg
 4620	frying_pan	(45,20,76,100)	14	4620.jpg
 4620	knife	(0,130,50,35)	22	4620.jpg
@@ -44408,7 +44408,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4620	turner	(61,19,63,58)	28	4620.jpg
 4620	plate	(46,105,53,38)	25	4620.jpg
 4620	person	(45,0,136,114)	1	4620.jpg
-4620	baked_egg	(59,59,37,23)	23	4620.jpg
+4620	baked_egg	(59,59,37,23)	2	4620.jpg
 4621	bowl	(32,130,46,41)	17	4621.jpg
 4621	frying_pan	(40,19,76,100)	14	4621.jpg
 4621	knife	(0,129,52,37)	22	4621.jpg
@@ -44420,7 +44420,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4621	turner	(58,19,61,56)	28	4621.jpg
 4621	plate	(45,105,53,37)	25	4621.jpg
 4621	person	(41,0,137,114)	1	4621.jpg
-4621	baked_egg	(58,58,33,22)	23	4621.jpg
+4621	baked_egg	(58,58,33,22)	2	4621.jpg
 4622	bowl	(35,131,44,40)	17	4622.jpg
 4622	frying_pan	(40,19,74,99)	14	4622.jpg
 4622	knife	(0,130,47,34)	22	4622.jpg
@@ -44432,7 +44432,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4622	turner	(54,18,63,57)	28	4622.jpg
 4622	plate	(45,105,51,37)	25	4622.jpg
 4622	person	(37,0,138,114)	1	4622.jpg
-4622	baked_egg	(54,60,35,21)	23	4622.jpg
+4622	baked_egg	(54,60,35,21)	2	4622.jpg
 4623	bowl	(33,130,44,40)	17	4623.jpg
 4623	frying_pan	(35,18,76,101)	14	4623.jpg
 4623	knife	(0,129,52,37)	22	4623.jpg
@@ -44444,7 +44444,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4623	turner	(53,17,63,58)	28	4623.jpg
 4623	plate	(48,106,50,36)	25	4623.jpg
 4623	person	(33,0,148,114)	1	4623.jpg
-4623	baked_egg	(51,59,35,21)	23	4623.jpg
+4623	baked_egg	(51,59,35,21)	2	4623.jpg
 4624	bowl	(35,130,44,40)	17	4624.jpg
 4624	frying_pan	(30,18,77,101)	14	4624.jpg
 4624	knife	(0,129,50,36)	22	4624.jpg
@@ -44456,7 +44456,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4624	turner	(51,18,61,57)	28	4624.jpg
 4624	plate	(47,105,49,36)	25	4624.jpg
 4624	person	(30,0,149,114)	1	4624.jpg
-4624	baked_egg	(48,60,33,20)	23	4624.jpg
+4624	baked_egg	(48,60,33,20)	2	4624.jpg
 4625	bowl	(33,130,45,40)	17	4625.jpg
 4625	frying_pan	(26,17,77,101)	14	4625.jpg
 4625	knife	(0,130,48,34)	22	4625.jpg
@@ -44468,7 +44468,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4625	turner	(47,18,62,57)	28	4625.jpg
 4625	plate	(46,105,52,37)	25	4625.jpg
 4625	person	(26,0,151,114)	1	4625.jpg
-4625	baked_egg	(42,59,38,21)	23	4625.jpg
+4625	baked_egg	(42,59,38,21)	2	4625.jpg
 4626	bowl	(33,129,47,42)	17	4626.jpg
 4626	frying_pan	(23,18,78,102)	14	4626.jpg
 4626	knife	(0,129,52,36)	22	4626.jpg
@@ -44480,7 +44480,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4626	turner	(42,17,65,60)	28	4626.jpg
 4626	plate	(48,105,51,37)	25	4626.jpg
 4626	person	(23,0,152,114)	1	4626.jpg
-4626	baked_egg	(42,60,33,21)	23	4626.jpg
+4626	baked_egg	(42,60,33,21)	2	4626.jpg
 4627	bowl	(33,129,47,42)	17	4627.jpg
 4627	frying_pan	(19,19,77,101)	14	4627.jpg
 4627	knife	(0,129,50,35)	22	4627.jpg
@@ -44492,7 +44492,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4627	turner	(41,18,63,58)	28	4627.jpg
 4627	plate	(44,105,52,37)	25	4627.jpg
 4627	person	(19,0,154,114)	1	4627.jpg
-4627	baked_egg	(40,60,33,23)	23	4627.jpg
+4627	baked_egg	(40,60,33,23)	2	4627.jpg
 4628	bowl	(32,130,46,41)	17	4628.jpg
 4628	frying_pan	(17,20,77,101)	14	4628.jpg
 4628	knife	(0,129,50,36)	22	4628.jpg
@@ -44504,7 +44504,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4628	turner	(37,19,64,58)	28	4628.jpg
 4628	plate	(48,105,51,37)	25	4628.jpg
 4628	person	(16,0,154,114)	1	4628.jpg
-4628	baked_egg	(37,60,34,25)	23	4628.jpg
+4628	baked_egg	(37,60,34,25)	2	4628.jpg
 4629	bowl	(33,130,46,41)	17	4629.jpg
 4629	frying_pan	(14,21,77,102)	14	4629.jpg
 4629	knife	(0,130,48,34)	22	4629.jpg
@@ -44516,7 +44516,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4629	turner	(35,20,64,59)	28	4629.jpg
 4629	plate	(45,105,50,36)	25	4629.jpg
 4629	person	(12,0,156,114)	1	4629.jpg
-4629	baked_egg	(35,64,36,22)	23	4629.jpg
+4629	baked_egg	(35,64,36,22)	2	4629.jpg
 4630	bowl	(33,130,46,41)	17	4630.jpg
 4630	frying_pan	(10,22,77,101)	14	4630.jpg
 4630	knife	(0,129,52,36)	22	4630.jpg
@@ -44528,7 +44528,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4630	turner	(33,21,64,59)	28	4630.jpg
 4630	plate	(48,106,50,36)	25	4630.jpg
 4630	person	(9,0,156,114)	1	4630.jpg
-4630	baked_egg	(33,66,36,19)	23	4630.jpg
+4630	baked_egg	(33,66,36,19)	2	4630.jpg
 4631	bowl	(33,130,46,41)	17	4631.jpg
 4631	frying_pan	(6,21,76,100)	14	4631.jpg
 4631	knife	(0,129,50,35)	22	4631.jpg
@@ -44540,7 +44540,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4631	turner	(29,21,64,58)	28	4631.jpg
 4631	plate	(46,106,50,36)	25	4631.jpg
 4631	person	(5,0,158,114)	1	4631.jpg
-4631	baked_egg	(29,65,37,19)	23	4631.jpg
+4631	baked_egg	(29,65,37,19)	2	4631.jpg
 4632	bowl	(33,130,46,42)	17	4632.jpg
 4632	frying_pan	(3,23,77,101)	14	4632.jpg
 4632	knife	(0,130,48,34)	22	4632.jpg
@@ -44552,7 +44552,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4632	turner	(27,23,64,58)	28	4632.jpg
 4632	plate	(47,106,51,36)	25	4632.jpg
 4632	person	(2,0,151,114)	1	4632.jpg
-4632	baked_egg	(27,67,36,18)	23	4632.jpg
+4632	baked_egg	(27,67,36,18)	2	4632.jpg
 4633	bowl	(33,130,47,42)	17	4633.jpg
 4633	frying_pan	(0,23,78,102)	14	4633.jpg
 4633	knife	(0,130,50,35)	22	4633.jpg
@@ -44564,7 +44564,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4633	turner	(23,23,65,59)	28	4633.jpg
 4633	plate	(46,105,52,37)	25	4633.jpg
 4633	person	(0,0,162,114)	1	4633.jpg
-4633	baked_egg	(25,67,33,20)	23	4633.jpg
+4633	baked_egg	(25,67,33,20)	2	4633.jpg
 4634	bowl	(32,130,46,41)	17	4634.jpg
 4634	frying_pan	(1,28,74,97)	14	4634.jpg
 4634	knife	(0,128,52,38)	22	4634.jpg
@@ -44576,7 +44576,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4634	turner	(42,28,64,65)	28	4634.jpg
 4634	plate	(46,105,52,37)	25	4634.jpg
 4634	person	(0,0,161,114)	1	4634.jpg
-4634	baked_egg	(24,68,37,22)	23	4634.jpg
+4634	baked_egg	(24,68,37,22)	2	4634.jpg
 4635	bowl	(31,130,44,40)	17	4635.jpg
 4635	frying_pan	(0,26,71,98)	14	4635.jpg
 4635	knife	(0,128,49,36)	22	4635.jpg
@@ -44588,7 +44588,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4635	turner	(39,28,62,63)	28	4635.jpg
 4635	plate	(45,104,52,37)	25	4635.jpg
 4635	person	(0,0,161,114)	1	4635.jpg
-4635	baked_egg	(20,67,36,21)	23	4635.jpg
+4635	baked_egg	(20,67,36,21)	2	4635.jpg
 4636	bowl	(32,130,45,40)	17	4636.jpg
 4636	frying_pan	(0,29,68,95)	14	4636.jpg
 4636	knife	(0,127,54,39)	22	4636.jpg
@@ -44600,7 +44600,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4636	turner	(37,28,62,63)	28	4636.jpg
 4636	plate	(45,104,52,37)	25	4636.jpg
 4636	person	(0,0,161,114)	1	4636.jpg
-4636	baked_egg	(19,67,32,22)	23	4636.jpg
+4636	baked_egg	(19,67,32,22)	2	4636.jpg
 4637	bowl	(31,129,46,41)	17	4637.jpg
 4637	frying_pan	(0,28,69,97)	14	4637.jpg
 4637	knife	(0,127,52,39)	22	4637.jpg
@@ -44612,7 +44612,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4637	turner	(34,28,64,65)	28	4637.jpg
 4637	plate	(45,104,52,37)	25	4637.jpg
 4637	person	(0,0,161,114)	1	4637.jpg
-4637	baked_egg	(18,70,33,18)	23	4637.jpg
+4637	baked_egg	(18,70,33,18)	2	4637.jpg
 4638	bowl	(31,129,46,41)	17	4638.jpg
 4638	frying_pan	(0,28,65,97)	14	4638.jpg
 4638	knife	(0,127,54,39)	22	4638.jpg
@@ -44624,7 +44624,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4638	turner	(34,27,65,66)	28	4638.jpg
 4638	plate	(45,105,52,36)	25	4638.jpg
 4638	person	(0,0,161,114)	1	4638.jpg
-4638	baked_egg	(16,68,33,20)	23	4638.jpg
+4638	baked_egg	(16,68,33,20)	2	4638.jpg
 4639	bowl	(31,130,44,40)	17	4639.jpg
 4639	frying_pan	(0,28,67,96)	14	4639.jpg
 4639	knife	(0,128,49,37)	22	4639.jpg
@@ -44636,7 +44636,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4639	turner	(32,27,66,66)	28	4639.jpg
 4639	plate	(45,104,52,37)	25	4639.jpg
 4639	person	(0,0,161,114)	1	4639.jpg
-4639	baked_egg	(15,69,33,19)	23	4639.jpg
+4639	baked_egg	(15,69,33,19)	2	4639.jpg
 4640	bowl	(34,131,44,39)	17	4640.jpg
 4640	frying_pan	(0,29,63,95)	14	4640.jpg
 4640	knife	(0,127,54,39)	22	4640.jpg
@@ -44648,7 +44648,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4640	turner	(30,27,66,66)	28	4640.jpg
 4640	plate	(45,104,52,37)	25	4640.jpg
 4640	person	(0,0,161,114)	1	4640.jpg
-4640	baked_egg	(14,67,34,23)	23	4640.jpg
+4640	baked_egg	(14,67,34,23)	2	4640.jpg
 4641	bowl	(31,130,45,40)	17	4641.jpg
 4641	frying_pan	(0,29,64,95)	14	4641.jpg
 4641	knife	(0,127,52,38)	22	4641.jpg
@@ -44660,7 +44660,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4641	turner	(30,63,72,50)	28	4641.jpg
 4641	plate	(45,105,52,36)	25	4641.jpg
 4641	person	(0,0,154,114)	1	4641.jpg
-4641	baked_egg	(12,69,33,21)	23	4641.jpg
+4641	baked_egg	(12,69,33,21)	2	4641.jpg
 4642	bowl	(31,130,44,39)	17	4642.jpg
 4642	frying_pan	(0,29,63,94)	14	4642.jpg
 4642	knife	(0,127,49,37)	22	4642.jpg
@@ -44672,7 +44672,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4642	turner	(30,63,71,50)	28	4642.jpg
 4642	plate	(44,104,52,36)	25	4642.jpg
 4642	person	(0,0,156,114)	1	4642.jpg
-4642	baked_egg	(13,70,35,18)	23	4642.jpg
+4642	baked_egg	(13,70,35,18)	2	4642.jpg
 4643	bowl	(30,130,43,39)	17	4643.jpg
 4643	frying_pan	(0,29,63,94)	14	4643.jpg
 4643	knife	(0,126,53,39)	22	4643.jpg
@@ -44684,7 +44684,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4643	turner	(29,62,72,51)	28	4643.jpg
 4643	plate	(45,105,52,36)	25	4643.jpg
 4643	person	(0,0,156,114)	1	4643.jpg
-4643	baked_egg	(12,68,36,20)	23	4643.jpg
+4643	baked_egg	(12,68,36,20)	2	4643.jpg
 4644	bowl	(30,130,45,39)	17	4644.jpg
 4644	frying_pan	(0,29,63,94)	14	4644.jpg
 4644	knife	(0,126,52,38)	22	4644.jpg
@@ -44696,7 +44696,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4644	turner	(30,63,71,50)	28	4644.jpg
 4644	plate	(45,104,52,37)	25	4644.jpg
 4644	person	(0,0,156,114)	1	4644.jpg
-4644	baked_egg	(12,69,35,18)	23	4644.jpg
+4644	baked_egg	(12,69,35,18)	2	4644.jpg
 4645	bowl	(30,130,45,39)	17	4645.jpg
 4645	frying_pan	(0,29,63,94)	14	4645.jpg
 4645	knife	(0,127,49,37)	22	4645.jpg
@@ -44708,7 +44708,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4645	turner	(29,62,73,51)	28	4645.jpg
 4645	plate	(45,104,52,36)	25	4645.jpg
 4645	person	(0,0,163,114)	1	4645.jpg
-4645	baked_egg	(9,67,37,21)	23	4645.jpg
+4645	baked_egg	(9,67,37,21)	2	4645.jpg
 4646	bowl	(30,130,45,40)	17	4646.jpg
 4646	frying_pan	(0,32,59,88)	14	4646.jpg
 4646	knife	(0,127,51,38)	22	4646.jpg
@@ -44720,7 +44720,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4646	turner	(29,62,73,51)	28	4646.jpg
 4646	plate	(45,105,52,36)	25	4646.jpg
 4646	person	(0,0,162,114)	1	4646.jpg
-4646	baked_egg	(11,70,37,17)	23	4646.jpg
+4646	baked_egg	(11,70,37,17)	2	4646.jpg
 4647	bowl	(30,130,44,39)	17	4647.jpg
 4647	frying_pan	(0,27,64,95)	14	4647.jpg
 4647	knife	(0,126,54,39)	22	4647.jpg
@@ -44732,7 +44732,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4647	turner	(29,62,73,51)	28	4647.jpg
 4647	plate	(45,105,52,36)	25	4647.jpg
 4647	person	(0,0,161,114)	1	4647.jpg
-4647	baked_egg	(12,70,34,18)	23	4647.jpg
+4647	baked_egg	(12,70,34,18)	2	4647.jpg
 4648	bowl	(31,130,45,39)	17	4648.jpg
 4648	frying_pan	(0,32,58,88)	14	4648.jpg
 4648	knife	(0,126,52,38)	22	4648.jpg
@@ -44744,7 +44744,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4648	turner	(31,62,73,51)	28	4648.jpg
 4648	plate	(45,105,52,36)	25	4648.jpg
 4648	person	(0,0,161,114)	1	4648.jpg
-4648	baked_egg	(12,66,34,22)	23	4648.jpg
+4648	baked_egg	(12,66,34,22)	2	4648.jpg
 4649	bowl	(31,130,44,39)	17	4649.jpg
 4649	frying_pan	(0,25,66,98)	14	4649.jpg
 4649	knife	(0,127,49,37)	22	4649.jpg
@@ -44756,7 +44756,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4649	turner	(29,63,72,49)	28	4649.jpg
 4649	plate	(45,105,52,36)	25	4649.jpg
 4649	person	(0,0,161,114)	1	4649.jpg
-4649	baked_egg	(11,67,33,21)	23	4649.jpg
+4649	baked_egg	(11,67,33,21)	2	4649.jpg
 4650	bowl	(31,129,45,40)	17	4650.jpg
 4650	frying_pan	(0,22,69,103)	14	4650.jpg
 4650	knife	(0,126,51,38)	22	4650.jpg
@@ -44768,7 +44768,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4650	turner	(28,62,72,50)	28	4650.jpg
 4650	plate	(44,104,52,36)	25	4650.jpg
 4650	person	(0,0,163,114)	1	4650.jpg
-4650	baked_egg	(11,66,34,22)	23	4650.jpg
+4650	baked_egg	(11,66,34,22)	2	4650.jpg
 4651	bowl	(29,129,46,40)	17	4651.jpg
 4651	frying_pan	(0,25,64,96)	14	4651.jpg
 4651	knife	(0,127,46,35)	22	4651.jpg
@@ -44780,7 +44780,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4651	turner	(28,63,72,49)	28	4651.jpg
 4651	plate	(45,105,52,36)	25	4651.jpg
 4651	person	(0,0,164,114)	1	4651.jpg
-4651	baked_egg	(10,65,34,25)	23	4651.jpg
+4651	baked_egg	(10,65,34,25)	2	4651.jpg
 4652	bowl	(30,129,45,40)	17	4652.jpg
 4652	frying_pan	(0,25,66,97)	14	4652.jpg
 4652	knife	(0,126,50,38)	22	4652.jpg
@@ -44792,7 +44792,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4652	turner	(29,63,71,48)	28	4652.jpg
 4652	plate	(45,105,52,36)	25	4652.jpg
 4652	person	(0,0,164,114)	1	4652.jpg
-4652	baked_egg	(10,66,29,24)	23	4652.jpg
+4652	baked_egg	(10,66,29,24)	2	4652.jpg
 4653	bowl	(31,129,45,40)	17	4653.jpg
 4653	frying_pan	(0,24,66,99)	14	4653.jpg
 4653	knife	(0,126,49,37)	22	4653.jpg
@@ -44804,7 +44804,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4653	turner	(29,63,71,49)	28	4653.jpg
 4653	plate	(45,105,52,36)	25	4653.jpg
 4653	person	(0,0,165,114)	1	4653.jpg
-4653	baked_egg	(10,64,29,28)	23	4653.jpg
+4653	baked_egg	(10,64,29,28)	2	4653.jpg
 4654	bowl	(31,129,44,40)	17	4654.jpg
 4654	frying_pan	(0,24,67,100)	14	4654.jpg
 4654	knife	(0,126,49,37)	22	4654.jpg
@@ -44816,7 +44816,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4654	turner	(32,64,69,47)	28	4654.jpg
 4654	plate	(45,105,52,36)	25	4654.jpg
 4654	person	(0,0,164,114)	1	4654.jpg
-4654	baked_egg	(8,66,27,26)	23	4654.jpg
+4654	baked_egg	(8,66,27,26)	2	4654.jpg
 4655	bowl	(31,129,45,40)	17	4655.jpg
 4655	frying_pan	(0,23,68,102)	14	4655.jpg
 4655	knife	(0,127,46,35)	22	4655.jpg
@@ -44828,7 +44828,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4655	turner	(30,63,71,48)	28	4655.jpg
 4655	plate	(45,105,52,36)	25	4655.jpg
 4655	person	(0,0,164,114)	1	4655.jpg
-4655	baked_egg	(6,66,26,25)	23	4655.jpg
+4655	baked_egg	(6,66,26,25)	2	4655.jpg
 4656	bowl	(30,129,44,39)	17	4656.jpg
 4656	frying_pan	(0,24,68,101)	14	4656.jpg
 4656	knife	(0,126,50,38)	22	4656.jpg
@@ -44840,7 +44840,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4656	turner	(30,63,71,48)	28	4656.jpg
 4656	plate	(45,105,52,36)	25	4656.jpg
 4656	person	(0,0,164,114)	1	4656.jpg
-4656	baked_egg	(6,64,27,28)	23	4656.jpg
+4656	baked_egg	(6,64,27,28)	2	4656.jpg
 4657	bowl	(31,129,44,40)	17	4657.jpg
 4657	frying_pan	(0,23,69,103)	14	4657.jpg
 4657	knife	(0,126,49,37)	22	4657.jpg
@@ -44852,7 +44852,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4657	turner	(32,63,70,48)	28	4657.jpg
 4657	plate	(45,105,52,36)	25	4657.jpg
 4657	person	(0,0,163,114)	1	4657.jpg
-4657	baked_egg	(7,65,26,29)	23	4657.jpg
+4657	baked_egg	(7,65,26,29)	2	4657.jpg
 4658	bowl	(31,129,45,40)	17	4658.jpg
 4658	frying_pan	(0,24,69,103)	14	4658.jpg
 4658	knife	(0,126,49,37)	22	4658.jpg
@@ -44864,7 +44864,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4658	turner	(29,62,72,50)	28	4658.jpg
 4658	plate	(45,105,52,36)	25	4658.jpg
 4658	person	(0,0,162,114)	1	4658.jpg
-4658	baked_egg	(6,65,28,29)	23	4658.jpg
+4658	baked_egg	(6,65,28,29)	2	4658.jpg
 4659	bowl	(30,129,43,39)	17	4659.jpg
 4659	frying_pan	(0,24,70,103)	14	4659.jpg
 4659	knife	(0,127,46,36)	22	4659.jpg
@@ -44876,7 +44876,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4659	turner	(30,63,72,48)	28	4659.jpg
 4659	plate	(45,105,52,36)	25	4659.jpg
 4659	person	(0,0,162,114)	1	4659.jpg
-4659	baked_egg	(5,70,27,28)	23	4659.jpg
+4659	baked_egg	(5,70,27,28)	2	4659.jpg
 4660	bowl	(32,130,43,38)	17	4660.jpg
 4660	frying_pan	(0,24,70,104)	14	4660.jpg
 4660	knife	(0,126,50,38)	22	4660.jpg
@@ -44888,7 +44888,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4660	turner	(31,63,70,48)	28	4660.jpg
 4660	plate	(45,105,52,36)	25	4660.jpg
 4660	person	(0,0,161,114)	1	4660.jpg
-4660	baked_egg	(5,70,28,28)	23	4660.jpg
+4660	baked_egg	(5,70,28,28)	2	4660.jpg
 4661	bowl	(30,130,42,37)	17	4661.jpg
 4661	frying_pan	(0,27,66,98)	14	4661.jpg
 4661	knife	(0,126,49,37)	22	4661.jpg
@@ -44900,7 +44900,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4661	turner	(32,64,69,47)	28	4661.jpg
 4661	plate	(44,105,53,36)	25	4661.jpg
 4661	person	(0,0,160,114)	1	4661.jpg
-4661	baked_egg	(5,70,27,28)	23	4661.jpg
+4661	baked_egg	(5,70,27,28)	2	4661.jpg
 4662	bowl	(32,130,43,38)	17	4662.jpg
 4662	frying_pan	(0,26,68,101)	14	4662.jpg
 4662	knife	(0,126,49,37)	22	4662.jpg
@@ -44912,7 +44912,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4662	turner	(31,65,67,46)	28	4662.jpg
 4662	plate	(44,105,53,36)	25	4662.jpg
 4662	person	(0,0,160,114)	1	4662.jpg
-4662	baked_egg	(3,74,32,23)	23	4662.jpg
+4662	baked_egg	(3,74,32,23)	2	4662.jpg
 4663	bowl	(30,130,43,38)	17	4663.jpg
 4663	frying_pan	(0,26,68,102)	14	4663.jpg
 4663	knife	(0,127,46,36)	22	4663.jpg
@@ -44924,7 +44924,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4663	turner	(32,65,68,47)	28	4663.jpg
 4663	plate	(44,105,51,35)	25	4663.jpg
 4663	person	(0,0,159,114)	1	4663.jpg
-4663	baked_egg	(5,73,28,26)	23	4663.jpg
+4663	baked_egg	(5,73,28,26)	2	4663.jpg
 4664	bowl	(30,129,44,39)	17	4664.jpg
 4664	frying_pan	(0,29,64,96)	14	4664.jpg
 4664	knife	(0,126,50,38)	22	4664.jpg
@@ -44936,7 +44936,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4664	turner	(31,65,70,47)	28	4664.jpg
 4664	plate	(47,105,50,35)	25	4664.jpg
 4664	person	(0,0,159,114)	1	4664.jpg
-4664	baked_egg	(4,77,30,22)	23	4664.jpg
+4664	baked_egg	(4,77,30,22)	2	4664.jpg
 4665	bowl	(31,129,44,40)	17	4665.jpg
 4665	frying_pan	(0,26,69,103)	14	4665.jpg
 4665	knife	(0,126,49,37)	22	4665.jpg
@@ -44948,7 +44948,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4665	turner	(30,65,71,47)	28	4665.jpg
 4665	plate	(44,105,50,35)	25	4665.jpg
 4665	person	(0,0,159,114)	1	4665.jpg
-4665	baked_egg	(4,77,33,24)	23	4665.jpg
+4665	baked_egg	(4,77,33,24)	2	4665.jpg
 4666	bowl	(30,130,43,38)	17	4666.jpg
 4666	frying_pan	(0,28,66,100)	14	4666.jpg
 4666	knife	(0,127,46,35)	22	4666.jpg
@@ -44960,7 +44960,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4666	turner	(30,65,71,47)	28	4666.jpg
 4666	plate	(47,105,50,35)	25	4666.jpg
 4666	person	(0,0,159,114)	1	4666.jpg
-4666	baked_egg	(6,79,31,22)	23	4666.jpg
+4666	baked_egg	(6,79,31,22)	2	4666.jpg
 4667	bowl	(30,129,44,39)	17	4667.jpg
 4667	frying_pan	(0,27,69,103)	14	4667.jpg
 4667	knife	(0,126,50,38)	22	4667.jpg
@@ -44972,7 +44972,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4667	turner	(30,65,71,48)	28	4667.jpg
 4667	plate	(45,106,49,34)	25	4667.jpg
 4667	person	(0,0,159,114)	1	4667.jpg
-4667	baked_egg	(7,80,31,22)	23	4667.jpg
+4667	baked_egg	(7,80,31,22)	2	4667.jpg
 4668	bowl	(31,129,44,39)	17	4668.jpg
 4668	frying_pan	(0,28,66,102)	14	4668.jpg
 4668	knife	(0,126,49,37)	22	4668.jpg
@@ -44984,7 +44984,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4668	turner	(30,65,68,47)	28	4668.jpg
 4668	plate	(46,106,50,34)	25	4668.jpg
 4668	person	(0,0,158,114)	1	4668.jpg
-4668	baked_egg	(4,81,34,21)	23	4668.jpg
+4668	baked_egg	(4,81,34,21)	2	4668.jpg
 4669	bowl	(31,129,44,40)	17	4669.jpg
 4669	frying_pan	(0,30,66,98)	14	4669.jpg
 4669	knife	(0,127,46,35)	22	4669.jpg
@@ -44996,7 +44996,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4669	turner	(34,66,66,46)	28	4669.jpg
 4669	plate	(44,105,53,36)	25	4669.jpg
 4669	person	(0,0,158,114)	1	4669.jpg
-4669	baked_egg	(5,82,34,21)	23	4669.jpg
+4669	baked_egg	(5,82,34,21)	2	4669.jpg
 4670	bowl	(31,129,44,40)	17	4670.jpg
 4670	frying_pan	(0,30,66,98)	14	4670.jpg
 4670	knife	(0,126,50,38)	22	4670.jpg
@@ -45008,7 +45008,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4670	turner	(32,66,66,45)	28	4670.jpg
 4670	plate	(44,105,52,36)	25	4670.jpg
 4670	person	(0,0,158,114)	1	4670.jpg
-4670	baked_egg	(5,82,34,21)	23	4670.jpg
+4670	baked_egg	(5,82,34,21)	2	4670.jpg
 4671	bowl	(31,129,45,40)	17	4671.jpg
 4671	frying_pan	(0,31,66,98)	14	4671.jpg
 4671	knife	(0,126,49,37)	22	4671.jpg
@@ -45020,7 +45020,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4671	turner	(33,67,65,45)	28	4671.jpg
 4671	plate	(44,105,53,36)	25	4671.jpg
 4671	person	(0,0,157,114)	1	4671.jpg
-4671	baked_egg	(6,82,33,24)	23	4671.jpg
+4671	baked_egg	(6,82,33,24)	2	4671.jpg
 4672	bowl	(30,129,43,39)	17	4672.jpg
 4672	frying_pan	(0,34,62,92)	14	4672.jpg
 4672	knife	(0,127,46,35)	22	4672.jpg
@@ -45032,7 +45032,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4672	turner	(35,67,65,44)	28	4672.jpg
 4672	plate	(44,105,52,36)	25	4672.jpg
 4672	person	(0,0,157,114)	1	4672.jpg
-4672	baked_egg	(7,84,32,21)	23	4672.jpg
+4672	baked_egg	(7,84,32,21)	2	4672.jpg
 4673	bowl	(32,130,43,38)	17	4673.jpg
 4673	frying_pan	(0,30,67,100)	14	4673.jpg
 4673	knife	(0,126,50,38)	22	4673.jpg
@@ -45044,7 +45044,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4673	turner	(33,67,65,44)	28	4673.jpg
 4673	plate	(43,104,52,37)	25	4673.jpg
 4673	person	(0,0,157,114)	1	4673.jpg
-4673	baked_egg	(7,87,33,19)	23	4673.jpg
+4673	baked_egg	(7,87,33,19)	2	4673.jpg
 4674	bowl	(30,130,42,37)	17	4674.jpg
 4674	frying_pan	(0,34,62,93)	14	4674.jpg
 4674	knife	(0,126,49,37)	22	4674.jpg
@@ -45056,7 +45056,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4674	turner	(33,67,66,45)	28	4674.jpg
 4674	plate	(44,104,52,37)	25	4674.jpg
 4674	person	(0,0,157,114)	1	4674.jpg
-4674	baked_egg	(7,87,36,20)	23	4674.jpg
+4674	baked_egg	(7,87,36,20)	2	4674.jpg
 4675	bowl	(32,130,43,38)	17	4675.jpg
 4675	frying_pan	(0,31,67,99)	14	4675.jpg
 4675	knife	(0,127,46,35)	22	4675.jpg
@@ -45068,7 +45068,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4675	turner	(32,67,67,45)	28	4675.jpg
 4675	plate	(46,105,51,35)	25	4675.jpg
 4675	person	(0,0,158,114)	1	4675.jpg
-4675	baked_egg	(8,88,36,21)	23	4675.jpg
+4675	baked_egg	(8,88,36,21)	2	4675.jpg
 4676	bowl	(31,130,42,38)	17	4676.jpg
 4676	frying_pan	(0,35,62,93)	14	4676.jpg
 4676	knife	(0,126,50,38)	22	4676.jpg
@@ -45077,7 +45077,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4676	spoon	(33,179,29,19)	27	4676.jpg
 4676	chopstick	(59,115,38,96)	18	4676.jpg
 4676	baked_egg	(35,83,23,26)	2	4676.jpg
-4676	baked_egg	(8,88,36,21)	23	4676.jpg
+4676	baked_egg	(8,88,36,21)	2	4676.jpg
 4676	turner	(32,67,67,45)	28	4676.jpg
 4676	plate	(43,104,54,37)	25	4676.jpg
 4676	person	(0,0,157,114)	1	4676.jpg
@@ -45089,7 +45089,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4677	spoon	(33,179,29,19)	27	4677.jpg
 4677	chopstick	(59,115,38,96)	18	4677.jpg
 4677	baked_egg	(37,83,22,27)	2	4677.jpg
-4677	baked_egg	(8,88,36,21)	23	4677.jpg
+4677	baked_egg	(8,88,36,21)	2	4677.jpg
 4677	turner	(32,67,67,45)	28	4677.jpg
 4677	plate	(44,104,52,37)	25	4677.jpg
 4677	person	(0,0,157,114)	1	4677.jpg
@@ -45101,7 +45101,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4678	spoon	(34,179,29,19)	27	4678.jpg
 4678	chopstick	(59,115,38,96)	18	4678.jpg
 4678	baked_egg	(37,83,22,27)	2	4678.jpg
-4678	baked_egg	(8,88,36,21)	23	4678.jpg
+4678	baked_egg	(8,88,36,21)	2	4678.jpg
 4678	turner	(32,67,67,45)	28	4678.jpg
 4678	plate	(44,105,52,36)	25	4678.jpg
 4678	person	(0,0,157,114)	1	4678.jpg
@@ -45113,7 +45113,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4679	spoon	(32,179,30,19)	27	4679.jpg
 4679	chopstick	(60,115,38,96)	18	4679.jpg
 4679	baked_egg	(36,84,26,24)	2	4679.jpg
-4679	baked_egg	(8,88,36,21)	23	4679.jpg
+4679	baked_egg	(8,88,36,21)	2	4679.jpg
 4679	turner	(33,67,66,45)	28	4679.jpg
 4679	plate	(43,105,52,35)	25	4679.jpg
 4679	person	(0,0,156,114)	1	4679.jpg
@@ -45125,7 +45125,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4680	spoon	(33,179,30,19)	27	4680.jpg
 4680	chopstick	(59,115,38,96)	18	4680.jpg
 4680	baked_egg	(38,83,26,25)	2	4680.jpg
-4680	baked_egg	(8,88,36,21)	23	4680.jpg
+4680	baked_egg	(8,88,36,21)	2	4680.jpg
 4680	turner	(33,67,66,45)	28	4680.jpg
 4680	plate	(46,105,51,35)	25	4680.jpg
 4680	person	(0,0,157,114)	1	4680.jpg
@@ -45137,7 +45137,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4681	spoon	(33,179,29,19)	27	4681.jpg
 4681	chopstick	(59,114,40,100)	18	4681.jpg
 4681	baked_egg	(37,86,27,24)	2	4681.jpg
-4681	baked_egg	(8,88,36,21)	23	4681.jpg
+4681	baked_egg	(8,88,36,21)	2	4681.jpg
 4681	turner	(32,67,67,45)	28	4681.jpg
 4681	plate	(43,104,54,37)	25	4681.jpg
 4681	person	(0,0,156,114)	1	4681.jpg
@@ -45149,7 +45149,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4682	spoon	(33,180,28,18)	27	4682.jpg
 4682	chopstick	(59,115,38,96)	18	4682.jpg
 4682	baked_egg	(38,86,28,26)	2	4682.jpg
-4682	baked_egg	(8,88,36,21)	23	4682.jpg
+4682	baked_egg	(8,88,36,21)	2	4682.jpg
 4682	turner	(31,68,65,44)	28	4682.jpg
 4682	plate	(44,104,52,37)	25	4682.jpg
 4682	person	(0,0,157,114)	1	4682.jpg
@@ -45161,7 +45161,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4683	spoon	(32,179,29,19)	27	4683.jpg
 4683	chopstick	(59,115,38,96)	18	4683.jpg
 4683	baked_egg	(39,88,27,25)	2	4683.jpg
-4683	baked_egg	(8,88,36,21)	23	4683.jpg
+4683	baked_egg	(8,88,36,21)	2	4683.jpg
 4683	turner	(35,68,64,44)	28	4683.jpg
 4683	plate	(44,104,52,37)	25	4683.jpg
 4683	person	(0,0,157,114)	1	4683.jpg
@@ -45173,7 +45173,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4684	spoon	(33,179,29,19)	27	4684.jpg
 4684	chopstick	(59,115,38,96)	18	4684.jpg
 4684	baked_egg	(39,88,28,26)	2	4684.jpg
-4684	baked_egg	(8,88,36,21)	23	4684.jpg
+4684	baked_egg	(8,88,36,21)	2	4684.jpg
 4684	turner	(33,68,64,44)	28	4684.jpg
 4684	plate	(44,105,52,36)	25	4684.jpg
 4684	person	(0,0,157,114)	1	4684.jpg
@@ -45185,7 +45185,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4685	spoon	(33,179,29,19)	27	4685.jpg
 4685	chopstick	(59,115,38,96)	18	4685.jpg
 4685	baked_egg	(40,88,28,27)	2	4685.jpg
-4685	baked_egg	(8,88,36,21)	23	4685.jpg
+4685	baked_egg	(8,88,36,21)	2	4685.jpg
 4685	turner	(35,68,64,44)	28	4685.jpg
 4685	plate	(46,105,51,35)	25	4685.jpg
 4685	person	(0,0,156,114)	1	4685.jpg
@@ -45197,7 +45197,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4686	spoon	(34,180,27,18)	27	4686.jpg
 4686	chopstick	(59,115,38,96)	18	4686.jpg
 4686	baked_egg	(41,88,28,28)	2	4686.jpg
-4686	baked_egg	(8,88,36,21)	23	4686.jpg
+4686	baked_egg	(8,88,36,21)	2	4686.jpg
 4686	turner	(33,90,98,29)	28	4686.jpg
 4686	plate	(43,104,54,37)	25	4686.jpg
 4686	person	(0,0,155,114)	1	4686.jpg
@@ -45209,7 +45209,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4687	spoon	(33,179,28,19)	27	4687.jpg
 4687	chopstick	(58,115,38,95)	18	4687.jpg
 4687	baked_egg	(40,90,30,26)	2	4687.jpg
-4687	baked_egg	(8,88,36,21)	23	4687.jpg
+4687	baked_egg	(8,88,36,21)	2	4687.jpg
 4687	turner	(34,90,96,28)	28	4687.jpg
 4687	plate	(43,104,53,37)	25	4687.jpg
 4687	person	(0,0,156,114)	1	4687.jpg
@@ -45221,7 +45221,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4688	spoon	(34,179,28,19)	27	4688.jpg
 4688	chopstick	(59,114,38,96)	18	4688.jpg
 4688	baked_egg	(42,91,30,26)	2	4688.jpg
-4688	baked_egg	(8,88,36,21)	23	4688.jpg
+4688	baked_egg	(8,88,36,21)	2	4688.jpg
 4688	turner	(36,91,94,27)	28	4688.jpg
 4688	plate	(41,103,55,38)	25	4688.jpg
 4688	person	(0,0,158,114)	1	4688.jpg
@@ -45233,7 +45233,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4689	spoon	(32,179,28,19)	27	4689.jpg
 4689	chopstick	(59,115,36,92)	18	4689.jpg
 4689	baked_egg	(44,92,30,26)	2	4689.jpg
-4689	baked_egg	(8,88,36,21)	23	4689.jpg
+4689	baked_egg	(8,88,36,21)	2	4689.jpg
 4689	turner	(38,91,91,27)	28	4689.jpg
 4689	plate	(44,105,52,35)	25	4689.jpg
 4689	person	(0,0,157,114)	1	4689.jpg
@@ -45245,7 +45245,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4690	spoon	(34,179,28,19)	27	4690.jpg
 4690	chopstick	(59,115,37,95)	18	4690.jpg
 4690	baked_egg	(47,94,29,25)	2	4690.jpg
-4690	baked_egg	(8,88,36,21)	23	4690.jpg
+4690	baked_egg	(8,88,36,21)	2	4690.jpg
 4690	turner	(38,91,92,27)	28	4690.jpg
 4690	plate	(43,104,53,36)	25	4690.jpg
 4690	person	(0,0,156,114)	1	4690.jpg
@@ -45257,7 +45257,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4691	spoon	(32,179,28,19)	27	4691.jpg
 4691	chopstick	(59,115,37,95)	18	4691.jpg
 4691	baked_egg	(49,96,29,25)	2	4691.jpg
-4691	baked_egg	(8,88,36,21)	23	4691.jpg
+4691	baked_egg	(8,88,36,21)	2	4691.jpg
 4691	turner	(38,91,91,27)	28	4691.jpg
 4691	plate	(42,104,54,36)	25	4691.jpg
 4691	person	(0,0,156,114)	1	4691.jpg
@@ -45269,7 +45269,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4692	spoon	(34,179,28,19)	27	4692.jpg
 4692	chopstick	(59,115,37,95)	18	4692.jpg
 4692	baked_egg	(51,98,30,25)	2	4692.jpg
-4692	baked_egg	(8,88,36,21)	23	4692.jpg
+4692	baked_egg	(8,88,36,21)	2	4692.jpg
 4692	turner	(36,92,89,26)	28	4692.jpg
 4692	plate	(42,104,54,36)	25	4692.jpg
 4692	person	(0,0,158,114)	1	4692.jpg
@@ -45284,7 +45284,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4693	turner	(40,92,90,27)	28	4693.jpg
 4693	plate	(43,104,53,37)	25	4693.jpg
 4693	person	(0,0,156,114)	1	4693.jpg
-4693	baked_egg	(0,91,34,23)	23	4693.jpg
+4693	baked_egg	(0,91,34,23)	2	4693.jpg
 4694	bowl	(29,130,43,38)	17	4694.jpg
 4694	frying_pan	(0,39,53,87)	14	4694.jpg
 4694	knife	(0,126,47,37)	22	4694.jpg
@@ -45293,7 +45293,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4694	spoon	(34,179,28,19)	27	4694.jpg
 4694	chopstick	(59,115,38,95)	18	4694.jpg
 4694	baked_egg	(53,101,30,26)	2	4694.jpg
-4694	baked_egg	(0,91,34,23)	23	4694.jpg
+4694	baked_egg	(0,91,34,23)	2	4694.jpg
 4694	turner	(38,92,90,26)	28	4694.jpg
 4694	plate	(42,103,55,38)	25	4694.jpg
 4694	person	(0,0,157,114)	1	4694.jpg
@@ -45305,7 +45305,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4695	spoon	(32,179,29,19)	27	4695.jpg
 4695	chopstick	(59,115,37,95)	18	4695.jpg
 4695	baked_egg	(54,103,30,25)	2	4695.jpg
-4695	baked_egg	(0,91,34,23)	23	4695.jpg
+4695	baked_egg	(0,91,34,23)	2	4695.jpg
 4695	turner	(38,91,91,26)	28	4695.jpg
 4695	plate	(42,103,55,38)	25	4695.jpg
 4695	person	(0,0,156,114)	1	4695.jpg
@@ -45317,7 +45317,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4696	spoon	(34,179,28,19)	27	4696.jpg
 4696	chopstick	(59,115,37,95)	18	4696.jpg
 4696	baked_egg	(53,104,30,27)	2	4696.jpg
-4696	baked_egg	(0,91,34,23)	23	4696.jpg
+4696	baked_egg	(0,91,34,23)	2	4696.jpg
 4696	turner	(37,90,89,27)	28	4696.jpg
 4696	plate	(42,103,55,38)	25	4696.jpg
 4696	person	(0,0,160,114)	1	4696.jpg
@@ -45329,7 +45329,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4697	spoon	(32,179,29,19)	27	4697.jpg
 4697	chopstick	(59,115,37,96)	18	4697.jpg
 4697	baked_egg	(52,106,30,26)	2	4697.jpg
-4697	baked_egg	(0,91,34,23)	23	4697.jpg
+4697	baked_egg	(0,91,34,23)	2	4697.jpg
 4697	turner	(37,90,89,27)	28	4697.jpg
 4697	plate	(40,103,56,38)	25	4697.jpg
 4697	person	(0,0,157,114)	1	4697.jpg
@@ -45341,7 +45341,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4698	spoon	(34,179,28,19)	27	4698.jpg
 4698	chopstick	(59,115,37,96)	18	4698.jpg
 4698	baked_egg	(50,107,30,27)	2	4698.jpg
-4698	baked_egg	(0,91,34,23)	23	4698.jpg
+4698	baked_egg	(0,91,34,23)	2	4698.jpg
 4698	turner	(35,91,89,26)	28	4698.jpg
 4698	plate	(42,103,55,38)	25	4698.jpg
 4698	person	(0,0,159,114)	1	4698.jpg
@@ -45353,7 +45353,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4699	spoon	(32,179,28,19)	27	4699.jpg
 4699	chopstick	(59,115,37,96)	18	4699.jpg
 4699	baked_egg	(49,109,30,26)	2	4699.jpg
-4699	baked_egg	(0,91,34,23)	23	4699.jpg
+4699	baked_egg	(0,91,34,23)	2	4699.jpg
 4699	turner	(38,91,91,27)	28	4699.jpg
 4699	plate	(40,103,55,38)	25	4699.jpg
 4699	person	(0,0,159,114)	1	4699.jpg
@@ -45365,7 +45365,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4700	spoon	(33,179,28,19)	27	4700.jpg
 4700	chopstick	(59,115,37,95)	18	4700.jpg
 4700	baked_egg	(55,113,26,23)	2	4700.jpg
-4700	baked_egg	(0,91,34,23)	23	4700.jpg
+4700	baked_egg	(0,91,34,23)	2	4700.jpg
 4700	turner	(58,89,74,48)	28	4700.jpg
 4700	plate	(49,103,50,40)	25	4700.jpg
 4700	person	(0,0,159,114)	1	4700.jpg
@@ -45377,7 +45377,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4701	spoon	(33,178,28,19)	27	4701.jpg
 4701	chopstick	(58,115,37,94)	18	4701.jpg
 4701	baked_egg	(55,112,25,23)	2	4701.jpg
-4701	baked_egg	(0,91,34,23)	23	4701.jpg
+4701	baked_egg	(0,91,34,23)	2	4701.jpg
 4701	turner	(57,88,74,48)	28	4701.jpg
 4701	plate	(49,102,49,40)	25	4701.jpg
 4701	person	(0,0,160,114)	1	4701.jpg
@@ -45389,7 +45389,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4702	spoon	(32,179,28,18)	27	4702.jpg
 4702	chopstick	(59,116,36,94)	18	4702.jpg
 4702	baked_egg	(55,113,24,21)	2	4702.jpg
-4702	baked_egg	(0,91,34,23)	23	4702.jpg
+4702	baked_egg	(0,91,34,23)	2	4702.jpg
 4702	turner	(58,89,72,47)	28	4702.jpg
 4702	plate	(48,102,50,40)	25	4702.jpg
 4702	person	(0,0,160,114)	1	4702.jpg
@@ -45401,7 +45401,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4703	spoon	(33,179,28,18)	27	4703.jpg
 4703	chopstick	(58,114,37,96)	18	4703.jpg
 4703	baked_egg	(54,112,24,21)	2	4703.jpg
-4703	baked_egg	(0,91,34,23)	23	4703.jpg
+4703	baked_egg	(0,91,34,23)	2	4703.jpg
 4703	turner	(58,88,73,48)	28	4703.jpg
 4703	plate	(49,103,49,39)	25	4703.jpg
 4703	person	(0,0,161,114)	1	4703.jpg
@@ -45413,7 +45413,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4704	spoon	(32,178,28,19)	27	4704.jpg
 4704	chopstick	(58,114,37,95)	18	4704.jpg
 4704	baked_egg	(50,111,24,21)	2	4704.jpg
-4704	baked_egg	(0,91,34,23)	23	4704.jpg
+4704	baked_egg	(0,91,34,23)	2	4704.jpg
 4704	turner	(58,88,73,48)	28	4704.jpg
 4704	plate	(49,102,49,40)	25	4704.jpg
 4704	person	(0,0,162,114)	1	4704.jpg
@@ -45425,7 +45425,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4705	spoon	(33,179,27,18)	27	4705.jpg
 4705	chopstick	(58,114,37,96)	18	4705.jpg
 4705	baked_egg	(47,109,24,21)	2	4705.jpg
-4705	baked_egg	(0,91,34,23)	23	4705.jpg
+4705	baked_egg	(0,91,34,23)	2	4705.jpg
 4705	turner	(58,89,73,47)	28	4705.jpg
 4705	plate	(49,102,49,40)	25	4705.jpg
 4705	person	(0,0,163,114)	1	4705.jpg
@@ -45437,7 +45437,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4706	spoon	(33,178,29,20)	27	4706.jpg
 4706	chopstick	(58,114,38,96)	18	4706.jpg
 4706	baked_egg	(46,109,24,21)	2	4706.jpg
-4706	baked_egg	(0,91,34,23)	23	4706.jpg
+4706	baked_egg	(0,91,34,23)	2	4706.jpg
 4706	turner	(58,89,73,47)	28	4706.jpg
 4706	plate	(49,102,50,40)	25	4706.jpg
 4706	person	(0,0,164,114)	1	4706.jpg
@@ -45449,7 +45449,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4707	spoon	(31,178,29,20)	27	4707.jpg
 4707	chopstick	(58,114,37,96)	18	4707.jpg
 4707	baked_egg	(58,118,23,18)	2	4707.jpg
-4707	baked_egg	(0,91,34,23)	23	4707.jpg
+4707	baked_egg	(0,91,34,23)	2	4707.jpg
 4707	turner	(58,88,73,48)	28	4707.jpg
 4707	plate	(49,102,49,40)	25	4707.jpg
 4707	person	(0,0,165,114)	1	4707.jpg
@@ -45461,7 +45461,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4708	spoon	(32,178,29,20)	27	4708.jpg
 4708	chopstick	(58,115,37,95)	18	4708.jpg
 4708	baked_egg	(58,117,23,19)	2	4708.jpg
-4708	baked_egg	(0,91,34,23)	23	4708.jpg
+4708	baked_egg	(0,91,34,23)	2	4708.jpg
 4708	turner	(58,88,74,48)	28	4708.jpg
 4708	plate	(48,103,49,39)	25	4708.jpg
 4708	person	(0,0,167,114)	1	4708.jpg
@@ -45473,7 +45473,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4709	spoon	(32,178,29,19)	27	4709.jpg
 4709	chopstick	(58,115,37,95)	18	4709.jpg
 4709	baked_egg	(55,115,28,21)	2	4709.jpg
-4709	baked_egg	(0,91,34,23)	23	4709.jpg
+4709	baked_egg	(0,91,34,23)	2	4709.jpg
 4709	turner	(52,68,50,68)	28	4709.jpg
 4709	plate	(48,102,50,40)	25	4709.jpg
 4709	person	(0,0,168,114)	1	4709.jpg
@@ -45485,7 +45485,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4710	spoon	(31,177,30,20)	27	4710.jpg
 4710	chopstick	(57,114,38,96)	18	4710.jpg
 4710	baked_egg	(55,115,26,20)	2	4710.jpg
-4710	baked_egg	(0,91,34,23)	23	4710.jpg
+4710	baked_egg	(0,91,34,23)	2	4710.jpg
 4710	turner	(51,66,51,70)	28	4710.jpg
 4710	plate	(47,101,50,40)	25	4710.jpg
 4710	person	(0,0,170,114)	1	4710.jpg
@@ -45500,7 +45500,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4711	turner	(50,66,51,69)	28	4711.jpg
 4711	plate	(47,101,50,40)	25	4711.jpg
 4711	person	(0,0,167,114)	1	4711.jpg
-4711	baked_egg	(0,84,36,25)	23	4711.jpg
+4711	baked_egg	(0,84,36,25)	2	4711.jpg
 4712	bowl	(28,130,41,36)	17	4712.jpg
 4712	frying_pan	(0,35,57,100)	14	4712.jpg
 4712	knife	(0,124,47,37)	22	4712.jpg
@@ -45512,7 +45512,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4712	turner	(50,66,51,69)	28	4712.jpg
 4712	plate	(47,101,50,41)	25	4712.jpg
 4712	person	(0,0,167,114)	1	4712.jpg
-4712	baked_egg	(1,85,32,25)	23	4712.jpg
+4712	baked_egg	(1,85,32,25)	2	4712.jpg
 4713	bowl	(29,129,42,38)	17	4713.jpg
 4713	frying_pan	(0,35,55,100)	14	4713.jpg
 4713	knife	(0,125,45,36)	22	4713.jpg
@@ -45524,7 +45524,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4713	turner	(50,66,52,69)	28	4713.jpg
 4713	plate	(47,101,50,41)	25	4713.jpg
 4713	person	(0,0,167,114)	1	4713.jpg
-4713	baked_egg	(0,88,35,21)	23	4713.jpg
+4713	baked_egg	(0,88,35,21)	2	4713.jpg
 4714	bowl	(28,129,42,38)	17	4714.jpg
 4714	frying_pan	(0,35,57,99)	14	4714.jpg
 4714	knife	(1,125,46,36)	22	4714.jpg
@@ -45536,7 +45536,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4714	turner	(51,66,51,70)	28	4714.jpg
 4714	plate	(47,101,51,41)	25	4714.jpg
 4714	person	(0,0,167,114)	1	4714.jpg
-4714	baked_egg	(0,87,38,23)	23	4714.jpg
+4714	baked_egg	(0,87,38,23)	2	4714.jpg
 4715	bowl	(29,129,41,38)	17	4715.jpg
 4715	frying_pan	(0,35,56,99)	14	4715.jpg
 4715	knife	(0,125,47,36)	22	4715.jpg
@@ -45548,7 +45548,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4715	turner	(51,66,51,70)	28	4715.jpg
 4715	plate	(47,101,51,40)	25	4715.jpg
 4715	person	(0,0,166,114)	1	4715.jpg
-4715	baked_egg	(2,86,35,25)	23	4715.jpg
+4715	baked_egg	(2,86,35,25)	2	4715.jpg
 4716	bowl	(28,130,40,36)	17	4716.jpg
 4716	frying_pan	(0,35,57,99)	14	4716.jpg
 4716	knife	(0,123,49,39)	22	4716.jpg
@@ -45560,7 +45560,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4716	turner	(51,67,51,69)	28	4716.jpg
 4716	plate	(47,101,51,40)	25	4716.jpg
 4716	person	(0,0,165,114)	1	4716.jpg
-4716	baked_egg	(0,86,38,22)	23	4716.jpg
+4716	baked_egg	(0,86,38,22)	2	4716.jpg
 4717	bowl	(28,130,41,37)	17	4717.jpg
 4717	frying_pan	(0,34,56,100)	14	4717.jpg
 4717	knife	(0,123,47,39)	22	4717.jpg
@@ -45572,7 +45572,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4717	turner	(51,67,51,69)	28	4717.jpg
 4717	plate	(47,101,51,40)	25	4717.jpg
 4717	person	(0,0,164,114)	1	4717.jpg
-4717	baked_egg	(0,87,38,20)	23	4717.jpg
+4717	baked_egg	(0,87,38,20)	2	4717.jpg
 4718	bowl	(29,129,42,38)	17	4718.jpg
 4718	frying_pan	(0,34,58,100)	14	4718.jpg
 4718	knife	(0,123,50,40)	22	4718.jpg
@@ -45584,7 +45584,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4718	turner	(51,67,50,68)	28	4718.jpg
 4718	plate	(50,102,48,39)	25	4718.jpg
 4718	person	(0,0,164,114)	1	4718.jpg
-4718	baked_egg	(2,86,36,23)	23	4718.jpg
+4718	baked_egg	(2,86,36,23)	2	4718.jpg
 4719	bowl	(28,129,42,38)	17	4719.jpg
 4719	frying_pan	(0,34,57,99)	14	4719.jpg
 4719	knife	(0,123,47,39)	22	4719.jpg
@@ -45596,7 +45596,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4719	turner	(51,67,50,68)	28	4719.jpg
 4719	plate	(48,102,48,39)	25	4719.jpg
 4719	person	(0,0,162,114)	1	4719.jpg
-4719	baked_egg	(2,84,38,23)	23	4719.jpg
+4719	baked_egg	(2,84,38,23)	2	4719.jpg
 4720	bowl	(28,129,42,38)	17	4720.jpg
 4720	frying_pan	(0,33,58,100)	14	4720.jpg
 4720	knife	(0,123,50,40)	22	4720.jpg
@@ -45608,7 +45608,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4720	turner	(21,72,81,37)	28	4720.jpg
 4720	plate	(48,102,49,39)	25	4720.jpg
 4720	person	(0,0,163,114)	1	4720.jpg
-4720	baked_egg	(3,85,38,22)	23	4720.jpg
+4720	baked_egg	(3,85,38,22)	2	4720.jpg
 4721	bowl	(27,128,41,38)	17	4721.jpg
 4721	frying_pan	(0,32,60,101)	14	4721.jpg
 4721	knife	(0,121,52,43)	22	4721.jpg
@@ -45620,7 +45620,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4721	turner	(22,72,80,37)	28	4721.jpg
 4721	plate	(48,101,50,40)	25	4721.jpg
 4721	person	(0,0,162,114)	1	4721.jpg
-4721	baked_egg	(3,85,39,21)	23	4721.jpg
+4721	baked_egg	(3,85,39,21)	2	4721.jpg
 4722	bowl	(27,129,42,37)	17	4722.jpg
 4722	frying_pan	(0,31,59,101)	14	4722.jpg
 4722	knife	(0,122,50,40)	22	4722.jpg
@@ -45632,7 +45632,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4722	turner	(25,72,78,35)	28	4722.jpg
 4722	plate	(45,101,52,41)	25	4722.jpg
 4722	person	(0,0,162,114)	1	4722.jpg
-4722	baked_egg	(4,82,37,23)	23	4722.jpg
+4722	baked_egg	(4,82,37,23)	2	4722.jpg
 4723	bowl	(28,128,43,39)	17	4723.jpg
 4723	frying_pan	(0,31,60,100)	14	4723.jpg
 4723	knife	(0,123,48,39)	22	4723.jpg
@@ -45644,7 +45644,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4723	turner	(24,71,79,36)	28	4723.jpg
 4723	plate	(47,101,51,41)	25	4723.jpg
 4723	person	(0,0,160,114)	1	4723.jpg
-4723	baked_egg	(5,83,36,21)	23	4723.jpg
+4723	baked_egg	(5,83,36,21)	2	4723.jpg
 4724	bowl	(27,128,42,38)	17	4724.jpg
 4724	frying_pan	(0,31,58,99)	14	4724.jpg
 4724	knife	(0,121,52,43)	22	4724.jpg
@@ -45656,7 +45656,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4724	turner	(26,70,79,36)	28	4724.jpg
 4724	plate	(47,101,49,40)	25	4724.jpg
 4724	person	(0,0,159,114)	1	4724.jpg
-4724	baked_egg	(7,80,35,24)	23	4724.jpg
+4724	baked_egg	(7,80,35,24)	2	4724.jpg
 4725	bowl	(28,128,42,38)	17	4725.jpg
 4725	frying_pan	(0,30,60,100)	14	4725.jpg
 4725	knife	(0,122,50,40)	22	4725.jpg
@@ -45668,7 +45668,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4725	turner	(25,70,79,36)	28	4725.jpg
 4725	plate	(47,101,50,40)	25	4725.jpg
 4725	person	(0,0,157,122)	1	4725.jpg
-4725	baked_egg	(7,82,36,22)	23	4725.jpg
+4725	baked_egg	(7,82,36,22)	2	4725.jpg
 4726	bowl	(27,129,41,37)	17	4726.jpg
 4726	frying_pan	(0,28,60,103)	14	4726.jpg
 4726	knife	(0,123,48,39)	22	4726.jpg
@@ -45680,7 +45680,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4726	turner	(28,70,78,35)	28	4726.jpg
 4726	plate	(48,101,50,40)	25	4726.jpg
 4726	person	(0,0,157,123)	1	4726.jpg
-4726	baked_egg	(5,82,40,22)	23	4726.jpg
+4726	baked_egg	(5,82,40,22)	2	4726.jpg
 4727	bowl	(27,129,42,37)	17	4727.jpg
 4727	frying_pan	(0,29,61,102)	14	4727.jpg
 4727	knife	(0,122,50,41)	22	4727.jpg
@@ -45692,7 +45692,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4727	turner	(25,69,79,36)	28	4727.jpg
 4727	plate	(47,101,50,40)	25	4727.jpg
 4727	person	(0,0,157,124)	1	4727.jpg
-4727	baked_egg	(6,80,37,25)	23	4727.jpg
+4727	baked_egg	(6,80,37,25)	2	4727.jpg
 4728	bowl	(28,128,43,39)	17	4728.jpg
 4728	frying_pan	(0,27,61,105)	14	4728.jpg
 4728	knife	(0,121,52,43)	22	4728.jpg
@@ -45704,7 +45704,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4728	turner	(18,82,70,35)	28	4728.jpg
 4728	plate	(47,101,50,40)	25	4728.jpg
 4728	person	(0,0,156,124)	1	4728.jpg
-4728	baked_egg	(6,80,41,25)	23	4728.jpg
+4728	baked_egg	(6,80,41,25)	2	4728.jpg
 4729	bowl	(26,127,43,39)	17	4729.jpg
 4729	frying_pan	(0,24,64,110)	14	4729.jpg
 4729	knife	(0,122,49,40)	22	4729.jpg
@@ -45716,7 +45716,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4729	turner	(18,81,68,34)	28	4729.jpg
 4729	plate	(46,101,49,39)	25	4729.jpg
 4729	person	(0,0,155,125)	1	4729.jpg
-4729	baked_egg	(9,81,33,20)	23	4729.jpg
+4729	baked_egg	(9,81,33,20)	2	4729.jpg
 4730	bowl	(27,128,43,38)	17	4730.jpg
 4730	frying_pan	(0,29,57,99)	14	4730.jpg
 4730	knife	(0,120,53,44)	22	4730.jpg
@@ -45728,7 +45728,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4730	turner	(20,81,68,34)	28	4730.jpg
 4730	plate	(49,101,48,39)	25	4730.jpg
 4730	person	(0,0,154,125)	1	4730.jpg
-4730	baked_egg	(9,78,37,22)	23	4730.jpg
+4730	baked_egg	(9,78,37,22)	2	4730.jpg
 4731	bowl	(28,127,44,40)	17	4731.jpg
 4731	frying_pan	(0,29,60,98)	14	4731.jpg
 4731	knife	(0,120,52,43)	22	4731.jpg
@@ -45740,7 +45740,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4731	turner	(17,82,69,34)	28	4731.jpg
 4731	plate	(47,101,46,38)	25	4731.jpg
 4731	person	(0,0,155,125)	1	4731.jpg
-4731	baked_egg	(9,76,40,22)	23	4731.jpg
+4731	baked_egg	(9,76,40,22)	2	4731.jpg
 4732	bowl	(27,127,43,39)	17	4732.jpg
 4732	frying_pan	(0,29,59,97)	14	4732.jpg
 4732	knife	(0,120,52,43)	22	4732.jpg
@@ -45752,7 +45752,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4732	turner	(22,81,67,34)	28	4732.jpg
 4732	plate	(49,102,47,38)	25	4732.jpg
 4732	person	(0,0,152,126)	1	4732.jpg
-4732	baked_egg	(11,74,39,23)	23	4732.jpg
+4732	baked_egg	(11,74,39,23)	2	4732.jpg
 4733	bowl	(27,127,44,40)	17	4733.jpg
 4733	frying_pan	(0,29,59,97)	14	4733.jpg
 4733	knife	(0,121,49,41)	22	4733.jpg
@@ -45764,7 +45764,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4733	turner	(19,82,68,34)	28	4733.jpg
 4733	plate	(47,101,48,39)	25	4733.jpg
 4733	person	(0,0,152,126)	1	4733.jpg
-4733	baked_egg	(13,72,37,25)	23	4733.jpg
+4733	baked_egg	(13,72,37,25)	2	4733.jpg
 4734	bowl	(26,127,44,40)	17	4734.jpg
 4734	frying_pan	(0,29,61,97)	14	4734.jpg
 4734	knife	(0,120,53,44)	22	4734.jpg
@@ -45776,7 +45776,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4734	turner	(23,82,68,35)	28	4734.jpg
 4734	plate	(47,101,49,40)	25	4734.jpg
 4734	person	(0,0,150,127)	1	4734.jpg
-4734	baked_egg	(16,73,36,23)	23	4734.jpg
+4734	baked_egg	(16,73,36,23)	2	4734.jpg
 4735	bowl	(28,127,44,40)	17	4735.jpg
 4735	frying_pan	(0,28,59,97)	14	4735.jpg
 4735	knife	(0,120,52,43)	22	4735.jpg
@@ -45788,7 +45788,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4735	turner	(21,82,66,33)	28	4735.jpg
 4735	plate	(47,101,49,40)	25	4735.jpg
 4735	person	(0,0,151,125)	1	4735.jpg
-4735	baked_egg	(15,75,39,21)	23	4735.jpg
+4735	baked_egg	(15,75,39,21)	2	4735.jpg
 4736	bowl	(27,127,43,39)	17	4736.jpg
 4736	frying_pan	(0,28,59,97)	14	4736.jpg
 4736	knife	(0,120,52,43)	22	4736.jpg
@@ -45800,7 +45800,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4736	turner	(20,81,67,34)	28	4736.jpg
 4736	plate	(47,101,49,40)	25	4736.jpg
 4736	person	(0,0,152,125)	1	4736.jpg
-4736	baked_egg	(16,71,39,22)	23	4736.jpg
+4736	baked_egg	(16,71,39,22)	2	4736.jpg
 4737	bowl	(27,127,44,40)	17	4737.jpg
 4737	frying_pan	(0,26,59,101)	14	4737.jpg
 4737	knife	(0,119,54,45)	22	4737.jpg
@@ -45812,7 +45812,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4737	turner	(23,80,69,35)	28	4737.jpg
 4737	plate	(48,101,49,39)	25	4737.jpg
 4737	person	(0,0,153,124)	1	4737.jpg
-4737	baked_egg	(20,70,36,17)	23	4737.jpg
+4737	baked_egg	(20,70,36,17)	2	4737.jpg
 4738	bowl	(27,127,43,39)	17	4738.jpg
 4738	frying_pan	(0,24,61,106)	14	4738.jpg
 4738	knife	(0,121,49,41)	22	4738.jpg
@@ -45824,7 +45824,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4738	turner	(22,79,70,35)	28	4738.jpg
 4738	plate	(46,101,49,39)	25	4738.jpg
 4738	person	(0,0,154,123)	1	4738.jpg
-4738	baked_egg	(26,70,32,20)	23	4738.jpg
+4738	baked_egg	(26,70,32,20)	2	4738.jpg
 4739	bowl	(28,127,44,40)	17	4739.jpg
 4739	frying_pan	(0,24,73,104)	14	4739.jpg
 4739	knife	(0,120,54,44)	22	4739.jpg
@@ -45836,7 +45836,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4739	turner	(38,79,56,31)	28	4739.jpg
 4739	plate	(49,102,48,38)	25	4739.jpg
 4739	person	(0,0,154,122)	1	4739.jpg
-4739	baked_egg	(25,70,35,20)	23	4739.jpg
+4739	baked_egg	(25,70,35,20)	2	4739.jpg
 4740	bowl	(27,127,43,39)	17	4740.jpg
 4740	frying_pan	(0,23,73,104)	14	4740.jpg
 4740	knife	(0,121,51,41)	22	4740.jpg
@@ -45848,7 +45848,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4740	turner	(41,79,55,30)	28	4740.jpg
 4740	plate	(49,101,49,39)	25	4740.jpg
 4740	person	(0,0,154,122)	1	4740.jpg
-4740	baked_egg	(25,71,35,22)	23	4740.jpg
+4740	baked_egg	(25,71,35,22)	2	4740.jpg
 4741	bowl	(27,126,46,41)	17	4741.jpg
 4741	frying_pan	(0,24,73,104)	14	4741.jpg
 4741	knife	(0,119,56,46)	22	4741.jpg
@@ -45860,7 +45860,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4741	turner	(43,78,55,31)	28	4741.jpg
 4741	plate	(46,101,50,39)	25	4741.jpg
 4741	person	(0,0,154,121)	1	4741.jpg
-4741	baked_egg	(23,69,40,24)	23	4741.jpg
+4741	baked_egg	(23,69,40,24)	2	4741.jpg
 4742	bowl	(27,126,45,41)	17	4742.jpg
 4742	frying_pan	(0,24,73,104)	14	4742.jpg
 4742	knife	(0,121,51,41)	22	4742.jpg
@@ -45872,7 +45872,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4742	turner	(45,78,56,32)	28	4742.jpg
 4742	plate	(49,101,50,40)	25	4742.jpg
 4742	person	(0,0,155,120)	1	4742.jpg
-4742	baked_egg	(24,70,39,24)	23	4742.jpg
+4742	baked_egg	(24,70,39,24)	2	4742.jpg
 4743	bowl	(27,127,45,40)	17	4743.jpg
 4743	frying_pan	(0,24,73,104)	14	4743.jpg
 4743	knife	(0,119,56,46)	22	4743.jpg
@@ -45884,7 +45884,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4743	turner	(43,79,56,31)	28	4743.jpg
 4743	plate	(46,100,51,40)	25	4743.jpg
 4743	person	(0,0,155,114)	1	4743.jpg
-4743	baked_egg	(24,69,36,23)	23	4743.jpg
+4743	baked_egg	(24,69,36,23)	2	4743.jpg
 4744	bowl	(28,126,45,41)	17	4744.jpg
 4744	frying_pan	(0,24,72,104)	14	4744.jpg
 4744	knife	(0,121,51,41)	22	4744.jpg
@@ -45896,7 +45896,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4744	turner	(45,78,56,32)	28	4744.jpg
 4744	plate	(49,100,50,40)	25	4744.jpg
 4744	person	(0,0,155,114)	1	4744.jpg
-4744	baked_egg	(21,67,37,22)	23	4744.jpg
+4744	baked_egg	(21,67,37,22)	2	4744.jpg
 4745	bowl	(27,127,44,39)	17	4745.jpg
 4745	frying_pan	(0,24,73,104)	14	4745.jpg
 4745	knife	(0,119,56,46)	22	4745.jpg
@@ -45908,7 +45908,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4745	turner	(42,78,56,31)	28	4745.jpg
 4745	plate	(46,100,50,40)	25	4745.jpg
 4745	person	(0,0,156,114)	1	4745.jpg
-4745	baked_egg	(20,66,35,22)	23	4745.jpg
+4745	baked_egg	(20,66,35,22)	2	4745.jpg
 4746	bowl	(35,132,50,44)	17	4746.jpg
 4746	frying_pan	(0,24,73,104)	14	4746.jpg
 4746	knife	(0,120,51,42)	22	4746.jpg
@@ -45920,7 +45920,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4746	turner	(31,73,67,36)	28	4746.jpg
 4746	plate	(48,100,51,40)	25	4746.jpg
 4746	person	(0,0,156,114)	1	4746.jpg
-4746	baked_egg	(16,64,39,24)	23	4746.jpg
+4746	baked_egg	(16,64,39,24)	2	4746.jpg
 4747	bowl	(34,132,48,43)	17	4747.jpg
 4747	frying_pan	(0,24,72,103)	14	4747.jpg
 4747	knife	(0,119,51,42)	22	4747.jpg
@@ -45932,7 +45932,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4747	turner	(32,72,67,36)	28	4747.jpg
 4747	plate	(48,99,51,40)	25	4747.jpg
 4747	person	(0,0,155,114)	1	4747.jpg
-4747	baked_egg	(18,63,38,25)	23	4747.jpg
+4747	baked_egg	(18,63,38,25)	2	4747.jpg
 4748	bowl	(37,133,47,41)	17	4748.jpg
 4748	frying_pan	(0,26,69,100)	14	4748.jpg
 4748	knife	(0,121,48,40)	22	4748.jpg
@@ -45944,7 +45944,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4748	turner	(32,72,65,36)	28	4748.jpg
 4748	plate	(48,99,51,40)	25	4748.jpg
 4748	person	(0,0,156,114)	1	4748.jpg
-4748	baked_egg	(17,64,37,24)	23	4748.jpg
+4748	baked_egg	(17,64,37,24)	2	4748.jpg
 4749	bowl	(35,133,47,42)	17	4749.jpg
 4749	frying_pan	(0,22,75,107)	14	4749.jpg
 4749	knife	(0,119,53,44)	22	4749.jpg
@@ -45956,7 +45956,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4749	turner	(32,73,65,34)	28	4749.jpg
 4749	plate	(48,100,51,39)	25	4749.jpg
 4749	person	(0,0,156,114)	1	4749.jpg
-4749	baked_egg	(18,64,38,24)	23	4749.jpg
+4749	baked_egg	(18,64,38,24)	2	4749.jpg
 4750	bowl	(36,132,48,43)	17	4750.jpg
 4750	frying_pan	(0,22,73,108)	14	4750.jpg
 4750	knife	(0,121,47,39)	22	4750.jpg
@@ -45968,7 +45968,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4750	turner	(34,72,63,34)	28	4750.jpg
 4750	plate	(46,99,52,41)	25	4750.jpg
 4750	person	(0,0,155,114)	1	4750.jpg
-4750	baked_egg	(13,64,39,23)	23	4750.jpg
+4750	baked_egg	(13,64,39,23)	2	4750.jpg
 4751	bowl	(35,132,49,44)	17	4751.jpg
 4751	frying_pan	(0,24,73,105)	14	4751.jpg
 4751	knife	(0,119,53,44)	22	4751.jpg
@@ -45980,7 +45980,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4751	turner	(36,69,64,35)	28	4751.jpg
 4751	plate	(47,100,51,40)	25	4751.jpg
 4751	person	(0,0,157,114)	1	4751.jpg
-4751	baked_egg	(14,64,36,22)	23	4751.jpg
+4751	baked_egg	(14,64,36,22)	2	4751.jpg
 4752	bowl	(34,132,50,44)	17	4752.jpg
 4752	frying_pan	(0,26,69,100)	14	4752.jpg
 4752	knife	(0,121,48,40)	22	4752.jpg
@@ -45992,7 +45992,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4752	turner	(34,68,64,35)	28	4752.jpg
 4752	plate	(47,100,49,39)	25	4752.jpg
 4752	person	(0,0,157,114)	1	4752.jpg
-4752	baked_egg	(9,65,38,22)	23	4752.jpg
+4752	baked_egg	(9,65,38,22)	2	4752.jpg
 4753	bowl	(37,133,47,41)	17	4753.jpg
 4753	frying_pan	(0,22,76,109)	14	4753.jpg
 4753	knife	(0,120,52,43)	22	4753.jpg
@@ -46004,7 +46004,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4753	turner	(36,67,64,34)	28	4753.jpg
 4753	plate	(50,101,48,38)	25	4753.jpg
 4753	person	(0,0,156,114)	1	4753.jpg
-4753	baked_egg	(9,62,36,26)	23	4753.jpg
+4753	baked_egg	(9,62,36,26)	2	4753.jpg
 4754	bowl	(35,132,49,44)	17	4754.jpg
 4754	frying_pan	(0,22,72,110)	14	4754.jpg
 4754	knife	(0,121,48,39)	22	4754.jpg
@@ -46016,7 +46016,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4754	turner	(35,67,63,34)	28	4754.jpg
 4754	plate	(47,99,51,41)	25	4754.jpg
 4754	person	(0,0,155,114)	1	4754.jpg
-4754	baked_egg	(9,66,36,22)	23	4754.jpg
+4754	baked_egg	(9,66,36,22)	2	4754.jpg
 4755	bowl	(34,132,50,44)	17	4755.jpg
 4755	frying_pan	(0,23,75,109)	14	4755.jpg
 4755	knife	(0,119,53,44)	22	4755.jpg
@@ -46028,7 +46028,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4755	turner	(35,67,64,34)	28	4755.jpg
 4755	plate	(47,100,51,40)	25	4755.jpg
 4755	person	(0,0,155,114)	1	4755.jpg
-4755	baked_egg	(8,64,36,26)	23	4755.jpg
+4755	baked_egg	(8,64,36,26)	2	4755.jpg
 4756	bowl	(35,131,51,45)	17	4756.jpg
 4756	frying_pan	(0,27,70,100)	14	4756.jpg
 4756	knife	(0,120,48,41)	22	4756.jpg
@@ -46040,7 +46040,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4756	turner	(36,67,62,34)	28	4756.jpg
 4756	plate	(47,100,49,39)	25	4756.jpg
 4756	person	(0,0,153,114)	1	4756.jpg
-4756	baked_egg	(7,68,35,21)	23	4756.jpg
+4756	baked_egg	(7,68,35,21)	2	4756.jpg
 4757	bowl	(35,131,50,45)	17	4757.jpg
 4757	frying_pan	(1,26,71,102)	14	4757.jpg
 4757	knife	(0,119,53,44)	22	4757.jpg
@@ -46052,7 +46052,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4757	turner	(38,67,61,33)	28	4757.jpg
 4757	plate	(50,100,49,39)	25	4757.jpg
 4757	person	(0,0,153,114)	1	4757.jpg
-4757	baked_egg	(6,65,35,27)	23	4757.jpg
+4757	baked_egg	(6,65,35,27)	2	4757.jpg
 4758	bowl	(34,131,51,44)	17	4758.jpg
 4758	frying_pan	(0,26,68,100)	14	4758.jpg
 4758	knife	(0,121,48,39)	22	4758.jpg
@@ -46064,7 +46064,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4758	turner	(36,67,62,34)	28	4758.jpg
 4758	plate	(48,100,49,38)	25	4758.jpg
 4758	person	(0,0,152,114)	1	4758.jpg
-4758	baked_egg	(5,67,35,25)	23	4758.jpg
+4758	baked_egg	(5,67,35,25)	2	4758.jpg
 4759	bowl	(34,131,51,45)	17	4759.jpg
 4759	frying_pan	(0,26,72,102)	14	4759.jpg
 4759	knife	(0,120,52,43)	22	4759.jpg
@@ -46076,7 +46076,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4759	turner	(37,68,62,33)	28	4759.jpg
 4759	plate	(48,100,50,39)	25	4759.jpg
 4759	person	(0,0,152,114)	1	4759.jpg
-4759	baked_egg	(5,66,33,23)	23	4759.jpg
+4759	baked_egg	(5,66,33,23)	2	4759.jpg
 4760	bowl	(34,131,50,45)	17	4760.jpg
 4760	frying_pan	(0,27,68,98)	14	4760.jpg
 4760	knife	(0,120,50,41)	22	4760.jpg
@@ -46088,7 +46088,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4760	turner	(38,68,62,33)	28	4760.jpg
 4760	plate	(47,100,51,40)	25	4760.jpg
 4760	person	(0,0,152,114)	1	4760.jpg
-4760	baked_egg	(4,64,37,28)	23	4760.jpg
+4760	baked_egg	(4,64,37,28)	2	4760.jpg
 4761	bowl	(35,131,51,45)	17	4761.jpg
 4761	frying_pan	(0,27,69,99)	14	4761.jpg
 4761	knife	(0,121,48,40)	22	4761.jpg
@@ -46100,7 +46100,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4761	turner	(37,68,61,33)	28	4761.jpg
 4761	plate	(47,100,51,40)	25	4761.jpg
 4761	person	(0,0,152,114)	1	4761.jpg
-4761	baked_egg	(2,65,37,29)	23	4761.jpg
+4761	baked_egg	(2,65,37,29)	2	4761.jpg
 4762	bowl	(35,131,50,44)	17	4762.jpg
 4762	frying_pan	(0,30,65,94)	14	4762.jpg
 4762	knife	(0,120,52,43)	22	4762.jpg
@@ -46112,7 +46112,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4762	turner	(39,69,62,33)	28	4762.jpg
 4762	plate	(46,100,51,39)	25	4762.jpg
 4762	person	(0,0,152,114)	1	4762.jpg
-4762	baked_egg	(4,66,36,26)	23	4762.jpg
+4762	baked_egg	(4,66,36,26)	2	4762.jpg
 4763	bowl	(34,132,49,43)	17	4763.jpg
 4763	frying_pan	(0,27,69,99)	14	4763.jpg
 4763	knife	(0,120,50,42)	22	4763.jpg
@@ -46124,7 +46124,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4763	turner	(39,69,62,33)	28	4763.jpg
 4763	plate	(49,100,50,39)	25	4763.jpg
 4763	person	(0,0,150,114)	1	4763.jpg
-4763	baked_egg	(5,66,36,27)	23	4763.jpg
+4763	baked_egg	(5,66,36,27)	2	4763.jpg
 4764	bowl	(34,131,51,45)	17	4764.jpg
 4764	frying_pan	(0,31,65,93)	14	4764.jpg
 4764	knife	(0,121,48,40)	22	4764.jpg
@@ -46136,7 +46136,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4764	turner	(40,69,62,34)	28	4764.jpg
 4764	plate	(48,100,49,38)	25	4764.jpg
 4764	person	(0,0,150,114)	1	4764.jpg
-4764	baked_egg	(5,67,35,28)	23	4764.jpg
+4764	baked_egg	(5,67,35,28)	2	4764.jpg
 4765	bowl	(34,131,51,45)	17	4765.jpg
 4765	frying_pan	(0,32,65,93)	14	4765.jpg
 4765	knife	(2,121,48,40)	22	4765.jpg
@@ -46148,7 +46148,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4765	turner	(43,69,62,34)	28	4765.jpg
 4765	plate	(48,100,50,39)	25	4765.jpg
 4765	person	(0,0,150,114)	1	4765.jpg
-4765	baked_egg	(7,67,33,28)	23	4765.jpg
+4765	baked_egg	(7,67,33,28)	2	4765.jpg
 4766	bowl	(37,133,47,41)	17	4766.jpg
 4766	frying_pan	(0,35,61,88)	14	4766.jpg
 4766	knife	(0,121,49,40)	22	4766.jpg
@@ -46160,7 +46160,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4766	turner	(43,69,62,33)	28	4766.jpg
 4766	plate	(47,100,51,40)	25	4766.jpg
 4766	person	(0,0,150,114)	1	4766.jpg
-4766	baked_egg	(8,71,36,25)	23	4766.jpg
+4766	baked_egg	(8,71,36,25)	2	4766.jpg
 4767	bowl	(34,131,50,44)	17	4767.jpg
 4767	frying_pan	(0,42,57,81)	14	4767.jpg
 4767	knife	(0,121,50,41)	22	4767.jpg
@@ -46172,7 +46172,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4767	turner	(47,69,61,33)	28	4767.jpg
 4767	plate	(47,100,51,40)	25	4767.jpg
 4767	person	(0,0,150,114)	1	4767.jpg
-4767	baked_egg	(12,72,35,26)	23	4767.jpg
+4767	baked_egg	(12,72,35,26)	2	4767.jpg
 4768	bowl	(35,132,49,44)	17	4768.jpg
 4768	frying_pan	(0,45,54,78)	14	4768.jpg
 4768	knife	(2,121,49,40)	22	4768.jpg
@@ -46184,7 +46184,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4768	turner	(49,69,61,33)	28	4768.jpg
 4768	plate	(47,100,51,39)	25	4768.jpg
 4768	person	(0,0,150,114)	1	4768.jpg
-4768	baked_egg	(15,75,35,24)	23	4768.jpg
+4768	baked_egg	(15,75,35,24)	2	4768.jpg
 4769	bowl	(35,131,50,44)	17	4769.jpg
 4769	frying_pan	(0,47,56,79)	14	4769.jpg
 4769	knife	(0,121,48,40)	22	4769.jpg
@@ -46196,7 +46196,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4769	turner	(15,75,103,29)	28	4769.jpg
 4769	plate	(47,99,51,41)	25	4769.jpg
 4769	person	(0,0,149,114)	1	4769.jpg
-4769	baked_egg	(19,73,34,28)	23	4769.jpg
+4769	baked_egg	(19,73,34,28)	2	4769.jpg
 4770	bowl	(35,131,49,44)	17	4770.jpg
 4770	frying_pan	(0,48,54,78)	14	4770.jpg
 4770	knife	(0,121,46,39)	22	4770.jpg
@@ -46208,7 +46208,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4770	turner	(19,76,97,27)	28	4770.jpg
 4770	plate	(46,98,51,42)	25	4770.jpg
 4770	person	(0,0,149,114)	1	4770.jpg
-4770	baked_egg	(23,77,34,27)	23	4770.jpg
+4770	baked_egg	(23,77,34,27)	2	4770.jpg
 4771	bowl	(35,131,50,44)	17	4771.jpg
 4771	frying_pan	(0,48,55,78)	14	4771.jpg
 4771	knife	(1,121,47,39)	22	4771.jpg
@@ -46220,7 +46220,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4771	turner	(23,79,96,27)	28	4771.jpg
 4771	plate	(46,99,49,40)	25	4771.jpg
 4771	person	(0,0,150,114)	1	4771.jpg
-4771	baked_egg	(29,80,32,26)	23	4771.jpg
+4771	baked_egg	(29,80,32,26)	2	4771.jpg
 4772	bowl	(35,132,47,41)	17	4772.jpg
 4772	frying_pan	(0,47,51,79)	14	4772.jpg
 4772	knife	(0,120,45,40)	22	4772.jpg
@@ -46232,7 +46232,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4772	turner	(22,82,95,26)	28	4772.jpg
 4772	plate	(49,99,49,40)	25	4772.jpg
 4772	person	(0,0,149,114)	1	4772.jpg
-4772	baked_egg	(35,83,29,23)	23	4772.jpg
+4772	baked_egg	(35,83,29,23)	2	4772.jpg
 4773	bowl	(38,132,46,41)	17	4773.jpg
 4773	frying_pan	(0,47,51,78)	14	4773.jpg
 4773	knife	(1,121,47,39)	22	4773.jpg
@@ -46244,7 +46244,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4773	turner	(21,82,95,27)	28	4773.jpg
 4773	plate	(46,99,49,39)	25	4773.jpg
 4773	person	(0,0,149,114)	1	4773.jpg
-4773	baked_egg	(38,85,30,24)	23	4773.jpg
+4773	baked_egg	(38,85,30,24)	2	4773.jpg
 4774	bowl	(36,132,46,41)	17	4774.jpg
 4774	frying_pan	(0,47,48,77)	14	4774.jpg
 4774	knife	(0,120,47,40)	22	4774.jpg
@@ -46256,7 +46256,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4774	turner	(22,81,89,26)	28	4774.jpg
 4774	plate	(49,99,48,39)	25	4774.jpg
 4774	person	(0,0,147,114)	1	4774.jpg
-4774	baked_egg	(43,86,30,27)	23	4774.jpg
+4774	baked_egg	(43,86,30,27)	2	4774.jpg
 4775	bowl	(34,131,50,43)	17	4775.jpg
 4775	frying_pan	(0,47,48,77)	14	4775.jpg
 4775	knife	(0,120,49,41)	22	4775.jpg
@@ -46268,7 +46268,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4775	turner	(20,80,87,24)	28	4775.jpg
 4775	plate	(47,99,49,39)	25	4775.jpg
 4775	person	(0,0,146,114)	1	4775.jpg
-4775	baked_egg	(49,91,28,28)	23	4775.jpg
+4775	baked_egg	(49,91,28,28)	2	4775.jpg
 4776	bowl	(34,131,50,43)	17	4776.jpg
 4776	frying_pan	(0,47,47,76)	14	4776.jpg
 4776	knife	(0,119,48,42)	22	4776.jpg
@@ -46280,7 +46280,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4776	turner	(14,81,90,25)	28	4776.jpg
 4776	plate	(46,99,51,41)	25	4776.jpg
 4776	person	(0,0,145,114)	1	4776.jpg
-4776	baked_egg	(52,94,29,29)	23	4776.jpg
+4776	baked_egg	(52,94,29,29)	2	4776.jpg
 4777	bowl	(32,129,53,47)	17	4777.jpg
 4777	frying_pan	(0,47,47,76)	14	4777.jpg
 4777	knife	(0,119,50,42)	22	4777.jpg
@@ -46292,7 +46292,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4777	turner	(19,81,89,25)	28	4777.jpg
 4777	plate	(46,98,52,42)	25	4777.jpg
 4777	person	(0,0,144,114)	1	4777.jpg
-4777	baked_egg	(55,98,31,31)	23	4777.jpg
+4777	baked_egg	(55,98,31,31)	2	4777.jpg
 4778	bowl	(36,131,49,43)	17	4778.jpg
 4778	frying_pan	(0,46,46,76)	14	4778.jpg
 4778	knife	(0,119,49,42)	22	4778.jpg
@@ -46304,7 +46304,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4778	turner	(18,80,89,26)	28	4778.jpg
 4778	plate	(46,98,51,41)	25	4778.jpg
 4778	person	(0,0,143,114)	1	4778.jpg
-4778	baked_egg	(67,104,19,30)	23	4778.jpg
+4778	baked_egg	(67,104,19,30)	2	4778.jpg
 4779	bowl	(34,130,50,44)	17	4779.jpg
 4779	frying_pan	(0,46,45,76)	14	4779.jpg
 4779	knife	(0,118,50,43)	22	4779.jpg
@@ -46316,7 +46316,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4779	turner	(79,61,53,71)	28	4779.jpg
 4779	plate	(45,98,51,42)	25	4779.jpg
 4779	person	(0,0,141,114)	1	4779.jpg
-4779	baked_egg	(74,106,16,29)	23	4779.jpg
+4779	baked_egg	(74,106,16,29)	2	4779.jpg
 4780	bowl	(34,129,50,44)	17	4780.jpg
 4780	frying_pan	(0,45,44,76)	14	4780.jpg
 4780	knife	(1,117,50,43)	22	4780.jpg
@@ -46328,7 +46328,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4780	turner	(78,60,53,72)	28	4780.jpg
 4780	plate	(44,97,52,43)	25	4780.jpg
 4780	person	(0,0,138,114)	1	4780.jpg
-4780	baked_egg	(74,108,17,30)	23	4780.jpg
+4780	baked_egg	(74,108,17,30)	2	4780.jpg
 4781	bowl	(33,130,48,43)	17	4781.jpg
 4781	frying_pan	(0,44,44,77)	14	4781.jpg
 4781	knife	(0,117,50,43)	22	4781.jpg
@@ -46340,7 +46340,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4781	turner	(78,60,53,72)	28	4781.jpg
 4781	plate	(46,98,51,41)	25	4781.jpg
 4781	person	(0,0,137,114)	1	4781.jpg
-4781	baked_egg	(76,108,18,31)	23	4781.jpg
+4781	baked_egg	(76,108,18,31)	2	4781.jpg
 4782	bowl	(36,131,47,41)	17	4782.jpg
 4782	frying_pan	(0,44,44,77)	14	4782.jpg
 4782	knife	(0,117,50,44)	22	4782.jpg
@@ -46352,7 +46352,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4782	turner	(77,59,54,73)	28	4782.jpg
 4782	plate	(44,98,50,41)	25	4782.jpg
 4782	person	(0,0,135,114)	1	4782.jpg
-4782	baked_egg	(75,109,19,29)	23	4782.jpg
+4782	baked_egg	(75,109,19,29)	2	4782.jpg
 4783	bowl	(34,130,50,43)	17	4783.jpg
 4783	frying_pan	(0,43,44,79)	14	4783.jpg
 4783	knife	(0,116,52,46)	22	4783.jpg
@@ -46364,7 +46364,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4783	turner	(77,59,54,73)	28	4783.jpg
 4783	plate	(46,98,51,42)	25	4783.jpg
 4783	person	(0,0,135,114)	1	4783.jpg
-4783	baked_egg	(75,110,17,28)	23	4783.jpg
+4783	baked_egg	(75,110,17,28)	2	4783.jpg
 4784	bowl	(33,130,48,43)	17	4784.jpg
 4784	frying_pan	(0,42,44,80)	14	4784.jpg
 4784	knife	(0,116,51,45)	22	4784.jpg
@@ -46376,7 +46376,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4784	turner	(76,58,55,74)	28	4784.jpg
 4784	plate	(44,98,50,41)	25	4784.jpg
 4784	person	(0,0,134,114)	1	4784.jpg
-4784	baked_egg	(71,107,17,28)	23	4784.jpg
+4784	baked_egg	(71,107,17,28)	2	4784.jpg
 4785	bowl	(37,131,46,41)	17	4785.jpg
 4785	frying_pan	(0,42,44,80)	14	4785.jpg
 4785	knife	(0,116,50,45)	22	4785.jpg
@@ -46388,7 +46388,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4785	turner	(76,58,55,74)	28	4785.jpg
 4785	plate	(44,98,50,41)	25	4785.jpg
 4785	person	(0,0,134,114)	1	4785.jpg
-4785	baked_egg	(71,107,17,27)	23	4785.jpg
+4785	baked_egg	(71,107,17,27)	2	4785.jpg
 4786	bowl	(35,131,46,41)	17	4786.jpg
 4786	frying_pan	(0,42,44,81)	14	4786.jpg
 4786	knife	(0,116,51,45)	22	4786.jpg
@@ -46400,7 +46400,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4786	turner	(75,58,56,74)	28	4786.jpg
 4786	plate	(45,97,51,43)	25	4786.jpg
 4786	person	(0,0,134,114)	1	4786.jpg
-4786	baked_egg	(64,107,22,26)	23	4786.jpg
+4786	baked_egg	(64,107,22,26)	2	4786.jpg
 4787	bowl	(34,129,50,44)	17	4787.jpg
 4787	frying_pan	(0,41,44,82)	14	4787.jpg
 4787	knife	(0,116,50,45)	22	4787.jpg
@@ -46412,7 +46412,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/omelette/
 4787	turner	(74,58,55,74)	28	4787.jpg
 4787	plate	(44,98,50,41)	25	4787.jpg
 4787	person	(0,0,133,114)	1	4787.jpg
-4787	baked_egg	(67,110,19,24)	23	4787.jpg
+4787	baked_egg	(67,110,19,24)	2	4787.jpg
 4788	bowl	(33,130,48,43)	17	4788.jpg
 4788	frying_pan	(0,42,43,97)	14	4788.jpg
 4788	knife	(0,117,50,44)	22	4788.jpg
