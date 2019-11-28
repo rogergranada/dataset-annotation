@@ -1,5 +1,5 @@
 Frame:	Label:	Points:	Bounding Box ID:	Frame path: data4/scrambled-egg/
-0	frying_pan	(100,88,83,103)	14	0.jpg 
+0	frying_pan	(100,88,83,103)	14	0.jpg
 0	cutting_board	(4,115,58,64)	19	0.jpg
 0	bowl	(49,118,44,42)	17	0.jpg
 0	shell_egg	(58,224,23,22)	7	0.jpg
@@ -8201,6 +8201,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data4/scrambled-egg/
 893	chopstick	(62,99,17,80)	18	893.jpg
 893	mixed_egg	(61,122,34,26)	6	893.jpg
 893	person	(35,0,145,114)	1	893.jpg
+893	milk_carton	(50,83,36,37)	23	893.jpg
 894	frying_pan	(100,88,83,103)	14	894.jpg
 894	cutting_board	(4,115,58,64)	19	894.jpg
 894	bowl	(57,114,43,43)	17	894.jpg
@@ -8210,6 +8211,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data4/scrambled-egg/
 894	chopstick	(62,99,17,80)	18	894.jpg
 894	mixed_egg	(61,122,34,26)	6	894.jpg
 894	person	(35,0,145,114)	1	894.jpg
+894	milk_carton	(48,83,39,38)	23	894.jpg
 895	frying_pan	(100,88,83,103)	14	895.jpg
 895	cutting_board	(4,115,58,64)	19	895.jpg
 895	bowl	(57,114,43,43)	17	895.jpg
@@ -34854,6 +34856,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data4/scrambled-egg/
 3880	oil_bottle	(0,158,26,49)	24	3880.jpg
 3880	baked_egg	(88,93,32,34)	2	3880.jpg
 3880	person	(88,0,148,114)	1	3880.jpg
+3880	chopstick	(241,59,15,41)	18	3880.jpg
 3881	frying_pan	(81,54,91,94)	14	3881.jpg
 3881	cutting_board	(4,115,58,64)	19	3881.jpg
 3881	bowl	(45,115,44,44)	17	3881.jpg
@@ -34862,6 +34865,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data4/scrambled-egg/
 3881	oil_bottle	(0,158,26,49)	24	3881.jpg
 3881	baked_egg	(89,92,33,35)	2	3881.jpg
 3881	person	(88,0,169,114)	1	3881.jpg
+3881	chopstick	(233,54,23,50)	18	3881.jpg
 3882	frying_pan	(78,53,93,95)	14	3882.jpg
 3882	cutting_board	(4,115,58,64)	19	3882.jpg
 3882	bowl	(45,115,44,44)	17	3882.jpg
@@ -34870,6 +34874,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data4/scrambled-egg/
 3882	oil_bottle	(0,158,26,49)	24	3882.jpg
 3882	baked_egg	(89,92,33,35)	2	3882.jpg
 3882	person	(89,0,165,114)	1	3882.jpg
+3882	chopstick	(222,50,34,58)	18	3882.jpg
 3883	frying_pan	(82,54,91,94)	14	3883.jpg
 3883	cutting_board	(4,115,58,64)	19	3883.jpg
 3883	bowl	(45,115,44,44)	17	3883.jpg
@@ -34878,6 +34883,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data4/scrambled-egg/
 3883	oil_bottle	(0,158,26,49)	24	3883.jpg
 3883	baked_egg	(90,92,33,35)	2	3883.jpg
 3883	person	(90,0,149,114)	1	3883.jpg
+3883	chopstick	(215,47,41,62)	18	3883.jpg
 3884	frying_pan	(80,54,92,94)	14	3884.jpg
 3884	cutting_board	(4,115,58,64)	19	3884.jpg
 3884	bowl	(45,115,44,44)	17	3884.jpg
@@ -34886,6 +34892,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data4/scrambled-egg/
 3884	oil_bottle	(0,158,26,49)	24	3884.jpg
 3884	baked_egg	(91,93,32,33)	2	3884.jpg
 3884	person	(91,0,149,114)	1	3884.jpg
+3884	chopstick	(208,41,48,69)	18	3884.jpg
 3885	frying_pan	(80,54,93,95)	14	3885.jpg
 3885	cutting_board	(4,115,58,64)	19	3885.jpg
 3885	bowl	(45,115,44,44)	17	3885.jpg
@@ -34894,6 +34901,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data4/scrambled-egg/
 3885	oil_bottle	(0,158,26,49)	24	3885.jpg
 3885	baked_egg	(92,92,33,35)	2	3885.jpg
 3885	person	(93,0,148,114)	1	3885.jpg
+3885	chopstick	(197,44,59,68)	18	3885.jpg
 3886	frying_pan	(82,55,92,94)	14	3886.jpg
 3886	cutting_board	(4,115,58,64)	19	3886.jpg
 3886	bowl	(45,115,44,44)	17	3886.jpg
@@ -48893,4 +48901,4 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data4/scrambled-egg/
 5191	plate	(58,108,51,45)	25	5191.jpg
 5191	turner	(10,99,38,72)	28	5191.jpg
 ---
-Modified on:	11.28.2019	8:49
+Modified on:	11.28.2019	11:49
