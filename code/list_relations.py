@@ -40,9 +40,11 @@ def show_relations(file_input, output=None, class_file='classes.cfg', rels_file=
                 break
     
     arr = line.strip().split('-')
-    if len(arr) == 5: #0-15-o1-r-o2
+    if len(arr) == 5: 
+        #0-15-o1-r-o2
         handler = fh.CompressedFile(file_input)
-    else:
+    else: 
+        #0-o1,r,o2
         handler = fh.DecompressedFile(file_input)
     list_rels = handler.list_relations(as_set=True)
 
