@@ -88,12 +88,12 @@ def compress_relations(file_input, output=None, class_file='classes.cfg', rels_f
 
     logger.info('Saving output file...')
     with open(output, 'w') as fout:
-        fout.write('Initial_frame - Final_frame - Id_subject - Id_relation - Id_object\n')
+        fout.write('Initial_frame-Final_frame-Subject-Relation-Object\n')
         for _, key in sorted(start_frames):
             start, end = drels_frames[key]['contiguous'].pop(0)
             subj, rel, obj = key
             if keep_names:
-                fout.write('%d-%d-%s-%s-%s\n' % (start, end, sub, rel, obj))
+                fout.write('%d-%d-%s-%s-%s\n' % (start, end, subj, rel, obj))
             else:
                 fout.write('%d-%d-%d-%d-%d\n' % (start, end, dcls[subj], drels[rel], dcls[obj]))
     logger.info('File saved at: %s' % output)
@@ -105,6 +105,7 @@ if __name__ == '__main__':
     parser.add_argument('-o', '--output', help='Plain text file', default=None)
     parser.add_argument('-c', '--class_file', help='File containing ids and their classes', default='classes.cfg')
     parser.add_argument('-r', '--relation_file', help='File containing ids and their relations', default='relations.cfg')
+    parser.add_argument('-n', '--store_names', help='Save names for objects and relations instead of their ids.', action='store_true')
     args = parser.parse_args()
     
-    compress_relations(args.input, args.output, args.class_file, args.relation_file)
+    compress_relations(args.input, args.output, args.class_file, args.relation_file, args.store_names)
