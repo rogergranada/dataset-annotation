@@ -122,6 +122,15 @@ class CompressedFile(FileHandler):
             return start, end, int(arr[2]), int(arr[3]), int(arr[4])
         self.cnames = True
         return start, end, arr[2], arr[3], arr[4]
+
+    def list_relations(self, as_set=True):
+        rels = []
+        self.__enter__()
+        for _, _, o1, r, o2 in self:
+            rels.append((o1, r, o2))
+        if as_set:
+            return set(rels)
+        return rels
 # End of CompressedFile class
 
 
@@ -144,6 +153,13 @@ class DecompressedFile(FileHandler):
         self.nb_lines = 0
         self.start_frames = []
         self.dic = {}
+
+    def __iter__(self):
+        objs = []
+        for self.nb_lines, line in enumerate(self.fin):
+            if not line or not line[0].isdigit(): continue
+            frame, o1, r, o2 = self.check_line(self.nb_lines, line)
+            yield frame, o1, r, o2
 
     def group_relations(self):
         self.__enter__()
@@ -177,6 +193,15 @@ class DecompressedFile(FileHandler):
             sys.exit(0)
         frame = int(arr[0])
         return frame, arr[1], arr[2], arr[3]
+
+    def list_relations(self, as_set=True):
+        rels = []
+        self.__enter__()
+        for _, o1, r, o2 in self:
+            rels.append((o1, r, o2))
+        if as_set:
+            return set(rels)
+        return rels
 # End of DecompressedFile class
 
 
