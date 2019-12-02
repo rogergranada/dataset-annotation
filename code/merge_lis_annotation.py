@@ -33,6 +33,7 @@ def merge_lis(folder_input, output=None, cfg_file='classes.cfg', home_path=None)
     with open(output, 'w') as fout:
         fout.write('Frame:\tLabel:\tPoints:\tBounding Box ID:\tFrame path:\n')
         for i, f in enumerate(list_files, start=1):
+            if not f.endswith('txt'): continue
             lis_file = join(folder_input, f)
             logger.info('Processing file [%d/%d]: %s' % (i, len(list_files), lis_file))
             fann = lis.LIS(lis_file)
@@ -42,7 +43,7 @@ def merge_lis(folder_input, output=None, cfg_file='classes.cfg', home_path=None)
                     #0 \t egg \t (58,241,19,16) \t 0 \t data1/boild-egg/0.jpg
                     if obj == 'None':
                         logger.warning('None found in file: %s' % lis_file)
-                    elif not dclasses.has_key(obj):
+                    elif not obj in dclasses:
                         logger.error('Class `%s` does not exist in dictionary' % obj)
                         sys.exit(0)
                     fout.write('%s\t%s\t%s\t%s\t%s\n' % (flis.idfr, obj, flis.bbox, flis.idobj, join(home_path, flis.path, flis.fname)))
