@@ -4,11 +4,11 @@ logger = logging.getLogger(__name__)
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 import os
-from os.path import exists, join, splitext
+from os.path import exists, join, splitext, basename
 import lis
 import progressbar
 
-def load_classes(cfg_file, mode='set'):
+def load_classes(cfg_file, mode=None, inv=False):
     """ Load classes from configuration file """
     if not exists(cfg_file):
         logger.error('File {} does not exist!'.format(cfg_file))
@@ -18,7 +18,11 @@ def load_classes(cfg_file, mode='set'):
     with open(cfg_file) as fin:
         for line in fin:
             arr = line.strip().split()
-            dclass[arr[1]] = arr[0]
+            if inv:
+                dclass[int(arr[0])] = arr[1]
+            else:
+                dclass[arr[1]] = int(arr[0])
+            
     if mode == 'set':
         return set(dclass.keys())
     return dclass
@@ -56,3 +60,23 @@ def create_pathfile(root_folder, output=None):
                 nb_files += 1
     logger.info('Create file containing %d paths' % nb_files)
     logger.info('File saved at: %s' % output)
+
+
+def images_from_file(inputfile, extension=False):
+    """ From a file containing bounding boxes (``), extract
+        the name of the files and return as a list.
+    """
+    vnames = []
+    fann = lis.LIS(inputfile)
+    nb_items = fann.count_lines()
+    pb = progressbar.ProgressBar(nb_items)
+    with fann as flis:
+        for _ in flis:
+            if fann.obj != 'None':
+                path = basename(fann.fname)
+                if not extension:
+                    path, _ = splitext(path)
+                pb.update()
+                vnames.append(path)
+    logger.info('Loaded %d paths.' % nb_items)
+    return vnames                
