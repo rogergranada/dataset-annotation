@@ -26,6 +26,11 @@ class FileHandler(object):
             logger.error('{} is not a valid file'.format(self.inputfile))
             sys.error(0)
         return
+
+    def nb_lines(self):
+        with open(self.inputfile) as fin:
+            for i, _ in enumerate(fin, start=1): pass
+        return i
 # End of FileHandler class
 
 
@@ -44,7 +49,7 @@ class LisFile(FileHandler):
 
     def __iter__(self):
         """ Iterate on file yielding the array with all line content"""
-        for line in self.fin:
+        for self.nb_line, line in enumerate(self.fin, start=1):
             arr = line.strip().split('\t')
             if not line[0].isdigit():
                 if arr[-1].startswith('data'):
@@ -234,3 +239,60 @@ class ConfigFile(FileHandler):
             return set(self.dcls.keys())
         return self.dcls
 # End of ConfigFile class
+
+
+class PredictionFile(FileHandler):
+    """ Prediction file has the form:
+
+        Frame;xmin;ymin;xmax;ymax;id_class;score
+
+        where `score' is a value between 0 and 1.
+    """
+    def __init__(self, inputfile):
+        super(PredictionFile, self).__init__(inputfile)
+
+    def __iter__(self):
+        for self.nb_lines, line in enumerate(self.fin):
+            if not line or not line[0].isdigit(): continue
+            yield self.check_line(self.nb_lines, line)
+
+    def check_line(self, i, line):
+        arr = line.strip().split(';')
+        if len(arr) != 7:
+            logger.error('Malformed line in input file! [LINE: {}]'.format(i))
+            sys.exit(0)
+        arr[:-1] = map(int, arr[:-1])
+        return arr
+# End of PredictionFile class
+
+
+class MapFile(FileHandler):
+    """ Map_paths file has the form:
+
+        path_KSCGR : path_VOC
+
+    """
+    def __init__(self, inputfile):
+        super(MapFile, self).__init__(inputfile)
+
+    def __iter__(self):
+        for self.nb_lines, line in enumerate(self.fin):
+            yield self.check_line(self.nb_lines, line)
+
+    def check_line(self, i, line):
+        arr = line.strip().split(' : ')
+        if len(arr) != 2:
+            logger.error('Malformed line in input file! [LINE: {}]'.format(i))
+            sys.exit(0)
+        return arr
+
+    def load_dictionary(self, key='kscgr'):
+        self.map = {}
+        self.__enter__()
+        for kscgr, voc in self:
+            if key == 'kscgr':
+                self.map[kscgr] = voc
+            else:
+                self.map[voc] = kscgr
+        return self.map
+
