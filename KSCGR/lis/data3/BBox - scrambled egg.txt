@@ -1,4 +1,4 @@
-Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/scramble-egg/
+Frame:	Label:	Points:	Bounding Box ID:	Frame path: data3/scrambled-egg/
 0	shell_egg	(56,238,22,19)	7	0.jpg
 0	bowl	(54,118,43,41)	17	0.jpg
 0	oil_bottle	(0,174,21,44)	24	0.jpg
