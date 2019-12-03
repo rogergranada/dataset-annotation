@@ -40,10 +40,7 @@ class LIS(object):
     def __iter__(self):
         """ Iterate on file yielding the array with all line content"""
         for line in self.fin:
-            if line.startswith('Frame') or \
-               line.startswith('---') or \
-               line.startswith('Modified'):
-                continue
+            if not line[0].isdigit(): continue
             arr = line.strip().split('\t')
             self.idfr = int(arr[0])
             self.obj = arr[1]
