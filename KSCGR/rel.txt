@@ -1,0 +1,6 @@
+in
+on
+cutting
+holding
+moving
+above
