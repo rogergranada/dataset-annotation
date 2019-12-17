@@ -4,10 +4,43 @@ import logging
 logger = logging.getLogger(__name__)
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
+import os
 import sys
 import ast
 
-from os.path import exists
+from os.path import exists, join, splitext
+
+
+class FolderHandler(object):
+    def __init__(self, inputfolder, ext='txt'):
+        self.inputfolder = inputfolder
+        self.ext = ext
+        self.files = []
+        self.exist_folder()
+        self._load_paths()
+
+    def __iter__(self):
+        for path in sorted(self.files):
+            yield path
+
+    def _load_paths(self):
+        for root, dirs, files in os.walk(self.inputfolder, topdown=False):
+            for name in files:
+                fname, ext = splitext(name)
+                if ext[1:] == self.ext:
+                    self.files.append(join(root, name))
+        return self
+
+    def exist_folder(self):
+        if not exists(self.inputfolder):
+            logger.error('{} is not a valid folder'.format(self.inputfile))
+            sys.error()
+        return
+
+    def nb_files(self):
+        return len(self.files)
+# End of FileHandler class
+
 
 class FileHandler(object):
     def __init__(self, inputfile):
@@ -24,7 +57,7 @@ class FileHandler(object):
     def exist_file(self):
         if not exists(self.inputfile):
             logger.error('{} is not a valid file'.format(self.inputfile))
-            sys.error(0)
+            sys.exit()
         return
 
     def nb_lines(self):
@@ -118,11 +151,11 @@ class CompressedFile(FileHandler):
         arr = line.strip().split('-')
         if len(arr) != 5:
             logger.error('Malformed line in input file! [LINE: {}]'.format(i))
-            sys.exit(0)
+            sys.exit()
         start, end = int(arr[0]), int(arr[1])
         if start >= end:
             logger.error('START frame is greater than END frame: ({} - {}) [LINE: {}]'.format(start, end, i))
-            sys.exit(0)
+            sys.exit()
         if arr[2].isdigit():
             return start, end, int(arr[2]), int(arr[3]), int(arr[4])
         self.cnames = True
@@ -195,7 +228,7 @@ class DecompressedFile(FileHandler):
         arr = line.strip().split('\t')
         if len(arr) != 4:
             logger.error('Malformed line in input file! [LINE: {}]'.format(i))
-            sys.exit(0)
+            sys.exit()
         frame = int(arr[0])
         return frame, arr[1], arr[2], arr[3]
 
@@ -221,9 +254,13 @@ class ConfigFile(FileHandler):
             3 boiled_egg
 
         where Objects can also be relations.
+
+        The option `background=True` considers the background as id=0
+        Otherwise, the id of person starts at zero id=0.
     """
-    def __init__(self, inputfile):
+    def __init__(self, inputfile, background=True):
         super(ConfigFile, self).__init__(inputfile)
+        self.background = background
 
     def load_classes(self, cnames=False, as_set=False):
         """ cnames : class names instead of ids """
@@ -232,9 +269,19 @@ class ConfigFile(FileHandler):
         for line in self.fin:
             arr = line.strip().split()
             if cnames:
-                self.dcls[arr[1]] = int(arr[0])
+                if self.background:
+                    self.dcls[arr[1]] = int(arr[0])
+                elif arr[1] == '__background__': 
+                    continue
+                else:
+                    self.dcls[arr[1]] = int(arr[0])-1
             else:
-                self.dcls[int(arr[0])] = arr[1]
+                if self.background:
+                    self.dcls[int(arr[0])] = arr[1]
+                elif arr[1] == '__background__': 
+                    continue
+                else:
+                    self.dcls[int(arr[0])-1] = arr[1]
         if as_set:
             return set(self.dcls.keys())
         return self.dcls
@@ -260,7 +307,7 @@ class PredictionFile(FileHandler):
         arr = line.strip().split(';')
         if len(arr) != 7:
             logger.error('Malformed line in input file! [LINE: {}]'.format(i))
-            sys.exit(0)
+            sys.exit()
         arr[:-1] = map(int, arr[:-1])
         return arr
 # End of PredictionFile class
@@ -283,7 +330,7 @@ class MapFile(FileHandler):
         arr = line.strip().split(' : ')
         if len(arr) != 2:
             logger.error('Malformed line in input file! [LINE: {}]'.format(i))
-            sys.exit(0)
+            sys.exit()
         return arr
 
     def load_dictionary(self, key='kscgr'):
@@ -295,4 +342,63 @@ class MapFile(FileHandler):
             else:
                 self.map[voc] = kscgr
         return self.map
+# End of MapFile class
 
+
+class VOCFile(object):
+    def __init__(self, image_file, width=None, height=None):
+        self.filename = basename(image_file)
+        self.width = width
+        self.height = height
+        if not width or not height:
+            im = Image.open(image_file)
+            self.width, self.height = im.size
+        self._create_header()
+
+    def _create_header(self):
+        """ Create XML with information of the image """
+        self.xml = ET.Element('annotations')
+        ET.SubElement(self.xml, 'folder').text = 'JPEGImages'
+        ET.SubElement(self.xml, 'filename').text = self.filename    
+        imsize = ET.SubElement(self.xml, 'size')
+        ET.SubElement(imsize, 'width').text = str(self.width)
+        ET.SubElement(imsize, 'height').text = str(self.height)
+        ET.SubElement(imsize, 'depth').text = '3'
+        ET.SubElement(self.xml, 'segmented').text = '0' 
+
+    def add_object(self, name, x, y, w, h):
+        """ Add the annotation for an object """
+        # VOC cannot have xmin or ymin equals zero
+        if x <= 0: 
+            w -= x-1
+            x = 1
+        if y <= 0: 
+            h -= y-1
+            y = 1
+        xmin = x
+        ymin = y
+        xmax = x + w
+        ymax = y + h 
+        if xmax > 256:
+            xmax = 256
+        if ymax > 256:
+            ymax = 256
+
+        obj = ET.SubElement(self.xml, "object")
+        ET.SubElement(obj, "name").text = name
+        ET.SubElement(obj, "pose").text = "Unspecified"
+        ET.SubElement(obj, "truncated").text = '0'
+        ET.SubElement(obj, "difficult").text = '0'
+        bbox = ET.SubElement(obj, "bndbox")
+        ET.SubElement(bbox, "xmin").text = str(xmin)
+        ET.SubElement(bbox, "ymin").text = str(ymin)
+        ET.SubElement(bbox, "xmax").text = str(xmax)
+        ET.SubElement(bbox, "ymax").text = str(ymax)
+    
+    def save_xml(self, folderout):
+        """ Save the XML corresponding to an image in folderout """
+        fname, _ = splitext(self.filename)
+        fileout = join(folderout, fname+'.xml')
+        tree = ET.ElementTree(self.xml)
+        tree.write(fileout, pretty_print=True)
+# End of VOCFile class

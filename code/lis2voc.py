@@ -44,74 +44,16 @@ from os.path import join, isdir, splitext, basename
 from lxml import etree as ET
 from PIL import Image
 
-import lis
-import progressbar
-
-class VOCFile(object):
-    def __init__(self, image_file, width=None, height=None):
-        self.filename = basename(image_file)
-        self.width = width
-        self.height = height
-        if not width or not height:
-            im = Image.open(image_file)
-            self.width, self.height = im.size
-        self._create_header()
-
-    def _create_header(self):
-        """ Create XML with information of the image """
-        self.xml = ET.Element('annotations')
-        ET.SubElement(self.xml, 'folder').text = 'JPEGImages'
-        ET.SubElement(self.xml, 'filename').text = self.filename    
-        imsize = ET.SubElement(self.xml, 'size')
-        ET.SubElement(imsize, 'width').text = str(self.width)
-        ET.SubElement(imsize, 'height').text = str(self.height)
-        ET.SubElement(imsize, 'depth').text = '3'
-        ET.SubElement(self.xml, 'segmented').text = '0' 
-
-    def add_object(self, name, x, y, w, h):
-        """ Add the annotation for an object """
-        # VOC cannot have xmin or ymin equals zero
-        if x <= 0: 
-            w -= x-1
-            x = 1
-        if y <= 0: 
-            h -= y-1
-            y = 1
-        xmin = x
-        ymin = y
-        xmax = x + w
-        ymax = y + h 
-        if xmax > 256:
-            xmax = 256
-        if ymax > 256:
-            ymax = 256
-
-        obj = ET.SubElement(self.xml, "object")
-        ET.SubElement(obj, "name").text = name
-        ET.SubElement(obj, "pose").text = "Unspecified"
-        ET.SubElement(obj, "truncated").text = '0'
-        ET.SubElement(obj, "difficult").text = '0'
-        bbox = ET.SubElement(obj, "bndbox")
-        ET.SubElement(bbox, "xmin").text = str(xmin)
-        ET.SubElement(bbox, "ymin").text = str(ymin)
-        ET.SubElement(bbox, "xmax").text = str(xmax)
-        ET.SubElement(bbox, "ymax").text = str(ymax)
-    
-    def save_xml(self, folderout):
-        """ Save the XML corresponding to an image in folderout """
-        fname, _ = splitext(self.filename)
-        fileout = join(folderout, fname+'.xml')
-        tree = ET.ElementTree(self.xml)
-        tree.write(fileout, pretty_print=True)
-# End of VOCFile class
+import progressbar as pbar
+import filehandler as fh
 
 
 def main(inputfile, folderout):
     if not isdir(folderout):
         os.mkdir(folderout)
 
-    fann = lis.LIS(inputfile)
-    pb = progressbar.ProgressBar(fann.count_lines())
+    fann = fh.LisFile(inputfile)
+    pb = pbar.ProgressBar(fann.count_lines())
     with fann as flis:
         last_id = -1
         for v in flis:
@@ -119,12 +61,12 @@ def main(inputfile, folderout):
             #0 \t object \t (52,104,52,43) \t 0 \t data1/boild-egg/0.jpg 
             if last_id == -1:
                 last_id = idf
-                xml = VOCFile(flis.fname, width=256, height=256)
+                xml = fh.VOCFile(flis.fname, width=256, height=256)
                 xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
             elif idf != last_id:
                 last_id = idf
                 xml.save_xml(folderout)
-                xml = VOCFile(flis.fname, width=256, height=256)
+                xml = fh.VOCFile(flis.fname, width=256, height=256)
                 xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
             else:
                 xml.add_object(flis.obj, flis.x, flis.y, flis.w, flis.h)
