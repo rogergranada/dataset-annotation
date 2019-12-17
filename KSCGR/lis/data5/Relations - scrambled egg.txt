@@ -1,4 +1,4 @@
-Frame	Subject	Relation	Object
+Frame	Subject	Relation	Object	Path: data5/scrambled-egg/
 0	cutting_board	on	table
 0	bowl	on	table
 0	shell_egg	on	table
