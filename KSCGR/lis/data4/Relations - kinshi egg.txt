@@ -1,4 +1,4 @@
-Frame	Subject	Relation	Object
+Frame	Subject	Relation	Object	Path: data4/kinshi-egg/
 0	frying_pan	on	stove
 0	cutting_board	on	table
 0	bowl	on	table

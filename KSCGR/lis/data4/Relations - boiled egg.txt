@@ -1,4 +1,4 @@
-Frame	Subject	Relation	Object
+Frame	Subject	Relation	Object	Path: data4/boiled-egg/
 0	bowl	on	table
 0	pan	on	stove
 0	shell_egg	on	table
