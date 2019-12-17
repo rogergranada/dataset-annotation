@@ -1,4 +1,4 @@
-Frame	Subject	Relation	Object
+Frame	Subject	Relation	Object	Path: data2/omelette/
 0	oil_bottle	on	table
 0	saltshaker	on	table
 0	milk_carton	on	table
