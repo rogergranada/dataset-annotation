@@ -45,6 +45,7 @@ class FolderHandler(object):
 class FileHandler(object):
     def __init__(self, inputfile):
         self.inputfile = inputfile
+        self.path = ''
 
     def __enter__(self):
         self.exist_file()
@@ -85,8 +86,8 @@ class LisFile(FileHandler):
         for self.nb_line, line in enumerate(self.fin, start=1):
             arr = line.strip().split('\t')
             if not line[0].isdigit():
-                if arr[-1].startswith('data'):
-                    self.path = arr[-1]
+                if 'data' in line:
+                    self.path = 'data' + arr[-1].split('data')[1]
                 continue
             self.idfr = int(arr[0])
             self.obj = arr[1]
@@ -195,15 +196,19 @@ class DecompressedFile(FileHandler):
     def __iter__(self):
         objs = []
         for self.nb_lines, line in enumerate(self.fin):
-            if not line or not line[0].isdigit(): continue
-            frame, o1, r, o2 = self.check_line(self.nb_lines, line)
-            yield frame, o1, r, o2
+            if not line or not line[0].isdigit():
+                if 'Path:' in line:
+                    self.path = line.strip().split('Path: ')[-1]
+                continue
+            arr = self.check_line(self.nb_lines, line)
+            yield arr
 
     def group_relations(self):
         self.__enter__()
         for self.nb_lines, line in enumerate(self.fin):
             if not line or not line[0].isdigit(): continue
-            idf, sub, rel, obj = self.check_line(self.nb_lines, line)
+            arr = self.check_line(self.nb_lines, line)
+            idf, sub, rel, obj = arr[0], arr[1], arr[2], arr[3]
             if self.dic.has_key((sub, rel, obj)):
                 if idf == self.dic[(sub, rel, obj)]['last']+1:
                     self.dic[(sub, rel, obj)]['last'] += 1
@@ -226,17 +231,19 @@ class DecompressedFile(FileHandler):
 
     def check_line(self, i, line):
         arr = line.strip().split('\t')
-        if len(arr) != 4:
+        if len(arr) < 4 or len(arr) > 5:
             logger.error('Malformed line in input file! [LINE: {}]'.format(i))
             sys.exit()
         frame = int(arr[0])
-        return frame, arr[1], arr[2], arr[3]
+        if len(arr) == 4:
+            return frame, arr[1], arr[2], arr[3]
+        return frame, arr[1], arr[2], arr[3], arr[4]
 
     def list_relations(self, as_set=True):
         rels = []
         self.__enter__()
-        for _, o1, r, o2 in self:
-            rels.append((o1, r, o2))
+        for arr in self:
+            rels.append((arr[1], arr[2], arr[3]))
         if as_set:
             return set(rels)
         return rels
@@ -339,8 +346,13 @@ class MapFile(FileHandler):
         for kscgr, voc in self:
             if key == 'kscgr':
                 self.map[kscgr] = voc
+                if not self.path:
+                    self.path = 'data'.join(kscgr.split('data')[:-1])
+                else: print self.path
             else:
                 self.map[voc] = kscgr
+                if not self.path:
+                    self.path = voc.split('JPEGImages')[0]
         return self.map
 # End of MapFile class
 
