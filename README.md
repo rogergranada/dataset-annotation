@@ -11,7 +11,7 @@ The Kitchen Scene Context based Gesture Recognition ([KSCGR](http://www.murase.m
 
 The image below illustrates the sequence of actions in which the dataset is originally annotated.
 
-<img src="KSCGR/images/kscgr_frames.svg" align="center" width="50%"/>
+<img src="KSCGR/images/kscgr_frames.svg" align="center" width="80%"/>
 
 Our annotation for this dataset consists in identifying objects that appear in the scenes.
 
