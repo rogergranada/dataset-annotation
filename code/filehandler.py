@@ -46,6 +46,7 @@ class FileHandler(object):
     def __init__(self, inputfile):
         self.inputfile = inputfile
         self.path = ''
+        self.fname = ''
 
     def __enter__(self):
         self.exist_file()
@@ -65,6 +66,9 @@ class FileHandler(object):
         with open(self.inputfile) as fin:
             for i, _ in enumerate(fin, start=1): pass
         return i
+
+    def imgpath(self):
+        return join(self.path, self.fname)
 # End of FileHandler class
 
 
@@ -109,6 +113,21 @@ class LisFile(FileHandler):
                 last_id = self.idfr
                 objs.append(self.obj)
         yield self.idfr, objs
+
+    def iterate_frames(self):
+        last_id = -1
+        objs = []
+        fname = ''
+        for _ in enumerate(self):
+            if self.idfr != last_id and last_id != -1:
+                last_id = self.idfr
+                yield fname, objs
+                objs = [(self.obj, self.x, self.y, self.w, self.h)]
+            else:
+                fname = self.fname
+                last_id = self.idfr
+                objs.append((self.obj, self.x, self.y, self.w, self.h))
+        yield fname, objs
 
     def id(self):
         id, _ = splitext(basename(self.fname))
@@ -348,7 +367,6 @@ class MapFile(FileHandler):
                 self.map[kscgr] = voc
                 if not self.path:
                     self.path = 'data'.join(kscgr.split('data')[:-1])
-                else: print self.path
             else:
                 self.map[voc] = kscgr
                 if not self.path:

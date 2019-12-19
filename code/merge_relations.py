@@ -40,7 +40,7 @@ def merge_annotation(folder_input, output=None, class_file='classes.cfg', rels_f
 
     files = fh.FolderHandler(folder_input)
     with open(output, 'w') as fout:
-        fout.write('Frame\tSubject\tRelation\tObject\n')
+        fout.write('Frame\tSubject\tRelation\tObject\tPath\n')
         for path in files:
             logger.info('Processing file: %s' % path)
             filerels = fh.DecompressedFile(path)
@@ -49,7 +49,7 @@ def merge_annotation(folder_input, output=None, class_file='classes.cfg', rels_f
                     check_error(do, o1, frels.nb_lines)
                     check_error(do, o2, frels.nb_lines)
                     check_error(dr, r, frels.nb_lines)
-                    fout.write('%d\t%s\t%s\t%s\n' % (fr, o1, r, o2))
+                    fout.write('%d\t%s\t%s\t%s\t%s\n' % (fr, o1, r, o2, filerels.path))
     logger.info('Saved relations in file: %s' % output)
 
 
