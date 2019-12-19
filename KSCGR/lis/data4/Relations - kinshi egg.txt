@@ -73979,16 +73979,12 @@ Frame	Subject	Relation	Object	Path: data4/kinshi-egg/
 7886	chopstick	on	table
 7886	baked_egg	on	cutting_board
 7886	knife	on	cutting_board
-7886	person	holding	plate
-7886	person	moving	plate
 7887	cutting_board	on	table
 7887	oil_bottle	on	table
 7887	frying_pan	on	stove
 7887	chopstick	on	table
 7887	baked_egg	on	cutting_board
 7887	knife	on	cutting_board
-7887	person	holding	plate
-7887	person	moving	plate
 7888	cutting_board	on	table
 7888	oil_bottle	on	table
 7888	frying_pan	on	stove
