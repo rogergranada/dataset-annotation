@@ -92,11 +92,6 @@ venv.bak/
 
 # Spyder project settings
 .spyderproject
-
-# Phantom files
-.py~
-.txt~
-.cfg~
 .spyproject
 
 # Rope project settings
@@ -107,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Phantom files
+.py~
+.txt~
+.cfg~
+.pyc~
