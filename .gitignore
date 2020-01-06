@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Phantom files
+.py~
+.txt~
+.cfg~
+.pyc~
