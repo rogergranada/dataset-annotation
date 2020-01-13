@@ -12,6 +12,7 @@ from os.path import exists, join, splitext
 
 
 class FolderHandler(object):
+    """ Class to deal with folders """
     def __init__(self, inputfolder, ext='txt'):
         self.inputfolder = inputfolder
         self.ext = ext
@@ -43,6 +44,7 @@ class FolderHandler(object):
 
 
 class FileHandler(object):
+    """ Super class with shared functions """
     def __init__(self, inputfile):
         self.inputfile = inputfile
         self.path = ''
@@ -69,10 +71,32 @@ class FileHandler(object):
 
     def imgpath(self):
         return join(self.path, self.fname)
+
+    def nb_frames(self):
+        last_idf = -1
+        counter = 0
+        with open(self.inputfile) as fin:
+            for line in fin:
+                if not line[0].isdigit(): continue
+                idf = int(line.split('\t')[0])
+                if idf != last_idf:
+                    last_idf = idf
+                    counter += 1
+        return counter
 # End of FileHandler class
 
 
 class LisFile(FileHandler):
+    """ LIS file has the form:
+        Frame:\tLabel:\tPoints:\tBounding Box ID:\tFrame path
+        E.g.:
+
+        0\tbowl\t(53,118,46,46)\t17\t0.jpg
+        0\tfrying_pan\t(100,88,86,105)\t14\t0.jpg
+        0\tham\t(62,179,36,33)\t12\t0.jpg
+        0\tknife\t(32,104,24,65)\t22\t0.jpg
+    """
+
     def __init__(self, inputfile):
         super(LisFile, self).__init__(inputfile)
         self.path = ''
@@ -195,7 +219,7 @@ class CompressedFile(FileHandler):
 class DecompressedFile(FileHandler):
     """ Decompressed file has the form:
         Frame \t Subject \t Relation \t Object
-        E.g. 
+        E.g.: 
 
             0\tperson\tholding\tshell-egg
             1\tperson\tholding\tshell-egg
@@ -208,13 +232,13 @@ class DecompressedFile(FileHandler):
     """
     def __init__(self, inputfile):
         super(DecompressedFile, self).__init__(inputfile)
-        self.nb_lines = 0
+        self.nb_line = 0
         self.start_frames = []
         self.dic = {}
 
     def __iter__(self):
         objs = []
-        for self.nb_lines, line in enumerate(self.fin):
+        for self.nb_line, line in enumerate(self.fin):
             if not line or not line[0].isdigit():
                 if 'Path:' in line:
                     self.path = line.strip().split('Path: ')[-1]
@@ -224,7 +248,7 @@ class DecompressedFile(FileHandler):
 
     def group_relations(self):
         self.__enter__()
-        for self.nb_lines, line in enumerate(self.fin):
+        for self.nb_line, line in enumerate(self.fin):
             if not line or not line[0].isdigit(): continue
             arr = self.check_line(self.nb_lines, line)
             idf, sub, rel, obj = arr[0], arr[1], arr[2], arr[3]
