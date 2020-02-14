@@ -8,7 +8,7 @@ from os.path import exists, join, splitext, basename
 import lis
 import progressbar
 
-def load_classes(cfg_file, mode=None, inv=False):
+def load_classes(cfg_file, mode=None, inv=False, no_background=False):
     """ Load classes from configuration file """
     if not exists(cfg_file):
         logger.error('File {} does not exist!'.format(cfg_file))
@@ -19,9 +19,17 @@ def load_classes(cfg_file, mode=None, inv=False):
         for line in fin:
             arr = line.strip().split()
             if inv:
-                dclass[int(arr[0])] = arr[1]
+                if no_background:
+                    if arr[1] == '__background__': continue
+                    dclass[int(arr[0])-1] = arr[1]
+                else:
+                    dclass[int(arr[0])] = arr[1]
             else:
-                dclass[arr[1]] = int(arr[0])
+                if no_background:
+                    if arr[1] == '__background__': continue
+                    dclass[arr[1]] = int(arr[0])-1
+                else:
+                    dclass[arr[1]] = int(arr[0])
             
     if mode == 'set':
         return set(dclass.keys())
