@@ -121,7 +121,7 @@ class LisFile(FileHandler):
             self.obj = arr[1]
             self.x, self.y, self.w, self.h = map(int, ast.literal_eval(arr[2]))
             self.bbox = arr[2]
-            self.idobj = arr[3]
+            self.idobj = int(arr[3])
             self.fname = arr[4]
             yield arr
 
