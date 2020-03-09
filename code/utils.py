@@ -48,7 +48,7 @@ def check_labels(fileinput):
     logger.info('Dictionary containing {} labels'.format(len(dic.keys())))
 
 
-def create_pathfile(root_folder, output=None):
+def create_pathfile_for_KSCGR(root_folder, output=None):
     """ Receive the ROOT folder of KSCGR dataset to create
         a `paths.txt` file containing all paths to images """
     if not output:
@@ -68,6 +68,28 @@ def create_pathfile(root_folder, output=None):
                 nb_files += 1
     logger.info('Create file containing %d paths' % nb_files)
     logger.info('File saved at: %s' % output)
+
+
+def create_pathfile(inputfolder, output, path=None):
+    """ Create a file containing all images from input folder """
+    if not output:
+        output = join(inputfolder, 'paths.txt')
+
+    logger.info('Processing folder: %s' % inputfolder)
+    with open(output, 'w') as fout:
+        files = os.listdir(inputfolder)
+        names = []
+        for img in files:
+            name, ext = splitext(basename(img))
+            if ext == '.jpg':
+                names.append(int(name))
+        logger.info('Saving %d files in %s' % (len(names), output))
+        for name in sorted(names):
+            if path:
+                fout.write('%s\n' % join(path, str(name)+'.jpg'))
+            else:
+                fout.write('%s\n' % join(inputfolder, str(name)+'.jpg'))
+        logger.info('Process finished!')
 
 
 def images_from_file(inputfile, extension=False):
