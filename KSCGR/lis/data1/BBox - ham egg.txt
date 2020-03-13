@@ -1,4 +1,4 @@
-Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
+Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 0	table	(0,112,101,142)	29	0.jpg
 0	stove	(103,112,154,123)	30	0.jpg
 0	knife	(30,105,29,65)	22	0.jpg
@@ -19208,6 +19208,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1562	spoon	(26,170,21,32)	27	1562.jpg
 1562	pan_lid	(82,221,134,35)	16	1562.jpg
 1562	person	(0,0,120,154)	1	1562.jpg
+1562	ham	(8,118,20,16)	12	1562.jpg
 1563	table	(0,112,101,142)	29	1563.jpg
 1563	stove	(103,112,154,123)	30	1563.jpg
 1563	bowl	(58,110,45,39)	17	1563.jpg
@@ -19219,6 +19220,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1563	spoon	(26,170,21,32)	27	1563.jpg
 1563	pan_lid	(82,221,134,35)	16	1563.jpg
 1563	person	(0,0,120,154)	1	1563.jpg
+1563	ham	(6,118,21,15)	12	1563.jpg
 1564	table	(0,112,101,142)	29	1564.jpg
 1564	stove	(103,112,154,123)	30	1564.jpg
 1564	bowl	(58,110,45,39)	17	1564.jpg
@@ -19230,6 +19232,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1564	spoon	(26,170,21,32)	27	1564.jpg
 1564	pan_lid	(82,221,134,35)	16	1564.jpg
 1564	person	(0,0,121,152)	1	1564.jpg
+1564	ham	(7,118,21,16)	12	1564.jpg
 1565	table	(0,112,101,142)	29	1565.jpg
 1565	stove	(103,112,154,123)	30	1565.jpg
 1565	bowl	(58,110,45,39)	17	1565.jpg
@@ -19241,6 +19244,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1565	spoon	(26,170,21,32)	27	1565.jpg
 1565	pan_lid	(82,221,134,35)	16	1565.jpg
 1565	person	(0,0,122,150)	1	1565.jpg
+1565	ham	(6,116,25,16)	12	1565.jpg
 1566	table	(0,112,101,142)	29	1566.jpg
 1566	stove	(103,112,154,123)	30	1566.jpg
 1566	bowl	(58,110,45,39)	17	1566.jpg
@@ -19252,6 +19256,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1566	spoon	(26,170,21,32)	27	1566.jpg
 1566	pan_lid	(82,221,134,35)	16	1566.jpg
 1566	person	(0,0,121,145)	1	1566.jpg
+1566	ham	(5,117,25,15)	12	1566.jpg
 1567	table	(0,112,101,142)	29	1567.jpg
 1567	stove	(103,112,154,123)	30	1567.jpg
 1567	bowl	(58,110,45,39)	17	1567.jpg
@@ -19264,6 +19269,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1567	spoon	(26,170,21,32)	27	1567.jpg
 1567	pan_lid	(82,221,134,35)	16	1567.jpg
 1567	person	(0,0,123,144)	1	1567.jpg
+1567	ham	(7,116,20,15)	12	1567.jpg
 1568	table	(0,112,101,142)	29	1568.jpg
 1568	stove	(103,112,154,123)	30	1568.jpg
 1568	bowl	(58,110,45,39)	17	1568.jpg
@@ -19276,6 +19282,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1568	spoon	(26,170,21,32)	27	1568.jpg
 1568	pan_lid	(82,221,134,35)	16	1568.jpg
 1568	person	(0,0,122,144)	1	1568.jpg
+1568	ham	(9,113,23,17)	12	1568.jpg
 1569	table	(0,112,101,142)	29	1569.jpg
 1569	stove	(103,112,154,123)	30	1569.jpg
 1569	bowl	(58,110,45,39)	17	1569.jpg
@@ -19288,6 +19295,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1569	spoon	(26,170,21,32)	27	1569.jpg
 1569	pan_lid	(82,221,134,35)	16	1569.jpg
 1569	person	(0,0,121,142)	1	1569.jpg
+1569	ham	(9,111,24,17)	12	1569.jpg
 1570	table	(0,112,101,142)	29	1570.jpg
 1570	stove	(103,112,154,123)	30	1570.jpg
 1570	bowl	(58,110,45,39)	17	1570.jpg
@@ -19300,6 +19308,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1570	spoon	(26,170,21,32)	27	1570.jpg
 1570	pan_lid	(82,221,134,35)	16	1570.jpg
 1570	person	(0,0,124,135)	1	1570.jpg
+1570	ham	(11,109,23,17)	12	1570.jpg
 1571	table	(0,112,101,142)	29	1571.jpg
 1571	stove	(103,112,154,123)	30	1571.jpg
 1571	bowl	(58,110,45,39)	17	1571.jpg
@@ -19312,6 +19321,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1571	spoon	(26,170,21,32)	27	1571.jpg
 1571	pan_lid	(82,221,134,35)	16	1571.jpg
 1571	person	(0,0,126,131)	1	1571.jpg
+1571	ham	(11,110,24,17)	12	1571.jpg
 1572	table	(0,112,101,142)	29	1572.jpg
 1572	stove	(103,112,154,123)	30	1572.jpg
 1572	bowl	(58,110,45,39)	17	1572.jpg
@@ -19324,6 +19334,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1572	spoon	(26,170,21,32)	27	1572.jpg
 1572	pan_lid	(82,221,134,35)	16	1572.jpg
 1572	person	(0,0,130,127)	1	1572.jpg
+1572	ham	(8,109,24,15)	12	1572.jpg
 1573	table	(0,112,101,142)	29	1573.jpg
 1573	stove	(103,112,154,123)	30	1573.jpg
 1573	bowl	(58,110,45,39)	17	1573.jpg
@@ -19336,6 +19347,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1573	spoon	(26,170,21,32)	27	1573.jpg
 1573	pan_lid	(82,221,134,35)	16	1573.jpg
 1573	person	(0,0,129,125)	1	1573.jpg
+1573	ham	(11,109,21,12)	12	1573.jpg
 1574	table	(0,112,101,142)	29	1574.jpg
 1574	stove	(103,112,154,123)	30	1574.jpg
 1574	bowl	(58,110,45,39)	17	1574.jpg
@@ -19348,6 +19360,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1574	spoon	(26,170,21,32)	27	1574.jpg
 1574	pan_lid	(82,221,134,35)	16	1574.jpg
 1574	person	(0,0,134,123)	1	1574.jpg
+1574	ham	(13,105,22,15)	12	1574.jpg
 1575	table	(0,112,101,142)	29	1575.jpg
 1575	stove	(103,112,154,123)	30	1575.jpg
 1575	bowl	(58,110,45,39)	17	1575.jpg
@@ -19360,6 +19373,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1575	spoon	(26,170,21,32)	27	1575.jpg
 1575	pan_lid	(82,221,134,35)	16	1575.jpg
 1575	person	(0,0,133,120)	1	1575.jpg
+1575	ham	(16,102,20,16)	12	1575.jpg
 1576	table	(0,112,101,142)	29	1576.jpg
 1576	stove	(103,112,154,123)	30	1576.jpg
 1576	bowl	(58,110,45,39)	17	1576.jpg
@@ -19372,6 +19386,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1576	spoon	(26,170,21,32)	27	1576.jpg
 1576	pan_lid	(82,221,134,35)	16	1576.jpg
 1576	person	(0,0,129,121)	1	1576.jpg
+1576	ham	(15,102,22,14)	12	1576.jpg
 1577	table	(0,112,101,142)	29	1577.jpg
 1577	stove	(103,112,154,123)	30	1577.jpg
 1577	bowl	(58,110,45,39)	17	1577.jpg
@@ -19384,6 +19399,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1577	spoon	(26,170,21,32)	27	1577.jpg
 1577	pan_lid	(82,221,134,35)	16	1577.jpg
 1577	person	(0,0,133,114)	1	1577.jpg
+1577	ham	(19,101,22,13)	12	1577.jpg
 1578	table	(0,112,101,142)	29	1578.jpg
 1578	stove	(103,112,154,123)	30	1578.jpg
 1578	bowl	(58,110,45,39)	17	1578.jpg
@@ -19396,6 +19412,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1578	spoon	(26,170,21,32)	27	1578.jpg
 1578	pan_lid	(82,221,134,35)	16	1578.jpg
 1578	person	(0,0,135,114)	1	1578.jpg
+1578	ham	(21,97,22,17)	12	1578.jpg
 1579	table	(0,112,101,142)	29	1579.jpg
 1579	stove	(103,112,154,123)	30	1579.jpg
 1579	bowl	(58,110,45,39)	17	1579.jpg
@@ -19408,6 +19425,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1579	spoon	(26,170,21,32)	27	1579.jpg
 1579	pan_lid	(82,221,134,35)	16	1579.jpg
 1579	person	(0,0,138,114)	1	1579.jpg
+1579	ham	(25,97,18,14)	12	1579.jpg
 1580	table	(0,112,101,142)	29	1580.jpg
 1580	stove	(103,112,154,123)	30	1580.jpg
 1580	bowl	(58,110,45,39)	17	1580.jpg
@@ -19420,6 +19438,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1580	spoon	(26,170,21,32)	27	1580.jpg
 1580	pan_lid	(82,221,134,35)	16	1580.jpg
 1580	person	(0,0,144,114)	1	1580.jpg
+1580	ham	(28,95,15,14)	12	1580.jpg
 1581	table	(0,112,101,142)	29	1581.jpg
 1581	stove	(103,112,154,123)	30	1581.jpg
 1581	bowl	(58,110,45,39)	17	1581.jpg
@@ -19432,6 +19451,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1581	spoon	(26,170,21,32)	27	1581.jpg
 1581	pan_lid	(82,221,134,35)	16	1581.jpg
 1581	person	(0,0,148,114)	1	1581.jpg
+1581	ham	(30,95,15,11)	12	1581.jpg
 1582	table	(0,112,101,142)	29	1582.jpg
 1582	stove	(103,112,154,123)	30	1582.jpg
 1582	bowl	(58,110,45,39)	17	1582.jpg
@@ -19444,6 +19464,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1582	spoon	(26,170,21,32)	27	1582.jpg
 1582	pan_lid	(82,221,134,35)	16	1582.jpg
 1582	person	(0,0,147,114)	1	1582.jpg
+1582	ham	(31,94,20,12)	12	1582.jpg
 1583	table	(0,112,101,142)	29	1583.jpg
 1583	stove	(103,112,154,123)	30	1583.jpg
 1583	bowl	(58,110,45,39)	17	1583.jpg
@@ -19624,6 +19645,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1597	spoon	(26,170,21,32)	27	1597.jpg
 1597	pan_lid	(82,221,134,35)	16	1597.jpg
 1597	person	(37,0,156,121)	1	1597.jpg
+1597	ham	(138,112,13,15)	12	1597.jpg
 1598	table	(0,112,101,142)	29	1598.jpg
 1598	stove	(103,112,154,123)	30	1598.jpg
 1598	bowl	(58,110,45,39)	17	1598.jpg
@@ -19636,6 +19658,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1598	spoon	(26,170,21,32)	27	1598.jpg
 1598	pan_lid	(82,221,134,35)	16	1598.jpg
 1598	person	(36,0,159,121)	1	1598.jpg
+1598	ham	(140,112,14,14)	12	1598.jpg
 1599	table	(0,112,101,142)	29	1599.jpg
 1599	stove	(103,112,154,123)	30	1599.jpg
 1599	bowl	(58,110,45,39)	17	1599.jpg
@@ -19648,6 +19671,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1599	spoon	(26,170,21,32)	27	1599.jpg
 1599	pan_lid	(82,221,134,35)	16	1599.jpg
 1599	person	(38,0,160,122)	1	1599.jpg
+1599	ham	(142,109,13,19)	12	1599.jpg
 1600	table	(0,112,101,142)	29	1600.jpg
 1600	stove	(103,112,154,123)	30	1600.jpg
 1600	bowl	(58,110,45,39)	17	1600.jpg
@@ -19660,6 +19684,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1600	spoon	(26,170,21,32)	27	1600.jpg
 1600	pan_lid	(82,221,134,35)	16	1600.jpg
 1600	person	(40,0,159,122)	1	1600.jpg
+1600	ham	(145,111,12,18)	12	1600.jpg
 1601	table	(0,112,101,142)	29	1601.jpg
 1601	stove	(103,112,154,123)	30	1601.jpg
 1601	bowl	(58,110,45,39)	17	1601.jpg
@@ -19672,6 +19697,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1601	spoon	(26,170,21,32)	27	1601.jpg
 1601	pan_lid	(82,221,134,35)	16	1601.jpg
 1601	person	(44,0,156,124)	1	1601.jpg
+1601	ham	(148,111,9,19)	12	1601.jpg
 1602	table	(0,112,101,142)	29	1602.jpg
 1602	stove	(103,112,154,123)	30	1602.jpg
 1602	bowl	(58,110,45,39)	17	1602.jpg
@@ -19684,6 +19710,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1602	spoon	(26,170,21,32)	27	1602.jpg
 1602	pan_lid	(82,221,134,35)	16	1602.jpg
 1602	person	(45,0,157,123)	1	1602.jpg
+1602	ham	(147,112,11,16)	12	1602.jpg
 1603	table	(0,112,101,142)	29	1603.jpg
 1603	stove	(103,112,154,123)	30	1603.jpg
 1603	bowl	(58,110,45,39)	17	1603.jpg
@@ -19696,6 +19723,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1603	spoon	(26,170,21,32)	27	1603.jpg
 1603	pan_lid	(82,221,134,35)	16	1603.jpg
 1603	person	(44,0,158,125)	1	1603.jpg
+1603	ham	(147,111,13,17)	12	1603.jpg
 1604	table	(0,112,101,142)	29	1604.jpg
 1604	stove	(103,112,154,123)	30	1604.jpg
 1604	bowl	(58,110,45,39)	17	1604.jpg
@@ -19708,6 +19736,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1604	spoon	(26,170,21,32)	27	1604.jpg
 1604	pan_lid	(82,221,134,35)	16	1604.jpg
 1604	person	(44,0,160,123)	1	1604.jpg
+1604	ham	(148,111,12,18)	12	1604.jpg
 1605	table	(0,112,101,142)	29	1605.jpg
 1605	stove	(103,112,154,123)	30	1605.jpg
 1605	bowl	(58,110,45,39)	17	1605.jpg
@@ -19720,6 +19749,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1605	spoon	(26,170,21,32)	27	1605.jpg
 1605	pan_lid	(82,221,134,35)	16	1605.jpg
 1605	person	(46,0,158,127)	1	1605.jpg
+1605	ham	(147,111,12,17)	12	1605.jpg
 1606	table	(0,112,101,142)	29	1606.jpg
 1606	stove	(103,112,154,123)	30	1606.jpg
 1606	bowl	(58,110,45,39)	17	1606.jpg
@@ -19732,6 +19762,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1606	spoon	(26,170,21,32)	27	1606.jpg
 1606	pan_lid	(82,221,134,35)	16	1606.jpg
 1606	person	(44,0,160,123)	1	1606.jpg
+1606	ham	(148,110,14,18)	12	1606.jpg
 1607	table	(0,112,101,142)	29	1607.jpg
 1607	stove	(103,112,154,123)	30	1607.jpg
 1607	bowl	(58,110,45,39)	17	1607.jpg
@@ -19744,6 +19775,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1607	spoon	(26,170,21,32)	27	1607.jpg
 1607	pan_lid	(82,221,134,35)	16	1607.jpg
 1607	person	(44,0,160,123)	1	1607.jpg
+1607	ham	(152,112,11,15)	12	1607.jpg
 1608	table	(0,112,101,142)	29	1608.jpg
 1608	stove	(103,112,154,123)	30	1608.jpg
 1608	bowl	(58,110,45,39)	17	1608.jpg
@@ -19756,6 +19788,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1608	spoon	(26,170,21,32)	27	1608.jpg
 1608	pan_lid	(82,221,134,35)	16	1608.jpg
 1608	person	(44,0,160,123)	1	1608.jpg
+1608	ham	(152,110,16,20)	12	1608.jpg
 1609	table	(0,112,101,142)	29	1609.jpg
 1609	stove	(103,112,154,123)	30	1609.jpg
 1609	bowl	(58,110,45,39)	17	1609.jpg
@@ -19768,6 +19801,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1609	spoon	(26,170,21,32)	27	1609.jpg
 1609	pan_lid	(82,221,134,35)	16	1609.jpg
 1609	person	(44,0,160,123)	1	1609.jpg
+1609	ham	(154,109,13,18)	12	1609.jpg
 1610	table	(0,112,101,142)	29	1610.jpg
 1610	stove	(103,112,154,123)	30	1610.jpg
 1610	bowl	(58,110,45,39)	17	1610.jpg
@@ -19780,6 +19814,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1610	spoon	(26,170,21,32)	27	1610.jpg
 1610	pan_lid	(82,221,134,35)	16	1610.jpg
 1610	person	(44,0,160,123)	1	1610.jpg
+1610	ham	(151,109,14,19)	12	1610.jpg
 1611	table	(0,112,101,142)	29	1611.jpg
 1611	stove	(103,112,154,123)	30	1611.jpg
 1611	bowl	(58,110,45,39)	17	1611.jpg
@@ -19792,6 +19827,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1611	spoon	(26,170,21,32)	27	1611.jpg
 1611	pan_lid	(82,221,134,35)	16	1611.jpg
 1611	person	(44,0,160,123)	1	1611.jpg
+1611	ham	(149,110,15,20)	12	1611.jpg
 1612	table	(0,112,101,142)	29	1612.jpg
 1612	stove	(103,112,154,123)	30	1612.jpg
 1612	bowl	(58,110,45,39)	17	1612.jpg
@@ -19804,6 +19840,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1612	spoon	(26,170,21,32)	27	1612.jpg
 1612	pan_lid	(82,221,134,35)	16	1612.jpg
 1612	person	(44,0,160,123)	1	1612.jpg
+1612	ham	(149,107,15,20)	12	1612.jpg
 1613	table	(0,112,101,142)	29	1613.jpg
 1613	stove	(103,112,154,123)	30	1613.jpg
 1613	bowl	(58,110,45,39)	17	1613.jpg
@@ -19816,6 +19853,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1613	spoon	(26,170,21,32)	27	1613.jpg
 1613	pan_lid	(82,221,134,35)	16	1613.jpg
 1613	person	(44,0,160,123)	1	1613.jpg
+1613	ham	(148,109,15,15)	12	1613.jpg
 1614	table	(0,112,101,142)	29	1614.jpg
 1614	stove	(103,112,154,123)	30	1614.jpg
 1614	bowl	(58,110,45,39)	17	1614.jpg
@@ -20008,6 +20046,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1629	spoon	(26,170,21,32)	27	1629.jpg
 1629	pan_lid	(82,221,134,35)	16	1629.jpg
 1629	person	(38,0,162,133)	1	1629.jpg
+1629	ham	(149,116,12,20)	12	1629.jpg
 1630	table	(0,112,101,142)	29	1630.jpg
 1630	stove	(103,112,154,123)	30	1630.jpg
 1630	bowl	(58,110,45,39)	17	1630.jpg
@@ -20020,6 +20059,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1630	spoon	(26,170,21,32)	27	1630.jpg
 1630	pan_lid	(82,221,134,35)	16	1630.jpg
 1630	person	(38,0,162,133)	1	1630.jpg
+1630	ham	(148,116,13,19)	12	1630.jpg
 1631	table	(0,112,101,142)	29	1631.jpg
 1631	stove	(103,112,154,123)	30	1631.jpg
 1631	bowl	(58,110,45,39)	17	1631.jpg
@@ -20032,6 +20072,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1631	spoon	(26,170,21,32)	27	1631.jpg
 1631	pan_lid	(82,221,134,35)	16	1631.jpg
 1631	person	(38,0,162,133)	1	1631.jpg
+1631	ham	(149,119,11,14)	12	1631.jpg
 1632	table	(0,112,101,142)	29	1632.jpg
 1632	stove	(103,112,154,123)	30	1632.jpg
 1632	bowl	(58,110,45,39)	17	1632.jpg
@@ -20212,6 +20253,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1646	spoon	(26,170,21,32)	27	1646.jpg
 1646	pan_lid	(82,221,134,35)	16	1646.jpg
 1646	person	(42,0,157,170)	1	1646.jpg
+1646	ham	(143,148,17,21)	12	1646.jpg
 1647	table	(0,112,101,142)	29	1647.jpg
 1647	stove	(103,112,154,123)	30	1647.jpg
 1647	bowl	(58,110,45,39)	17	1647.jpg
@@ -20224,6 +20266,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1647	spoon	(26,170,21,32)	27	1647.jpg
 1647	pan_lid	(82,221,134,35)	16	1647.jpg
 1647	person	(42,0,157,170)	1	1647.jpg
+1647	ham	(143,148,17,21)	12	1647.jpg
 1648	table	(0,112,101,142)	29	1648.jpg
 1648	stove	(103,112,154,123)	30	1648.jpg
 1648	bowl	(58,110,45,39)	17	1648.jpg
@@ -20236,6 +20279,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1648	spoon	(26,170,21,32)	27	1648.jpg
 1648	pan_lid	(82,221,134,35)	16	1648.jpg
 1648	person	(41,0,160,150)	1	1648.jpg
+1648	ham	(143,148,17,21)	12	1648.jpg
 1649	table	(0,112,101,142)	29	1649.jpg
 1649	stove	(103,112,154,123)	30	1649.jpg
 1649	bowl	(58,110,45,39)	17	1649.jpg
@@ -20248,6 +20292,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1649	spoon	(26,170,21,32)	27	1649.jpg
 1649	pan_lid	(82,221,134,35)	16	1649.jpg
 1649	person	(40,0,161,143)	1	1649.jpg
+1649	ham	(143,148,17,21)	12	1649.jpg
 1650	table	(0,112,101,142)	29	1650.jpg
 1650	stove	(103,112,154,123)	30	1650.jpg
 1650	bowl	(58,110,45,39)	17	1650.jpg
@@ -20260,6 +20305,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1650	spoon	(26,170,21,32)	27	1650.jpg
 1650	pan_lid	(82,221,134,35)	16	1650.jpg
 1650	person	(41,0,159,134)	1	1650.jpg
+1650	ham	(143,148,17,21)	12	1650.jpg
 1651	table	(0,112,101,142)	29	1651.jpg
 1651	stove	(103,112,154,123)	30	1651.jpg
 1651	bowl	(58,110,45,39)	17	1651.jpg
@@ -20272,6 +20318,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1651	spoon	(26,170,21,32)	27	1651.jpg
 1651	pan_lid	(82,221,134,35)	16	1651.jpg
 1651	person	(40,0,161,128)	1	1651.jpg
+1651	ham	(143,148,17,21)	12	1651.jpg
 1652	table	(0,112,101,142)	29	1652.jpg
 1652	stove	(103,112,154,123)	30	1652.jpg
 1652	bowl	(58,110,45,39)	17	1652.jpg
@@ -20284,6 +20331,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1652	spoon	(26,170,21,32)	27	1652.jpg
 1652	pan_lid	(82,221,134,35)	16	1652.jpg
 1652	person	(41,0,161,123)	1	1652.jpg
+1652	ham	(143,148,17,21)	12	1652.jpg
 1653	table	(0,112,101,142)	29	1653.jpg
 1653	stove	(103,112,154,123)	30	1653.jpg
 1653	bowl	(58,110,45,39)	17	1653.jpg
@@ -20296,6 +20344,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1653	spoon	(26,170,21,32)	27	1653.jpg
 1653	pan_lid	(82,221,134,35)	16	1653.jpg
 1653	person	(41,0,159,121)	1	1653.jpg
+1653	ham	(143,148,17,21)	12	1653.jpg
 1654	table	(0,112,101,142)	29	1654.jpg
 1654	stove	(103,112,154,123)	30	1654.jpg
 1654	bowl	(58,110,45,39)	17	1654.jpg
@@ -20308,6 +20357,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1654	spoon	(26,170,21,32)	27	1654.jpg
 1654	pan_lid	(82,221,134,35)	16	1654.jpg
 1654	person	(39,0,164,114)	1	1654.jpg
+1654	ham	(143,148,17,21)	12	1654.jpg
 1655	table	(0,112,101,142)	29	1655.jpg
 1655	stove	(103,112,154,123)	30	1655.jpg
 1655	bowl	(58,110,45,39)	17	1655.jpg
@@ -20320,6 +20370,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1655	spoon	(26,170,21,32)	27	1655.jpg
 1655	pan_lid	(82,221,134,35)	16	1655.jpg
 1655	person	(39,0,161,123)	1	1655.jpg
+1655	ham	(143,148,17,21)	12	1655.jpg
 1656	table	(0,112,101,142)	29	1656.jpg
 1656	stove	(103,112,154,123)	30	1656.jpg
 1656	bowl	(58,110,45,39)	17	1656.jpg
@@ -20332,6 +20383,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1656	spoon	(26,170,21,32)	27	1656.jpg
 1656	pan_lid	(82,221,134,35)	16	1656.jpg
 1656	person	(40,0,160,123)	1	1656.jpg
+1656	ham	(143,148,17,21)	12	1656.jpg
 1657	table	(0,112,101,142)	29	1657.jpg
 1657	stove	(103,112,154,123)	30	1657.jpg
 1657	bowl	(58,110,45,39)	17	1657.jpg
@@ -20344,6 +20396,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1657	spoon	(26,170,21,32)	27	1657.jpg
 1657	pan_lid	(82,221,134,35)	16	1657.jpg
 1657	person	(38,0,162,124)	1	1657.jpg
+1657	ham	(143,148,17,21)	12	1657.jpg
 1658	table	(0,112,101,142)	29	1658.jpg
 1658	stove	(103,112,154,123)	30	1658.jpg
 1658	bowl	(58,110,45,39)	17	1658.jpg
@@ -20356,6 +20409,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1658	spoon	(26,170,21,32)	27	1658.jpg
 1658	pan_lid	(82,221,134,35)	16	1658.jpg
 1658	person	(39,0,162,125)	1	1658.jpg
+1658	ham	(143,148,17,21)	12	1658.jpg
 1659	table	(0,112,101,142)	29	1659.jpg
 1659	stove	(103,112,154,123)	30	1659.jpg
 1659	bowl	(58,110,45,39)	17	1659.jpg
@@ -20368,6 +20422,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1659	spoon	(26,170,21,32)	27	1659.jpg
 1659	pan_lid	(82,221,134,35)	16	1659.jpg
 1659	person	(40,0,162,128)	1	1659.jpg
+1659	ham	(143,148,17,21)	12	1659.jpg
 1660	table	(0,112,101,142)	29	1660.jpg
 1660	stove	(103,112,154,123)	30	1660.jpg
 1660	bowl	(58,110,45,39)	17	1660.jpg
@@ -20380,6 +20435,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1660	spoon	(26,170,21,32)	27	1660.jpg
 1660	pan_lid	(82,221,134,35)	16	1660.jpg
 1660	person	(41,0,160,128)	1	1660.jpg
+1660	ham	(143,148,17,21)	12	1660.jpg
 1661	table	(0,112,101,142)	29	1661.jpg
 1661	stove	(103,112,154,123)	30	1661.jpg
 1661	bowl	(58,110,45,39)	17	1661.jpg
@@ -20392,6 +20448,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1661	spoon	(26,170,21,32)	27	1661.jpg
 1661	pan_lid	(82,221,134,35)	16	1661.jpg
 1661	person	(38,0,163,132)	1	1661.jpg
+1661	ham	(143,148,17,21)	12	1661.jpg
 1662	table	(0,112,101,142)	29	1662.jpg
 1662	stove	(103,112,154,123)	30	1662.jpg
 1662	bowl	(58,110,45,39)	17	1662.jpg
@@ -20404,6 +20461,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1662	spoon	(26,170,21,32)	27	1662.jpg
 1662	pan_lid	(82,221,134,35)	16	1662.jpg
 1662	person	(40,0,162,133)	1	1662.jpg
+1662	ham	(143,148,17,21)	12	1662.jpg
 1663	table	(0,112,101,142)	29	1663.jpg
 1663	stove	(103,112,154,123)	30	1663.jpg
 1663	bowl	(58,110,45,39)	17	1663.jpg
@@ -20416,6 +20474,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1663	spoon	(26,170,21,32)	27	1663.jpg
 1663	pan_lid	(82,221,134,35)	16	1663.jpg
 1663	person	(40,0,162,135)	1	1663.jpg
+1663	ham	(143,148,17,21)	12	1663.jpg
 1664	table	(0,112,101,142)	29	1664.jpg
 1664	stove	(103,112,154,123)	30	1664.jpg
 1664	bowl	(58,110,45,39)	17	1664.jpg
@@ -20428,6 +20487,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1664	spoon	(26,170,21,32)	27	1664.jpg
 1664	pan_lid	(82,221,134,35)	16	1664.jpg
 1664	person	(39,0,164,134)	1	1664.jpg
+1664	ham	(143,148,17,21)	12	1664.jpg
 1665	table	(0,112,101,142)	29	1665.jpg
 1665	stove	(103,112,154,123)	30	1665.jpg
 1665	bowl	(58,110,45,39)	17	1665.jpg
@@ -20440,6 +20500,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1665	spoon	(26,170,21,32)	27	1665.jpg
 1665	pan_lid	(82,221,134,35)	16	1665.jpg
 1665	person	(41,0,162,138)	1	1665.jpg
+1665	ham	(143,148,17,21)	12	1665.jpg
 1666	table	(0,112,101,142)	29	1666.jpg
 1666	stove	(103,112,154,123)	30	1666.jpg
 1666	bowl	(58,110,45,39)	17	1666.jpg
@@ -20452,6 +20513,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1666	spoon	(26,170,21,32)	27	1666.jpg
 1666	pan_lid	(82,221,134,35)	16	1666.jpg
 1666	person	(41,0,162,139)	1	1666.jpg
+1666	ham	(143,148,17,21)	12	1666.jpg
 1667	table	(0,112,101,142)	29	1667.jpg
 1667	stove	(103,112,154,123)	30	1667.jpg
 1667	bowl	(58,110,45,39)	17	1667.jpg
@@ -20464,6 +20526,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1667	spoon	(26,170,21,32)	27	1667.jpg
 1667	pan_lid	(82,221,134,35)	16	1667.jpg
 1667	person	(41,0,161,141)	1	1667.jpg
+1667	ham	(143,148,17,21)	12	1667.jpg
 1668	table	(0,112,101,142)	29	1668.jpg
 1668	stove	(103,112,154,123)	30	1668.jpg
 1668	bowl	(58,110,45,39)	17	1668.jpg
@@ -20476,6 +20539,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1668	spoon	(26,170,21,32)	27	1668.jpg
 1668	pan_lid	(82,221,134,35)	16	1668.jpg
 1668	person	(39,0,166,145)	1	1668.jpg
+1668	ham	(143,148,17,21)	12	1668.jpg
 1669	table	(0,112,101,142)	29	1669.jpg
 1669	stove	(103,112,154,123)	30	1669.jpg
 1669	bowl	(58,110,45,39)	17	1669.jpg
@@ -20488,6 +20552,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1669	spoon	(26,170,21,32)	27	1669.jpg
 1669	pan_lid	(82,221,134,35)	16	1669.jpg
 1669	person	(41,0,163,147)	1	1669.jpg
+1669	ham	(143,148,17,21)	12	1669.jpg
 1670	table	(0,112,101,142)	29	1670.jpg
 1670	stove	(103,112,154,123)	30	1670.jpg
 1670	bowl	(58,110,45,39)	17	1670.jpg
@@ -20500,6 +20565,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1670	spoon	(26,170,21,32)	27	1670.jpg
 1670	pan_lid	(82,221,134,35)	16	1670.jpg
 1670	person	(40,0,164,149)	1	1670.jpg
+1670	ham	(143,148,17,21)	12	1670.jpg
 1671	table	(0,112,101,142)	29	1671.jpg
 1671	stove	(103,112,154,123)	30	1671.jpg
 1671	bowl	(58,110,45,39)	17	1671.jpg
@@ -20512,6 +20578,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1671	spoon	(26,170,21,32)	27	1671.jpg
 1671	pan_lid	(82,221,134,35)	16	1671.jpg
 1671	person	(40,0,164,149)	1	1671.jpg
+1671	ham	(143,148,17,21)	12	1671.jpg
 1672	table	(0,112,101,142)	29	1672.jpg
 1672	stove	(103,112,154,123)	30	1672.jpg
 1672	bowl	(58,110,45,39)	17	1672.jpg
@@ -20524,6 +20591,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1672	spoon	(26,170,21,32)	27	1672.jpg
 1672	pan_lid	(82,221,134,35)	16	1672.jpg
 1672	person	(42,0,162,150)	1	1672.jpg
+1672	ham	(143,148,17,21)	12	1672.jpg
 1673	table	(0,112,101,142)	29	1673.jpg
 1673	stove	(103,112,154,123)	30	1673.jpg
 1673	bowl	(58,110,45,39)	17	1673.jpg
@@ -20536,6 +20604,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1673	spoon	(26,170,21,32)	27	1673.jpg
 1673	pan_lid	(82,221,134,35)	16	1673.jpg
 1673	person	(40,0,163,151)	1	1673.jpg
+1673	ham	(143,148,17,21)	12	1673.jpg
 1674	table	(0,112,101,142)	29	1674.jpg
 1674	stove	(103,112,154,123)	30	1674.jpg
 1674	bowl	(58,110,45,39)	17	1674.jpg
@@ -20548,6 +20617,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1674	spoon	(26,170,21,32)	27	1674.jpg
 1674	pan_lid	(82,221,134,35)	16	1674.jpg
 1674	person	(40,0,165,155)	1	1674.jpg
+1674	ham	(143,148,17,21)	12	1674.jpg
 1675	table	(0,112,101,142)	29	1675.jpg
 1675	stove	(103,112,154,123)	30	1675.jpg
 1675	bowl	(58,110,45,39)	17	1675.jpg
@@ -20560,6 +20630,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1675	spoon	(26,170,21,32)	27	1675.jpg
 1675	pan_lid	(82,221,134,35)	16	1675.jpg
 1675	person	(39,0,166,155)	1	1675.jpg
+1675	ham	(143,148,17,21)	12	1675.jpg
 1676	table	(0,112,101,142)	29	1676.jpg
 1676	stove	(103,112,154,123)	30	1676.jpg
 1676	bowl	(58,110,45,39)	17	1676.jpg
@@ -20572,6 +20643,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1676	spoon	(26,170,21,32)	27	1676.jpg
 1676	pan_lid	(82,221,134,35)	16	1676.jpg
 1676	person	(39,0,165,155)	1	1676.jpg
+1676	ham	(143,148,17,21)	12	1676.jpg
 1677	table	(0,112,101,142)	29	1677.jpg
 1677	stove	(103,112,154,123)	30	1677.jpg
 1677	bowl	(58,110,45,39)	17	1677.jpg
@@ -20584,6 +20656,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1677	spoon	(26,170,21,32)	27	1677.jpg
 1677	pan_lid	(82,221,134,35)	16	1677.jpg
 1677	person	(39,0,166,155)	1	1677.jpg
+1677	ham	(143,148,17,21)	12	1677.jpg
 1678	table	(0,112,101,142)	29	1678.jpg
 1678	stove	(103,112,154,123)	30	1678.jpg
 1678	bowl	(58,110,45,39)	17	1678.jpg
@@ -20596,6 +20669,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1678	spoon	(26,170,21,32)	27	1678.jpg
 1678	pan_lid	(82,221,134,35)	16	1678.jpg
 1678	person	(39,0,167,161)	1	1678.jpg
+1678	ham	(147,155,13,13)	12	1678.jpg
 1679	table	(0,112,101,142)	29	1679.jpg
 1679	stove	(103,112,154,123)	30	1679.jpg
 1679	bowl	(58,110,45,39)	17	1679.jpg
@@ -20608,6 +20682,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1679	spoon	(26,170,21,32)	27	1679.jpg
 1679	pan_lid	(82,221,134,35)	16	1679.jpg
 1679	person	(40,0,164,168)	1	1679.jpg
+1679	ham	(136,148,23,22)	12	1679.jpg
 1680	table	(0,112,101,142)	29	1680.jpg
 1680	stove	(103,112,154,123)	30	1680.jpg
 1680	bowl	(58,110,45,39)	17	1680.jpg
@@ -20620,6 +20695,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1680	spoon	(26,170,21,32)	27	1680.jpg
 1680	pan_lid	(82,221,134,35)	16	1680.jpg
 1680	person	(45,0,158,169)	1	1680.jpg
+1680	ham	(136,148,23,22)	12	1680.jpg
 1681	table	(0,112,101,142)	29	1681.jpg
 1681	stove	(103,112,154,123)	30	1681.jpg
 1681	bowl	(58,110,45,39)	17	1681.jpg
@@ -20632,6 +20708,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1681	spoon	(26,170,21,32)	27	1681.jpg
 1681	pan_lid	(82,221,134,35)	16	1681.jpg
 1681	person	(44,0,159,169)	1	1681.jpg
+1681	ham	(136,148,23,22)	12	1681.jpg
 1682	table	(0,112,101,142)	29	1682.jpg
 1682	stove	(103,112,154,123)	30	1682.jpg
 1682	bowl	(58,110,45,39)	17	1682.jpg
@@ -20644,6 +20721,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1682	spoon	(26,170,21,32)	27	1682.jpg
 1682	pan_lid	(82,221,134,35)	16	1682.jpg
 1682	person	(45,0,158,168)	1	1682.jpg
+1682	ham	(136,148,23,22)	12	1682.jpg
 1683	table	(0,112,101,142)	29	1683.jpg
 1683	stove	(103,112,154,123)	30	1683.jpg
 1683	bowl	(58,110,45,39)	17	1683.jpg
@@ -20656,6 +20734,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1683	spoon	(26,170,21,32)	27	1683.jpg
 1683	pan_lid	(82,221,134,35)	16	1683.jpg
 1683	person	(45,0,158,167)	1	1683.jpg
+1683	ham	(134,148,26,27)	12	1683.jpg
 1684	table	(0,112,101,142)	29	1684.jpg
 1684	stove	(103,112,154,123)	30	1684.jpg
 1684	bowl	(58,110,45,39)	17	1684.jpg
@@ -20668,6 +20747,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1684	spoon	(26,170,21,32)	27	1684.jpg
 1684	pan_lid	(82,221,134,35)	16	1684.jpg
 1684	person	(44,0,161,160)	1	1684.jpg
+1684	ham	(134,148,26,27)	12	1684.jpg
 1685	table	(0,112,101,142)	29	1685.jpg
 1685	stove	(103,112,154,123)	30	1685.jpg
 1685	bowl	(58,110,45,39)	17	1685.jpg
@@ -20680,6 +20760,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1685	spoon	(26,170,21,32)	27	1685.jpg
 1685	pan_lid	(82,221,134,35)	16	1685.jpg
 1685	person	(44,0,161,154)	1	1685.jpg
+1685	ham	(134,148,26,27)	12	1685.jpg
 1686	table	(0,112,101,142)	29	1686.jpg
 1686	stove	(103,112,154,123)	30	1686.jpg
 1686	bowl	(58,110,45,39)	17	1686.jpg
@@ -20692,6 +20773,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1686	spoon	(26,170,21,32)	27	1686.jpg
 1686	pan_lid	(82,221,134,35)	16	1686.jpg
 1686	person	(44,0,160,150)	1	1686.jpg
+1686	ham	(134,148,26,27)	12	1686.jpg
 1687	table	(0,112,101,142)	29	1687.jpg
 1687	stove	(103,112,154,123)	30	1687.jpg
 1687	bowl	(58,110,45,39)	17	1687.jpg
@@ -20704,6 +20786,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1687	spoon	(26,170,21,32)	27	1687.jpg
 1687	pan_lid	(82,221,134,35)	16	1687.jpg
 1687	person	(39,0,165,145)	1	1687.jpg
+1687	ham	(134,148,26,27)	12	1687.jpg
 1688	table	(0,112,101,142)	29	1688.jpg
 1688	stove	(103,112,154,123)	30	1688.jpg
 1688	bowl	(58,110,45,39)	17	1688.jpg
@@ -20716,6 +20799,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1688	spoon	(26,170,21,32)	27	1688.jpg
 1688	pan_lid	(82,221,134,35)	16	1688.jpg
 1688	person	(39,0,163,143)	1	1688.jpg
+1688	ham	(134,148,26,27)	12	1688.jpg
 1689	table	(0,112,101,142)	29	1689.jpg
 1689	stove	(103,112,154,123)	30	1689.jpg
 1689	bowl	(58,110,45,39)	17	1689.jpg
@@ -20728,6 +20812,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1689	spoon	(26,170,21,32)	27	1689.jpg
 1689	pan_lid	(82,221,134,35)	16	1689.jpg
 1689	person	(31,0,171,140)	1	1689.jpg
+1689	ham	(134,148,26,27)	12	1689.jpg
 1690	table	(0,112,101,142)	29	1690.jpg
 1690	stove	(103,112,154,123)	30	1690.jpg
 1690	bowl	(58,110,45,39)	17	1690.jpg
@@ -20740,6 +20825,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1690	spoon	(26,170,21,32)	27	1690.jpg
 1690	pan_lid	(82,221,134,35)	16	1690.jpg
 1690	person	(25,0,176,135)	1	1690.jpg
+1690	ham	(134,148,26,27)	12	1690.jpg
 1691	table	(0,112,101,142)	29	1691.jpg
 1691	stove	(103,112,154,123)	30	1691.jpg
 1691	bowl	(58,110,45,39)	17	1691.jpg
@@ -20752,6 +20838,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1691	spoon	(26,170,21,32)	27	1691.jpg
 1691	pan_lid	(82,221,134,35)	16	1691.jpg
 1691	person	(19,0,177,134)	1	1691.jpg
+1691	ham	(134,148,26,27)	12	1691.jpg
 1692	table	(0,112,101,142)	29	1692.jpg
 1692	stove	(103,112,154,123)	30	1692.jpg
 1692	bowl	(58,110,45,39)	17	1692.jpg
@@ -20764,6 +20851,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1692	spoon	(26,170,21,32)	27	1692.jpg
 1692	pan_lid	(82,221,134,35)	16	1692.jpg
 1692	person	(14,0,179,135)	1	1692.jpg
+1692	ham	(134,148,26,27)	12	1692.jpg
 1693	table	(0,112,101,142)	29	1693.jpg
 1693	stove	(103,112,154,123)	30	1693.jpg
 1693	bowl	(58,110,45,39)	17	1693.jpg
@@ -20776,6 +20864,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1693	spoon	(26,170,21,32)	27	1693.jpg
 1693	pan_lid	(82,221,134,35)	16	1693.jpg
 1693	person	(13,0,176,137)	1	1693.jpg
+1693	ham	(134,148,26,27)	12	1693.jpg
 1694	table	(0,112,101,142)	29	1694.jpg
 1694	stove	(103,112,154,123)	30	1694.jpg
 1694	bowl	(58,110,45,39)	17	1694.jpg
@@ -20788,6 +20877,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1694	spoon	(26,170,21,32)	27	1694.jpg
 1694	pan_lid	(82,221,134,35)	16	1694.jpg
 1694	person	(11,0,172,140)	1	1694.jpg
+1694	ham	(134,148,26,27)	12	1694.jpg
 1695	table	(0,112,101,142)	29	1695.jpg
 1695	stove	(103,112,154,123)	30	1695.jpg
 1695	bowl	(58,110,45,39)	17	1695.jpg
@@ -20800,6 +20890,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1695	spoon	(26,170,21,32)	27	1695.jpg
 1695	pan_lid	(82,221,134,35)	16	1695.jpg
 1695	person	(8,0,173,142)	1	1695.jpg
+1695	ham	(134,148,26,27)	12	1695.jpg
 1696	table	(0,112,101,142)	29	1696.jpg
 1696	stove	(103,112,154,123)	30	1696.jpg
 1696	bowl	(58,110,45,39)	17	1696.jpg
@@ -20812,6 +20903,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1696	spoon	(26,170,21,32)	27	1696.jpg
 1696	pan_lid	(82,221,134,35)	16	1696.jpg
 1696	person	(6,0,172,145)	1	1696.jpg
+1696	ham	(134,148,26,27)	12	1696.jpg
 1697	table	(0,112,101,142)	29	1697.jpg
 1697	stove	(103,112,154,123)	30	1697.jpg
 1697	bowl	(58,110,45,39)	17	1697.jpg
@@ -20824,6 +20916,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1697	spoon	(26,170,21,32)	27	1697.jpg
 1697	pan_lid	(82,221,134,35)	16	1697.jpg
 1697	person	(5,0,172,148)	1	1697.jpg
+1697	ham	(134,148,26,27)	12	1697.jpg
 1698	table	(0,112,101,142)	29	1698.jpg
 1698	stove	(103,112,154,123)	30	1698.jpg
 1698	bowl	(58,110,45,39)	17	1698.jpg
@@ -20836,6 +20929,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1698	spoon	(26,170,21,32)	27	1698.jpg
 1698	pan_lid	(82,221,134,35)	16	1698.jpg
 1698	person	(6,0,163,147)	1	1698.jpg
+1698	ham	(134,148,26,27)	12	1698.jpg
 1699	table	(0,112,101,142)	29	1699.jpg
 1699	stove	(103,112,154,123)	30	1699.jpg
 1699	bowl	(58,110,45,39)	17	1699.jpg
@@ -20848,6 +20942,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1699	spoon	(26,170,21,32)	27	1699.jpg
 1699	pan_lid	(82,221,134,35)	16	1699.jpg
 1699	person	(7,0,164,148)	1	1699.jpg
+1699	ham	(134,148,26,27)	12	1699.jpg
 1700	table	(0,112,101,142)	29	1700.jpg
 1700	stove	(103,112,154,123)	30	1700.jpg
 1700	bowl	(58,110,45,39)	17	1700.jpg
@@ -20860,6 +20955,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1700	spoon	(26,170,21,32)	27	1700.jpg
 1700	pan_lid	(82,221,134,35)	16	1700.jpg
 1700	person	(6,0,157,149)	1	1700.jpg
+1700	ham	(134,148,26,27)	12	1700.jpg
 1701	table	(0,112,101,142)	29	1701.jpg
 1701	stove	(103,112,154,123)	30	1701.jpg
 1701	bowl	(58,110,45,39)	17	1701.jpg
@@ -20872,6 +20968,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1701	spoon	(26,170,21,32)	27	1701.jpg
 1701	pan_lid	(82,221,134,35)	16	1701.jpg
 1701	person	(8,0,150,149)	1	1701.jpg
+1701	ham	(134,148,26,27)	12	1701.jpg
 1702	table	(0,112,101,142)	29	1702.jpg
 1702	stove	(103,112,154,123)	30	1702.jpg
 1702	bowl	(58,110,45,39)	17	1702.jpg
@@ -20883,6 +20980,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1702	spoon	(26,170,21,32)	27	1702.jpg
 1702	pan_lid	(82,221,134,35)	16	1702.jpg
 1702	person	(6,0,147,150)	1	1702.jpg
+1702	ham	(134,148,26,27)	12	1702.jpg
 1703	table	(0,112,101,142)	29	1703.jpg
 1703	stove	(103,112,154,123)	30	1703.jpg
 1703	bowl	(58,110,45,39)	17	1703.jpg
@@ -20894,6 +20992,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1703	spoon	(26,170,21,32)	27	1703.jpg
 1703	pan_lid	(82,221,134,35)	16	1703.jpg
 1703	person	(6,0,147,150)	1	1703.jpg
+1703	ham	(134,148,26,27)	12	1703.jpg
 1704	table	(0,112,101,142)	29	1704.jpg
 1704	stove	(103,112,154,123)	30	1704.jpg
 1704	bowl	(58,110,45,39)	17	1704.jpg
@@ -20905,6 +21004,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1704	spoon	(26,170,21,32)	27	1704.jpg
 1704	pan_lid	(82,221,134,35)	16	1704.jpg
 1704	person	(6,0,147,150)	1	1704.jpg
+1704	ham	(134,148,26,27)	12	1704.jpg
 1705	table	(0,112,101,142)	29	1705.jpg
 1705	stove	(103,112,154,123)	30	1705.jpg
 1705	bowl	(58,110,45,39)	17	1705.jpg
@@ -20916,6 +21016,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1705	spoon	(26,170,21,32)	27	1705.jpg
 1705	pan_lid	(82,221,134,35)	16	1705.jpg
 1705	person	(6,0,147,150)	1	1705.jpg
+1705	ham	(134,148,26,27)	12	1705.jpg
 1706	table	(0,112,101,142)	29	1706.jpg
 1706	stove	(103,112,154,123)	30	1706.jpg
 1706	bowl	(58,110,45,39)	17	1706.jpg
@@ -20927,6 +21028,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1706	spoon	(26,170,21,32)	27	1706.jpg
 1706	pan_lid	(82,221,134,35)	16	1706.jpg
 1706	person	(6,0,147,150)	1	1706.jpg
+1706	ham	(134,148,26,27)	12	1706.jpg
 1707	table	(0,112,101,142)	29	1707.jpg
 1707	stove	(103,112,154,123)	30	1707.jpg
 1707	bowl	(58,110,45,39)	17	1707.jpg
@@ -20938,6 +21040,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1707	spoon	(26,170,21,32)	27	1707.jpg
 1707	pan_lid	(82,221,134,35)	16	1707.jpg
 1707	person	(6,0,147,150)	1	1707.jpg
+1707	ham	(134,148,26,27)	12	1707.jpg
 1708	table	(0,112,101,142)	29	1708.jpg
 1708	stove	(103,112,154,123)	30	1708.jpg
 1708	bowl	(58,110,45,39)	17	1708.jpg
@@ -20949,6 +21052,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1708	spoon	(26,170,21,32)	27	1708.jpg
 1708	pan_lid	(82,221,134,35)	16	1708.jpg
 1708	person	(6,0,147,150)	1	1708.jpg
+1708	ham	(134,148,26,27)	12	1708.jpg
 1709	table	(0,112,101,142)	29	1709.jpg
 1709	stove	(103,112,154,123)	30	1709.jpg
 1709	bowl	(58,110,45,39)	17	1709.jpg
@@ -20960,6 +21064,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1709	spoon	(26,170,21,32)	27	1709.jpg
 1709	pan_lid	(82,221,134,35)	16	1709.jpg
 1709	person	(6,0,141,153)	1	1709.jpg
+1709	ham	(134,148,26,27)	12	1709.jpg
 1710	table	(0,112,101,142)	29	1710.jpg
 1710	stove	(103,112,154,123)	30	1710.jpg
 1710	bowl	(58,110,45,39)	17	1710.jpg
@@ -20971,6 +21076,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1710	spoon	(26,170,21,32)	27	1710.jpg
 1710	pan_lid	(82,221,134,35)	16	1710.jpg
 1710	person	(6,0,141,153)	1	1710.jpg
+1710	ham	(134,148,26,27)	12	1710.jpg
 1711	table	(0,112,101,142)	29	1711.jpg
 1711	stove	(103,112,154,123)	30	1711.jpg
 1711	bowl	(58,110,45,39)	17	1711.jpg
@@ -20982,6 +21088,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1711	spoon	(26,170,21,32)	27	1711.jpg
 1711	pan_lid	(82,221,134,35)	16	1711.jpg
 1711	person	(6,0,141,153)	1	1711.jpg
+1711	ham	(134,148,26,27)	12	1711.jpg
 1712	table	(0,112,101,142)	29	1712.jpg
 1712	stove	(103,112,154,123)	30	1712.jpg
 1712	bowl	(58,110,45,39)	17	1712.jpg
@@ -20993,6 +21100,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1712	spoon	(26,170,21,32)	27	1712.jpg
 1712	pan_lid	(82,221,134,35)	16	1712.jpg
 1712	person	(6,0,141,153)	1	1712.jpg
+1712	ham	(134,148,26,27)	12	1712.jpg
 1713	table	(0,112,101,142)	29	1713.jpg
 1713	stove	(103,112,154,123)	30	1713.jpg
 1713	bowl	(58,110,45,39)	17	1713.jpg
@@ -21004,6 +21112,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1713	spoon	(26,170,21,32)	27	1713.jpg
 1713	pan_lid	(82,221,134,35)	16	1713.jpg
 1713	person	(6,0,141,153)	1	1713.jpg
+1713	ham	(134,148,26,27)	12	1713.jpg
 1714	table	(0,112,101,142)	29	1714.jpg
 1714	stove	(103,112,154,123)	30	1714.jpg
 1714	bowl	(58,110,45,39)	17	1714.jpg
@@ -21015,6 +21124,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1714	spoon	(26,170,21,32)	27	1714.jpg
 1714	pan_lid	(82,221,134,35)	16	1714.jpg
 1714	person	(6,0,141,153)	1	1714.jpg
+1714	ham	(134,148,26,27)	12	1714.jpg
 1715	table	(0,112,101,142)	29	1715.jpg
 1715	stove	(103,112,154,123)	30	1715.jpg
 1715	bowl	(58,110,45,39)	17	1715.jpg
@@ -21026,6 +21136,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1715	spoon	(26,170,21,32)	27	1715.jpg
 1715	pan_lid	(82,221,134,35)	16	1715.jpg
 1715	person	(6,0,141,153)	1	1715.jpg
+1715	ham	(134,148,26,27)	12	1715.jpg
 1716	table	(0,112,101,142)	29	1716.jpg
 1716	stove	(103,112,154,123)	30	1716.jpg
 1716	bowl	(58,110,45,39)	17	1716.jpg
@@ -21037,6 +21148,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1716	spoon	(26,170,21,32)	27	1716.jpg
 1716	pan_lid	(82,221,134,35)	16	1716.jpg
 1716	person	(6,0,141,153)	1	1716.jpg
+1716	ham	(134,148,26,27)	12	1716.jpg
 1717	table	(0,112,101,142)	29	1717.jpg
 1717	stove	(103,112,154,123)	30	1717.jpg
 1717	bowl	(58,110,45,39)	17	1717.jpg
@@ -21048,6 +21160,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1717	spoon	(26,170,21,32)	27	1717.jpg
 1717	pan_lid	(82,221,134,35)	16	1717.jpg
 1717	person	(6,0,141,153)	1	1717.jpg
+1717	ham	(134,148,26,27)	12	1717.jpg
 1718	table	(0,112,101,142)	29	1718.jpg
 1718	stove	(103,112,154,123)	30	1718.jpg
 1718	bowl	(58,110,45,39)	17	1718.jpg
@@ -21059,6 +21172,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1718	spoon	(26,170,21,32)	27	1718.jpg
 1718	pan_lid	(82,221,134,35)	16	1718.jpg
 1718	person	(6,0,141,153)	1	1718.jpg
+1718	ham	(134,148,26,27)	12	1718.jpg
 1719	table	(0,112,101,142)	29	1719.jpg
 1719	stove	(103,112,154,123)	30	1719.jpg
 1719	bowl	(58,110,45,39)	17	1719.jpg
@@ -21070,6 +21184,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1719	spoon	(26,170,21,32)	27	1719.jpg
 1719	pan_lid	(82,221,134,35)	16	1719.jpg
 1719	person	(4,0,138,141)	1	1719.jpg
+1719	ham	(134,148,26,27)	12	1719.jpg
 1720	table	(0,112,101,142)	29	1720.jpg
 1720	stove	(103,112,154,123)	30	1720.jpg
 1720	bowl	(58,110,45,39)	17	1720.jpg
@@ -21081,6 +21196,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1720	spoon	(26,170,21,32)	27	1720.jpg
 1720	pan_lid	(82,221,134,35)	16	1720.jpg
 1720	person	(4,0,138,139)	1	1720.jpg
+1720	ham	(134,148,26,27)	12	1720.jpg
 1721	table	(0,112,101,142)	29	1721.jpg
 1721	stove	(103,112,154,123)	30	1721.jpg
 1721	bowl	(58,110,45,39)	17	1721.jpg
@@ -21092,6 +21208,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1721	spoon	(26,170,21,32)	27	1721.jpg
 1721	pan_lid	(82,221,134,35)	16	1721.jpg
 1721	person	(3,0,139,137)	1	1721.jpg
+1721	ham	(134,148,26,27)	12	1721.jpg
 1722	table	(0,112,101,142)	29	1722.jpg
 1722	stove	(103,112,154,123)	30	1722.jpg
 1722	bowl	(58,110,45,39)	17	1722.jpg
@@ -21103,6 +21220,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1722	spoon	(26,170,21,32)	27	1722.jpg
 1722	pan_lid	(82,221,134,35)	16	1722.jpg
 1722	person	(4,0,138,134)	1	1722.jpg
+1722	ham	(134,148,26,27)	12	1722.jpg
+1722	ham	(33,125,12,13)	12	1722.jpg
 1723	table	(0,112,101,142)	29	1723.jpg
 1723	stove	(103,112,154,123)	30	1723.jpg
 1723	bowl	(58,110,45,39)	17	1723.jpg
@@ -21114,6 +21233,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1723	spoon	(26,170,21,32)	27	1723.jpg
 1723	pan_lid	(82,221,134,35)	16	1723.jpg
 1723	person	(4,0,138,128)	1	1723.jpg
+1723	ham	(134,148,26,27)	12	1723.jpg
+1723	ham	(33,119,13,19)	12	1723.jpg
 1724	table	(0,112,101,142)	29	1724.jpg
 1724	stove	(103,112,154,123)	30	1724.jpg
 1724	bowl	(58,110,45,39)	17	1724.jpg
@@ -21125,6 +21246,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1724	spoon	(26,170,21,32)	27	1724.jpg
 1724	pan_lid	(82,221,134,35)	16	1724.jpg
 1724	person	(5,0,138,124)	1	1724.jpg
+1724	ham	(134,148,26,27)	12	1724.jpg
+1724	ham	(32,114,16,23)	12	1724.jpg
 1725	table	(0,112,101,142)	29	1725.jpg
 1725	stove	(103,112,154,123)	30	1725.jpg
 1725	bowl	(58,110,45,39)	17	1725.jpg
@@ -21136,6 +21259,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1725	spoon	(26,170,21,32)	27	1725.jpg
 1725	pan_lid	(82,221,134,35)	16	1725.jpg
 1725	person	(4,0,142,121)	1	1725.jpg
+1725	ham	(134,148,26,27)	12	1725.jpg
+1725	ham	(35,110,15,23)	12	1725.jpg
 1726	table	(0,112,101,142)	29	1726.jpg
 1726	stove	(103,112,154,123)	30	1726.jpg
 1726	bowl	(58,110,45,39)	17	1726.jpg
@@ -21147,6 +21272,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1726	spoon	(26,170,21,32)	27	1726.jpg
 1726	pan_lid	(82,221,134,35)	16	1726.jpg
 1726	person	(4,0,145,120)	1	1726.jpg
+1726	ham	(134,148,26,27)	12	1726.jpg
+1726	ham	(39,105,15,23)	12	1726.jpg
 1727	table	(0,112,101,142)	29	1727.jpg
 1727	stove	(103,112,154,123)	30	1727.jpg
 1727	bowl	(58,110,45,39)	17	1727.jpg
@@ -21158,6 +21285,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1727	spoon	(26,170,21,32)	27	1727.jpg
 1727	pan_lid	(82,221,134,35)	16	1727.jpg
 1727	person	(5,0,151,114)	1	1727.jpg
+1727	ham	(134,148,26,27)	12	1727.jpg
+1727	ham	(43,102,15,21)	12	1727.jpg
 1728	table	(0,112,101,142)	29	1728.jpg
 1728	stove	(103,112,154,123)	30	1728.jpg
 1728	bowl	(58,110,45,39)	17	1728.jpg
@@ -21169,6 +21298,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1728	spoon	(26,170,21,32)	27	1728.jpg
 1728	pan_lid	(82,221,134,35)	16	1728.jpg
 1728	person	(4,0,155,114)	1	1728.jpg
+1728	ham	(134,148,26,27)	12	1728.jpg
+1728	ham	(51,102,15,20)	12	1728.jpg
 1729	table	(0,112,101,142)	29	1729.jpg
 1729	stove	(103,112,154,123)	30	1729.jpg
 1729	bowl	(58,110,45,39)	17	1729.jpg
@@ -21180,6 +21311,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1729	spoon	(26,170,21,32)	27	1729.jpg
 1729	pan_lid	(82,221,134,35)	16	1729.jpg
 1729	person	(4,0,158,114)	1	1729.jpg
+1729	ham	(134,148,26,27)	12	1729.jpg
+1729	ham	(57,102,15,16)	12	1729.jpg
 1730	table	(0,112,101,142)	29	1730.jpg
 1730	stove	(103,112,154,123)	30	1730.jpg
 1730	bowl	(58,110,45,39)	17	1730.jpg
@@ -21191,6 +21324,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1730	spoon	(26,170,21,32)	27	1730.jpg
 1730	pan_lid	(82,221,134,35)	16	1730.jpg
 1730	person	(5,0,157,114)	1	1730.jpg
+1730	ham	(134,148,26,27)	12	1730.jpg
 1731	table	(0,112,101,142)	29	1731.jpg
 1731	stove	(103,112,154,123)	30	1731.jpg
 1731	bowl	(58,110,45,39)	17	1731.jpg
@@ -21202,6 +21336,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1731	spoon	(26,170,21,32)	27	1731.jpg
 1731	pan_lid	(82,221,134,35)	16	1731.jpg
 1731	person	(7,0,158,114)	1	1731.jpg
+1731	ham	(134,148,26,27)	12	1731.jpg
 1732	table	(0,112,101,142)	29	1732.jpg
 1732	stove	(103,112,154,123)	30	1732.jpg
 1732	bowl	(58,110,45,39)	17	1732.jpg
@@ -21213,6 +21348,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1732	spoon	(26,170,21,32)	27	1732.jpg
 1732	pan_lid	(82,221,134,35)	16	1732.jpg
 1732	person	(7,0,163,114)	1	1732.jpg
+1732	ham	(134,148,26,27)	12	1732.jpg
 1733	table	(0,112,101,142)	29	1733.jpg
 1733	stove	(103,112,154,123)	30	1733.jpg
 1733	bowl	(58,110,45,39)	17	1733.jpg
@@ -21224,6 +21360,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1733	spoon	(26,170,21,32)	27	1733.jpg
 1733	pan_lid	(82,221,134,35)	16	1733.jpg
 1733	person	(8,0,165,114)	1	1733.jpg
+1733	ham	(134,148,26,27)	12	1733.jpg
 1734	table	(0,112,101,142)	29	1734.jpg
 1734	stove	(103,112,154,123)	30	1734.jpg
 1734	bowl	(58,110,45,39)	17	1734.jpg
@@ -21235,6 +21372,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1734	spoon	(26,170,21,32)	27	1734.jpg
 1734	pan_lid	(82,221,134,35)	16	1734.jpg
 1734	person	(10,0,165,125)	1	1734.jpg
+1734	ham	(134,148,26,27)	12	1734.jpg
 1735	table	(0,112,101,142)	29	1735.jpg
 1735	stove	(103,112,154,123)	30	1735.jpg
 1735	bowl	(58,110,45,39)	17	1735.jpg
@@ -21246,6 +21384,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1735	spoon	(26,170,21,32)	27	1735.jpg
 1735	pan_lid	(82,221,134,35)	16	1735.jpg
 1735	person	(12,0,167,131)	1	1735.jpg
+1735	ham	(134,148,26,27)	12	1735.jpg
 1736	table	(0,112,101,142)	29	1736.jpg
 1736	stove	(103,112,154,123)	30	1736.jpg
 1736	bowl	(58,110,45,39)	17	1736.jpg
@@ -21257,6 +21396,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1736	spoon	(26,170,21,32)	27	1736.jpg
 1736	pan_lid	(82,221,134,35)	16	1736.jpg
 1736	person	(13,0,168,136)	1	1736.jpg
+1736	ham	(134,148,26,27)	12	1736.jpg
+1736	ham	(109,123,17,18)	12	1736.jpg
 1737	table	(0,112,101,142)	29	1737.jpg
 1737	stove	(103,112,154,123)	30	1737.jpg
 1737	bowl	(58,110,45,39)	17	1737.jpg
@@ -21268,6 +21409,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1737	spoon	(26,170,21,32)	27	1737.jpg
 1737	pan_lid	(82,221,134,35)	16	1737.jpg
 1737	person	(19,0,164,139)	1	1737.jpg
+1737	ham	(134,148,26,27)	12	1737.jpg
+1737	ham	(112,126,17,24)	12	1737.jpg
 1738	table	(0,112,101,142)	29	1738.jpg
 1738	stove	(103,112,154,123)	30	1738.jpg
 1738	bowl	(58,110,45,39)	17	1738.jpg
@@ -21279,6 +21422,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1738	spoon	(26,170,21,32)	27	1738.jpg
 1738	pan_lid	(82,221,134,35)	16	1738.jpg
 1738	person	(20,0,165,144)	1	1738.jpg
+1738	ham	(134,148,26,27)	12	1738.jpg
+1738	ham	(118,130,15,24)	12	1738.jpg
 1739	table	(0,112,101,142)	29	1739.jpg
 1739	stove	(103,112,154,123)	30	1739.jpg
 1739	bowl	(58,110,45,39)	17	1739.jpg
@@ -21290,6 +21435,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1739	spoon	(26,170,21,32)	27	1739.jpg
 1739	pan_lid	(82,221,134,35)	16	1739.jpg
 1739	person	(21,0,165,144)	1	1739.jpg
+1739	ham	(134,148,26,27)	12	1739.jpg
+1739	ham	(121,132,17,26)	12	1739.jpg
 1740	table	(0,112,101,142)	29	1740.jpg
 1740	stove	(103,112,154,123)	30	1740.jpg
 1740	bowl	(58,110,45,39)	17	1740.jpg
@@ -21301,6 +21448,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1740	spoon	(26,170,21,32)	27	1740.jpg
 1740	pan_lid	(82,221,134,35)	16	1740.jpg
 1740	person	(24,0,164,151)	1	1740.jpg
+1740	ham	(134,148,26,27)	12	1740.jpg
+1740	ham	(123,135,18,25)	12	1740.jpg
 1741	table	(0,112,101,142)	29	1741.jpg
 1741	stove	(103,112,154,123)	30	1741.jpg
 1741	bowl	(58,110,45,39)	17	1741.jpg
@@ -21312,6 +21461,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1741	spoon	(26,170,21,32)	27	1741.jpg
 1741	pan_lid	(82,221,134,35)	16	1741.jpg
 1741	person	(25,0,165,148)	1	1741.jpg
+1741	ham	(134,148,26,27)	12	1741.jpg
+1741	ham	(122,136,19,24)	12	1741.jpg
 1742	table	(0,112,101,142)	29	1742.jpg
 1742	stove	(103,112,154,123)	30	1742.jpg
 1742	bowl	(58,110,45,39)	17	1742.jpg
@@ -21323,6 +21474,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1742	spoon	(26,170,21,32)	27	1742.jpg
 1742	pan_lid	(82,221,134,35)	16	1742.jpg
 1742	person	(27,0,167,150)	1	1742.jpg
+1742	ham	(134,148,26,27)	12	1742.jpg
+1742	ham	(125,137,15,22)	12	1742.jpg
 1743	table	(0,112,101,142)	29	1743.jpg
 1743	stove	(103,112,154,123)	30	1743.jpg
 1743	bowl	(58,110,45,39)	17	1743.jpg
@@ -21334,6 +21487,8 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1743	spoon	(26,170,21,32)	27	1743.jpg
 1743	pan_lid	(82,221,134,35)	16	1743.jpg
 1743	person	(29,0,166,150)	1	1743.jpg
+1743	ham	(134,148,26,27)	12	1743.jpg
+1743	ham	(124,137,15,20)	12	1743.jpg
 1744	table	(0,112,101,142)	29	1744.jpg
 1744	stove	(103,112,154,123)	30	1744.jpg
 1744	bowl	(58,110,45,39)	17	1744.jpg
@@ -21345,6 +21500,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1744	spoon	(26,170,21,32)	27	1744.jpg
 1744	pan_lid	(82,221,134,35)	16	1744.jpg
 1744	person	(30,0,166,150)	1	1744.jpg
+1744	ham	(134,148,26,27)	12	1744.jpg
 1745	table	(0,112,101,142)	29	1745.jpg
 1745	stove	(103,112,154,123)	30	1745.jpg
 1745	bowl	(58,110,45,39)	17	1745.jpg
@@ -21356,6 +21512,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1745	spoon	(26,170,21,32)	27	1745.jpg
 1745	pan_lid	(82,221,134,35)	16	1745.jpg
 1745	person	(31,0,165,155)	1	1745.jpg
+1745	ham	(134,148,26,27)	12	1745.jpg
 1746	table	(0,112,101,142)	29	1746.jpg
 1746	stove	(103,112,154,123)	30	1746.jpg
 1746	bowl	(58,110,45,39)	17	1746.jpg
@@ -21367,6 +21524,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1746	spoon	(26,170,21,32)	27	1746.jpg
 1746	pan_lid	(82,221,134,35)	16	1746.jpg
 1746	person	(33,0,166,154)	1	1746.jpg
+1746	ham	(134,148,26,27)	12	1746.jpg
 1747	table	(0,112,101,142)	29	1747.jpg
 1747	stove	(103,112,154,123)	30	1747.jpg
 1747	bowl	(58,110,45,39)	17	1747.jpg
@@ -21378,6 +21536,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1747	spoon	(26,170,21,32)	27	1747.jpg
 1747	pan_lid	(82,221,134,35)	16	1747.jpg
 1747	person	(33,0,166,154)	1	1747.jpg
+1747	ham	(134,148,26,27)	12	1747.jpg
 1748	table	(0,112,101,142)	29	1748.jpg
 1748	stove	(103,112,154,123)	30	1748.jpg
 1748	bowl	(58,110,45,39)	17	1748.jpg
@@ -21389,6 +21548,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1748	spoon	(26,170,21,32)	27	1748.jpg
 1748	pan_lid	(82,221,134,35)	16	1748.jpg
 1748	person	(35,0,164,157)	1	1748.jpg
+1748	ham	(134,148,26,27)	12	1748.jpg
 1749	table	(0,112,101,142)	29	1749.jpg
 1749	stove	(103,112,154,123)	30	1749.jpg
 1749	bowl	(58,110,45,39)	17	1749.jpg
@@ -21400,6 +21560,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1749	spoon	(26,170,21,32)	27	1749.jpg
 1749	pan_lid	(82,221,134,35)	16	1749.jpg
 1749	person	(36,0,164,158)	1	1749.jpg
+1749	ham	(134,148,26,27)	12	1749.jpg
 1750	table	(0,112,101,142)	29	1750.jpg
 1750	stove	(103,112,154,123)	30	1750.jpg
 1750	bowl	(58,110,45,39)	17	1750.jpg
@@ -21411,6 +21572,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1750	spoon	(26,170,21,32)	27	1750.jpg
 1750	pan_lid	(82,221,134,35)	16	1750.jpg
 1750	person	(37,0,162,165)	1	1750.jpg
+1750	ham	(136,151,25,24)	12	1750.jpg
 1751	table	(0,112,101,142)	29	1751.jpg
 1751	stove	(103,112,154,123)	30	1751.jpg
 1751	bowl	(58,110,45,39)	17	1751.jpg
@@ -21422,6 +21584,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1751	spoon	(26,170,21,32)	27	1751.jpg
 1751	pan_lid	(82,221,134,35)	16	1751.jpg
 1751	person	(38,0,166,169)	1	1751.jpg
+1751	ham	(138,151,22,25)	12	1751.jpg
 1752	table	(0,112,101,142)	29	1752.jpg
 1752	stove	(103,112,154,123)	30	1752.jpg
 1752	bowl	(58,110,45,39)	17	1752.jpg
@@ -21433,6 +21596,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1752	spoon	(26,170,21,32)	27	1752.jpg
 1752	pan_lid	(82,221,134,35)	16	1752.jpg
 1752	person	(40,0,164,172)	1	1752.jpg
+1752	ham	(137,155,25,20)	12	1752.jpg
 1753	table	(0,112,101,142)	29	1753.jpg
 1753	stove	(103,112,154,123)	30	1753.jpg
 1753	bowl	(58,110,45,39)	17	1753.jpg
@@ -21444,6 +21608,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1753	spoon	(26,170,21,32)	27	1753.jpg
 1753	pan_lid	(82,221,134,35)	16	1753.jpg
 1753	person	(41,0,163,176)	1	1753.jpg
+1753	ham	(126,148,33,28)	12	1753.jpg
 1754	table	(0,112,101,142)	29	1754.jpg
 1754	stove	(103,112,154,123)	30	1754.jpg
 1754	bowl	(58,110,45,39)	17	1754.jpg
@@ -21455,6 +21620,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1754	spoon	(26,170,21,32)	27	1754.jpg
 1754	pan_lid	(82,221,134,35)	16	1754.jpg
 1754	person	(40,0,161,176)	1	1754.jpg
+1754	ham	(126,148,33,28)	12	1754.jpg
 1755	table	(0,112,101,142)	29	1755.jpg
 1755	stove	(103,112,154,123)	30	1755.jpg
 1755	bowl	(58,110,45,39)	17	1755.jpg
@@ -21466,6 +21632,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1755	spoon	(26,170,21,32)	27	1755.jpg
 1755	pan_lid	(82,221,134,35)	16	1755.jpg
 1755	person	(42,0,160,168)	1	1755.jpg
+1755	ham	(126,148,33,28)	12	1755.jpg
 1756	table	(0,112,101,142)	29	1756.jpg
 1756	stove	(103,112,154,123)	30	1756.jpg
 1756	bowl	(58,110,45,39)	17	1756.jpg
@@ -21477,6 +21644,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1756	spoon	(26,170,21,32)	27	1756.jpg
 1756	pan_lid	(82,221,134,35)	16	1756.jpg
 1756	person	(44,0,158,162)	1	1756.jpg
+1756	ham	(126,148,33,28)	12	1756.jpg
 1757	table	(0,112,101,142)	29	1757.jpg
 1757	stove	(103,112,154,123)	30	1757.jpg
 1757	bowl	(58,110,45,39)	17	1757.jpg
@@ -21488,6 +21656,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 1757	spoon	(26,170,21,32)	27	1757.jpg
 1757	pan_lid	(82,221,134,35)	16	1757.jpg
 1757	person	(42,0,161,156)	1	1757.jpg
+1757	ham	(126,148,33,28)	12	1757.jpg
 1758	table	(0,112,101,142)	29	1758.jpg
 1758	stove	(103,112,154,123)	30	1758.jpg
 1758	bowl	(58,110,45,39)	17	1758.jpg
@@ -57720,4 +57889,4 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg
 4982	bowl	(54,134,45,42)	17	4982.jpg
 4982	ham_egg	(63,112,37,28)	8	4982.jpg
 ---
-Modified on:	10.29.2019	12:37
+Modified on:	3.13.2020	14:46
