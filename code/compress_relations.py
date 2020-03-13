@@ -55,17 +55,20 @@ def compress_relations(file_input, output=None, class_file='classes.cfg', rels_f
 
     df = fh.DecompressedFile(file_input)
     dcomp = df.group_relations()
-    logger.info('Found {} relations spread on {} lines of the input file.'.format(len(df.start_frames), df.nb_lines-1))
+    logger.info('Found {} relations spread on {} lines of the input file.'.format(len(df.start_frames), df.nb_line-1))
     logger.info('Compressed to {} lines in output file.'.format(len(df.start_frames)))
 
     logger.info('Saving output file...')
     with open(output, 'w') as fout:
-        fout.write('Initial_frame-Final_frame-Subject-Relation-Object\n')
+        if keep_names:
+            fout.write('Initial_frame-Final_frame Subject Relation Object\n')
+        else:
+            fout.write('Initial_frame-Final_frame-Subject-Relation-Object\n')
         for _, key in sorted(df.start_frames):
             start, end = dcomp[key]['contiguous'].pop(0)
             subj, rel, obj = key
             if keep_names:
-                fout.write('%d-%d-%s-%s-%s\n' % (start, end, subj, rel, obj))
+                fout.write('%d-%d %s %s %s\n' % (start, end, subj, rel, obj))
             else:
                 fout.write('%d-%d-%d-%d-%d\n' % (start, end, do[subj], dr[rel], do[obj]))
     logger.info('File saved at: %s' % output)
