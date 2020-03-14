@@ -8443,6 +8443,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 807	cutting_board	(11,113,58,60)	19	807.jpg
 807	knife	(9,109,61,63)	22	807.jpg
 807	saltshaker	(19,160,40,56)	26	807.jpg
+807	broken_egg	(73,122,22,19)	4	807.jpg
 808	table	(0,112,101,142)	29	808.jpg
 808	stove	(103,112,154,123)	30	808.jpg
 808	person	(0,0,167,134)	1	808.jpg
@@ -8453,6 +8454,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 808	cutting_board	(11,113,58,60)	19	808.jpg
 808	knife	(9,109,61,63)	22	808.jpg
 808	saltshaker	(19,160,40,56)	26	808.jpg
+808	broken_egg	(73,122,21,19)	4	808.jpg
 809	table	(0,112,101,142)	29	809.jpg
 809	stove	(103,112,154,123)	30	809.jpg
 809	person	(0,0,171,114)	1	809.jpg
@@ -8463,6 +8465,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 809	cutting_board	(11,113,58,60)	19	809.jpg
 809	knife	(9,109,61,63)	22	809.jpg
 809	saltshaker	(19,160,40,56)	26	809.jpg
+809	broken_egg	(73,122,22,20)	4	809.jpg
 810	table	(0,112,101,142)	29	810.jpg
 810	stove	(103,112,154,123)	30	810.jpg
 810	person	(0,0,190,114)	1	810.jpg
@@ -8473,6 +8476,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 810	cutting_board	(11,113,58,60)	19	810.jpg
 810	knife	(9,109,61,63)	22	810.jpg
 810	saltshaker	(19,160,40,56)	26	810.jpg
+810	broken_egg	(73,123,21,18)	4	810.jpg
 811	table	(0,112,101,142)	29	811.jpg
 811	stove	(103,112,154,123)	30	811.jpg
 811	person	(1,0,207,114)	1	811.jpg
@@ -69575,4 +69579,4 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 6641	saltshaker	(25,169,45,48)	26	6641.jpg
 6641	turner	(124,107,44,83)	28	6641.jpg
 ---
-Modified on:	3.14.2020	10:48
+Modified on:	3.14.2020	10:56
