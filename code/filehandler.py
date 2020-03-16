@@ -8,7 +8,7 @@ import os
 import sys
 import ast
 
-from os.path import exists, join, splitext
+from os.path import exists, join, splitext, dirname, basename
 
 
 class FolderHandler(object):
@@ -165,6 +165,12 @@ class LisFile(FileHandler):
 # End of LisFile class
 
 
+def error_line(i, line):
+    logger.error('Malformed line in input file! [LINE: {}]'.format(i))
+    logger.error('{}'.format(line))
+    sys.exit()
+
+
 class CompressedFile(FileHandler):
     """ Compressed file has the form:
         Initial_frame-Final_frame-Subject-Relation-Object
@@ -192,18 +198,23 @@ class CompressedFile(FileHandler):
             yield start, end, o1, r, o2
 
     def check_line(self, i, line):
-        arr = line.strip().split('-')
-        if len(arr) != 5:
-            logger.error('Malformed line in input file! [LINE: {}]'.format(i))
-            sys.exit()
-        start, end = int(arr[0]), int(arr[1])
+        line = line.strip()
+        arr = line.split()
+        if len(arr) == 1:
+            arr = line.split('-')
+            if len(arr) != 5: error_line(i, line)
+            start, end = int(arr[0]), int(arr[1])
+        else:
+            frames = arr[0].split('-')
+            if len(frames) != 2: error_line(i, line)
+            start, end = map(int, frames)
         if start >= end:
             logger.error('START frame is greater than END frame: ({} - {}) [LINE: {}]'.format(start, end, i))
             sys.exit()
         if arr[2].isdigit():
             return start, end, int(arr[2]), int(arr[3]), int(arr[4])
         self.cnames = True
-        return start, end, arr[2], arr[3], arr[4]
+        return start, end, arr[1], arr[2], arr[3]
 
     def list_relations(self, as_set=True):
         rels = []
@@ -456,3 +467,58 @@ class VOCFile(object):
         tree = ET.ElementTree(self.xml)
         tree.write(fileout, pretty_print=True)
 # End of VOCFile class
+
+class PathFile(FileHandler):
+    """ Path file has the form:
+        Frame path <SPACE> [Class]
+        E.g.:
+
+        /home/user/0.jpg 0
+        /home/user/1.jpg 0
+        /home/user/2.jpg 1
+        /home/user/3.jpg 1
+    """
+
+    def __init__(self, inputfile):
+        super(PathFile, self).__init__(inputfile)
+        self.path = ''
+        self.idfr = -1
+        self.x = -1
+        self.fname = None
+
+    def __iter__(self):
+        """ Iterate on file yielding the array with all line content"""
+        for self.nb_line, line in enumerate(self.fin, start=1):
+            arr = line.strip().split()
+            self.path = arr[0]
+            self.fname = basename(arr[0])
+            bname, _ = splitext(self.fname)
+            self.idfr = int(bname)
+            yield arr
+# End of PathFile class
+
+class PddlTypes(object):
+    def __init__(self, inputfile):
+        self.dic = {}
+        with open(inputfile) as fin:
+            for line in fin:
+                line = line.strip()
+                if not (line.startswith('(') or line.startswith(')')):
+                    arr = line.split(' - ')
+                    objs, label, var = arr
+                    label = label.replace('_', '-')
+                    for obj in objs.split():
+                        obj = obj.replace('_', '-')
+                        self.dic[obj] = (label, var)
+
+    def __getitem__(self, obj):
+        return self.dic[obj]
+# End of PddlTypes class
+
+
+
+
+
+
+
+
