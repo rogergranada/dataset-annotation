@@ -43,7 +43,16 @@ def verify_sequence_frames(inputfile):
             last_id = fr
 
 
-def sanitize(file_objects, file_relations, output=None):
+def load_possible_relations(config_file):
+    dic = {}
+    with open(config_file) as fin:
+        for line in fin:
+            sub, rel, obj = line.strip().split()
+            dic[(sub, rel, obj)] = ''
+    return dic
+
+
+def sanitize_for_bounding_boxes(file_objects, file_relations, output=None):
     """ Check whether a file of relations is according with the bouding boxes
         described in the `file_objects` file.
     """
@@ -83,22 +92,48 @@ def sanitize(file_objects, file_relations, output=None):
         logger.info('Finished without errors!')
 
 
+def sanitize_relations(file_relations, config_file):
+    """ Check whether a file containing relations is according with the possible relations
+        described in the `config_file` file.
+    """
+    logger.info('Checking file: {}'.format(file_relations))
+    verify_sequence_frames(file_relations)
+    drels = load_possible_relations(config_file)
+
+    # Load groups of relations for frame
+    errors = 0 
+    recorded = {}
+    frls = fh.DecompressedFile(file_relations)
+    with frls as frels:
+        for arr in frels:
+            fr, o1, r, o2 = arr[0], arr[1], arr[2], arr[3]
+            pathimg = str(fr)+'.jpg'
+            if not drels.has_key((o1, r, o2)) and not recorded.has_key((o1, r, o2)):
+                logger.error('There is not possible relation: [{}, {}, {}]'.format(o1, r, o2))
+                recorded[(o1, r, o2)] = ''
+                errors += 1
+
+    if errors:
+        logger.info('Finished WITH {} errors!'.format(errors))
+    else:
+        logger.info('Finished without errors!')
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('objectfile', metavar='file_objects', help='File containing LIS annotation')
-    parser.add_argument('relationfile', metavar='file_relations', help='File containing annotation of relations')
+    parser.add_argument('input', metavar='file_or_folder', help='File or folder containing decompressed relations annotation')
+    parser.add_argument('-b', '--bounding_boxes', help='File containing LIS annotation for objects', default='Bounding_Boxes_Annotation.txt')
+    parser.add_argument('-r', '--relations', help='File containing possible relations', default='possible_relations.cfg')
     parser.add_argument('-o', '--output', help='Path to the file to save the new relations.')
     parser.add_argument('-f', '--folder', help='Perform sanitizing of files inside a folder.', action='store_true')
     args = parser.parse_args()
 
     if args.folder:
-        folder_object = args.objectfile
-        folder_relation = args.relationfile
-
-        hdobj = fh.FolderHandler(folder_object)
+        hdobj = fh.FolderHandler(args.input)
         for objpath in hdobj:
             fname = basename(objpath)
-            relpath = join(folder_relation, fname)
-            sanitize(objpath, relpath, args.output)
-    else:
-        sanitize(args.objectfile, args.relationfile, args.output)
+            relpath = join(args.input, fname)
+            #sanitize(objpath, relpath, args.output)
+            sanitize_relations(relpath, args.relations)
+    #else:
+    #    sanitize(args.objectfile, args.relationfile, args.output)
