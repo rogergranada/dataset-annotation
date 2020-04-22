@@ -140,6 +140,19 @@ class LisFile(FileHandler):
             self.fname = arr[4]
             yield arr
 
+    def _add_element(self, ids, pos):
+        if ids:
+            if pos:
+                objs = (self.idobj, self.x, self.y, self.w, self.h)
+            else:
+                objs = self.idobj
+        else:
+            if pos:
+                objs = (self.dobj, self.x, self.y. self.w, self.h)
+            else:
+                objs = self.dobj
+        return objs
+
     def objects_in_frame(self, ids=False, pos=False):
         last_id = -1
         objs = []
