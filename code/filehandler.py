@@ -7,29 +7,42 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 import os
 import sys
 import ast
+import lxml.etree as ET
 
 from os.path import exists, join, splitext, dirname, basename
 
 
 class FolderHandler(object):
     """ Class to deal with folders """
-    def __init__(self, inputfolder, ext='txt'):
+    def __init__(self, inputfolder, ext='txt', sort_id=False):
         self.inputfolder = inputfolder
         self.ext = ext
+        self.sort_id = sort_id
+        self.id = -1
+        self.dfiles = {}
         self.files = []
         self.exist_folder()
         self._load_paths()
 
     def __iter__(self):
-        for path in sorted(self.files):
-            yield path
+        if self.sort_id:
+            for id in sorted(self.dfiles):
+                self.id = id
+                yield self.dfiles[id]
+        else:
+            for path in sorted(self.files):
+                yield path
 
     def _load_paths(self):
         for root, dirs, files in os.walk(self.inputfolder, topdown=False):
             for name in files:
                 fname, ext = splitext(name)
                 if ext[1:] == self.ext:
-                    self.files.append(join(root, name))
+                    path = join(root, name)
+                    if self.sort_id:
+                        self.dfiles[int(fname)] = path
+                    else:
+                        self.files.append(path)
         return self
 
     def exist_folder(self):
@@ -39,6 +52,8 @@ class FolderHandler(object):
         return
 
     def nb_files(self):
+        if self.sort_id:
+            return len(self.dfiles)
         return len(self.files)
 # End of FileHandler class
 
@@ -125,19 +140,6 @@ class LisFile(FileHandler):
             self.fname = arr[4]
             yield arr
 
-    def _add_element(self, ids, pos):
-        if ids:
-            if pos:
-                objs = (self.idobj, self.x, self.y, self.w, self.h)
-            else:
-                objs = self.idobj
-        else:
-            if pos:
-                objs = (self.dobj, self.x, self.y. self.w, self.h)
-            else:
-                objs = self.dobj
-        return objs
-    
     def objects_in_frame(self, ids=False, pos=False):
         last_id = -1
         objs = []
@@ -421,6 +423,33 @@ class MapFile(FileHandler):
                     self.path = voc.split('JPEGImages')[0]
         return self.map
 # End of MapFile class
+
+
+class VOCXML(object):
+    def __init__(self, xml_file):
+        tree = ET.parse(xml_file)
+        self.root = tree.getroot()
+
+    def image_path(self):
+        for child in self.root:
+            if child.tag == 'path':
+                path = child.text
+        return path
+
+    def extract_objects(self):
+        objs = []
+        for child in self.root:
+            if child.tag == 'object':
+                for obj in child:
+                    if obj.tag == 'name':
+                        name = obj.text
+                    elif obj.tag == 'bndbox':
+                        dpos = {}
+                        for pos in obj:
+                            dpos[pos.tag] = int(pos.text)
+                        objs.append((name, dpos))
+        return objs
+                            
 
 
 class VOCFile(object):
