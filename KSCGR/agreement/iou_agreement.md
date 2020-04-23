@@ -7,11 +7,11 @@ Using IoU, we consider not only the perfect match between the two bounding boxes
 
 Below, we have the distribution of IoU considering all objects, where the *y* axis contains the number of objects with a certain IoU.
 
-<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/occlusion.svg" align="center" width="100%"/>
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_all.svg" align="center" width="100%"/>
 
 We also generate the distribution of IoU for each object as follows:
 
-![alt-text-1](https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_person.svg "IoU-Person") ![alt-text-2](https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_shell_egg.svg "IoU-Shell-egg")
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_person.svg" align="center" width="100%"/><img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_shell_egg.svg" align="center" width="100%"/>
 
 ---
 ## Acknowledgment
