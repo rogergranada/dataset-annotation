@@ -11,7 +11,174 @@ Below, we have the distribution of IoU considering all objects, where the *y* ax
 
 We also generate the distribution of IoU for each object as follows:
 
-<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_person.svg" align="center" width="48%"/><img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_shell_egg.svg" align="center" width="48%"/>
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_person.svg" align="center" width="48%"/><img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_broken_egg.svg" align="center" width="48%"/><br>
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_shell_egg.svg" align="center" width="48%"/><img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_ham_egg.svg" align="center" width="48%"/><br>
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_ham.svg" align="center" width="48%"/><img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_frying_pan.svg" align="center" width="48%"/><br>
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_pan_lid.svg" align="center" width="48%"/><img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_bowl.svg" align="center" width="48%"/><br>
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_chopstick.svg" align="center" width="48%"/><img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_cutting_board.svg" align="center" width="48%"/><br>
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_glass.svg" align="center" width="48%"/><img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_knife.svg" align="center" width="48%"/><br>
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_oil_bottle.svg" align="center" width="48%"/><img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_plate.svg" align="center" width="48%"/><br>
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_saltshaker.svg" align="center" width="48%"/><img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_spoon.svg" align="center" width="48%"/><br>
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_turner.svg" align="center" width="48%"/><img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_table.svg" align="center" width="48%"/><br>
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_stove.svg" align="center" width="48%"/>
+
+
+# Statistics for annotations
+
+Finally, we show the data extracted from annotations:
+
+**Input file 1**: annotator_1.txt
+**Input file 2**: annotator_2.txt
+
+### Statistics for Objects
+
+**Total number of object**: 61427
+**Object person**: 4700
+**Object broken_egg**: 648
+**Object shell_egg**: 1226
+**Object ham_egg**: 2954
+**Object ham**: 1947
+**Object frying_pan**: 4977
+**Object pan_lid**: 3988
+**Object bowl**: 4976
+**Object chopstick**: 291
+**Object cutting_board**: 4983
+**Object glass**: 4834
+**Object knife**: 628
+**Object oil_bottle**: 4961
+**Object plate**: 1389
+**Object saltshaker**: 4962
+**Object spoon**: 2594
+**Object turner**: 1403
+**Object table**: 4983
+**Object stove**: 4983
+
+### General Intersection over Union (IoU)
+
+**Mean Iou**: 0.917036482329
+**Std Iou**: 0.0659221219828
+
+**Correct bboxes IoU>=0.5**: 61409
+**Ratio correct bboxes IoU>=0.5**: 0.999706969248
+**Correct bboxes IoU>=0.7**: 61055
+**Ratio correct bboxes IoU>=0.7**: 0.993944031126
+
+###Intersection over Union (IoU) for objects
+
+**Object person**:
+- Correct bboxes IoU>=0.5: 4700
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 4699
+- Ratio correct bboxes IoU>=0.7: 0.999787234043
+
+**Object broken_egg**:
+- Correct bboxes IoU>=0.5: 648
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 641
+- Ratio correct bboxes IoU>=0.7: 0.989197530864
+
+**Object shell_egg**:
+- Correct bboxes IoU>=0.5: 1224
+- Ratio correct bboxes IoU>=0.5: 0.99836867863
+- Correct bboxes IoU>=0.7: 1173
+- Ratio correct bboxes IoU>=0.7: 0.956769983687
+
+**Object ham_egg**:
+- Correct bboxes IoU>=0.5: 2954
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 2935
+- Ratio correct bboxes IoU>=0.7: 0.993568043331
+
+**Object ham**:
+- Correct bboxes IoU>=0.5: 1944
+- Ratio correct bboxes IoU>=0.5: 0.998459167951
+- Correct bboxes IoU>=0.7: 1923
+- Ratio correct bboxes IoU>=0.7: 0.987673343606
+
+**Object frying_pan**:
+- Correct bboxes IoU>=0.5: 4977
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 4977
+- Ratio correct bboxes IoU>=0.7: 1.0
+
+**Object pan_lid**:
+- Correct bboxes IoU>=0.5: 3988
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 3988
+- Ratio correct bboxes IoU>=0.7: 1.0
+
+**Object bowl**:
+- Correct bboxes IoU>=0.5: 4976
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 4976
+- Ratio correct bboxes IoU>=0.7: 1.0
+
+**Object chopstick**:
+- Correct bboxes IoU>=0.5: 291
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 287
+- Ratio correct bboxes IoU>=0.7: 0.986254295533
+
+**Object cutting_board**:
+- Correct bboxes IoU>=0.5: 4983
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 4983
+- Ratio correct bboxes IoU>=0.7: 1.0
+
+**Object glass**:
+- Correct bboxes IoU>=0.5: 4834
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 4833
+- Ratio correct bboxes IoU>=0.7: 0.999793131982
+
+**Object knife**:
+- Correct bboxes IoU>=0.5: 623
+- Ratio correct bboxes IoU>=0.5: 0.992038216561
+- Correct bboxes IoU>=0.7: 580
+- Ratio correct bboxes IoU>=0.7: 0.923566878981
+
+**Object oil_bottle**:
+- Correct bboxes IoU>=0.5: 4961
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 4953
+- Ratio correct bboxes IoU>=0.7: 0.998387421891
+
+**Object plate**:
+- Correct bboxes IoU>=0.5: 1389
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 1389
+- Ratio correct bboxes IoU>=0.7: 1.0
+
+**Object saltshaker**:
+- Correct bboxes IoU>=0.5: 4962
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 4962
+- Ratio correct bboxes IoU>=0.7: 1.0
+
+**Object spoon**:
+- Correct bboxes IoU>=0.5: 2586
+- Ratio correct bboxes IoU>=0.5: 0.996915959907
+- Correct bboxes IoU>=0.7: 2507
+- Ratio correct bboxes IoU>=0.7: 0.966461063994
+
+**Object turner**:
+- Correct bboxes IoU>=0.5: 1403
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 1283
+- Ratio correct bboxes IoU>=0.7: 0.914468995011
+
+**Object table**:
+- Correct bboxes IoU>=0.5: 4983
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 4983
+- Ratio correct bboxes IoU>=0.7: 1.0
+
+**Object stove**:
+- Correct bboxes IoU>=0.5: 4983
+- Ratio correct bboxes IoU>=0.5: 1.0
+- Correct bboxes IoU>=0.7: 4983
+- Ratio correct bboxes IoU>=0.7: 1.0
+
 
 ---
 ## Acknowledgment
