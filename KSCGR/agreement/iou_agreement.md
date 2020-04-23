@@ -11,7 +11,7 @@ Below, we have the distribution of IoU considering all objects, where the *y* ax
 
 We also generate the distribution of IoU for each object as follows:
 
-<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_person.svg" align="center" width="100%"/><img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_shell_egg.svg" align="center" width="100%"/>
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_person.svg" align="center" width="48%"/><img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_shell_egg.svg" align="center" width="48%"/>
 
 ---
 ## Acknowledgment
