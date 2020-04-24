@@ -7,7 +7,7 @@ Using IoU, we consider not only the perfect match between the two bounding boxes
 
 Below, we have the distribution of IoU considering all objects, where the *y* axis contains the number of objects with a certain IoU.
 
-<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_all.svg" align="center" width="100%"/>
+<img src="https://raw.githubusercontent.com/rogergranada/dataset-annotation/master/KSCGR/images/iou_all.svg" align="center" width="60%"/>
 
 We also generate the distribution of IoU for each object as follows:
 
@@ -59,9 +59,9 @@ Finally, we show the data extracted from annotations:
 **Std Iou**: 0.0659221219828
 
 **Correct bboxes IoU>=0.5**: 61409
-**Ratio correct bboxes IoU>=0.5**: 0.999706969248
+**Ratio correct bboxes IoU>=0.5**: 0.99
 **Correct bboxes IoU>=0.7**: 61055
-**Ratio correct bboxes IoU>=0.7**: 0.993944031126
+**Ratio correct bboxes IoU>=0.7**: 0.99
 
 ###Intersection over Union (IoU) for objects
 
@@ -69,31 +69,31 @@ Finally, we show the data extracted from annotations:
 - Correct bboxes IoU>=0.5: 4700
 - Ratio correct bboxes IoU>=0.5: 1.0
 - Correct bboxes IoU>=0.7: 4699
-- Ratio correct bboxes IoU>=0.7: 0.999787234043
+- Ratio correct bboxes IoU>=0.7: 0.99
 
 **Object broken_egg**:
 - Correct bboxes IoU>=0.5: 648
 - Ratio correct bboxes IoU>=0.5: 1.0
 - Correct bboxes IoU>=0.7: 641
-- Ratio correct bboxes IoU>=0.7: 0.989197530864
+- Ratio correct bboxes IoU>=0.7: 0.98
 
 **Object shell_egg**:
 - Correct bboxes IoU>=0.5: 1224
-- Ratio correct bboxes IoU>=0.5: 0.99836867863
+- Ratio correct bboxes IoU>=0.5: 0.99
 - Correct bboxes IoU>=0.7: 1173
-- Ratio correct bboxes IoU>=0.7: 0.956769983687
+- Ratio correct bboxes IoU>=0.7: 0.95
 
 **Object ham_egg**:
 - Correct bboxes IoU>=0.5: 2954
 - Ratio correct bboxes IoU>=0.5: 1.0
 - Correct bboxes IoU>=0.7: 2935
-- Ratio correct bboxes IoU>=0.7: 0.993568043331
+- Ratio correct bboxes IoU>=0.7: 0.99
 
 **Object ham**:
 - Correct bboxes IoU>=0.5: 1944
-- Ratio correct bboxes IoU>=0.5: 0.998459167951
+- Ratio correct bboxes IoU>=0.5: 0.99
 - Correct bboxes IoU>=0.7: 1923
-- Ratio correct bboxes IoU>=0.7: 0.987673343606
+- Ratio correct bboxes IoU>=0.7: 0.98
 
 **Object frying_pan**:
 - Correct bboxes IoU>=0.5: 4977
@@ -117,7 +117,7 @@ Finally, we show the data extracted from annotations:
 - Correct bboxes IoU>=0.5: 291
 - Ratio correct bboxes IoU>=0.5: 1.0
 - Correct bboxes IoU>=0.7: 287
-- Ratio correct bboxes IoU>=0.7: 0.986254295533
+- Ratio correct bboxes IoU>=0.7: 0.98
 
 **Object cutting_board**:
 - Correct bboxes IoU>=0.5: 4983
@@ -129,19 +129,19 @@ Finally, we show the data extracted from annotations:
 - Correct bboxes IoU>=0.5: 4834
 - Ratio correct bboxes IoU>=0.5: 1.0
 - Correct bboxes IoU>=0.7: 4833
-- Ratio correct bboxes IoU>=0.7: 0.999793131982
+- Ratio correct bboxes IoU>=0.7: 0.99
 
 **Object knife**:
 - Correct bboxes IoU>=0.5: 623
-- Ratio correct bboxes IoU>=0.5: 0.992038216561
+- Ratio correct bboxes IoU>=0.5: 0.99
 - Correct bboxes IoU>=0.7: 580
-- Ratio correct bboxes IoU>=0.7: 0.923566878981
+- Ratio correct bboxes IoU>=0.7: 0.92
 
 **Object oil_bottle**:
 - Correct bboxes IoU>=0.5: 4961
 - Ratio correct bboxes IoU>=0.5: 1.0
 - Correct bboxes IoU>=0.7: 4953
-- Ratio correct bboxes IoU>=0.7: 0.998387421891
+- Ratio correct bboxes IoU>=0.7: 0.99
 
 **Object plate**:
 - Correct bboxes IoU>=0.5: 1389
@@ -157,15 +157,15 @@ Finally, we show the data extracted from annotations:
 
 **Object spoon**:
 - Correct bboxes IoU>=0.5: 2586
-- Ratio correct bboxes IoU>=0.5: 0.996915959907
+- Ratio correct bboxes IoU>=0.5: 0.99
 - Correct bboxes IoU>=0.7: 2507
-- Ratio correct bboxes IoU>=0.7: 0.966461063994
+- Ratio correct bboxes IoU>=0.7: 0.96
 
 **Object turner**:
 - Correct bboxes IoU>=0.5: 1403
 - Ratio correct bboxes IoU>=0.5: 1.0
 - Correct bboxes IoU>=0.7: 1283
-- Ratio correct bboxes IoU>=0.7: 0.914468995011
+- Ratio correct bboxes IoU>=0.7: 0.91
 
 **Object table**:
 - Correct bboxes IoU>=0.5: 4983
