@@ -27,40 +27,40 @@ We also generate the distribution of IoU for each object as follows:
 
 Finally, we show the data extracted from annotations:
 
-**Input file 1**: annotator_1.txt
+**Input file 1**: annotator_1.txt<br>
 **Input file 2**: annotator_2.txt
 
 ### Statistics for Objects
 
-**Total number of object**: 61427
-**Object person**: 4700
-**Object broken_egg**: 648
-**Object shell_egg**: 1226
-**Object ham_egg**: 2954
-**Object ham**: 1947
-**Object frying_pan**: 4977
-**Object pan_lid**: 3988
-**Object bowl**: 4976
-**Object chopstick**: 291
-**Object cutting_board**: 4983
-**Object glass**: 4834
-**Object knife**: 628
-**Object oil_bottle**: 4961
-**Object plate**: 1389
-**Object saltshaker**: 4962
-**Object spoon**: 2594
-**Object turner**: 1403
-**Object table**: 4983
+**Total number of object**: 61427<br>
+**Object person**: 4700<br>
+**Object broken_egg**: 648<br>
+**Object shell_egg**: 1226<br>
+**Object ham_egg**: 2954<br>
+**Object ham**: 1947<br>
+**Object frying_pan**: 4977<br>
+**Object pan_lid**: 3988<br>
+**Object bowl**: 4976<br>
+**Object chopstick**: 291<br>
+**Object cutting_board**: 4983<br>
+**Object glass**: 4834<br>
+**Object knife**: 628<br>
+**Object oil_bottle**: 4961<br>
+**Object plate**: 1389<br>
+**Object saltshaker**: 4962<br>
+**Object spoon**: 2594<br>
+**Object turner**: 1403<br>
+**Object table**: 4983<br>
 **Object stove**: 4983
 
 ### General Intersection over Union (IoU)
 
-**Mean Iou**: 0.917036482329
+**Mean Iou**: 0.917036482329<br>
 **Std Iou**: 0.0659221219828
 
-**Correct bboxes IoU>=0.5**: 61409
-**Ratio correct bboxes IoU>=0.5**: 0.99
-**Correct bboxes IoU>=0.7**: 61055
+**Correct bboxes IoU>=0.5**: 61409<br>
+**Ratio correct bboxes IoU>=0.5**: 0.99<br>
+**Correct bboxes IoU>=0.7**: 61055<br>
 **Ratio correct bboxes IoU>=0.7**: 0.99
 
 ###Intersection over Union (IoU) for objects
