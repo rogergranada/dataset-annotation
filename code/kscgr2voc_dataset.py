@@ -51,9 +51,11 @@ def main(kscgrfile, vocfolder):
     else:
         logger.error("'%s' is not a valid folder" % vocfolder)
         sys.exit(0)
+    fout_paths = join(vocfolder, 'paths.txt')
+    fout_map = join(dirname(kscgrfile), 'map_paths.txt')
     with open(kscgrfile) as fin, \
-         open(join(vocfolder, 'paths.txt'), 'w') as fout, \
-         open(join(dirname(kscgrfile), 'map_paths.txt'), 'w') as fout_map:
+         open(fout_paths, 'w') as fout, \
+         open(fout_map, 'w') as fout_map:
         for i, line in enumerate(fin, start=1):
             path = line.strip().split()[0]
             namefile, ext = splitext(basename(path))
@@ -65,6 +67,8 @@ def main(kscgrfile, vocfolder):
             if namefile == '0':
                 logger.info('Renaming: %s -> %s' % (path, pathout))
     logger.info('All files copied into %s' % folderout)
+    logger.info('Saved map_paths.txt at: %s' % fout_map)
+    logger.info('Saved paths.txt at: %s' % fout_paths)
 
 
 if __name__ == "__main__":
