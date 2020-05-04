@@ -51,6 +51,7 @@ def change_annotation_file(file_lis, fout, dclasses):
     """ 
     last_index = 0
     with LisFile(file_lis) as flis:
+        logger.info('Proceesing file: {} with {} frames.'.format(file_lis, flis.nb_frames()))
         pb = pbar.ProgressBar(flis.nb_frames())
         for img, objs in flis.iterate_frames():
             path = join(flis.path, img)
@@ -79,8 +80,8 @@ def main(folder_annotation, output, cfg_file):
     foutput = join(output, 'yolo_annotation.txt')
     fclasses = join(output, 'classes.txt')
 
+    fdh = FolderHandler(folder_annotation)
     with open(foutput, 'w') as fout, open(fclasses, 'w') as fclout:
-        fdh = FolderHandler(folder_annotation)
         for path in fdh:
             dclasses = change_annotation_file(path, fout, dclasses)
         sorted_classes = sorted(dclasses.items(), key=lambda kv: kv[1])
