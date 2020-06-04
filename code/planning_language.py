@@ -27,9 +27,11 @@ class PDDLDomain(object):
         """
         self.content = '(define (domain {})\n'.format(domain_name)
         self.content += '(:requirements :strips :negative-preconditions)\n\n'
+        self.strpred = '(:predicates\n' 
+        self.predicates = {}
+        self.stract = ''
         self.triplets = triplets
         self.complex_triplets = {}
-        self.groups()
 
 
     def _build_dictionary(self, triplets, other=[]):
@@ -72,16 +74,16 @@ class PDDLDomain(object):
               (<rel_2> ?x ?y)
             )
         """
+        predicates = ''
         dkeys, drels = self._build_dictionary(self.triplets)
-        predicates = '(:predicates\n'
+        print dkeys
         for obj in dkeys:
             predicates += '  ({} ?o)\n'.format(obj)
         for rel in drels:
             if rel == 'holding':
                 predicates += '  ({} ?x ?y)\n'.format('take')
             predicates += '  ({} ?x ?y)\n'.format(rel)
-        predicates += ')\n\n'
-        self.content += predicates
+        self.strpred += predicates
         return predicates
 
 
@@ -114,10 +116,10 @@ class PDDLDomain(object):
         logger.info('Creating: action {}-{}-to-{}-{}'.format(verb, obj, prep, place))
         action = '(:action move-{}-{}-{}-{}\n'.format(sub, obj, prep, place)
         action += '  :parameters (?s ?o ?p)\n'
-        action += '  :precondition (and ({} ?o) ({} ?p) (take ?s ?o) (not ({} ?o ?p)))\n'.format(obj, place, prep)
+        action += '  :precondition (and ({} ?o) ({} ?p) (holding ?s ?o) (not ({} ?o ?p)))\n'.format(obj, place, prep)
         action += '  :effect (and ({} ?o ?p))\n'.format(prep)
         action += ')\n\n'
-        self.content += action
+        self.stract += action
         return action
 
 
@@ -145,11 +147,41 @@ class PDDLDomain(object):
         logger.info('Creating: action put-{}-{}-{}'.format(obj, prep, place))
         action = '(:action put-{}-{}-{}\n'.format(obj, prep, place)
         action += '  :parameters (?s ?o ?p)\n'
-        action += '  :precondition (and ({} ?o) ({} ?p) ({} ?o ?p) (take ?s ?o))\n'.format(obj, place, prep)
-        action += '  :effect (and (not (take ?s ?o)))\n'
+        action += '  :precondition (and ({} ?o) ({} ?p) ({} ?o ?p) (holding ?s ?o))\n'.format(obj, place, prep)
+        action += '  :effect (and (not (holding ?s ?o)))\n'
         action += ')\n\n'
         return action
 
+    '''
+    def _holding_action(self, sub, verb, obj, prep, place):#
+        """ Create the put action based on handling_actions().
+
+           Nomeclature:
+           ------------
+           ; <person> holds <object> (<prep>) <place>
+           (:action hold-<obj>-<prep>-<place>
+             :parameters (?s ?o p?) ;s-subject o-object p-place
+             :precondition (and (<obj> ?o) (<place> ?p) (not (above ?o ?p)) (holding ?s ?o))
+             :effect (and (above ?s ?o))
+           )
+        
+           Example:
+           --------
+           ; person hold a shell_egg above the bowl
+           (:action hold-shell_egg-above-bowl
+             :parameters (?s ?o ?p)
+             :precondition (and (person ?s) (plate ?o) (table ?p) (on ?o ?p) (take ?s ?o))
+             :effect (and (not (take ?s ?o)))
+           )
+        """
+        logger.info('Creating: action hold-{}-{}-{}'.format(obj, prep, place))
+        action = '(:action hold-{}-{}-{}\n'.format(obj, prep, place)
+        action += '  :parameters (?s ?o ?p)\n'
+        action += '  :precondition (and ({} ?o) ({} ?p) (not ({} ?o ?p)) (holding ?s ?o))\n'.format(obj, place, prep)
+        action += '  :effect (and ({} ?o ?p))\n'.format(prep)
+        action += ')\n\n'
+        return action
+    '''
 
     def _taking_action(self, sub, verb, obj, prep, place):#
         """ Create the take action based on handling_actions.
@@ -175,19 +207,22 @@ class PDDLDomain(object):
         logger.info('Creating: action take-{}-{}-{}'.format(obj, prep, place))
         action = '(:action take-{}-{}-{}\n'.format(obj, prep, place)
         action += '  :parameters (?s ?o ?p)\n'
-        action += '  :precondition (and ({} ?s) ({} ?o) ({} ?p) ({} ?o ?p) ({} ?s ?o))\n'.format(
+        #action += '  :precondition (and ({} ?s) ({} ?o) ({} ?p) ({} ?o ?p) ({} ?s ?o))\n'.format(
+        #        sub, obj, place, prep, verb)
+        #action += '  :effect (and (not ({} ?o ?p)) (take ?s ?o))\n'.format(prep)
+        action += '  :precondition (and ({} ?s) ({} ?o) ({} ?p) ({} ?o ?p) (not ({} ?s ?o)))\n'.format(
                 sub, obj, place, prep, verb)
-        action += '  :effect (and (not ({} ?o ?p)) (take ?s ?o))\n'.format(prep)
+        action += '  :effect (and (not ({} ?o ?p)) (holding ?s ?o))\n'.format(prep)
         action += ')\n\n'
         return action
 
 
-    def add_handling_action(self, sub, verb, obj, prep, place, mode='both'):#
-        """Create paired (mode='both') actions `take-put` for a subject <sub> 
+    def add_handling_action(self, sub, verb, obj, prep, place, mode='all'):#
+        """Create (mode='all') actions `take-hold-put` for a subject <sub> 
            doing something <rel> with an object <obj> in/on/above <prep> 
            certain place <place>. 
            
-           This method calls `_put` and `_take` according to the `mode`.
+           This method calls `_put` `_hold` and `_take` according to the `mode`.
         """
         if self.complex_triplets.has_key(('take', sub, verb, obj, prep, place)):
             logger.warning('Action: take-{}-{}-{} already exists!'.format(verb, obj, prep, place))
@@ -195,14 +230,17 @@ class PDDLDomain(object):
         self.complex_triplets[('take', sub, verb, obj, prep, place)] = ''
     
         content = ''
-        if mode == 'both':
+        if mode == 'all':
             content = self._taking_action(sub, verb, obj, prep, place)
+            #content += self._holding_action(sub, verb, obj, prep, place)
             content += self._putting_action(sub, verb, obj, prep, place)
         elif mode == 'take':
             content = self._taking_action(sub, verb, obj, prep, place)
         elif mode == 'put':
             content = self._putting_action(sub, verb, obj, prep, place)
-        self.content += content
+        #elif mode == 'hold':
+        #    content = self._holding_action(sub, verb, obj, prep, place)
+        self.stract += content
         return content
 
 
@@ -222,11 +260,12 @@ class PDDLDomain(object):
            Example:
            --------
            ; a knife cuts the ham on the cutting_board
-           (:action cut-knife-ham-on-cutting_board
+           (:action cut-knife-ham-on-table
              :parameters (?s ?o ?p)
-             :precondition (and (knife ?s) (ham ?o) (cutting_board ?p) (cutting ?s ?o) (on ?o ?p))
-             :effect (and (not (ham ?o)) (cut-ham ?o))
+             :precondition (and (knife ?s) (ham ?o) (table ?p) (not (cutting ?s ?o)) (on ?o ?p))
+             :effect (and (cutting ?s ?o))
            )
+
 
         """
         if self.complex_triplets.has_key(('cut', sub, verb, obj, prep, place)):
@@ -236,10 +275,13 @@ class PDDLDomain(object):
         logger.info('Creating: action {}-{}-{}-{}'.format(sub, obj, prep, place))
         action = '(:action cut-{}-{}-{}-{}\n'.format(sub, obj, prep, place)
         action += '  :parameters (?s ?o ?p)\n'
-        action += '  :precondition (and ({} ?s) ({} ?o) ({} ?p) ({} ?s ?o) ({} ?o ?p))\n'.format(sub, obj, place, verb, prep)
-        action += '  :effect (and (not ({} ?o)) (cut-{} ?o))\n'.format(obj, obj)
+        action += '  :precondition (and ({} ?s) ({} ?o) ({} ?p) (not ({} ?s ?o)) ({} ?o ?p))\n'.format(sub, obj, place, verb, prep)
+        action += '  :effect (and ({} ?s ?o))\n'.format(verb)
         action += ')\n\n'
-        self.content += action
+        #if not self.predicates.has_key('cut-'+obj):
+        #    self.strpred += '  (cut-{} ?o)\n'.format(obj)
+        #    self.predicates['cut-'+obj] = ''
+        self.stract += action
         return action
 
 
@@ -283,19 +325,19 @@ class PDDLDomain(object):
             if obj != obj_2:
                 action += '({} ?{}) '.format(obj, id)
         for sub, rel, obj in preconditions:
-            if rel == 'holding':
-                action += '(take ?{} ?{}) '.format(dkeys[sub], dkeys[obj])
-            else:
+            if rel != 'moving':
                 action += '({} ?{} ?{}) '.format(rel, dkeys[sub], dkeys[obj])
         action = action.rstrip()+')\n'
         action += '  :effect (and (not ({} ?{})) ({} ?{}))\n'.format(obj_1, dkeys[obj_1], obj_2, dkeys[obj_2])
         action += ')\n\n'
-        self.content += action
+        self.stract += action
         return action
     
 
     def save_file(self, path):
         """ Save file at <path> location. """
+        self.content += self.strpred+')\n\n'
+        self.content += self.stract
         self.content += ')'
         logger.info('Saving file: {}'.format(path))
         with open(path, 'w') as fout:
