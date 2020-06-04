@@ -152,36 +152,6 @@ class PDDLDomain(object):
         action += ')\n\n'
         return action
 
-    '''
-    def _holding_action(self, sub, verb, obj, prep, place):#
-        """ Create the put action based on handling_actions().
-
-           Nomeclature:
-           ------------
-           ; <person> holds <object> (<prep>) <place>
-           (:action hold-<obj>-<prep>-<place>
-             :parameters (?s ?o p?) ;s-subject o-object p-place
-             :precondition (and (<obj> ?o) (<place> ?p) (not (above ?o ?p)) (holding ?s ?o))
-             :effect (and (above ?s ?o))
-           )
-        
-           Example:
-           --------
-           ; person hold a shell_egg above the bowl
-           (:action hold-shell_egg-above-bowl
-             :parameters (?s ?o ?p)
-             :precondition (and (person ?s) (plate ?o) (table ?p) (on ?o ?p) (take ?s ?o))
-             :effect (and (not (take ?s ?o)))
-           )
-        """
-        logger.info('Creating: action hold-{}-{}-{}'.format(obj, prep, place))
-        action = '(:action hold-{}-{}-{}\n'.format(obj, prep, place)
-        action += '  :parameters (?s ?o ?p)\n'
-        action += '  :precondition (and ({} ?o) ({} ?p) (not ({} ?o ?p)) (holding ?s ?o))\n'.format(obj, place, prep)
-        action += '  :effect (and ({} ?o ?p))\n'.format(prep)
-        action += ')\n\n'
-        return action
-    '''
 
     def _taking_action(self, sub, verb, obj, prep, place):#
         """ Create the take action based on handling_actions.
