@@ -76,7 +76,6 @@ class PDDLDomain(object):
         """
         predicates = ''
         dkeys, drels = self._build_dictionary(self.triplets)
-        print dkeys
         for obj in dkeys:
             predicates += '  ({} ?o)\n'.format(obj)
         for rel in drels:
@@ -113,11 +112,42 @@ class PDDLDomain(object):
             logger.warning('Action: move-{}-{}-to-{}-{} already exists!'.format(verb, obj, prep, place))
             return None
         self.complex_triplets[('move', sub, verb, obj, prep, place)] = ''
-        logger.info('Creating: action {}-{}-to-{}-{}'.format(verb, obj, prep, place))
+        logger.info('Creating: action move-{}-to-{}-{}'.format(obj, prep, place))
         action = '(:action move-{}-{}-{}-{}\n'.format(sub, obj, prep, place)
         action += '  :parameters (?s ?o ?p)\n'
-        action += '  :precondition (and ({} ?o) ({} ?p) (holding ?s ?o) (not ({} ?o ?p)))\n'.format(obj, place, prep)
+        action += '  :precondition (and ({} ?s) ({} ?o) ({} ?p) ({} ?s ?o) (not ({} ?o ?p)))\n'.format(sub, obj, place, verb, prep)
         action += '  :effect (and ({} ?o ?p))\n'.format(prep)
+        action += ')\n\n'
+        self.stract += action
+        return action
+
+
+    def add_movement_actions(self, sub, prep_s, obj, prep_o, place):
+        """ Create the moveobj action to add movement to objects.
+
+           Nomeclature:
+           ------------
+           ; <sub> <prep> <place> moves <object> <prep> <place>
+           (:action moveobj-<sub>-<prep_s>-<obj><prep_o><place>
+             :parameters (?s ?o p?) ;s-subject o-object p-place
+             :precondition (and (<sub> ?o) (<obj> ?o) (<place> ?p) (<prep_s> ?s ?p) (<prep_o> ?o ?p))
+             :effect (and (moving ?s ?o)))
+           )
+        
+           Example:
+           --------
+           ; turner on frying_pan moves baked_egg in frying_pan
+           (:action moveobj-turner-on-baked_egg-in-frying_pan
+             :parameters (?s ?o ?p)
+             :precondition (and (turner ?s) (baked_egg ?o) (frying_pan ?p) (on ?s ?p) (on ?o ?p))
+             :effect (and (moving ?s ?o))
+           )
+        """
+        logger.info('Creating: action moveobj-{}-{}-{}-{}-{}'.format(sub, prep_s, obj, prep_o, place))
+        action = '(:action moveobj-{}-{}-{}-{}-{}\n'.format(sub, prep_s, obj, prep_o, place)
+        action += '  :parameters (?s ?o ?p)\n'
+        action += '  :precondition (and ({} ?s) ({} ?o) ({} ?p) ({} ?s ?p) ({} ?o ?p))\n'.format(sub, obj, place, prep_s, prep_o)
+        action += '  :effect (and (moving ?s ?o))\n'
         action += ')\n\n'
         self.stract += action
         return action
@@ -148,7 +178,7 @@ class PDDLDomain(object):
         action = '(:action put-{}-{}-{}\n'.format(obj, prep, place)
         action += '  :parameters (?s ?o ?p)\n'
         action += '  :precondition (and ({} ?o) ({} ?p) ({} ?o ?p) (holding ?s ?o))\n'.format(obj, place, prep)
-        action += '  :effect (and (not (holding ?s ?o)))\n'
+        action += '  :effect (and (not (holding ?s ?o)) (not (moving ?s ?o)))\n'
         action += ')\n\n'
         return action
 
@@ -182,7 +212,7 @@ class PDDLDomain(object):
         #action += '  :effect (and (not ({} ?o ?p)) (take ?s ?o))\n'.format(prep)
         action += '  :precondition (and ({} ?s) ({} ?o) ({} ?p) ({} ?o ?p) (not ({} ?s ?o)))\n'.format(
                 sub, obj, place, prep, verb)
-        action += '  :effect (and (not ({} ?o ?p)) (holding ?s ?o))\n'.format(prep)
+        action += '  :effect (and (not ({} ?o ?p)) (holding ?s ?o) (moving ?s ?o))\n'.format(prep)
         action += ')\n\n'
         return action
 
