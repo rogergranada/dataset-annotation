@@ -177,8 +177,43 @@ class PDDLDomain(object):
         logger.info('Creating: action put-{}-{}-{}'.format(obj, prep, place))
         action = '(:action put-{}-{}-{}\n'.format(obj, prep, place)
         action += '  :parameters (?s ?o ?p)\n'
-        action += '  :precondition (and ({} ?o) ({} ?p) ({} ?o ?p) (holding ?s ?o))\n'.format(obj, place, prep)
-        action += '  :effect (and (not (holding ?s ?o)) (not (moving ?s ?o)))\n'
+        action += '  :precondition (and ({} ?o) ({} ?p) (moving ?s ?o) (not ({} ?o ?p)))\n'.format(obj, place, prep)
+        action += '  :effect (and (not (moving ?s ?o)) ({} ?s ?p))\n'.format(prep)
+        action += ')\n\n'
+        return action
+
+
+    def _holding_action(self, sub, verb, obj):#
+        """ Create the hold action based on handling_actions.
+
+           Nomeclature:
+           ------------
+           ; <person> holds <object>
+           (:action hold-<obj>
+             :parameters (?s ?o) ;s-subject o-object
+             :precondition (and (<sub> ?s) (<obj> ?o) (not (<verb> ?s ?o)))
+             :effect (and (<verb> ?s ?o))
+           )
+        
+           Example:
+           --------
+           ; person takes a plate that is on the table
+           (:action hold-plate
+             :parameters (?s ?o)
+             :precondition (and (person ?s) (plate ?o) (not (holding ?s ?o)))
+             :effect (and (holding ?s ?o))
+           )
+        """
+        if self.complex_triplets.has_key(('hold', sub, verb, obj)):
+            logger.warning('Action: hold-{}-{} already exists!'.format(verb, obj))
+            return ''
+        self.complex_triplets[('hold', sub, verb, obj)] = ''
+        logger.info('Creating: action hold-{}'.format(obj))
+        action = '(:action hold-{}\n'.format(obj)
+        action += '  :parameters (?s ?o)\n'
+        action += '  :precondition (and ({} ?s) ({} ?o) (not ({} ?s ?o)))\n'.format(
+                sub, obj, verb)
+        action += '  :effect (and (holding ?s ?o))\n'
         action += ')\n\n'
         return action
 
@@ -201,18 +236,15 @@ class PDDLDomain(object):
            (:action take-plate-on-table
              :parameters (?s ?o ?p)
              :precondition (and (person ?s) (plate ?o) (table ?p) (on ?o ?p) (holding ?s ?o))
-             :effect (and (not (on ?o ?p)) (take ?s ?o))
+             :effect (and (not (on ?o ?p)) (moving ?s ?o))
            )
         """
         logger.info('Creating: action take-{}-{}-{}'.format(obj, prep, place))
         action = '(:action take-{}-{}-{}\n'.format(obj, prep, place)
         action += '  :parameters (?s ?o ?p)\n'
-        #action += '  :precondition (and ({} ?s) ({} ?o) ({} ?p) ({} ?o ?p) ({} ?s ?o))\n'.format(
-        #        sub, obj, place, prep, verb)
-        #action += '  :effect (and (not ({} ?o ?p)) (take ?s ?o))\n'.format(prep)
-        action += '  :precondition (and ({} ?s) ({} ?o) ({} ?p) ({} ?o ?p) (not ({} ?s ?o)))\n'.format(
+        action += '  :precondition (and ({} ?s) ({} ?o) ({} ?p) ({} ?o ?p) ({} ?s ?o))\n'.format(
                 sub, obj, place, prep, verb)
-        action += '  :effect (and (not ({} ?o ?p)) (holding ?s ?o) (moving ?s ?o))\n'.format(prep)
+        action += '  :effect (and (not ({} ?o ?p)) (moving ?s ?o))\n'.format(prep)
         action += ')\n\n'
         return action
 
@@ -231,15 +263,15 @@ class PDDLDomain(object):
     
         content = ''
         if mode == 'all':
-            content = self._taking_action(sub, verb, obj, prep, place)
-            #content += self._holding_action(sub, verb, obj, prep, place)
+            content = self._holding_action(sub, verb, obj)
+            content += self._taking_action(sub, verb, obj, prep, place)
             content += self._putting_action(sub, verb, obj, prep, place)
         elif mode == 'take':
             content = self._taking_action(sub, verb, obj, prep, place)
         elif mode == 'put':
             content = self._putting_action(sub, verb, obj, prep, place)
-        #elif mode == 'hold':
-        #    content = self._holding_action(sub, verb, obj, prep, place)
+        elif mode == 'hold':
+            content = self._holding_action(sub, verb, obj)
         self.stract += content
         return content
 
