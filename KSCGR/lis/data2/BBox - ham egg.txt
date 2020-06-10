@@ -4618,7 +4618,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 437	table	(0,112,101,142)	29	437.jpg
 437	stove	(103,112,154,123)	30	437.jpg
 437	person	(0,0,148,125)	1	437.jpg
-437	shell_egg	(67,105,18,18)	7	437.jpg
+437	broken_egg	(67,105,18,18)	4	437.jpg
 437	ham	(60,173,35,32)	12	437.jpg
 437	frying_pan	(103,117,82,73)	14	437.jpg
 437	pan_handle	(200,77,27,55)	15	437.jpg
@@ -4629,7 +4629,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 438	table	(0,112,101,142)	29	438.jpg
 438	stove	(103,112,154,123)	30	438.jpg
 438	person	(0,0,148,125)	1	438.jpg
-438	shell_egg	(68,105,18,18)	7	438.jpg
+438	broken_egg	(68,105,18,18)	4	438.jpg
 438	ham	(60,173,35,32)	12	438.jpg
 438	frying_pan	(103,117,82,73)	14	438.jpg
 438	pan_handle	(200,77,27,55)	15	438.jpg
@@ -4640,7 +4640,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 439	table	(0,112,101,142)	29	439.jpg
 439	stove	(103,112,154,123)	30	439.jpg
 439	person	(0,0,148,125)	1	439.jpg
-439	shell_egg	(68,105,17,19)	7	439.jpg
+439	broken_egg	(68,105,17,19)	4	439.jpg
 439	ham	(60,173,35,32)	12	439.jpg
 439	frying_pan	(103,117,82,73)	14	439.jpg
 439	pan_handle	(200,77,27,55)	15	439.jpg
@@ -4651,7 +4651,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 440	table	(0,112,101,142)	29	440.jpg
 440	stove	(103,112,154,123)	30	440.jpg
 440	person	(0,0,148,125)	1	440.jpg
-440	shell_egg	(68,105,17,19)	7	440.jpg
+440	broken_egg	(68,105,17,19)	4	440.jpg
 440	ham	(60,173,35,32)	12	440.jpg
 440	frying_pan	(103,117,82,73)	14	440.jpg
 440	pan_handle	(200,77,27,55)	15	440.jpg
@@ -4662,7 +4662,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 441	table	(0,112,101,142)	29	441.jpg
 441	stove	(103,112,154,123)	30	441.jpg
 441	person	(0,0,148,125)	1	441.jpg
-441	shell_egg	(68,106,17,18)	7	441.jpg
+441	broken_egg	(68,106,17,18)	4	441.jpg
 441	ham	(60,173,35,32)	12	441.jpg
 441	frying_pan	(103,117,82,73)	14	441.jpg
 441	pan_handle	(200,77,27,55)	15	441.jpg
@@ -4673,7 +4673,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 442	table	(0,112,101,142)	29	442.jpg
 442	stove	(103,112,154,123)	30	442.jpg
 442	person	(0,0,148,125)	1	442.jpg
-442	shell_egg	(67,106,18,18)	7	442.jpg
+442	broken_egg	(67,106,18,18)	4	442.jpg
 442	ham	(60,173,35,32)	12	442.jpg
 442	frying_pan	(103,117,82,73)	14	442.jpg
 442	pan_handle	(200,77,27,55)	15	442.jpg
@@ -4684,7 +4684,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 443	table	(0,112,101,142)	29	443.jpg
 443	stove	(103,112,154,123)	30	443.jpg
 443	person	(0,0,148,125)	1	443.jpg
-443	shell_egg	(67,106,18,19)	7	443.jpg
+443	broken_egg	(67,106,18,19)	4	443.jpg
 443	ham	(60,173,35,32)	12	443.jpg
 443	frying_pan	(103,117,82,73)	14	443.jpg
 443	pan_handle	(200,77,27,55)	15	443.jpg
@@ -4695,7 +4695,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 444	table	(0,112,101,142)	29	444.jpg
 444	stove	(103,112,154,123)	30	444.jpg
 444	person	(0,0,148,125)	1	444.jpg
-444	shell_egg	(67,106,17,19)	7	444.jpg
+444	broken_egg	(67,106,17,19)	4	444.jpg
 444	ham	(60,173,35,32)	12	444.jpg
 444	frying_pan	(103,117,82,73)	14	444.jpg
 444	pan_handle	(200,77,27,55)	15	444.jpg
@@ -4706,7 +4706,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 445	table	(0,112,101,142)	29	445.jpg
 445	stove	(103,112,154,123)	30	445.jpg
 445	person	(0,0,148,125)	1	445.jpg
-445	shell_egg	(67,107,17,18)	7	445.jpg
+445	broken_egg	(67,107,17,18)	4	445.jpg
 445	ham	(60,173,35,32)	12	445.jpg
 445	frying_pan	(103,117,82,73)	14	445.jpg
 445	pan_handle	(200,77,27,55)	15	445.jpg
@@ -4717,7 +4717,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 446	table	(0,112,101,142)	29	446.jpg
 446	stove	(103,112,154,123)	30	446.jpg
 446	person	(0,0,148,125)	1	446.jpg
-446	shell_egg	(66,107,17,19)	7	446.jpg
+446	broken_egg	(66,107,17,19)	4	446.jpg
 446	ham	(60,173,35,32)	12	446.jpg
 446	frying_pan	(103,117,82,73)	14	446.jpg
 446	pan_handle	(200,77,27,55)	15	446.jpg
@@ -4728,7 +4728,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 447	table	(0,112,101,142)	29	447.jpg
 447	stove	(103,112,154,123)	30	447.jpg
 447	person	(0,0,148,125)	1	447.jpg
-447	shell_egg	(66,107,18,19)	7	447.jpg
+447	broken_egg	(66,107,18,19)	4	447.jpg
 447	ham	(60,173,35,32)	12	447.jpg
 447	frying_pan	(103,117,82,73)	14	447.jpg
 447	pan_handle	(200,77,27,55)	15	447.jpg
@@ -4739,7 +4739,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 448	table	(0,112,101,142)	29	448.jpg
 448	stove	(103,112,154,123)	30	448.jpg
 448	person	(0,0,148,125)	1	448.jpg
-448	shell_egg	(66,107,17,19)	7	448.jpg
+448	broken_egg	(66,107,17,19)	4	448.jpg
 448	ham	(60,173,35,32)	12	448.jpg
 448	frying_pan	(103,117,82,73)	14	448.jpg
 448	pan_handle	(200,77,27,55)	15	448.jpg
@@ -4750,7 +4750,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 449	table	(0,112,101,142)	29	449.jpg
 449	stove	(103,112,154,123)	30	449.jpg
 449	person	(0,0,148,125)	1	449.jpg
-449	shell_egg	(66,108,17,18)	7	449.jpg
+449	broken_egg	(66,108,17,18)	4	449.jpg
 449	ham	(60,173,35,32)	12	449.jpg
 449	frying_pan	(103,117,82,73)	14	449.jpg
 449	pan_handle	(200,77,27,55)	15	449.jpg
@@ -4761,7 +4761,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 450	table	(0,112,101,142)	29	450.jpg
 450	stove	(103,112,154,123)	30	450.jpg
 450	person	(0,0,148,125)	1	450.jpg
-450	shell_egg	(66,107,17,19)	7	450.jpg
+450	broken_egg	(66,107,17,19)	4	450.jpg
 450	ham	(60,173,35,32)	12	450.jpg
 450	frying_pan	(103,117,82,73)	14	450.jpg
 450	pan_handle	(200,77,27,55)	15	450.jpg
@@ -4772,7 +4772,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 451	table	(0,112,101,142)	29	451.jpg
 451	stove	(103,112,154,123)	30	451.jpg
 451	person	(0,0,148,125)	1	451.jpg
-451	shell_egg	(65,107,17,19)	7	451.jpg
+451	broken_egg	(65,107,17,19)	4	451.jpg
 451	ham	(60,173,35,32)	12	451.jpg
 451	frying_pan	(103,117,82,73)	14	451.jpg
 451	pan_handle	(200,77,27,55)	15	451.jpg
@@ -4783,7 +4783,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 452	table	(0,112,101,142)	29	452.jpg
 452	stove	(103,112,154,123)	30	452.jpg
 452	person	(0,0,148,125)	1	452.jpg
-452	shell_egg	(65,108,18,18)	7	452.jpg
+452	broken_egg	(65,108,18,18)	4	452.jpg
 452	ham	(60,173,35,32)	12	452.jpg
 452	frying_pan	(103,117,82,73)	14	452.jpg
 452	pan_handle	(200,77,27,55)	15	452.jpg
@@ -4794,7 +4794,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 453	table	(0,112,101,142)	29	453.jpg
 453	stove	(103,112,154,123)	30	453.jpg
 453	person	(0,0,148,125)	1	453.jpg
-453	shell_egg	(65,107,18,19)	7	453.jpg
+453	broken_egg	(65,107,18,19)	4	453.jpg
 453	ham	(60,173,35,32)	12	453.jpg
 453	frying_pan	(103,117,82,73)	14	453.jpg
 453	pan_handle	(200,77,27,55)	15	453.jpg
@@ -4805,7 +4805,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 454	table	(0,112,101,142)	29	454.jpg
 454	stove	(103,112,154,123)	30	454.jpg
 454	person	(0,0,148,125)	1	454.jpg
-454	shell_egg	(65,107,18,19)	7	454.jpg
+454	broken_egg	(65,107,18,19)	4	454.jpg
 454	ham	(60,173,35,32)	12	454.jpg
 454	frying_pan	(103,117,82,73)	14	454.jpg
 454	pan_handle	(200,77,27,55)	15	454.jpg
@@ -4816,7 +4816,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 455	table	(0,112,101,142)	29	455.jpg
 455	stove	(103,112,154,123)	30	455.jpg
 455	person	(0,0,148,125)	1	455.jpg
-455	shell_egg	(66,107,18,19)	7	455.jpg
+455	broken_egg	(66,107,18,19)	4	455.jpg
 455	ham	(60,173,35,32)	12	455.jpg
 455	frying_pan	(103,117,82,73)	14	455.jpg
 455	pan_handle	(200,77,27,55)	15	455.jpg
@@ -4827,7 +4827,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 456	table	(0,112,101,142)	29	456.jpg
 456	stove	(103,112,154,123)	30	456.jpg
 456	person	(0,0,148,125)	1	456.jpg
-456	shell_egg	(65,107,22,23)	7	456.jpg
+456	broken_egg	(65,107,22,23)	4	456.jpg
 456	ham	(60,173,35,32)	12	456.jpg
 456	frying_pan	(103,117,82,73)	14	456.jpg
 456	pan_handle	(200,77,27,55)	15	456.jpg
@@ -4838,7 +4838,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 457	table	(0,112,101,142)	29	457.jpg
 457	stove	(103,112,154,123)	30	457.jpg
 457	person	(0,0,148,125)	1	457.jpg
-457	shell_egg	(65,107,21,25)	7	457.jpg
+457	broken_egg	(65,107,21,25)	4	457.jpg
 457	ham	(60,173,35,32)	12	457.jpg
 457	frying_pan	(103,117,82,73)	14	457.jpg
 457	pan_handle	(200,77,27,55)	15	457.jpg
@@ -4849,7 +4849,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 458	table	(0,112,101,142)	29	458.jpg
 458	stove	(103,112,154,123)	30	458.jpg
 458	person	(0,0,148,125)	1	458.jpg
-458	shell_egg	(65,107,22,23)	7	458.jpg
+458	broken_egg	(65,107,22,23)	4	458.jpg
 458	ham	(60,173,35,32)	12	458.jpg
 458	frying_pan	(103,117,82,73)	14	458.jpg
 458	pan_handle	(200,77,27,55)	15	458.jpg
@@ -4860,7 +4860,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 459	table	(0,112,101,142)	29	459.jpg
 459	stove	(103,112,154,123)	30	459.jpg
 459	person	(0,0,148,125)	1	459.jpg
-459	shell_egg	(65,107,18,20)	7	459.jpg
+459	broken_egg	(65,107,18,20)	4	459.jpg
 459	ham	(60,173,35,32)	12	459.jpg
 459	frying_pan	(103,117,82,73)	14	459.jpg
 459	pan_handle	(200,77,27,55)	15	459.jpg
@@ -4871,7 +4871,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 460	table	(0,112,101,142)	29	460.jpg
 460	stove	(103,112,154,123)	30	460.jpg
 460	person	(0,0,148,125)	1	460.jpg
-460	shell_egg	(64,108,18,19)	7	460.jpg
+460	broken_egg	(64,108,18,19)	4	460.jpg
 460	ham	(60,173,35,32)	12	460.jpg
 460	frying_pan	(103,117,82,73)	14	460.jpg
 460	pan_handle	(200,77,27,55)	15	460.jpg
@@ -4882,7 +4882,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 461	table	(0,112,101,142)	29	461.jpg
 461	stove	(103,112,154,123)	30	461.jpg
 461	person	(0,0,148,125)	1	461.jpg
-461	shell_egg	(64,108,19,19)	7	461.jpg
+461	broken_egg	(64,108,19,19)	4	461.jpg
 461	ham	(60,173,35,32)	12	461.jpg
 461	frying_pan	(103,117,82,73)	14	461.jpg
 461	pan_handle	(200,77,27,55)	15	461.jpg
@@ -4893,7 +4893,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 462	table	(0,112,101,142)	29	462.jpg
 462	stove	(103,112,154,123)	30	462.jpg
 462	person	(0,0,148,125)	1	462.jpg
-462	shell_egg	(64,107,19,20)	7	462.jpg
+462	broken_egg	(64,107,19,20)	4	462.jpg
 462	ham	(60,173,35,32)	12	462.jpg
 462	frying_pan	(103,117,82,73)	14	462.jpg
 462	pan_handle	(200,77,27,55)	15	462.jpg
@@ -38399,7 +38399,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3619	table	(0,112,101,142)	29	3619.jpg
 3619	stove	(103,112,154,123)	30	3619.jpg
 3619	person	(58,0,144,137)	1	3619.jpg
-3619	ham_egg	(117,132,47,27)	8	3619.jpg
+3619	broken_egg	(117,132,47,27)	4	3619.jpg
 3619	frying_pan	(103,85,84,108)	14	3619.jpg
 3619	bowl	(121,104,49,47)	17	3619.jpg
 3619	chopstick	(154,70,47,42)	18	3619.jpg
@@ -38409,7 +38409,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3620	table	(0,112,101,142)	29	3620.jpg
 3620	stove	(103,112,154,123)	30	3620.jpg
 3620	person	(59,0,143,137)	1	3620.jpg
-3620	ham_egg	(116,132,48,26)	8	3620.jpg
+3620	broken_egg	(116,132,48,26)	4	3620.jpg
 3620	frying_pan	(103,85,84,108)	14	3620.jpg
 3620	bowl	(123,104,47,47)	17	3620.jpg
 3620	chopstick	(155,70,47,43)	18	3620.jpg
@@ -38419,7 +38419,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3621	table	(0,112,101,142)	29	3621.jpg
 3621	stove	(103,112,154,123)	30	3621.jpg
 3621	person	(59,0,143,137)	1	3621.jpg
-3621	ham_egg	(115,132,50,26)	8	3621.jpg
+3621	broken_egg	(115,132,50,26)	4	3621.jpg
 3621	frying_pan	(103,85,84,108)	14	3621.jpg
 3621	bowl	(119,103,51,48)	17	3621.jpg
 3621	chopstick	(155,71,48,43)	18	3621.jpg
@@ -38429,7 +38429,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3622	table	(0,112,101,142)	29	3622.jpg
 3622	stove	(103,112,154,123)	30	3622.jpg
 3622	person	(59,0,144,137)	1	3622.jpg
-3622	ham_egg	(114,133,50,26)	8	3622.jpg
+3622	broken_egg	(114,133,50,26)	4	3622.jpg
 3622	frying_pan	(103,85,84,108)	14	3622.jpg
 3622	bowl	(122,103,48,48)	17	3622.jpg
 3622	chopstick	(155,71,49,44)	18	3622.jpg
@@ -38439,7 +38439,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3623	table	(0,112,101,142)	29	3623.jpg
 3623	stove	(103,112,154,123)	30	3623.jpg
 3623	person	(59,0,144,137)	1	3623.jpg
-3623	ham_egg	(115,131,51,26)	8	3623.jpg
+3623	broken_egg	(115,131,51,26)	4	3623.jpg
 3623	frying_pan	(103,85,84,108)	14	3623.jpg
 3623	bowl	(123,103,48,45)	17	3623.jpg
 3623	chopstick	(156,71,48,45)	18	3623.jpg
@@ -38449,7 +38449,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3624	table	(0,112,101,142)	29	3624.jpg
 3624	stove	(103,112,154,123)	30	3624.jpg
 3624	person	(59,0,145,137)	1	3624.jpg
-3624	ham_egg	(116,132,48,29)	8	3624.jpg
+3624	broken_egg	(116,132,48,29)	4	3624.jpg
 3624	frying_pan	(103,85,84,108)	14	3624.jpg
 3624	bowl	(120,102,51,50)	17	3624.jpg
 3624	chopstick	(156,71,49,45)	18	3624.jpg
@@ -38459,7 +38459,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3625	table	(0,112,101,142)	29	3625.jpg
 3625	stove	(103,112,154,123)	30	3625.jpg
 3625	person	(60,0,144,137)	1	3625.jpg
-3625	ham_egg	(115,132,51,30)	8	3625.jpg
+3625	broken_egg	(115,132,51,30)	4	3625.jpg
 3625	frying_pan	(103,85,84,108)	14	3625.jpg
 3625	bowl	(120,102,50,52)	17	3625.jpg
 3625	chopstick	(158,71,49,45)	18	3625.jpg
@@ -38469,7 +38469,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3626	table	(0,112,101,142)	29	3626.jpg
 3626	stove	(103,112,154,123)	30	3626.jpg
 3626	person	(60,0,145,137)	1	3626.jpg
-3626	ham_egg	(116,134,48,26)	8	3626.jpg
+3626	broken_egg	(116,134,48,26)	4	3626.jpg
 3626	frying_pan	(103,85,84,108)	14	3626.jpg
 3626	bowl	(117,102,53,51)	17	3626.jpg
 3626	chopstick	(156,71,50,45)	18	3626.jpg
@@ -38479,7 +38479,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3627	table	(0,112,101,142)	29	3627.jpg
 3627	stove	(103,112,154,123)	30	3627.jpg
 3627	person	(60,0,145,137)	1	3627.jpg
-3627	ham_egg	(116,134,47,27)	8	3627.jpg
+3627	broken_egg	(116,134,47,27)	4	3627.jpg
 3627	frying_pan	(103,85,84,108)	14	3627.jpg
 3627	bowl	(118,101,54,48)	17	3627.jpg
 3627	chopstick	(157,70,51,46)	18	3627.jpg
@@ -38489,7 +38489,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3628	table	(0,112,101,142)	29	3628.jpg
 3628	stove	(103,112,154,123)	30	3628.jpg
 3628	person	(60,0,145,137)	1	3628.jpg
-3628	ham_egg	(116,132,47,29)	8	3628.jpg
+3628	broken_egg	(116,132,47,29)	4	3628.jpg
 3628	frying_pan	(103,85,84,108)	14	3628.jpg
 3628	bowl	(120,101,50,49)	17	3628.jpg
 3628	chopstick	(156,70,51,46)	18	3628.jpg
@@ -38499,7 +38499,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3629	table	(0,112,101,142)	29	3629.jpg
 3629	stove	(103,112,154,123)	30	3629.jpg
 3629	person	(60,0,145,137)	1	3629.jpg
-3629	ham_egg	(115,132,48,27)	8	3629.jpg
+3629	broken_egg	(115,132,48,27)	4	3629.jpg
 3629	frying_pan	(103,85,84,108)	14	3629.jpg
 3629	bowl	(118,100,54,49)	17	3629.jpg
 3629	chopstick	(158,69,51,47)	18	3629.jpg
@@ -38509,7 +38509,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3630	table	(0,112,101,142)	29	3630.jpg
 3630	stove	(103,112,154,123)	30	3630.jpg
 3630	person	(60,0,145,137)	1	3630.jpg
-3630	ham_egg	(114,131,48,28)	8	3630.jpg
+3630	broken_egg	(114,131,48,28)	4	3630.jpg
 3630	frying_pan	(103,85,84,108)	14	3630.jpg
 3630	bowl	(115,99,54,48)	17	3630.jpg
 3630	chopstick	(156,69,52,47)	18	3630.jpg
@@ -38519,7 +38519,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3631	table	(0,112,101,142)	29	3631.jpg
 3631	stove	(103,112,154,123)	30	3631.jpg
 3631	person	(60,0,146,137)	1	3631.jpg
-3631	ham_egg	(114,132,50,29)	8	3631.jpg
+3631	broken_egg	(114,132,50,29)	4	3631.jpg
 3631	frying_pan	(103,85,84,108)	14	3631.jpg
 3631	bowl	(116,99,56,51)	17	3631.jpg
 3631	chopstick	(158,68,52,48)	18	3631.jpg
@@ -38529,7 +38529,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3632	table	(0,112,101,142)	29	3632.jpg
 3632	stove	(103,112,154,123)	30	3632.jpg
 3632	person	(59,0,147,137)	1	3632.jpg
-3632	ham_egg	(115,131,49,29)	8	3632.jpg
+3632	broken_egg	(115,131,49,29)	4	3632.jpg
 3632	frying_pan	(103,85,84,108)	14	3632.jpg
 3632	bowl	(117,98,53,52)	17	3632.jpg
 3632	chopstick	(156,68,53,48)	18	3632.jpg
@@ -38539,7 +38539,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3633	table	(0,112,101,142)	29	3633.jpg
 3633	stove	(103,112,154,123)	30	3633.jpg
 3633	person	(59,0,146,137)	1	3633.jpg
-3633	ham_egg	(115,132,49,27)	8	3633.jpg
+3633	broken_egg	(115,132,49,27)	4	3633.jpg
 3633	frying_pan	(103,85,84,108)	14	3633.jpg
 3633	bowl	(119,97,52,49)	17	3633.jpg
 3633	chopstick	(157,68,52,48)	18	3633.jpg
@@ -38549,7 +38549,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3634	table	(0,112,101,142)	29	3634.jpg
 3634	stove	(103,112,154,123)	30	3634.jpg
 3634	person	(59,0,147,137)	1	3634.jpg
-3634	ham_egg	(113,130,52,29)	8	3634.jpg
+3634	broken_egg	(113,130,52,29)	4	3634.jpg
 3634	frying_pan	(103,85,84,108)	14	3634.jpg
 3634	bowl	(119,97,52,49)	17	3634.jpg
 3634	chopstick	(157,68,53,48)	18	3634.jpg
@@ -38559,7 +38559,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3635	table	(0,112,101,142)	29	3635.jpg
 3635	stove	(103,112,154,123)	30	3635.jpg
 3635	person	(59,0,147,137)	1	3635.jpg
-3635	ham_egg	(115,130,51,30)	8	3635.jpg
+3635	broken_egg	(115,130,51,30)	4	3635.jpg
 3635	frying_pan	(103,85,84,108)	14	3635.jpg
 3635	bowl	(118,97,53,49)	17	3635.jpg
 3635	chopstick	(159,68,53,48)	18	3635.jpg
@@ -38569,7 +38569,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3636	table	(0,112,101,142)	29	3636.jpg
 3636	stove	(103,112,154,123)	30	3636.jpg
 3636	person	(59,0,147,137)	1	3636.jpg
-3636	ham_egg	(116,130,48,29)	8	3636.jpg
+3636	broken_egg	(116,130,48,29)	4	3636.jpg
 3636	frying_pan	(103,85,84,108)	14	3636.jpg
 3636	bowl	(116,97,54,50)	17	3636.jpg
 3636	chopstick	(158,68,53,48)	18	3636.jpg
@@ -38579,7 +38579,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3637	table	(0,112,101,142)	29	3637.jpg
 3637	stove	(103,112,154,123)	30	3637.jpg
 3637	person	(60,0,146,137)	1	3637.jpg
-3637	ham_egg	(115,131,50,30)	8	3637.jpg
+3637	broken_egg	(115,131,50,30)	4	3637.jpg
 3637	frying_pan	(103,85,84,108)	14	3637.jpg
 3637	bowl	(119,96,52,48)	17	3637.jpg
 3637	chopstick	(160,67,53,49)	18	3637.jpg
@@ -38589,7 +38589,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3638	table	(0,112,101,142)	29	3638.jpg
 3638	stove	(103,112,154,123)	30	3638.jpg
 3638	person	(60,0,154,138)	1	3638.jpg
-3638	ham_egg	(115,131,51,29)	8	3638.jpg
+3638	broken_egg	(115,131,51,29)	4	3638.jpg
 3638	frying_pan	(103,85,84,108)	14	3638.jpg
 3638	bowl	(124,95,48,50)	17	3638.jpg
 3638	chopstick	(159,66,54,50)	18	3638.jpg
@@ -38599,7 +38599,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3639	table	(0,112,101,142)	29	3639.jpg
 3639	stove	(103,112,154,123)	30	3639.jpg
 3639	person	(60,0,152,136)	1	3639.jpg
-3639	ham_egg	(115,129,48,32)	8	3639.jpg
+3639	broken_egg	(115,129,48,32)	4	3639.jpg
 3639	frying_pan	(103,85,84,108)	14	3639.jpg
 3639	bowl	(122,93,51,50)	17	3639.jpg
 3639	chopstick	(159,66,56,50)	18	3639.jpg
@@ -38609,7 +38609,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3640	table	(0,112,101,142)	29	3640.jpg
 3640	stove	(103,112,154,123)	30	3640.jpg
 3640	person	(60,0,152,138)	1	3640.jpg
-3640	ham_egg	(115,129,50,31)	8	3640.jpg
+3640	broken_egg	(115,129,50,31)	4	3640.jpg
 3640	frying_pan	(103,85,84,108)	14	3640.jpg
 3640	bowl	(119,92,54,49)	17	3640.jpg
 3640	chopstick	(158,65,56,51)	18	3640.jpg
@@ -38619,7 +38619,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3641	table	(0,112,101,142)	29	3641.jpg
 3641	stove	(103,112,154,123)	30	3641.jpg
 3641	person	(61,0,146,137)	1	3641.jpg
-3641	ham_egg	(115,129,50,30)	8	3641.jpg
+3641	broken_egg	(115,129,50,30)	4	3641.jpg
 3641	frying_pan	(103,85,84,108)	14	3641.jpg
 3641	bowl	(121,90,51,52)	17	3641.jpg
 3641	chopstick	(157,64,57,52)	18	3641.jpg
@@ -38629,7 +38629,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3642	table	(0,112,101,142)	29	3642.jpg
 3642	stove	(103,112,154,123)	30	3642.jpg
 3642	person	(61,0,146,137)	1	3642.jpg
-3642	ham_egg	(114,129,54,30)	8	3642.jpg
+3642	broken_egg	(114,129,54,30)	4	3642.jpg
 3642	frying_pan	(103,85,84,108)	14	3642.jpg
 3642	bowl	(122,91,50,49)	17	3642.jpg
 3642	chopstick	(156,64,57,52)	18	3642.jpg
@@ -38639,7 +38639,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3643	table	(0,112,101,142)	29	3643.jpg
 3643	stove	(103,112,154,123)	30	3643.jpg
 3643	person	(62,0,146,137)	1	3643.jpg
-3643	ham_egg	(116,129,50,31)	8	3643.jpg
+3643	broken_egg	(116,129,50,31)	4	3643.jpg
 3643	frying_pan	(103,85,84,108)	14	3643.jpg
 3643	bowl	(120,92,50,52)	17	3643.jpg
 3643	chopstick	(153,64,57,53)	18	3643.jpg
@@ -38649,7 +38649,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3644	table	(0,112,101,142)	29	3644.jpg
 3644	stove	(103,112,154,123)	30	3644.jpg
 3644	person	(62,0,146,137)	1	3644.jpg
-3644	ham_egg	(116,129,51,30)	8	3644.jpg
+3644	broken_egg	(116,129,51,30)	4	3644.jpg
 3644	frying_pan	(103,85,84,108)	14	3644.jpg
 3644	bowl	(118,93,50,49)	17	3644.jpg
 3644	chopstick	(154,64,57,53)	18	3644.jpg
@@ -38659,7 +38659,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3645	table	(0,112,101,142)	29	3645.jpg
 3645	stove	(103,112,154,123)	30	3645.jpg
 3645	person	(63,0,145,137)	1	3645.jpg
-3645	ham_egg	(114,128,50,30)	8	3645.jpg
+3645	broken_egg	(114,128,50,30)	4	3645.jpg
 3645	frying_pan	(103,85,84,108)	14	3645.jpg
 3645	bowl	(118,94,49,51)	17	3645.jpg
 3645	chopstick	(152,64,57,53)	18	3645.jpg
@@ -38669,7 +38669,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3646	table	(0,112,101,142)	29	3646.jpg
 3646	stove	(103,112,154,123)	30	3646.jpg
 3646	person	(63,0,145,137)	1	3646.jpg
-3646	ham_egg	(115,130,49,29)	8	3646.jpg
+3646	broken_egg	(115,130,49,29)	4	3646.jpg
 3646	frying_pan	(103,85,84,108)	14	3646.jpg
 3646	bowl	(119,94,48,51)	17	3646.jpg
 3646	chopstick	(152,65,57,52)	18	3646.jpg
@@ -38679,7 +38679,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3647	table	(0,112,101,142)	29	3647.jpg
 3647	stove	(103,112,154,123)	30	3647.jpg
 3647	person	(63,0,145,137)	1	3647.jpg
-3647	ham_egg	(115,130,50,28)	8	3647.jpg
+3647	broken_egg	(115,130,50,28)	4	3647.jpg
 3647	frying_pan	(103,85,84,108)	14	3647.jpg
 3647	bowl	(118,94,49,51)	17	3647.jpg
 3647	chopstick	(151,64,58,53)	18	3647.jpg
@@ -38689,7 +38689,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3648	table	(0,112,101,142)	29	3648.jpg
 3648	stove	(103,112,154,123)	30	3648.jpg
 3648	person	(64,0,145,137)	1	3648.jpg
-3648	ham_egg	(114,130,51,30)	8	3648.jpg
+3648	broken_egg	(114,130,51,30)	4	3648.jpg
 3648	frying_pan	(103,85,84,108)	14	3648.jpg
 3648	bowl	(117,94,49,53)	17	3648.jpg
 3648	chopstick	(151,64,57,53)	18	3648.jpg
@@ -38699,7 +38699,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3649	table	(0,112,101,142)	29	3649.jpg
 3649	stove	(103,112,154,123)	30	3649.jpg
 3649	person	(64,0,145,137)	1	3649.jpg
-3649	ham_egg	(115,128,47,30)	8	3649.jpg
+3649	broken_egg	(115,128,47,30)	4	3649.jpg
 3649	frying_pan	(103,85,84,108)	14	3649.jpg
 3649	bowl	(111,94,52,53)	17	3649.jpg
 3649	chopstick	(152,64,58,53)	18	3649.jpg
@@ -38709,7 +38709,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3650	table	(0,112,101,142)	29	3650.jpg
 3650	stove	(103,112,154,123)	30	3650.jpg
 3650	person	(64,0,145,137)	1	3650.jpg
-3650	ham_egg	(115,129,50,32)	8	3650.jpg
+3650	broken_egg	(115,129,50,32)	4	3650.jpg
 3650	frying_pan	(103,85,84,108)	14	3650.jpg
 3650	bowl	(115,95,49,50)	17	3650.jpg
 3650	chopstick	(151,64,59,53)	18	3650.jpg
@@ -38719,7 +38719,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3651	table	(0,112,101,142)	29	3651.jpg
 3651	stove	(103,112,154,123)	30	3651.jpg
 3651	person	(64,0,146,137)	1	3651.jpg
-3651	ham_egg	(113,131,50,27)	8	3651.jpg
+3651	broken_egg	(113,131,50,27)	4	3651.jpg
 3651	frying_pan	(103,85,84,108)	14	3651.jpg
 3651	bowl	(116,94,48,51)	17	3651.jpg
 3651	chopstick	(152,64,58,53)	18	3651.jpg
@@ -38729,7 +38729,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3652	table	(0,112,101,142)	29	3652.jpg
 3652	stove	(103,112,154,123)	30	3652.jpg
 3652	person	(65,0,146,137)	1	3652.jpg
-3652	ham_egg	(113,132,51,29)	8	3652.jpg
+3652	broken_egg	(113,132,51,29)	4	3652.jpg
 3652	frying_pan	(103,85,84,108)	14	3652.jpg
 3652	bowl	(117,94,46,50)	17	3652.jpg
 3652	chopstick	(152,64,58,53)	18	3652.jpg
@@ -38739,7 +38739,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3653	table	(0,112,101,142)	29	3653.jpg
 3653	stove	(103,112,154,123)	30	3653.jpg
 3653	person	(65,0,146,137)	1	3653.jpg
-3653	ham_egg	(116,130,47,31)	8	3653.jpg
+3653	broken_egg	(116,130,47,31)	4	3653.jpg
 3653	frying_pan	(103,85,84,108)	14	3653.jpg
 3653	bowl	(115,94,47,52)	17	3653.jpg
 3653	chopstick	(153,64,58,53)	18	3653.jpg
@@ -38749,7 +38749,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3654	table	(0,112,101,142)	29	3654.jpg
 3654	stove	(103,112,154,123)	30	3654.jpg
 3654	person	(65,0,146,137)	1	3654.jpg
-3654	ham_egg	(114,130,51,29)	8	3654.jpg
+3654	broken_egg	(114,130,51,29)	4	3654.jpg
 3654	frying_pan	(103,85,84,108)	14	3654.jpg
 3654	bowl	(115,94,50,48)	17	3654.jpg
 3654	chopstick	(155,64,58,53)	18	3654.jpg
@@ -38759,7 +38759,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3655	table	(0,112,101,142)	29	3655.jpg
 3655	stove	(103,112,154,123)	30	3655.jpg
 3655	person	(66,0,146,137)	1	3655.jpg
-3655	ham_egg	(116,129,48,29)	8	3655.jpg
+3655	broken_egg	(116,129,48,29)	4	3655.jpg
 3655	frying_pan	(103,85,84,108)	14	3655.jpg
 3655	bowl	(116,92,50,51)	17	3655.jpg
 3655	chopstick	(154,69,57,48)	18	3655.jpg
@@ -38769,7 +38769,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3656	table	(0,112,101,142)	29	3656.jpg
 3656	stove	(103,112,154,123)	30	3656.jpg
 3656	person	(66,0,146,137)	1	3656.jpg
-3656	ham_egg	(116,130,49,30)	8	3656.jpg
+3656	broken_egg	(116,130,49,30)	4	3656.jpg
 3656	frying_pan	(103,85,84,108)	14	3656.jpg
 3656	bowl	(117,91,49,51)	17	3656.jpg
 3656	chopstick	(156,71,59,46)	18	3656.jpg
@@ -38779,7 +38779,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3657	table	(0,112,101,142)	29	3657.jpg
 3657	stove	(103,112,154,123)	30	3657.jpg
 3657	person	(66,0,147,137)	1	3657.jpg
-3657	ham_egg	(115,129,50,29)	8	3657.jpg
+3657	broken_egg	(115,129,50,29)	4	3657.jpg
 3657	frying_pan	(103,85,84,108)	14	3657.jpg
 3657	bowl	(112,91,53,50)	17	3657.jpg
 3657	chopstick	(155,69,58,48)	18	3657.jpg
@@ -38789,7 +38789,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3658	table	(0,112,101,142)	29	3658.jpg
 3658	stove	(103,112,154,123)	30	3658.jpg
 3658	person	(67,0,146,137)	1	3658.jpg
-3658	ham_egg	(115,131,51,31)	8	3658.jpg
+3658	broken_egg	(115,131,51,31)	4	3658.jpg
 3658	frying_pan	(103,85,84,108)	14	3658.jpg
 3658	bowl	(118,91,50,48)	17	3658.jpg
 3658	chopstick	(157,69,56,48)	18	3658.jpg
@@ -38799,7 +38799,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3659	table	(0,112,101,142)	29	3659.jpg
 3659	stove	(103,112,154,123)	30	3659.jpg
 3659	person	(67,0,146,137)	1	3659.jpg
-3659	ham_egg	(114,128,52,32)	8	3659.jpg
+3659	broken_egg	(114,128,52,32)	4	3659.jpg
 3659	frying_pan	(103,85,84,108)	14	3659.jpg
 3659	bowl	(118,91,49,50)	17	3659.jpg
 3659	chopstick	(155,67,58,50)	18	3659.jpg
@@ -38809,7 +38809,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3660	table	(0,112,101,142)	29	3660.jpg
 3660	stove	(103,112,154,123)	30	3660.jpg
 3660	person	(67,0,146,137)	1	3660.jpg
-3660	ham_egg	(113,128,52,34)	8	3660.jpg
+3660	broken_egg	(113,128,52,34)	4	3660.jpg
 3660	frying_pan	(103,85,84,108)	14	3660.jpg
 3660	bowl	(115,92,50,50)	17	3660.jpg
 3660	chopstick	(157,71,56,46)	18	3660.jpg
@@ -38819,7 +38819,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3661	table	(0,112,101,142)	29	3661.jpg
 3661	stove	(103,112,154,123)	30	3661.jpg
 3661	person	(67,0,146,137)	1	3661.jpg
-3661	ham_egg	(113,129,52,32)	8	3661.jpg
+3661	broken_egg	(113,129,52,32)	4	3661.jpg
 3661	frying_pan	(103,85,84,108)	14	3661.jpg
 3661	bowl	(118,92,49,49)	17	3661.jpg
 3661	chopstick	(155,61,61,56)	18	3661.jpg
@@ -38829,7 +38829,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3662	table	(0,112,101,142)	29	3662.jpg
 3662	stove	(103,112,154,123)	30	3662.jpg
 3662	person	(68,0,145,137)	1	3662.jpg
-3662	ham_egg	(113,129,50,31)	8	3662.jpg
+3662	broken_egg	(113,129,50,31)	4	3662.jpg
 3662	frying_pan	(103,85,84,108)	14	3662.jpg
 3662	bowl	(117,92,50,52)	17	3662.jpg
 3662	chopstick	(156,69,58,48)	18	3662.jpg
@@ -38839,7 +38839,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3663	table	(0,112,101,142)	29	3663.jpg
 3663	stove	(103,112,154,123)	30	3663.jpg
 3663	person	(68,0,145,137)	1	3663.jpg
-3663	ham_egg	(113,129,51,30)	8	3663.jpg
+3663	broken_egg	(113,129,51,30)	4	3663.jpg
 3663	frying_pan	(103,85,84,108)	14	3663.jpg
 3663	bowl	(114,92,51,49)	17	3663.jpg
 3663	chopstick	(154,72,61,45)	18	3663.jpg
@@ -38849,7 +38849,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3664	table	(0,112,101,142)	29	3664.jpg
 3664	stove	(103,112,154,123)	30	3664.jpg
 3664	person	(68,0,145,137)	1	3664.jpg
-3664	ham_egg	(113,128,51,32)	8	3664.jpg
+3664	broken_egg	(113,128,51,32)	4	3664.jpg
 3664	frying_pan	(103,85,84,108)	14	3664.jpg
 3664	bowl	(113,93,52,50)	17	3664.jpg
 3664	chopstick	(154,68,65,49)	18	3664.jpg
@@ -38859,7 +38859,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3665	table	(0,112,101,142)	29	3665.jpg
 3665	stove	(103,112,154,123)	30	3665.jpg
 3665	person	(68,0,145,137)	1	3665.jpg
-3665	ham_egg	(114,128,49,31)	8	3665.jpg
+3665	broken_egg	(114,128,49,31)	4	3665.jpg
 3665	frying_pan	(103,85,84,108)	14	3665.jpg
 3665	bowl	(116,93,49,47)	17	3665.jpg
 3665	chopstick	(152,64,59,53)	18	3665.jpg
@@ -38869,7 +38869,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3666	table	(0,112,101,142)	29	3666.jpg
 3666	stove	(103,112,154,123)	30	3666.jpg
 3666	person	(68,0,145,137)	1	3666.jpg
-3666	ham_egg	(113,130,55,29)	8	3666.jpg
+3666	broken_egg	(113,130,55,29)	4	3666.jpg
 3666	frying_pan	(103,85,84,108)	14	3666.jpg
 3666	bowl	(116,94,50,49)	17	3666.jpg
 3666	chopstick	(151,66,64,51)	18	3666.jpg
@@ -38879,7 +38879,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3667	table	(0,112,101,142)	29	3667.jpg
 3667	stove	(103,112,154,123)	30	3667.jpg
 3667	person	(69,0,144,137)	1	3667.jpg
-3667	ham_egg	(113,130,53,29)	8	3667.jpg
+3667	broken_egg	(113,130,53,29)	4	3667.jpg
 3667	frying_pan	(103,85,84,108)	14	3667.jpg
 3667	bowl	(115,94,48,47)	17	3667.jpg
 3667	chopstick	(150,67,60,50)	18	3667.jpg
@@ -38889,7 +38889,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3668	table	(0,112,101,142)	29	3668.jpg
 3668	stove	(103,112,154,123)	30	3668.jpg
 3668	person	(69,0,144,137)	1	3668.jpg
-3668	ham_egg	(114,129,50,27)	8	3668.jpg
+3668	broken_egg	(114,129,50,27)	4	3668.jpg
 3668	frying_pan	(103,85,84,108)	14	3668.jpg
 3668	bowl	(114,94,50,50)	17	3668.jpg
 3668	chopstick	(148,66,60,51)	18	3668.jpg
@@ -38899,7 +38899,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3669	table	(0,112,101,142)	29	3669.jpg
 3669	stove	(103,112,154,123)	30	3669.jpg
 3669	person	(69,0,144,137)	1	3669.jpg
-3669	ham_egg	(114,129,47,33)	8	3669.jpg
+3669	broken_egg	(114,129,47,33)	4	3669.jpg
 3669	frying_pan	(103,85,84,108)	14	3669.jpg
 3669	bowl	(112,94,53,50)	17	3669.jpg
 3669	chopstick	(147,64,60,54)	18	3669.jpg
@@ -38909,7 +38909,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3670	table	(0,112,101,142)	29	3670.jpg
 3670	stove	(103,112,154,123)	30	3670.jpg
 3670	person	(69,0,144,137)	1	3670.jpg
-3670	ham_egg	(114,130,50,32)	8	3670.jpg
+3670	broken_egg	(114,130,50,32)	4	3670.jpg
 3670	frying_pan	(103,85,84,108)	14	3670.jpg
 3670	bowl	(116,94,49,49)	17	3670.jpg
 3670	chopstick	(145,65,66,53)	18	3670.jpg
@@ -38919,7 +38919,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3671	table	(0,112,101,142)	29	3671.jpg
 3671	stove	(103,112,154,123)	30	3671.jpg
 3671	person	(70,0,143,137)	1	3671.jpg
-3671	ham_egg	(114,129,49,31)	8	3671.jpg
+3671	broken_egg	(114,129,49,31)	4	3671.jpg
 3671	frying_pan	(103,85,84,108)	14	3671.jpg
 3671	bowl	(113,95,50,49)	17	3671.jpg
 3671	chopstick	(144,61,67,57)	18	3671.jpg
@@ -38929,7 +38929,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3672	table	(0,112,101,142)	29	3672.jpg
 3672	stove	(103,112,154,123)	30	3672.jpg
 3672	person	(70,0,143,137)	1	3672.jpg
-3672	ham_egg	(115,131,50,30)	8	3672.jpg
+3672	broken_egg	(115,131,50,30)	4	3672.jpg
 3672	frying_pan	(103,85,84,108)	14	3672.jpg
 3672	bowl	(112,95,51,49)	17	3672.jpg
 3672	chopstick	(143,61,63,57)	18	3672.jpg
@@ -38939,7 +38939,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3673	table	(0,112,101,142)	29	3673.jpg
 3673	stove	(103,112,154,123)	30	3673.jpg
 3673	person	(70,0,143,137)	1	3673.jpg
-3673	ham_egg	(115,129,47,32)	8	3673.jpg
+3673	broken_egg	(115,129,47,32)	4	3673.jpg
 3673	frying_pan	(103,85,84,108)	14	3673.jpg
 3673	bowl	(113,93,52,50)	17	3673.jpg
 3673	chopstick	(153,61,57,53)	18	3673.jpg
@@ -38949,7 +38949,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3674	table	(0,112,101,142)	29	3674.jpg
 3674	stove	(103,112,154,123)	30	3674.jpg
 3674	person	(70,0,143,137)	1	3674.jpg
-3674	ham_egg	(114,131,50,29)	8	3674.jpg
+3674	broken_egg	(114,131,50,29)	4	3674.jpg
 3674	frying_pan	(103,85,84,108)	14	3674.jpg
 3674	bowl	(114,94,51,51)	17	3674.jpg
 3674	chopstick	(154,61,53,55)	18	3674.jpg
@@ -38959,7 +38959,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3675	table	(0,112,101,142)	29	3675.jpg
 3675	stove	(103,112,154,123)	30	3675.jpg
 3675	person	(70,0,144,137)	1	3675.jpg
-3675	ham_egg	(114,128,49,35)	8	3675.jpg
+3675	broken_egg	(114,128,49,35)	4	3675.jpg
 3675	frying_pan	(103,85,84,108)	14	3675.jpg
 3675	bowl	(114,95,49,50)	17	3675.jpg
 3675	chopstick	(150,62,58,56)	18	3675.jpg
@@ -38969,7 +38969,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3676	table	(0,112,101,142)	29	3676.jpg
 3676	stove	(103,112,154,123)	30	3676.jpg
 3676	person	(71,0,143,137)	1	3676.jpg
-3676	ham_egg	(114,129,50,31)	8	3676.jpg
+3676	broken_egg	(114,129,50,31)	4	3676.jpg
 3676	frying_pan	(103,85,84,108)	14	3676.jpg
 3676	bowl	(114,96,50,50)	17	3676.jpg
 3676	chopstick	(148,61,57,57)	18	3676.jpg
@@ -38979,7 +38979,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3677	table	(0,112,101,142)	29	3677.jpg
 3677	stove	(103,112,154,123)	30	3677.jpg
 3677	person	(71,0,143,137)	1	3677.jpg
-3677	ham_egg	(113,131,51,31)	8	3677.jpg
+3677	broken_egg	(113,131,51,31)	4	3677.jpg
 3677	frying_pan	(103,85,84,108)	14	3677.jpg
 3677	bowl	(111,96,54,50)	17	3677.jpg
 3677	chopstick	(149,60,56,58)	18	3677.jpg
@@ -38989,7 +38989,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3678	table	(0,112,101,142)	29	3678.jpg
 3678	stove	(103,112,154,123)	30	3678.jpg
 3678	person	(71,0,143,137)	1	3678.jpg
-3678	ham_egg	(115,129,47,30)	8	3678.jpg
+3678	broken_egg	(115,129,47,30)	4	3678.jpg
 3678	frying_pan	(103,85,84,108)	14	3678.jpg
 3678	bowl	(115,96,50,47)	17	3678.jpg
 3678	chopstick	(148,60,58,59)	18	3678.jpg
@@ -38999,7 +38999,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3679	table	(0,112,101,142)	29	3679.jpg
 3679	stove	(103,112,154,123)	30	3679.jpg
 3679	person	(71,0,143,137)	1	3679.jpg
-3679	ham_egg	(114,129,48,30)	8	3679.jpg
+3679	broken_egg	(114,129,48,30)	4	3679.jpg
 3679	frying_pan	(103,85,84,108)	14	3679.jpg
 3679	bowl	(114,96,51,50)	17	3679.jpg
 3679	chopstick	(148,58,56,61)	18	3679.jpg
@@ -39009,7 +39009,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3680	table	(0,112,101,142)	29	3680.jpg
 3680	stove	(103,112,154,123)	30	3680.jpg
 3680	person	(71,0,143,137)	1	3680.jpg
-3680	ham_egg	(113,129,50,32)	8	3680.jpg
+3680	broken_egg	(113,129,50,32)	4	3680.jpg
 3680	frying_pan	(103,85,84,108)	14	3680.jpg
 3680	bowl	(113,96,50,51)	17	3680.jpg
 3680	chopstick	(147,55,56,61)	18	3680.jpg
@@ -39019,7 +39019,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3681	table	(0,112,101,142)	29	3681.jpg
 3681	stove	(103,112,154,123)	30	3681.jpg
 3681	person	(72,0,142,137)	1	3681.jpg
-3681	ham_egg	(114,128,51,32)	8	3681.jpg
+3681	broken_egg	(114,128,51,32)	4	3681.jpg
 3681	frying_pan	(103,85,84,108)	14	3681.jpg
 3681	bowl	(115,96,51,50)	17	3681.jpg
 3681	chopstick	(148,52,54,63)	18	3681.jpg
@@ -39029,7 +39029,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3682	table	(0,112,101,142)	29	3682.jpg
 3682	stove	(103,112,154,123)	30	3682.jpg
 3682	person	(72,0,142,137)	1	3682.jpg
-3682	ham_egg	(114,130,47,29)	8	3682.jpg
+3682	broken_egg	(114,130,47,29)	4	3682.jpg
 3682	frying_pan	(103,85,84,108)	14	3682.jpg
 3682	bowl	(113,96,52,50)	17	3682.jpg
 3682	chopstick	(154,55,43,62)	18	3682.jpg
@@ -39039,7 +39039,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3683	table	(0,112,101,142)	29	3683.jpg
 3683	stove	(103,112,154,123)	30	3683.jpg
 3683	person	(72,0,141,137)	1	3683.jpg
-3683	ham_egg	(115,131,48,28)	8	3683.jpg
+3683	broken_egg	(115,131,48,28)	4	3683.jpg
 3683	frying_pan	(103,85,84,108)	14	3683.jpg
 3683	bowl	(114,96,50,48)	17	3683.jpg
 3683	chopstick	(144,55,60,72)	18	3683.jpg
@@ -39049,7 +39049,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3684	table	(0,112,101,142)	29	3684.jpg
 3684	stove	(103,112,154,123)	30	3684.jpg
 3684	person	(72,0,141,137)	1	3684.jpg
-3684	ham_egg	(113,129,49,31)	8	3684.jpg
+3684	broken_egg	(113,129,49,31)	4	3684.jpg
 3684	frying_pan	(103,85,84,108)	14	3684.jpg
 3684	bowl	(116,96,48,51)	17	3684.jpg
 3684	chopstick	(145,56,56,71)	18	3684.jpg
@@ -39059,7 +39059,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3685	table	(0,112,101,142)	29	3685.jpg
 3685	stove	(103,112,154,123)	30	3685.jpg
 3685	person	(72,0,141,137)	1	3685.jpg
-3685	ham_egg	(113,131,50,28)	8	3685.jpg
+3685	broken_egg	(113,131,50,28)	4	3685.jpg
 3685	frying_pan	(103,85,84,108)	14	3685.jpg
 3685	bowl	(119,96,44,46)	17	3685.jpg
 3685	chopstick	(151,55,52,72)	18	3685.jpg
@@ -39069,7 +39069,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3686	table	(0,112,101,142)	29	3686.jpg
 3686	stove	(103,112,154,123)	30	3686.jpg
 3686	person	(72,0,141,137)	1	3686.jpg
-3686	ham_egg	(115,131,49,30)	8	3686.jpg
+3686	broken_egg	(115,131,49,30)	4	3686.jpg
 3686	frying_pan	(103,85,84,108)	14	3686.jpg
 3686	bowl	(116,96,45,48)	17	3686.jpg
 3686	chopstick	(143,52,61,83)	18	3686.jpg
@@ -39079,7 +39079,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3687	table	(0,112,101,142)	29	3687.jpg
 3687	stove	(103,112,154,123)	30	3687.jpg
 3687	person	(73,0,139,137)	1	3687.jpg
-3687	ham_egg	(113,131,48,29)	8	3687.jpg
+3687	broken_egg	(113,131,48,29)	4	3687.jpg
 3687	frying_pan	(103,85,84,108)	14	3687.jpg
 3687	bowl	(112,97,46,47)	17	3687.jpg
 3687	chopstick	(152,53,51,75)	18	3687.jpg
@@ -39089,7 +39089,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3688	table	(0,112,101,142)	29	3688.jpg
 3688	stove	(103,112,154,123)	30	3688.jpg
 3688	person	(73,0,138,137)	1	3688.jpg
-3688	ham_egg	(113,131,49,30)	8	3688.jpg
+3688	broken_egg	(113,131,49,30)	4	3688.jpg
 3688	frying_pan	(103,85,84,108)	14	3688.jpg
 3688	bowl	(109,98,46,47)	17	3688.jpg
 3688	chopstick	(148,56,60,81)	18	3688.jpg
@@ -39099,7 +39099,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3689	table	(0,112,101,142)	29	3689.jpg
 3689	stove	(103,112,154,123)	30	3689.jpg
 3689	person	(72,0,139,137)	1	3689.jpg
-3689	ham_egg	(114,129,47,33)	8	3689.jpg
+3689	broken_egg	(114,129,47,33)	4	3689.jpg
 3689	frying_pan	(103,85,84,108)	14	3689.jpg
 3689	bowl	(104,97,47,49)	17	3689.jpg
 3689	chopstick	(149,52,59,80)	18	3689.jpg
@@ -39109,7 +39109,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3690	table	(0,112,101,142)	29	3690.jpg
 3690	stove	(103,112,154,123)	30	3690.jpg
 3690	person	(71,0,139,137)	1	3690.jpg
-3690	ham_egg	(113,128,51,32)	8	3690.jpg
+3690	broken_egg	(113,128,51,32)	4	3690.jpg
 3690	frying_pan	(103,85,84,108)	14	3690.jpg
 3690	bowl	(101,97,56,46)	17	3690.jpg
 3690	chopstick	(146,55,60,77)	18	3690.jpg
@@ -39119,7 +39119,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3691	table	(0,112,101,142)	29	3691.jpg
 3691	stove	(103,112,154,123)	30	3691.jpg
 3691	person	(69,0,142,137)	1	3691.jpg
-3691	ham_egg	(114,128,50,31)	8	3691.jpg
+3691	broken_egg	(114,128,50,31)	4	3691.jpg
 3691	frying_pan	(103,85,84,108)	14	3691.jpg
 3691	bowl	(98,96,47,47)	17	3691.jpg
 3691	chopstick	(147,54,60,78)	18	3691.jpg
@@ -39129,7 +39129,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3692	table	(0,112,101,142)	29	3692.jpg
 3692	stove	(103,112,154,123)	30	3692.jpg
 3692	person	(68,0,143,137)	1	3692.jpg
-3692	ham_egg	(114,127,50,34)	8	3692.jpg
+3692	broken_egg	(114,127,50,34)	4	3692.jpg
 3692	frying_pan	(103,85,84,108)	14	3692.jpg
 3692	bowl	(87,96,53,52)	17	3692.jpg
 3692	chopstick	(144,56,69,76)	18	3692.jpg
@@ -39139,7 +39139,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3693	table	(0,112,101,142)	29	3693.jpg
 3693	stove	(103,112,154,123)	30	3693.jpg
 3693	person	(66,0,141,137)	1	3693.jpg
-3693	ham_egg	(114,127,50,34)	8	3693.jpg
+3693	broken_egg	(114,127,50,34)	4	3693.jpg
 3693	frying_pan	(103,85,84,108)	14	3693.jpg
 3693	bowl	(83,95,53,50)	17	3693.jpg
 3693	chopstick	(146,54,68,78)	18	3693.jpg
@@ -39149,7 +39149,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3694	table	(0,112,101,142)	29	3694.jpg
 3694	stove	(103,112,154,123)	30	3694.jpg
 3694	person	(64,0,143,137)	1	3694.jpg
-3694	ham_egg	(114,127,50,34)	8	3694.jpg
+3694	broken_egg	(114,127,50,34)	4	3694.jpg
 3694	frying_pan	(103,85,84,108)	14	3694.jpg
 3694	bowl	(79,100,53,51)	17	3694.jpg
 3694	chopstick	(144,57,68,75)	18	3694.jpg
@@ -39159,7 +39159,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3695	table	(0,112,101,142)	29	3695.jpg
 3695	stove	(103,112,154,123)	30	3695.jpg
 3695	person	(61,0,149,135)	1	3695.jpg
-3695	ham_egg	(114,127,50,34)	8	3695.jpg
+3695	broken_egg	(114,127,50,34)	4	3695.jpg
 3695	frying_pan	(103,85,84,108)	14	3695.jpg
 3695	bowl	(63,100,60,47)	17	3695.jpg
 3695	chopstick	(143,54,73,78)	18	3695.jpg
@@ -39169,7 +39169,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3696	table	(0,112,101,142)	29	3696.jpg
 3696	stove	(103,112,154,123)	30	3696.jpg
 3696	person	(58,0,151,132)	1	3696.jpg
-3696	ham_egg	(114,127,50,34)	8	3696.jpg
+3696	broken_egg	(114,127,50,34)	4	3696.jpg
 3696	frying_pan	(103,85,84,108)	14	3696.jpg
 3696	bowl	(58,105,58,45)	17	3696.jpg
 3696	chopstick	(142,55,74,77)	18	3696.jpg
@@ -39179,7 +39179,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3697	table	(0,112,101,142)	29	3697.jpg
 3697	stove	(103,112,154,123)	30	3697.jpg
 3697	person	(54,0,156,139)	1	3697.jpg
-3697	ham_egg	(114,127,50,34)	8	3697.jpg
+3697	broken_egg	(114,127,50,34)	4	3697.jpg
 3697	frying_pan	(103,85,84,108)	14	3697.jpg
 3697	bowl	(59,105,48,46)	17	3697.jpg
 3697	chopstick	(142,56,73,77)	18	3697.jpg
@@ -39189,7 +39189,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3698	table	(0,112,101,142)	29	3698.jpg
 3698	stove	(103,112,154,123)	30	3698.jpg
 3698	person	(50,0,161,137)	1	3698.jpg
-3698	ham_egg	(114,127,50,34)	8	3698.jpg
+3698	broken_egg	(114,127,50,34)	4	3698.jpg
 3698	frying_pan	(103,85,84,108)	14	3698.jpg
 3698	bowl	(52,106,48,49)	17	3698.jpg
 3698	chopstick	(141,55,73,78)	18	3698.jpg
@@ -39199,7 +39199,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3699	table	(0,112,101,142)	29	3699.jpg
 3699	stove	(103,112,154,123)	30	3699.jpg
 3699	person	(46,0,163,138)	1	3699.jpg
-3699	ham_egg	(114,127,50,34)	8	3699.jpg
+3699	broken_egg	(114,127,50,34)	4	3699.jpg
 3699	frying_pan	(103,85,84,108)	14	3699.jpg
 3699	bowl	(46,107,46,52)	17	3699.jpg
 3699	chopstick	(143,54,69,79)	18	3699.jpg
@@ -39209,7 +39209,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3700	table	(0,112,101,142)	29	3700.jpg
 3700	stove	(103,112,154,123)	30	3700.jpg
 3700	person	(46,0,162,139)	1	3700.jpg
-3700	ham_egg	(114,127,50,34)	8	3700.jpg
+3700	broken_egg	(114,127,50,34)	4	3700.jpg
 3700	frying_pan	(103,85,84,108)	14	3700.jpg
 3700	bowl	(40,113,49,48)	17	3700.jpg
 3700	chopstick	(145,53,65,80)	18	3700.jpg
@@ -39219,7 +39219,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3701	table	(0,112,101,142)	29	3701.jpg
 3701	stove	(103,112,154,123)	30	3701.jpg
 3701	person	(41,0,167,138)	1	3701.jpg
-3701	ham_egg	(114,127,50,34)	8	3701.jpg
+3701	broken_egg	(114,127,50,34)	4	3701.jpg
 3701	frying_pan	(103,85,84,108)	14	3701.jpg
 3701	bowl	(36,114,49,45)	17	3701.jpg
 3701	chopstick	(144,52,65,80)	18	3701.jpg
@@ -39229,7 +39229,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3702	table	(0,112,101,142)	29	3702.jpg
 3702	stove	(103,112,154,123)	30	3702.jpg
 3702	person	(41,0,165,138)	1	3702.jpg
-3702	ham_egg	(114,127,50,34)	8	3702.jpg
+3702	broken_egg	(114,127,50,34)	4	3702.jpg
 3702	frying_pan	(103,85,84,108)	14	3702.jpg
 3702	bowl	(34,116,50,44)	17	3702.jpg
 3702	chopstick	(142,51,67,82)	18	3702.jpg
@@ -39239,7 +39239,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3703	table	(0,112,101,142)	29	3703.jpg
 3703	stove	(103,112,154,123)	30	3703.jpg
 3703	person	(35,0,172,139)	1	3703.jpg
-3703	ham_egg	(114,127,50,34)	8	3703.jpg
+3703	broken_egg	(114,127,50,34)	4	3703.jpg
 3703	frying_pan	(103,85,84,108)	14	3703.jpg
 3703	bowl	(33,117,49,45)	17	3703.jpg
 3703	chopstick	(140,50,68,83)	18	3703.jpg
@@ -39249,7 +39249,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3704	table	(0,112,101,142)	29	3704.jpg
 3704	stove	(103,112,154,123)	30	3704.jpg
 3704	person	(36,0,166,139)	1	3704.jpg
-3704	ham_egg	(114,127,50,34)	8	3704.jpg
+3704	broken_egg	(114,127,50,34)	4	3704.jpg
 3704	frying_pan	(103,85,84,108)	14	3704.jpg
 3704	bowl	(32,119,48,44)	17	3704.jpg
 3704	chopstick	(139,49,69,85)	18	3704.jpg
@@ -39259,7 +39259,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3705	table	(0,112,101,142)	29	3705.jpg
 3705	stove	(103,112,154,123)	30	3705.jpg
 3705	person	(32,0,168,145)	1	3705.jpg
-3705	ham_egg	(114,127,50,34)	8	3705.jpg
+3705	broken_egg	(114,127,50,34)	4	3705.jpg
 3705	frying_pan	(103,85,84,108)	14	3705.jpg
 3705	bowl	(30,121,48,43)	17	3705.jpg
 3705	chopstick	(137,48,70,86)	18	3705.jpg
@@ -39269,7 +39269,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3706	table	(0,112,101,142)	29	3706.jpg
 3706	stove	(103,112,154,123)	30	3706.jpg
 3706	person	(38,0,162,146)	1	3706.jpg
-3706	ham_egg	(114,127,50,34)	8	3706.jpg
+3706	broken_egg	(114,127,50,34)	4	3706.jpg
 3706	frying_pan	(103,85,84,108)	14	3706.jpg
 3706	bowl	(30,123,52,44)	17	3706.jpg
 3706	chopstick	(135,46,72,89)	18	3706.jpg
@@ -39279,7 +39279,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3707	table	(0,112,101,142)	29	3707.jpg
 3707	stove	(103,112,154,123)	30	3707.jpg
 3707	person	(37,0,163,151)	1	3707.jpg
-3707	ham_egg	(114,127,50,34)	8	3707.jpg
+3707	broken_egg	(114,127,50,34)	4	3707.jpg
 3707	frying_pan	(103,85,84,108)	14	3707.jpg
 3707	bowl	(29,124,58,45)	17	3707.jpg
 3707	chopstick	(133,45,74,90)	18	3707.jpg
@@ -39289,7 +39289,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3708	table	(0,112,101,142)	29	3708.jpg
 3708	stove	(103,112,154,123)	30	3708.jpg
 3708	person	(33,0,167,142)	1	3708.jpg
-3708	ham_egg	(114,127,50,34)	8	3708.jpg
+3708	broken_egg	(114,127,50,34)	4	3708.jpg
 3708	frying_pan	(103,85,84,108)	14	3708.jpg
 3708	bowl	(30,124,52,46)	17	3708.jpg
 3708	chopstick	(132,52,71,84)	18	3708.jpg
@@ -39299,7 +39299,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3709	table	(0,112,101,142)	29	3709.jpg
 3709	stove	(103,112,154,123)	30	3709.jpg
 3709	person	(35,0,163,140)	1	3709.jpg
-3709	ham_egg	(114,127,50,34)	8	3709.jpg
+3709	broken_egg	(114,127,50,34)	4	3709.jpg
 3709	frying_pan	(103,85,84,108)	14	3709.jpg
 3709	bowl	(30,124,52,46)	17	3709.jpg
 3709	chopstick	(130,49,73,87)	18	3709.jpg
@@ -39309,7 +39309,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3710	table	(0,112,101,142)	29	3710.jpg
 3710	stove	(103,112,154,123)	30	3710.jpg
 3710	person	(35,0,161,144)	1	3710.jpg
-3710	ham_egg	(114,127,50,34)	8	3710.jpg
+3710	broken_egg	(114,127,50,34)	4	3710.jpg
 3710	frying_pan	(103,85,84,108)	14	3710.jpg
 3710	bowl	(30,124,52,46)	17	3710.jpg
 3710	chopstick	(128,51,74,86)	18	3710.jpg
@@ -39319,7 +39319,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3711	table	(0,112,101,142)	29	3711.jpg
 3711	stove	(103,112,154,123)	30	3711.jpg
 3711	person	(36,0,161,145)	1	3711.jpg
-3711	ham_egg	(114,127,50,34)	8	3711.jpg
+3711	broken_egg	(114,127,50,34)	4	3711.jpg
 3711	frying_pan	(103,85,84,108)	14	3711.jpg
 3711	bowl	(30,124,52,46)	17	3711.jpg
 3711	chopstick	(127,46,74,91)	18	3711.jpg
@@ -39329,7 +39329,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3712	table	(0,112,101,142)	29	3712.jpg
 3712	stove	(103,112,154,123)	30	3712.jpg
 3712	person	(37,0,157,144)	1	3712.jpg
-3712	ham_egg	(114,127,50,34)	8	3712.jpg
+3712	broken_egg	(114,127,50,34)	4	3712.jpg
 3712	frying_pan	(103,85,84,108)	14	3712.jpg
 3712	bowl	(30,124,52,46)	17	3712.jpg
 3712	chopstick	(123,48,76,90)	18	3712.jpg
@@ -39339,7 +39339,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3713	table	(0,112,101,142)	29	3713.jpg
 3713	stove	(103,112,154,123)	30	3713.jpg
 3713	person	(34,0,162,142)	1	3713.jpg
-3713	ham_egg	(114,127,50,34)	8	3713.jpg
+3713	broken_egg	(114,127,50,34)	4	3713.jpg
 3713	frying_pan	(103,85,84,108)	14	3713.jpg
 3713	bowl	(30,124,52,46)	17	3713.jpg
 3713	chopstick	(126,47,71,91)	18	3713.jpg
@@ -39349,7 +39349,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3714	table	(0,112,101,142)	29	3714.jpg
 3714	stove	(103,112,154,123)	30	3714.jpg
 3714	person	(35,0,158,146)	1	3714.jpg
-3714	ham_egg	(114,127,50,34)	8	3714.jpg
+3714	broken_egg	(114,127,50,34)	4	3714.jpg
 3714	frying_pan	(103,85,84,108)	14	3714.jpg
 3714	bowl	(30,124,52,46)	17	3714.jpg
 3714	chopstick	(125,47,74,92)	18	3714.jpg
@@ -39359,7 +39359,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3715	table	(0,112,101,142)	29	3715.jpg
 3715	stove	(103,112,154,123)	30	3715.jpg
 3715	person	(32,0,162,142)	1	3715.jpg
-3715	ham_egg	(114,127,50,34)	8	3715.jpg
+3715	broken_egg	(114,127,50,34)	4	3715.jpg
 3715	frying_pan	(103,85,84,108)	14	3715.jpg
 3715	bowl	(30,124,52,46)	17	3715.jpg
 3715	chopstick	(133,48,64,81)	18	3715.jpg
@@ -39369,7 +39369,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3716	table	(0,112,101,142)	29	3716.jpg
 3716	stove	(103,112,154,123)	30	3716.jpg
 3716	person	(33,0,160,141)	1	3716.jpg
-3716	ham_egg	(114,127,50,34)	8	3716.jpg
+3716	broken_egg	(114,127,50,34)	4	3716.jpg
 3716	frying_pan	(103,85,84,108)	14	3716.jpg
 3716	bowl	(30,124,52,46)	17	3716.jpg
 3716	chopstick	(134,47,64,81)	18	3716.jpg
@@ -39379,7 +39379,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3717	table	(0,112,101,142)	29	3717.jpg
 3717	stove	(103,112,154,123)	30	3717.jpg
 3717	person	(34,0,161,143)	1	3717.jpg
-3717	ham_egg	(114,127,50,34)	8	3717.jpg
+3717	broken_egg	(114,127,50,34)	4	3717.jpg
 3717	frying_pan	(103,85,84,108)	14	3717.jpg
 3717	bowl	(30,124,52,46)	17	3717.jpg
 3717	chopstick	(132,47,65,82)	18	3717.jpg
@@ -39389,7 +39389,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3718	table	(0,112,101,142)	29	3718.jpg
 3718	stove	(103,112,154,123)	30	3718.jpg
 3718	person	(32,0,162,141)	1	3718.jpg
-3718	ham_egg	(114,127,50,34)	8	3718.jpg
+3718	broken_egg	(114,127,50,34)	4	3718.jpg
 3718	frying_pan	(103,85,84,108)	14	3718.jpg
 3718	bowl	(30,124,52,46)	17	3718.jpg
 3718	chopstick	(134,47,65,82)	18	3718.jpg
@@ -39399,7 +39399,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3719	table	(0,112,101,142)	29	3719.jpg
 3719	stove	(103,112,154,123)	30	3719.jpg
 3719	person	(31,0,163,139)	1	3719.jpg
-3719	ham_egg	(114,127,50,34)	8	3719.jpg
+3719	broken_egg	(114,127,50,34)	4	3719.jpg
 3719	frying_pan	(103,85,84,108)	14	3719.jpg
 3719	bowl	(30,124,52,46)	17	3719.jpg
 3719	chopstick	(133,46,65,83)	18	3719.jpg
@@ -39409,7 +39409,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3720	table	(0,112,101,142)	29	3720.jpg
 3720	stove	(103,112,154,123)	30	3720.jpg
 3720	person	(31,0,166,130)	1	3720.jpg
-3720	ham_egg	(114,127,50,34)	8	3720.jpg
+3720	broken_egg	(114,127,50,34)	4	3720.jpg
 3720	frying_pan	(103,85,84,108)	14	3720.jpg
 3720	bowl	(30,124,52,46)	17	3720.jpg
 3720	chopstick	(133,46,66,83)	18	3720.jpg
@@ -39419,7 +39419,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3721	table	(0,112,101,142)	29	3721.jpg
 3721	stove	(103,112,154,123)	30	3721.jpg
 3721	person	(36,0,166,125)	1	3721.jpg
-3721	ham_egg	(114,127,50,34)	8	3721.jpg
+3721	broken_egg	(114,127,50,34)	4	3721.jpg
 3721	frying_pan	(103,85,84,108)	14	3721.jpg
 3721	bowl	(30,124,52,46)	17	3721.jpg
 3721	chopstick	(134,46,66,83)	18	3721.jpg
@@ -39429,7 +39429,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3722	table	(0,112,101,142)	29	3722.jpg
 3722	stove	(103,112,154,123)	30	3722.jpg
 3722	person	(42,0,159,114)	1	3722.jpg
-3722	ham_egg	(114,127,50,34)	8	3722.jpg
+3722	broken_egg	(114,127,50,34)	4	3722.jpg
 3722	frying_pan	(103,85,84,108)	14	3722.jpg
 3722	bowl	(30,124,52,46)	17	3722.jpg
 3722	chopstick	(136,47,65,82)	18	3722.jpg
@@ -39439,7 +39439,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3723	table	(0,112,101,142)	29	3723.jpg
 3723	stove	(103,112,154,123)	30	3723.jpg
 3723	person	(44,0,159,114)	1	3723.jpg
-3723	ham_egg	(114,127,50,34)	8	3723.jpg
+3723	broken_egg	(114,127,50,34)	4	3723.jpg
 3723	frying_pan	(103,85,84,108)	14	3723.jpg
 3723	bowl	(30,124,52,46)	17	3723.jpg
 3723	chopstick	(138,48,64,80)	18	3723.jpg
@@ -39449,7 +39449,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3724	table	(0,112,101,142)	29	3724.jpg
 3724	stove	(103,112,154,123)	30	3724.jpg
 3724	person	(47,0,154,114)	1	3724.jpg
-3724	ham_egg	(114,127,50,34)	8	3724.jpg
+3724	broken_egg	(114,127,50,34)	4	3724.jpg
 3724	frying_pan	(103,85,84,108)	14	3724.jpg
 3724	bowl	(30,124,52,46)	17	3724.jpg
 3724	chopstick	(141,48,63,80)	18	3724.jpg
@@ -39459,7 +39459,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3725	table	(0,112,101,142)	29	3725.jpg
 3725	stove	(103,112,154,123)	30	3725.jpg
 3725	person	(49,0,155,114)	1	3725.jpg
-3725	ham_egg	(114,127,50,34)	8	3725.jpg
+3725	broken_egg	(114,127,50,34)	4	3725.jpg
 3725	frying_pan	(103,85,84,108)	14	3725.jpg
 3725	bowl	(30,124,52,46)	17	3725.jpg
 3725	chopstick	(142,50,62,78)	18	3725.jpg
@@ -39469,7 +39469,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3726	table	(0,112,101,142)	29	3726.jpg
 3726	stove	(103,112,154,123)	30	3726.jpg
 3726	person	(52,0,157,114)	1	3726.jpg
-3726	ham_egg	(114,127,50,34)	8	3726.jpg
+3726	broken_egg	(114,127,50,34)	4	3726.jpg
 3726	frying_pan	(103,85,84,108)	14	3726.jpg
 3726	bowl	(30,124,52,46)	17	3726.jpg
 3726	chopstick	(146,51,61,77)	18	3726.jpg
@@ -39479,7 +39479,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3727	table	(0,112,101,142)	29	3727.jpg
 3727	stove	(103,112,154,123)	30	3727.jpg
 3727	person	(56,0,155,114)	1	3727.jpg
-3727	ham_egg	(114,127,50,34)	8	3727.jpg
+3727	broken_egg	(114,127,50,34)	4	3727.jpg
 3727	frying_pan	(103,85,84,108)	14	3727.jpg
 3727	bowl	(30,124,52,46)	17	3727.jpg
 3727	chopstick	(146,51,62,78)	18	3727.jpg
@@ -39489,7 +39489,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3728	table	(0,112,101,142)	29	3728.jpg
 3728	stove	(103,112,154,123)	30	3728.jpg
 3728	person	(60,0,157,114)	1	3728.jpg
-3728	ham_egg	(114,127,50,34)	8	3728.jpg
+3728	broken_egg	(114,127,50,34)	4	3728.jpg
 3728	frying_pan	(103,85,84,108)	14	3728.jpg
 3728	bowl	(30,124,52,46)	17	3728.jpg
 3728	chopstick	(151,52,59,76)	18	3728.jpg
@@ -39499,7 +39499,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3729	table	(0,112,101,142)	29	3729.jpg
 3729	stove	(103,112,154,123)	30	3729.jpg
 3729	person	(65,0,148,114)	1	3729.jpg
-3729	ham_egg	(114,127,50,34)	8	3729.jpg
+3729	broken_egg	(114,127,50,34)	4	3729.jpg
 3729	frying_pan	(103,85,84,108)	14	3729.jpg
 3729	bowl	(30,124,52,46)	17	3729.jpg
 3729	chopstick	(153,54,58,73)	18	3729.jpg
@@ -39509,7 +39509,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3730	table	(0,112,101,142)	29	3730.jpg
 3730	stove	(103,112,154,123)	30	3730.jpg
 3730	person	(69,0,148,114)	1	3730.jpg
-3730	ham_egg	(114,127,50,34)	8	3730.jpg
+3730	broken_egg	(114,127,50,34)	4	3730.jpg
 3730	frying_pan	(103,85,84,108)	14	3730.jpg
 3730	bowl	(30,124,52,46)	17	3730.jpg
 3730	chopstick	(156,54,58,73)	18	3730.jpg
@@ -39519,7 +39519,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3731	table	(0,112,101,142)	29	3731.jpg
 3731	stove	(103,112,154,123)	30	3731.jpg
 3731	person	(73,0,143,114)	1	3731.jpg
-3731	ham_egg	(114,127,50,34)	8	3731.jpg
+3731	broken_egg	(114,127,50,34)	4	3731.jpg
 3731	frying_pan	(103,85,84,108)	14	3731.jpg
 3731	bowl	(30,124,52,46)	17	3731.jpg
 3731	chopstick	(157,55,57,71)	18	3731.jpg
@@ -39529,7 +39529,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3732	table	(0,112,101,142)	29	3732.jpg
 3732	stove	(103,112,154,123)	30	3732.jpg
 3732	person	(77,0,141,114)	1	3732.jpg
-3732	ham_egg	(114,127,50,34)	8	3732.jpg
+3732	broken_egg	(114,127,50,34)	4	3732.jpg
 3732	frying_pan	(103,85,84,108)	14	3732.jpg
 3732	bowl	(30,124,52,46)	17	3732.jpg
 3732	chopstick	(160,56,56,70)	18	3732.jpg
@@ -39539,7 +39539,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3733	table	(0,112,101,142)	29	3733.jpg
 3733	stove	(103,112,154,123)	30	3733.jpg
 3733	person	(80,0,144,114)	1	3733.jpg
-3733	ham_egg	(114,127,50,34)	8	3733.jpg
+3733	broken_egg	(114,127,50,34)	4	3733.jpg
 3733	frying_pan	(103,85,84,108)	14	3733.jpg
 3733	bowl	(30,124,52,46)	17	3733.jpg
 3733	chopstick	(160,57,54,69)	18	3733.jpg
@@ -39549,7 +39549,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3734	table	(0,112,101,142)	29	3734.jpg
 3734	stove	(103,112,154,123)	30	3734.jpg
 3734	person	(83,0,143,114)	1	3734.jpg
-3734	ham_egg	(114,127,50,34)	8	3734.jpg
+3734	broken_egg	(114,127,50,34)	4	3734.jpg
 3734	frying_pan	(103,85,84,108)	14	3734.jpg
 3734	bowl	(30,124,52,46)	17	3734.jpg
 3734	chopstick	(162,58,54,68)	18	3734.jpg
@@ -39559,7 +39559,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3735	table	(0,112,101,142)	29	3735.jpg
 3735	stove	(103,112,154,123)	30	3735.jpg
 3735	person	(86,0,141,114)	1	3735.jpg
-3735	ham_egg	(114,127,50,34)	8	3735.jpg
+3735	broken_egg	(114,127,50,34)	4	3735.jpg
 3735	frying_pan	(103,85,84,108)	14	3735.jpg
 3735	bowl	(30,124,52,46)	17	3735.jpg
 3735	chopstick	(166,59,52,66)	18	3735.jpg
@@ -39569,7 +39569,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3736	table	(0,112,101,142)	29	3736.jpg
 3736	stove	(103,112,154,123)	30	3736.jpg
 3736	person	(90,0,142,114)	1	3736.jpg
-3736	ham_egg	(114,127,50,34)	8	3736.jpg
+3736	broken_egg	(114,127,50,34)	4	3736.jpg
 3736	frying_pan	(103,85,84,108)	14	3736.jpg
 3736	bowl	(30,124,52,46)	17	3736.jpg
 3736	chopstick	(149,61,70,73)	18	3736.jpg
@@ -39579,7 +39579,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3737	table	(0,112,101,142)	29	3737.jpg
 3737	stove	(103,112,154,123)	30	3737.jpg
 3737	person	(93,0,142,114)	1	3737.jpg
-3737	ham_egg	(114,127,50,34)	8	3737.jpg
+3737	broken_egg	(114,127,50,34)	4	3737.jpg
 3737	frying_pan	(103,85,84,108)	14	3737.jpg
 3737	bowl	(30,124,52,46)	17	3737.jpg
 3737	chopstick	(150,62,68,71)	18	3737.jpg
@@ -39589,7 +39589,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3738	table	(0,112,101,142)	29	3738.jpg
 3738	stove	(103,112,154,123)	30	3738.jpg
 3738	person	(99,0,136,114)	1	3738.jpg
-3738	ham_egg	(114,127,50,34)	8	3738.jpg
+3738	broken_egg	(114,127,50,34)	4	3738.jpg
 3738	frying_pan	(103,85,84,108)	14	3738.jpg
 3738	bowl	(30,124,52,46)	17	3738.jpg
 3738	chopstick	(151,63,67,70)	18	3738.jpg
@@ -39599,7 +39599,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3739	table	(0,112,101,142)	29	3739.jpg
 3739	stove	(103,112,154,123)	30	3739.jpg
 3739	person	(98,0,143,114)	1	3739.jpg
-3739	ham_egg	(114,127,50,34)	8	3739.jpg
+3739	broken_egg	(114,127,50,34)	4	3739.jpg
 3739	frying_pan	(103,85,84,108)	14	3739.jpg
 3739	bowl	(30,124,52,46)	17	3739.jpg
 3739	chopstick	(152,64,66,68)	18	3739.jpg
@@ -39609,7 +39609,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3740	table	(0,112,101,142)	29	3740.jpg
 3740	stove	(103,112,154,123)	30	3740.jpg
 3740	person	(101,0,144,114)	1	3740.jpg
-3740	ham_egg	(114,127,50,34)	8	3740.jpg
+3740	broken_egg	(114,127,50,34)	4	3740.jpg
 3740	frying_pan	(103,85,84,108)	14	3740.jpg
 3740	bowl	(30,124,52,46)	17	3740.jpg
 3740	chopstick	(153,65,65,68)	18	3740.jpg
@@ -39619,7 +39619,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3741	table	(0,112,101,142)	29	3741.jpg
 3741	stove	(103,112,154,123)	30	3741.jpg
 3741	person	(102,0,142,114)	1	3741.jpg
-3741	ham_egg	(114,127,50,34)	8	3741.jpg
+3741	broken_egg	(114,127,50,34)	4	3741.jpg
 3741	frying_pan	(103,85,84,108)	14	3741.jpg
 3741	bowl	(30,124,52,46)	17	3741.jpg
 3741	chopstick	(155,65,65,68)	18	3741.jpg
@@ -39629,7 +39629,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3742	table	(0,112,101,142)	29	3742.jpg
 3742	stove	(103,112,154,123)	30	3742.jpg
 3742	person	(104,0,153,114)	1	3742.jpg
-3742	ham_egg	(114,127,50,34)	8	3742.jpg
+3742	broken_egg	(114,127,50,34)	4	3742.jpg
 3742	frying_pan	(103,85,84,108)	14	3742.jpg
 3742	bowl	(30,124,52,46)	17	3742.jpg
 3742	chopstick	(154,64,66,69)	18	3742.jpg
@@ -39639,7 +39639,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3743	table	(0,112,101,142)	29	3743.jpg
 3743	stove	(103,112,154,123)	30	3743.jpg
 3743	person	(106,0,151,114)	1	3743.jpg
-3743	ham_egg	(114,127,50,34)	8	3743.jpg
+3743	broken_egg	(114,127,50,34)	4	3743.jpg
 3743	frying_pan	(103,85,84,108)	14	3743.jpg
 3743	bowl	(30,124,52,46)	17	3743.jpg
 3743	chopstick	(156,64,66,69)	18	3743.jpg
@@ -39649,7 +39649,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3744	table	(0,112,101,142)	29	3744.jpg
 3744	stove	(103,112,154,123)	30	3744.jpg
 3744	person	(107,0,150,114)	1	3744.jpg
-3744	ham_egg	(114,127,50,34)	8	3744.jpg
+3744	broken_egg	(114,127,50,34)	4	3744.jpg
 3744	frying_pan	(103,85,84,108)	14	3744.jpg
 3744	bowl	(30,124,52,46)	17	3744.jpg
 3744	chopstick	(154,64,66,69)	18	3744.jpg
@@ -39659,7 +39659,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3745	table	(0,112,101,142)	29	3745.jpg
 3745	stove	(103,112,154,123)	30	3745.jpg
 3745	person	(108,0,149,114)	1	3745.jpg
-3745	ham_egg	(114,127,50,34)	8	3745.jpg
+3745	broken_egg	(114,127,50,34)	4	3745.jpg
 3745	frying_pan	(103,85,84,108)	14	3745.jpg
 3745	bowl	(30,124,52,46)	17	3745.jpg
 3745	chopstick	(154,65,66,69)	18	3745.jpg
@@ -39669,7 +39669,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3746	table	(0,112,101,142)	29	3746.jpg
 3746	stove	(103,112,154,123)	30	3746.jpg
 3746	person	(109,0,148,114)	1	3746.jpg
-3746	ham_egg	(114,127,50,34)	8	3746.jpg
+3746	broken_egg	(114,127,50,34)	4	3746.jpg
 3746	frying_pan	(103,85,84,108)	14	3746.jpg
 3746	bowl	(30,124,52,46)	17	3746.jpg
 3746	chopstick	(156,64,67,70)	18	3746.jpg
@@ -39679,7 +39679,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3747	table	(0,112,101,142)	29	3747.jpg
 3747	stove	(103,112,154,123)	30	3747.jpg
 3747	person	(110,0,147,114)	1	3747.jpg
-3747	ham_egg	(114,127,50,34)	8	3747.jpg
+3747	broken_egg	(114,127,50,34)	4	3747.jpg
 3747	frying_pan	(103,85,84,108)	14	3747.jpg
 3747	bowl	(30,124,52,46)	17	3747.jpg
 3747	chopstick	(151,75,68,77)	18	3747.jpg
@@ -39689,7 +39689,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3748	table	(0,112,101,142)	29	3748.jpg
 3748	stove	(103,112,154,123)	30	3748.jpg
 3748	person	(111,0,146,114)	1	3748.jpg
-3748	ham_egg	(114,127,50,34)	8	3748.jpg
+3748	broken_egg	(114,127,50,34)	4	3748.jpg
 3748	frying_pan	(103,85,84,108)	14	3748.jpg
 3748	bowl	(30,124,52,46)	17	3748.jpg
 3748	chopstick	(151,74,65,78)	18	3748.jpg
@@ -39699,7 +39699,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3749	table	(0,112,101,142)	29	3749.jpg
 3749	stove	(103,112,154,123)	30	3749.jpg
 3749	person	(111,0,146,114)	1	3749.jpg
-3749	ham_egg	(114,127,50,34)	8	3749.jpg
+3749	broken_egg	(114,127,50,34)	4	3749.jpg
 3749	frying_pan	(103,85,84,108)	14	3749.jpg
 3749	bowl	(30,124,52,46)	17	3749.jpg
 3749	chopstick	(149,74,68,78)	18	3749.jpg
@@ -39709,7 +39709,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3750	table	(0,112,101,142)	29	3750.jpg
 3750	stove	(103,112,154,123)	30	3750.jpg
 3750	person	(112,0,145,114)	1	3750.jpg
-3750	ham_egg	(114,127,50,34)	8	3750.jpg
+3750	broken_egg	(114,127,50,34)	4	3750.jpg
 3750	frying_pan	(103,85,84,108)	14	3750.jpg
 3750	bowl	(30,124,52,46)	17	3750.jpg
 3750	chopstick	(151,73,67,79)	18	3750.jpg
@@ -39719,7 +39719,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3751	table	(0,112,101,142)	29	3751.jpg
 3751	stove	(103,112,154,123)	30	3751.jpg
 3751	person	(112,0,145,114)	1	3751.jpg
-3751	ham_egg	(114,127,50,34)	8	3751.jpg
+3751	broken_egg	(114,127,50,34)	4	3751.jpg
 3751	frying_pan	(103,85,84,108)	14	3751.jpg
 3751	bowl	(30,124,52,46)	17	3751.jpg
 3751	chopstick	(148,72,71,81)	18	3751.jpg
@@ -39729,7 +39729,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3752	table	(0,112,101,142)	29	3752.jpg
 3752	stove	(103,112,154,123)	30	3752.jpg
 3752	person	(112,0,145,120)	1	3752.jpg
-3752	ham_egg	(114,127,50,34)	8	3752.jpg
+3752	broken_egg	(114,127,50,34)	4	3752.jpg
 3752	frying_pan	(100,88,84,103)	14	3752.jpg
 3752	bowl	(30,124,52,46)	17	3752.jpg
 3752	chopstick	(150,74,69,78)	18	3752.jpg
@@ -39739,7 +39739,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3753	table	(0,112,101,142)	29	3753.jpg
 3753	stove	(103,112,154,123)	30	3753.jpg
 3753	person	(112,0,145,121)	1	3753.jpg
-3753	ham_egg	(114,127,50,34)	8	3753.jpg
+3753	broken_egg	(114,127,50,34)	4	3753.jpg
 3753	frying_pan	(100,88,84,103)	14	3753.jpg
 3753	bowl	(30,124,52,46)	17	3753.jpg
 3753	chopstick	(151,75,67,76)	18	3753.jpg
@@ -39749,7 +39749,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3754	table	(0,112,101,142)	29	3754.jpg
 3754	stove	(103,112,154,123)	30	3754.jpg
 3754	person	(112,0,145,121)	1	3754.jpg
-3754	ham_egg	(114,127,50,34)	8	3754.jpg
+3754	broken_egg	(114,127,50,34)	4	3754.jpg
 3754	frying_pan	(100,88,84,103)	14	3754.jpg
 3754	bowl	(30,124,52,46)	17	3754.jpg
 3754	chopstick	(149,74,68,78)	18	3754.jpg
@@ -39759,7 +39759,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3755	table	(0,112,101,142)	29	3755.jpg
 3755	stove	(103,112,154,123)	30	3755.jpg
 3755	person	(111,0,146,121)	1	3755.jpg
-3755	ham_egg	(114,127,50,34)	8	3755.jpg
+3755	broken_egg	(114,127,50,34)	4	3755.jpg
 3755	frying_pan	(100,88,84,103)	14	3755.jpg
 3755	bowl	(30,124,52,46)	17	3755.jpg
 3755	chopstick	(152,76,66,75)	18	3755.jpg
@@ -39769,7 +39769,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3756	table	(0,112,101,142)	29	3756.jpg
 3756	stove	(103,112,154,123)	30	3756.jpg
 3756	person	(111,0,146,114)	1	3756.jpg
-3756	ham_egg	(114,127,50,34)	8	3756.jpg
+3756	broken_egg	(114,127,50,34)	4	3756.jpg
 3756	frying_pan	(100,88,84,103)	14	3756.jpg
 3756	bowl	(30,124,52,46)	17	3756.jpg
 3756	chopstick	(151,75,67,76)	18	3756.jpg
@@ -39779,7 +39779,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3757	table	(0,112,101,142)	29	3757.jpg
 3757	stove	(103,112,154,123)	30	3757.jpg
 3757	person	(110,0,147,121)	1	3757.jpg
-3757	ham_egg	(114,127,50,34)	8	3757.jpg
+3757	broken_egg	(114,127,50,34)	4	3757.jpg
 3757	frying_pan	(100,88,84,103)	14	3757.jpg
 3757	bowl	(30,124,52,46)	17	3757.jpg
 3757	chopstick	(150,75,67,76)	18	3757.jpg
@@ -39789,7 +39789,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3758	table	(0,112,101,142)	29	3758.jpg
 3758	stove	(103,112,154,123)	30	3758.jpg
 3758	person	(109,0,148,114)	1	3758.jpg
-3758	ham_egg	(114,127,50,34)	8	3758.jpg
+3758	broken_egg	(114,127,50,34)	4	3758.jpg
 3758	frying_pan	(100,88,84,103)	14	3758.jpg
 3758	bowl	(30,124,52,46)	17	3758.jpg
 3758	chopstick	(152,75,67,76)	18	3758.jpg
@@ -39799,7 +39799,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3759	table	(0,112,101,142)	29	3759.jpg
 3759	stove	(103,112,154,123)	30	3759.jpg
 3759	person	(108,0,149,114)	1	3759.jpg
-3759	ham_egg	(114,127,50,34)	8	3759.jpg
+3759	broken_egg	(114,127,50,34)	4	3759.jpg
 3759	frying_pan	(100,88,84,103)	14	3759.jpg
 3759	bowl	(30,124,52,46)	17	3759.jpg
 3759	chopstick	(149,82,64,69)	18	3759.jpg
@@ -39809,7 +39809,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3760	table	(0,112,101,142)	29	3760.jpg
 3760	stove	(103,112,154,123)	30	3760.jpg
 3760	person	(108,0,149,120)	1	3760.jpg
-3760	ham_egg	(114,127,50,34)	8	3760.jpg
+3760	broken_egg	(114,127,50,34)	4	3760.jpg
 3760	frying_pan	(100,88,84,103)	14	3760.jpg
 3760	bowl	(30,124,52,46)	17	3760.jpg
 3760	chopstick	(152,79,60,72)	18	3760.jpg
@@ -39819,7 +39819,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3761	table	(0,112,101,142)	29	3761.jpg
 3761	stove	(103,112,154,123)	30	3761.jpg
 3761	person	(107,0,150,114)	1	3761.jpg
-3761	ham_egg	(114,127,50,34)	8	3761.jpg
+3761	broken_egg	(114,127,50,34)	4	3761.jpg
 3761	frying_pan	(100,88,84,103)	14	3761.jpg
 3761	bowl	(30,124,52,46)	17	3761.jpg
 3761	chopstick	(141,81,73,67)	18	3761.jpg
@@ -39829,7 +39829,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3762	table	(0,112,101,142)	29	3762.jpg
 3762	stove	(103,112,154,123)	30	3762.jpg
 3762	person	(106,0,151,114)	1	3762.jpg
-3762	ham_egg	(114,127,50,34)	8	3762.jpg
+3762	broken_egg	(114,127,50,34)	4	3762.jpg
 3762	frying_pan	(100,88,84,103)	14	3762.jpg
 3762	bowl	(30,124,52,46)	17	3762.jpg
 3762	chopstick	(145,79,70,70)	18	3762.jpg
@@ -39839,7 +39839,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3763	table	(0,112,101,142)	29	3763.jpg
 3763	stove	(103,112,154,123)	30	3763.jpg
 3763	person	(104,0,153,114)	1	3763.jpg
-3763	ham_egg	(114,127,50,34)	8	3763.jpg
+3763	broken_egg	(114,127,50,34)	4	3763.jpg
 3763	frying_pan	(100,88,84,103)	14	3763.jpg
 3763	bowl	(30,124,52,46)	17	3763.jpg
 3763	chopstick	(144,78,72,71)	18	3763.jpg
@@ -39849,7 +39849,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3764	table	(0,112,101,142)	29	3764.jpg
 3764	stove	(103,112,154,123)	30	3764.jpg
 3764	person	(103,0,142,114)	1	3764.jpg
-3764	ham_egg	(114,127,50,34)	8	3764.jpg
+3764	broken_egg	(114,127,50,34)	4	3764.jpg
 3764	frying_pan	(100,88,84,103)	14	3764.jpg
 3764	bowl	(30,124,52,46)	17	3764.jpg
 3764	chopstick	(150,76,67,75)	18	3764.jpg
@@ -39859,7 +39859,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3765	table	(0,112,101,142)	29	3765.jpg
 3765	stove	(103,112,154,123)	30	3765.jpg
 3765	person	(102,0,141,114)	1	3765.jpg
-3765	ham_egg	(114,127,50,34)	8	3765.jpg
+3765	broken_egg	(114,127,50,34)	4	3765.jpg
 3765	frying_pan	(100,88,84,103)	14	3765.jpg
 3765	bowl	(30,124,52,46)	17	3765.jpg
 3765	chopstick	(152,75,66,76)	18	3765.jpg
@@ -39869,7 +39869,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3766	table	(0,112,101,142)	29	3766.jpg
 3766	stove	(103,112,154,123)	30	3766.jpg
 3766	person	(101,0,140,120)	1	3766.jpg
-3766	ham_egg	(114,127,50,34)	8	3766.jpg
+3766	broken_egg	(114,127,50,34)	4	3766.jpg
 3766	frying_pan	(100,88,84,103)	14	3766.jpg
 3766	bowl	(30,124,52,46)	17	3766.jpg
 3766	chopstick	(150,79,64,72)	18	3766.jpg
@@ -39879,7 +39879,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3767	table	(0,112,101,142)	29	3767.jpg
 3767	stove	(103,112,154,123)	30	3767.jpg
 3767	person	(99,0,145,120)	1	3767.jpg
-3767	ham_egg	(114,127,50,34)	8	3767.jpg
+3767	broken_egg	(114,127,50,34)	4	3767.jpg
 3767	frying_pan	(100,88,84,103)	14	3767.jpg
 3767	bowl	(30,124,52,46)	17	3767.jpg
 3767	chopstick	(152,75,67,76)	18	3767.jpg
@@ -39889,7 +39889,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3768	table	(0,112,101,142)	29	3768.jpg
 3768	stove	(103,112,154,123)	30	3768.jpg
 3768	person	(98,0,142,114)	1	3768.jpg
-3768	ham_egg	(114,127,50,34)	8	3768.jpg
+3768	broken_egg	(114,127,50,34)	4	3768.jpg
 3768	frying_pan	(100,88,84,103)	14	3768.jpg
 3768	bowl	(30,124,52,46)	17	3768.jpg
 3768	chopstick	(148,75,68,76)	18	3768.jpg
@@ -39899,7 +39899,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3769	table	(0,112,101,142)	29	3769.jpg
 3769	stove	(103,112,154,123)	30	3769.jpg
 3769	person	(97,0,145,114)	1	3769.jpg
-3769	ham_egg	(114,127,50,34)	8	3769.jpg
+3769	broken_egg	(114,127,50,34)	4	3769.jpg
 3769	frying_pan	(100,88,84,103)	14	3769.jpg
 3769	bowl	(30,124,52,46)	17	3769.jpg
 3769	chopstick	(151,75,67,76)	18	3769.jpg
@@ -39909,7 +39909,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3770	table	(0,112,101,142)	29	3770.jpg
 3770	stove	(103,112,154,123)	30	3770.jpg
 3770	person	(96,0,142,114)	1	3770.jpg
-3770	ham_egg	(114,127,50,34)	8	3770.jpg
+3770	broken_egg	(114,127,50,34)	4	3770.jpg
 3770	frying_pan	(100,88,84,103)	14	3770.jpg
 3770	bowl	(30,124,52,46)	17	3770.jpg
 3770	chopstick	(149,74,69,78)	18	3770.jpg
@@ -39919,7 +39919,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3771	table	(0,112,101,142)	29	3771.jpg
 3771	stove	(103,112,154,123)	30	3771.jpg
 3771	person	(95,0,140,114)	1	3771.jpg
-3771	ham_egg	(114,127,50,34)	8	3771.jpg
+3771	broken_egg	(114,127,50,34)	4	3771.jpg
 3771	frying_pan	(100,88,84,103)	14	3771.jpg
 3771	bowl	(30,124,52,46)	17	3771.jpg
 3771	chopstick	(149,74,69,78)	18	3771.jpg
@@ -39929,7 +39929,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3772	table	(0,112,101,142)	29	3772.jpg
 3772	stove	(103,112,154,123)	30	3772.jpg
 3772	person	(94,0,144,114)	1	3772.jpg
-3772	ham_egg	(114,127,50,34)	8	3772.jpg
+3772	broken_egg	(114,127,50,34)	4	3772.jpg
 3772	frying_pan	(100,88,84,103)	14	3772.jpg
 3772	bowl	(30,124,52,46)	17	3772.jpg
 3772	chopstick	(137,80,72,77)	18	3772.jpg
@@ -39939,7 +39939,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3773	table	(0,112,101,142)	29	3773.jpg
 3773	stove	(103,112,154,123)	30	3773.jpg
 3773	person	(93,0,141,120)	1	3773.jpg
-3773	ham_egg	(114,127,50,34)	8	3773.jpg
+3773	broken_egg	(114,127,50,34)	4	3773.jpg
 3773	frying_pan	(100,88,84,103)	14	3773.jpg
 3773	bowl	(30,124,52,46)	17	3773.jpg
 3773	chopstick	(141,78,64,75)	18	3773.jpg
@@ -39949,7 +39949,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3774	table	(0,112,101,142)	29	3774.jpg
 3774	stove	(103,112,154,123)	30	3774.jpg
 3774	person	(92,0,142,114)	1	3774.jpg
-3774	ham_egg	(114,127,50,34)	8	3774.jpg
+3774	broken_egg	(114,127,50,34)	4	3774.jpg
 3774	frying_pan	(100,88,84,103)	14	3774.jpg
 3774	bowl	(30,124,52,46)	17	3774.jpg
 3774	chopstick	(138,79,67,74)	18	3774.jpg
@@ -39959,7 +39959,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3775	table	(0,112,101,142)	29	3775.jpg
 3775	stove	(103,112,154,123)	30	3775.jpg
 3775	person	(91,0,143,120)	1	3775.jpg
-3775	ham_egg	(114,127,50,34)	8	3775.jpg
+3775	broken_egg	(114,127,50,34)	4	3775.jpg
 3775	frying_pan	(100,88,84,103)	14	3775.jpg
 3775	bowl	(30,124,52,46)	17	3775.jpg
 3775	chopstick	(135,80,71,81)	18	3775.jpg
@@ -39969,7 +39969,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3776	table	(0,112,101,142)	29	3776.jpg
 3776	stove	(103,112,154,123)	30	3776.jpg
 3776	person	(91,0,142,125)	1	3776.jpg
-3776	ham_egg	(114,127,50,34)	8	3776.jpg
+3776	broken_egg	(114,127,50,34)	4	3776.jpg
 3776	frying_pan	(100,88,84,103)	14	3776.jpg
 3776	bowl	(30,124,52,46)	17	3776.jpg
 3776	chopstick	(132,82,75,73)	18	3776.jpg
@@ -39979,7 +39979,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data2/ham-egg/
 3777	table	(0,112,101,142)	29	3777.jpg
 3777	stove	(103,112,154,123)	30	3777.jpg
 3777	person	(90,0,140,121)	1	3777.jpg
-3777	ham_egg	(114,127,50,34)	8	3777.jpg
+3777	broken_egg	(114,127,50,34)	4	3777.jpg
 3777	frying_pan	(100,88,84,103)	14	3777.jpg
 3777	bowl	(30,124,52,46)	17	3777.jpg
 3777	chopstick	(132,83,72,70)	18	3777.jpg
