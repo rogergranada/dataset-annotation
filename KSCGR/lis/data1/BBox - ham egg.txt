@@ -16514,7 +16514,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1231	cutting_board	(9,117,56,61)	19	1231.jpg
 1231	oil_bottle	(0,156,29,46)	24	1231.jpg
 1231	frying_pan	(97,87,84,102)	14	1231.jpg
-1231	shell_egg	(65,107,18,18)	7	1231.jpg
+1231	broken_egg	(65,107,18,18)	4	1231.jpg
 1231	saltshaker	(14,159,40,53)	26	1231.jpg
 1231	spoon	(26,169,23,33)	27	1231.jpg
 1231	glass	(0,189,26,34)	21	1231.jpg
@@ -16527,7 +16527,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1232	cutting_board	(9,117,56,61)	19	1232.jpg
 1232	oil_bottle	(0,156,29,46)	24	1232.jpg
 1232	frying_pan	(97,87,84,102)	14	1232.jpg
-1232	shell_egg	(65,107,18,18)	7	1232.jpg
+1232	broken_egg	(65,107,18,18)	4	1232.jpg
 1232	saltshaker	(14,159,40,53)	26	1232.jpg
 1232	spoon	(26,169,23,33)	27	1232.jpg
 1232	glass	(0,189,26,34)	21	1232.jpg
@@ -16540,7 +16540,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1233	cutting_board	(9,117,56,61)	19	1233.jpg
 1233	oil_bottle	(0,156,29,46)	24	1233.jpg
 1233	frying_pan	(97,87,84,102)	14	1233.jpg
-1233	shell_egg	(65,107,18,18)	7	1233.jpg
+1233	broken_egg	(65,107,18,18)	4	1233.jpg
 1233	saltshaker	(14,159,40,53)	26	1233.jpg
 1233	spoon	(26,169,23,33)	27	1233.jpg
 1233	glass	(0,189,26,34)	21	1233.jpg
@@ -16553,7 +16553,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1234	cutting_board	(9,117,56,61)	19	1234.jpg
 1234	oil_bottle	(0,156,29,46)	24	1234.jpg
 1234	frying_pan	(97,87,84,102)	14	1234.jpg
-1234	shell_egg	(65,107,18,18)	7	1234.jpg
+1234	broken_egg	(65,107,18,18)	4	1234.jpg
 1234	saltshaker	(14,159,40,53)	26	1234.jpg
 1234	spoon	(26,169,23,33)	27	1234.jpg
 1234	glass	(0,189,26,34)	21	1234.jpg
@@ -16566,7 +16566,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1235	cutting_board	(9,117,56,61)	19	1235.jpg
 1235	oil_bottle	(0,156,29,46)	24	1235.jpg
 1235	frying_pan	(97,87,84,102)	14	1235.jpg
-1235	shell_egg	(65,107,18,18)	7	1235.jpg
+1235	broken_egg	(65,107,18,18)	4	1235.jpg
 1235	saltshaker	(14,159,40,53)	26	1235.jpg
 1235	spoon	(26,169,23,33)	27	1235.jpg
 1235	glass	(0,189,26,34)	21	1235.jpg
@@ -16579,7 +16579,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1236	cutting_board	(9,117,56,61)	19	1236.jpg
 1236	oil_bottle	(0,156,29,46)	24	1236.jpg
 1236	frying_pan	(97,87,84,102)	14	1236.jpg
-1236	shell_egg	(65,107,18,18)	7	1236.jpg
+1236	broken_egg	(65,107,18,18)	4	1236.jpg
 1236	saltshaker	(14,159,40,53)	26	1236.jpg
 1236	spoon	(26,169,23,33)	27	1236.jpg
 1236	glass	(0,189,26,34)	21	1236.jpg
@@ -16592,7 +16592,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1237	cutting_board	(9,117,56,61)	19	1237.jpg
 1237	oil_bottle	(0,156,29,46)	24	1237.jpg
 1237	frying_pan	(97,87,84,102)	14	1237.jpg
-1237	shell_egg	(65,107,18,18)	7	1237.jpg
+1237	broken_egg	(65,107,18,18)	4	1237.jpg
 1237	saltshaker	(14,159,40,53)	26	1237.jpg
 1237	spoon	(26,169,23,33)	27	1237.jpg
 1237	glass	(0,189,26,34)	21	1237.jpg
@@ -16605,7 +16605,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1238	cutting_board	(9,117,56,61)	19	1238.jpg
 1238	oil_bottle	(0,156,29,46)	24	1238.jpg
 1238	frying_pan	(97,87,84,102)	14	1238.jpg
-1238	shell_egg	(67,109,18,18)	7	1238.jpg
+1238	broken_egg	(67,109,18,18)	4	1238.jpg
 1238	saltshaker	(14,159,40,53)	26	1238.jpg
 1238	spoon	(26,169,23,33)	27	1238.jpg
 1238	glass	(0,189,26,34)	21	1238.jpg
@@ -16618,7 +16618,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1239	cutting_board	(9,117,56,61)	19	1239.jpg
 1239	oil_bottle	(0,156,29,46)	24	1239.jpg
 1239	frying_pan	(97,87,84,102)	14	1239.jpg
-1239	shell_egg	(67,109,18,18)	7	1239.jpg
+1239	broken_egg	(67,109,18,18)	4	1239.jpg
 1239	saltshaker	(14,159,40,53)	26	1239.jpg
 1239	spoon	(26,169,23,33)	27	1239.jpg
 1239	glass	(0,189,26,34)	21	1239.jpg
@@ -16631,7 +16631,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1240	cutting_board	(9,117,56,61)	19	1240.jpg
 1240	oil_bottle	(0,156,29,46)	24	1240.jpg
 1240	frying_pan	(97,87,84,102)	14	1240.jpg
-1240	shell_egg	(67,109,18,18)	7	1240.jpg
+1240	broken_egg	(67,109,18,18)	4	1240.jpg
 1240	saltshaker	(14,159,40,53)	26	1240.jpg
 1240	spoon	(26,169,23,33)	27	1240.jpg
 1240	glass	(0,189,26,34)	21	1240.jpg
@@ -16644,7 +16644,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1241	cutting_board	(9,117,56,61)	19	1241.jpg
 1241	oil_bottle	(0,156,29,46)	24	1241.jpg
 1241	frying_pan	(97,87,84,102)	14	1241.jpg
-1241	shell_egg	(67,109,18,18)	7	1241.jpg
+1241	broken_egg	(67,109,18,18)	4	1241.jpg
 1241	saltshaker	(14,159,40,53)	26	1241.jpg
 1241	spoon	(26,169,23,33)	27	1241.jpg
 1241	glass	(0,189,26,34)	21	1241.jpg
@@ -16657,7 +16657,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1242	cutting_board	(9,117,56,61)	19	1242.jpg
 1242	oil_bottle	(0,156,29,46)	24	1242.jpg
 1242	frying_pan	(97,87,84,102)	14	1242.jpg
-1242	shell_egg	(67,110,14,16)	7	1242.jpg
+1242	broken_egg	(67,110,14,16)	4	1242.jpg
 1242	saltshaker	(14,159,40,53)	26	1242.jpg
 1242	spoon	(26,169,23,33)	27	1242.jpg
 1242	glass	(0,189,26,34)	21	1242.jpg
@@ -16670,7 +16670,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1243	cutting_board	(9,117,56,61)	19	1243.jpg
 1243	oil_bottle	(0,156,29,46)	24	1243.jpg
 1243	frying_pan	(97,87,84,102)	14	1243.jpg
-1243	shell_egg	(68,110,14,15)	7	1243.jpg
+1243	broken_egg	(68,110,14,15)	4	1243.jpg
 1243	saltshaker	(14,159,40,53)	26	1243.jpg
 1243	spoon	(26,169,23,33)	27	1243.jpg
 1243	glass	(0,189,26,34)	21	1243.jpg
@@ -25562,7 +25562,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1921	cutting_board	(9,117,56,61)	19	1921.jpg
 1921	oil_bottle	(0,156,29,46)	24	1921.jpg
 1921	frying_pan	(99,89,83,103)	14	1921.jpg
-1921	ham_egg	(116,153,43,27)	8	1921.jpg
+1921	broken_egg	(116,153,43,27)	4	1921.jpg
 1921	saltshaker	(14,159,40,53)	26	1921.jpg
 1921	spoon	(26,169,23,33)	27	1921.jpg
 1921	glass	(0,189,26,34)	21	1921.jpg
@@ -25574,7 +25574,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1922	cutting_board	(9,117,56,61)	19	1922.jpg
 1922	oil_bottle	(0,156,29,46)	24	1922.jpg
 1922	frying_pan	(99,89,83,103)	14	1922.jpg
-1922	ham_egg	(115,152,44,29)	8	1922.jpg
+1922	broken_egg	(115,152,44,29)	4	1922.jpg
 1922	saltshaker	(14,159,40,53)	26	1922.jpg
 1922	spoon	(26,169,23,33)	27	1922.jpg
 1922	glass	(0,189,26,34)	21	1922.jpg
@@ -25586,7 +25586,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1923	cutting_board	(9,117,56,61)	19	1923.jpg
 1923	oil_bottle	(0,156,29,46)	24	1923.jpg
 1923	frying_pan	(99,89,83,103)	14	1923.jpg
-1923	ham_egg	(113,149,46,34)	8	1923.jpg
+1923	broken_egg	(113,149,46,34)	4	1923.jpg
 1923	saltshaker	(14,159,40,53)	26	1923.jpg
 1923	spoon	(26,169,23,33)	27	1923.jpg
 1923	glass	(0,189,26,34)	21	1923.jpg
@@ -25598,7 +25598,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1924	cutting_board	(9,117,56,61)	19	1924.jpg
 1924	oil_bottle	(0,156,29,46)	24	1924.jpg
 1924	frying_pan	(99,89,83,103)	14	1924.jpg
-1924	ham_egg	(113,149,46,34)	8	1924.jpg
+1924	broken_egg	(113,149,46,34)	4	1924.jpg
 1924	saltshaker	(14,159,40,53)	26	1924.jpg
 1924	spoon	(26,169,23,33)	27	1924.jpg
 1924	glass	(0,189,26,34)	21	1924.jpg
@@ -25614,7 +25614,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1925	spoon	(26,169,23,33)	27	1925.jpg
 1925	glass	(0,189,26,34)	21	1925.jpg
 1925	pan_lid	(83,222,135,35)	16	1925.jpg
-1925	ham_egg	(113,149,46,34)	8	1925.jpg
+1925	broken_egg	(113,149,46,34)	4	1925.jpg
 1925	person	(49,0,153,136)	1	1925.jpg
 1926	bowl	(117,106,48,47)	17	1926.jpg
 1926	table	(0,112,100,142)	29	1926.jpg
@@ -25626,7 +25626,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1926	spoon	(26,169,23,33)	27	1926.jpg
 1926	glass	(0,189,26,34)	21	1926.jpg
 1926	pan_lid	(83,222,135,35)	16	1926.jpg
-1926	ham_egg	(113,149,46,34)	8	1926.jpg
+1926	broken_egg	(113,149,46,34)	4	1926.jpg
 1926	person	(49,0,153,136)	1	1926.jpg
 1927	bowl	(118,105,48,46)	17	1927.jpg
 1927	table	(0,112,100,142)	29	1927.jpg
@@ -25638,7 +25638,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1927	spoon	(26,169,23,33)	27	1927.jpg
 1927	glass	(0,189,26,34)	21	1927.jpg
 1927	pan_lid	(83,222,135,35)	16	1927.jpg
-1927	ham_egg	(115,148,44,33)	8	1927.jpg
+1927	broken_egg	(115,148,44,33)	4	1927.jpg
 1927	person	(49,0,153,136)	1	1927.jpg
 1928	bowl	(115,107,52,46)	17	1928.jpg
 1928	table	(0,112,100,142)	29	1928.jpg
@@ -25650,7 +25650,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1928	spoon	(26,169,23,33)	27	1928.jpg
 1928	glass	(0,189,26,34)	21	1928.jpg
 1928	pan_lid	(83,222,135,35)	16	1928.jpg
-1928	ham_egg	(115,148,44,33)	8	1928.jpg
+1928	broken_egg	(115,148,44,33)	4	1928.jpg
 1928	person	(49,0,153,136)	1	1928.jpg
 1929	bowl	(115,107,52,46)	17	1929.jpg
 1929	table	(0,112,100,142)	29	1929.jpg
@@ -25662,7 +25662,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1929	spoon	(26,169,23,33)	27	1929.jpg
 1929	glass	(0,189,26,34)	21	1929.jpg
 1929	pan_lid	(83,222,135,35)	16	1929.jpg
-1929	ham_egg	(115,148,44,33)	8	1929.jpg
+1929	broken_egg	(115,148,44,33)	4	1929.jpg
 1929	person	(49,0,153,136)	1	1929.jpg
 1930	bowl	(115,107,52,46)	17	1930.jpg
 1930	table	(0,112,100,142)	29	1930.jpg
@@ -25674,7 +25674,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1930	spoon	(26,169,23,33)	27	1930.jpg
 1930	glass	(0,189,26,34)	21	1930.jpg
 1930	pan_lid	(83,222,135,35)	16	1930.jpg
-1930	ham_egg	(115,148,44,33)	8	1930.jpg
+1930	broken_egg	(115,148,44,33)	4	1930.jpg
 1930	person	(49,0,153,136)	1	1930.jpg
 1931	bowl	(115,107,52,46)	17	1931.jpg
 1931	table	(0,112,100,142)	29	1931.jpg
@@ -25686,7 +25686,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1931	spoon	(26,169,23,33)	27	1931.jpg
 1931	glass	(0,189,26,34)	21	1931.jpg
 1931	pan_lid	(83,222,135,35)	16	1931.jpg
-1931	ham_egg	(115,148,44,33)	8	1931.jpg
+1931	broken_egg	(115,148,44,33)	4	1931.jpg
 1931	person	(49,0,153,136)	1	1931.jpg
 1932	bowl	(115,107,52,46)	17	1932.jpg
 1932	table	(0,112,100,142)	29	1932.jpg
@@ -25698,7 +25698,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1932	spoon	(26,169,23,33)	27	1932.jpg
 1932	glass	(0,189,26,34)	21	1932.jpg
 1932	pan_lid	(83,222,135,35)	16	1932.jpg
-1932	ham_egg	(115,148,44,33)	8	1932.jpg
+1932	broken_egg	(115,148,44,33)	4	1932.jpg
 1932	person	(49,0,153,136)	1	1932.jpg
 1933	bowl	(115,107,52,46)	17	1933.jpg
 1933	table	(0,112,100,142)	29	1933.jpg
@@ -25710,7 +25710,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1933	spoon	(26,169,23,33)	27	1933.jpg
 1933	glass	(0,189,26,34)	21	1933.jpg
 1933	pan_lid	(83,222,135,35)	16	1933.jpg
-1933	ham_egg	(115,148,44,33)	8	1933.jpg
+1933	broken_egg	(115,148,44,33)	4	1933.jpg
 1933	person	(49,0,153,136)	1	1933.jpg
 1934	bowl	(116,102,52,46)	17	1934.jpg
 1934	table	(0,112,100,142)	29	1934.jpg
@@ -25722,7 +25722,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1934	spoon	(26,169,23,33)	27	1934.jpg
 1934	glass	(0,189,26,34)	21	1934.jpg
 1934	pan_lid	(83,222,135,35)	16	1934.jpg
-1934	ham_egg	(115,148,44,33)	8	1934.jpg
+1934	broken_egg	(115,148,44,33)	4	1934.jpg
 1934	person	(49,0,153,136)	1	1934.jpg
 1935	bowl	(116,102,52,46)	17	1935.jpg
 1935	table	(0,112,100,142)	29	1935.jpg
@@ -25734,7 +25734,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1935	spoon	(26,169,23,33)	27	1935.jpg
 1935	glass	(0,189,26,34)	21	1935.jpg
 1935	pan_lid	(83,222,135,35)	16	1935.jpg
-1935	ham_egg	(115,148,44,33)	8	1935.jpg
+1935	broken_egg	(115,148,44,33)	4	1935.jpg
 1935	person	(49,0,153,136)	1	1935.jpg
 1936	bowl	(116,102,52,46)	17	1936.jpg
 1936	table	(0,112,100,142)	29	1936.jpg
@@ -25746,7 +25746,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1936	spoon	(26,169,23,33)	27	1936.jpg
 1936	glass	(0,189,26,34)	21	1936.jpg
 1936	pan_lid	(83,222,135,35)	16	1936.jpg
-1936	ham_egg	(115,148,44,33)	8	1936.jpg
+1936	broken_egg	(115,148,44,33)	4	1936.jpg
 1936	person	(49,0,153,136)	1	1936.jpg
 1937	bowl	(116,102,52,46)	17	1937.jpg
 1937	table	(0,112,100,142)	29	1937.jpg
@@ -25758,7 +25758,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1937	spoon	(26,169,23,33)	27	1937.jpg
 1937	glass	(0,189,26,34)	21	1937.jpg
 1937	pan_lid	(83,222,135,35)	16	1937.jpg
-1937	ham_egg	(115,148,44,33)	8	1937.jpg
+1937	broken_egg	(115,148,44,33)	4	1937.jpg
 1937	person	(49,0,153,136)	1	1937.jpg
 1938	bowl	(116,102,52,46)	17	1938.jpg
 1938	table	(0,112,100,142)	29	1938.jpg
@@ -25770,7 +25770,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1938	spoon	(26,169,23,33)	27	1938.jpg
 1938	glass	(0,189,26,34)	21	1938.jpg
 1938	pan_lid	(83,222,135,35)	16	1938.jpg
-1938	ham_egg	(115,148,44,33)	8	1938.jpg
+1938	broken_egg	(115,148,44,33)	4	1938.jpg
 1938	person	(49,0,153,136)	1	1938.jpg
 1939	bowl	(115,100,50,46)	17	1939.jpg
 1939	table	(0,112,100,142)	29	1939.jpg
@@ -25782,7 +25782,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1939	spoon	(26,169,23,33)	27	1939.jpg
 1939	glass	(0,189,26,34)	21	1939.jpg
 1939	pan_lid	(83,222,135,35)	16	1939.jpg
-1939	ham_egg	(115,148,44,33)	8	1939.jpg
+1939	broken_egg	(115,148,44,33)	4	1939.jpg
 1939	person	(49,0,153,136)	1	1939.jpg
 1940	bowl	(114,97,50,46)	17	1940.jpg
 1940	table	(0,112,100,142)	29	1940.jpg
@@ -25794,7 +25794,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1940	spoon	(26,169,23,33)	27	1940.jpg
 1940	glass	(0,189,26,34)	21	1940.jpg
 1940	pan_lid	(83,222,135,35)	16	1940.jpg
-1940	ham_egg	(115,148,44,33)	8	1940.jpg
+1940	broken_egg	(115,148,44,33)	4	1940.jpg
 1940	person	(49,0,153,136)	1	1940.jpg
 1941	bowl	(113,93,50,47)	17	1941.jpg
 1941	table	(0,112,100,142)	29	1941.jpg
@@ -25806,7 +25806,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1941	spoon	(26,169,23,33)	27	1941.jpg
 1941	glass	(0,189,26,34)	21	1941.jpg
 1941	pan_lid	(83,222,135,35)	16	1941.jpg
-1941	ham_egg	(115,148,44,33)	8	1941.jpg
+1941	broken_egg	(115,148,44,33)	4	1941.jpg
 1941	person	(51,0,154,126)	1	1941.jpg
 1942	bowl	(111,90,50,49)	17	1942.jpg
 1942	table	(0,112,100,142)	29	1942.jpg
@@ -25818,7 +25818,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1942	spoon	(26,169,23,33)	27	1942.jpg
 1942	glass	(0,189,26,34)	21	1942.jpg
 1942	pan_lid	(83,222,135,35)	16	1942.jpg
-1942	ham_egg	(115,148,44,33)	8	1942.jpg
+1942	broken_egg	(115,148,44,33)	4	1942.jpg
 1942	person	(51,0,154,126)	1	1942.jpg
 1943	bowl	(111,87,46,49)	17	1943.jpg
 1943	table	(0,112,100,142)	29	1943.jpg
@@ -25830,7 +25830,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1943	spoon	(26,169,23,33)	27	1943.jpg
 1943	glass	(0,189,26,34)	21	1943.jpg
 1943	pan_lid	(83,222,135,35)	16	1943.jpg
-1943	ham_egg	(115,148,44,33)	8	1943.jpg
+1943	broken_egg	(115,148,44,33)	4	1943.jpg
 1943	person	(51,0,154,126)	1	1943.jpg
 1944	bowl	(103,85,50,49)	17	1944.jpg
 1944	table	(0,112,100,142)	29	1944.jpg
@@ -25842,7 +25842,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1944	spoon	(26,169,23,33)	27	1944.jpg
 1944	glass	(0,189,26,34)	21	1944.jpg
 1944	pan_lid	(83,222,135,35)	16	1944.jpg
-1944	ham_egg	(115,148,44,33)	8	1944.jpg
+1944	broken_egg	(115,148,44,33)	4	1944.jpg
 1944	person	(53,0,152,121)	1	1944.jpg
 1945	bowl	(98,83,49,51)	17	1945.jpg
 1945	table	(0,112,100,142)	29	1945.jpg
@@ -25854,7 +25854,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1945	spoon	(26,169,23,33)	27	1945.jpg
 1945	glass	(0,189,26,34)	21	1945.jpg
 1945	pan_lid	(83,222,135,35)	16	1945.jpg
-1945	ham_egg	(115,148,44,33)	8	1945.jpg
+1945	broken_egg	(115,148,44,33)	4	1945.jpg
 1945	person	(57,0,149,114)	1	1945.jpg
 1946	bowl	(94,81,45,50)	17	1946.jpg
 1946	table	(0,112,100,142)	29	1946.jpg
@@ -25866,7 +25866,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1946	spoon	(26,169,23,33)	27	1946.jpg
 1946	glass	(0,189,26,34)	21	1946.jpg
 1946	pan_lid	(83,222,135,35)	16	1946.jpg
-1946	ham_egg	(115,148,44,33)	8	1946.jpg
+1946	broken_egg	(115,148,44,33)	4	1946.jpg
 1946	person	(57,0,147,114)	1	1946.jpg
 1947	bowl	(89,80,45,52)	17	1947.jpg
 1947	table	(0,112,100,142)	29	1947.jpg
@@ -25878,7 +25878,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1947	spoon	(26,169,23,33)	27	1947.jpg
 1947	glass	(0,189,26,34)	21	1947.jpg
 1947	pan_lid	(83,222,135,35)	16	1947.jpg
-1947	ham_egg	(115,148,44,33)	8	1947.jpg
+1947	broken_egg	(115,148,44,33)	4	1947.jpg
 1947	person	(57,0,148,114)	1	1947.jpg
 1948	bowl	(84,81,43,50)	17	1948.jpg
 1948	table	(0,112,100,142)	29	1948.jpg
@@ -25890,7 +25890,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1948	spoon	(26,169,23,33)	27	1948.jpg
 1948	glass	(0,189,26,34)	21	1948.jpg
 1948	pan_lid	(83,222,135,35)	16	1948.jpg
-1948	ham_egg	(115,148,44,33)	8	1948.jpg
+1948	broken_egg	(115,148,44,33)	4	1948.jpg
 1948	person	(57,0,148,114)	1	1948.jpg
 1949	bowl	(78,84,46,47)	17	1949.jpg
 1949	table	(0,112,100,142)	29	1949.jpg
@@ -25902,7 +25902,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1949	spoon	(26,169,23,33)	27	1949.jpg
 1949	glass	(0,189,26,34)	21	1949.jpg
 1949	pan_lid	(83,222,135,35)	16	1949.jpg
-1949	ham_egg	(115,148,44,33)	8	1949.jpg
+1949	broken_egg	(115,148,44,33)	4	1949.jpg
 1949	person	(57,0,148,114)	1	1949.jpg
 1950	bowl	(74,86,43,46)	17	1950.jpg
 1950	table	(0,112,100,142)	29	1950.jpg
@@ -25914,7 +25914,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1950	spoon	(26,169,23,33)	27	1950.jpg
 1950	glass	(0,189,26,34)	21	1950.jpg
 1950	pan_lid	(83,222,135,35)	16	1950.jpg
-1950	ham_egg	(115,148,44,33)	8	1950.jpg
+1950	broken_egg	(115,148,44,33)	4	1950.jpg
 1950	person	(57,0,148,114)	1	1950.jpg
 1951	bowl	(69,86,47,45)	17	1951.jpg
 1951	table	(0,112,100,142)	29	1951.jpg
@@ -25926,7 +25926,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1951	spoon	(26,169,23,33)	27	1951.jpg
 1951	glass	(0,189,26,34)	21	1951.jpg
 1951	pan_lid	(83,222,135,35)	16	1951.jpg
-1951	ham_egg	(115,148,44,33)	8	1951.jpg
+1951	broken_egg	(115,148,44,33)	4	1951.jpg
 1951	person	(57,0,149,114)	1	1951.jpg
 1952	bowl	(65,86,48,46)	17	1952.jpg
 1952	table	(0,112,100,142)	29	1952.jpg
@@ -25938,7 +25938,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1952	spoon	(26,169,23,33)	27	1952.jpg
 1952	glass	(0,189,26,34)	21	1952.jpg
 1952	pan_lid	(83,222,135,35)	16	1952.jpg
-1952	ham_egg	(115,148,44,33)	8	1952.jpg
+1952	broken_egg	(115,148,44,33)	4	1952.jpg
 1952	person	(58,0,149,114)	1	1952.jpg
 1953	bowl	(64,86,48,44)	17	1953.jpg
 1953	table	(0,112,100,142)	29	1953.jpg
@@ -25950,7 +25950,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1953	spoon	(26,169,23,33)	27	1953.jpg
 1953	glass	(0,189,26,34)	21	1953.jpg
 1953	pan_lid	(83,222,135,35)	16	1953.jpg
-1953	ham_egg	(115,148,44,33)	8	1953.jpg
+1953	broken_egg	(115,148,44,33)	4	1953.jpg
 1953	person	(58,0,148,114)	1	1953.jpg
 1954	bowl	(61,87,49,43)	17	1954.jpg
 1954	table	(0,112,100,142)	29	1954.jpg
@@ -25962,7 +25962,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1954	spoon	(26,169,23,33)	27	1954.jpg
 1954	glass	(0,189,26,34)	21	1954.jpg
 1954	pan_lid	(83,222,135,35)	16	1954.jpg
-1954	ham_egg	(115,148,44,33)	8	1954.jpg
+1954	broken_egg	(115,148,44,33)	4	1954.jpg
 1954	person	(58,0,148,114)	1	1954.jpg
 1955	bowl	(60,88,49,43)	17	1955.jpg
 1955	table	(0,112,100,142)	29	1955.jpg
@@ -25974,7 +25974,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1955	spoon	(26,169,23,33)	27	1955.jpg
 1955	glass	(0,189,26,34)	21	1955.jpg
 1955	pan_lid	(83,222,135,35)	16	1955.jpg
-1955	ham_egg	(112,147,46,40)	8	1955.jpg
+1955	broken_egg	(112,147,46,40)	4	1955.jpg
 1955	person	(57,0,147,114)	1	1955.jpg
 1956	bowl	(61,90,48,42)	17	1956.jpg
 1956	table	(0,112,100,142)	29	1956.jpg
@@ -25986,7 +25986,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1956	spoon	(26,169,23,33)	27	1956.jpg
 1956	glass	(0,189,26,34)	21	1956.jpg
 1956	pan_lid	(83,222,135,35)	16	1956.jpg
-1956	ham_egg	(112,147,46,40)	8	1956.jpg
+1956	broken_egg	(112,147,46,40)	4	1956.jpg
 1956	person	(57,0,147,114)	1	1956.jpg
 1957	bowl	(61,90,48,44)	17	1957.jpg
 1957	table	(0,112,100,142)	29	1957.jpg
@@ -25998,7 +25998,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1957	spoon	(26,169,23,33)	27	1957.jpg
 1957	glass	(0,189,26,34)	21	1957.jpg
 1957	pan_lid	(83,222,135,35)	16	1957.jpg
-1957	ham_egg	(112,147,46,40)	8	1957.jpg
+1957	broken_egg	(112,147,46,40)	4	1957.jpg
 1957	person	(57,0,147,114)	1	1957.jpg
 1958	bowl	(61,92,48,44)	17	1958.jpg
 1958	table	(0,112,100,142)	29	1958.jpg
@@ -26010,7 +26010,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1958	spoon	(26,169,23,33)	27	1958.jpg
 1958	glass	(0,189,26,34)	21	1958.jpg
 1958	pan_lid	(83,222,135,35)	16	1958.jpg
-1958	ham_egg	(112,147,46,40)	8	1958.jpg
+1958	broken_egg	(112,147,46,40)	4	1958.jpg
 1958	person	(56,0,147,114)	1	1958.jpg
 1959	bowl	(66,95,44,42)	17	1959.jpg
 1959	table	(0,112,100,142)	29	1959.jpg
@@ -26022,7 +26022,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1959	spoon	(26,169,23,33)	27	1959.jpg
 1959	glass	(0,189,26,34)	21	1959.jpg
 1959	pan_lid	(83,222,135,35)	16	1959.jpg
-1959	ham_egg	(112,147,46,40)	8	1959.jpg
+1959	broken_egg	(112,147,46,40)	4	1959.jpg
 1959	person	(56,0,147,114)	1	1959.jpg
 1960	bowl	(67,95,44,42)	17	1960.jpg
 1960	table	(0,112,100,142)	29	1960.jpg
@@ -26034,7 +26034,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1960	spoon	(26,169,23,33)	27	1960.jpg
 1960	glass	(0,189,26,34)	21	1960.jpg
 1960	pan_lid	(83,222,135,35)	16	1960.jpg
-1960	ham_egg	(112,147,46,40)	8	1960.jpg
+1960	broken_egg	(112,147,46,40)	4	1960.jpg
 1960	person	(55,0,145,114)	1	1960.jpg
 1961	bowl	(67,97,43,42)	17	1961.jpg
 1961	table	(0,112,100,142)	29	1961.jpg
@@ -26046,7 +26046,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1961	spoon	(26,169,23,33)	27	1961.jpg
 1961	glass	(0,189,26,34)	21	1961.jpg
 1961	pan_lid	(83,222,135,35)	16	1961.jpg
-1961	ham_egg	(112,147,46,40)	8	1961.jpg
+1961	broken_egg	(112,147,46,40)	4	1961.jpg
 1961	person	(53,0,146,114)	1	1961.jpg
 1962	bowl	(68,98,44,43)	17	1962.jpg
 1962	table	(0,112,100,142)	29	1962.jpg
@@ -26058,7 +26058,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1962	spoon	(26,169,23,33)	27	1962.jpg
 1962	glass	(0,189,26,34)	21	1962.jpg
 1962	pan_lid	(83,222,135,35)	16	1962.jpg
-1962	ham_egg	(112,147,46,40)	8	1962.jpg
+1962	broken_egg	(112,147,46,40)	4	1962.jpg
 1962	person	(53,0,146,124)	1	1962.jpg
 1963	bowl	(68,101,43,42)	17	1963.jpg
 1963	table	(0,112,100,142)	29	1963.jpg
@@ -26070,7 +26070,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1963	spoon	(26,169,23,33)	27	1963.jpg
 1963	glass	(0,189,26,34)	21	1963.jpg
 1963	pan_lid	(83,222,135,35)	16	1963.jpg
-1963	ham_egg	(112,147,46,40)	8	1963.jpg
+1963	broken_egg	(112,147,46,40)	4	1963.jpg
 1963	person	(48,0,148,125)	1	1963.jpg
 1964	bowl	(67,103,44,43)	17	1964.jpg
 1964	table	(0,112,100,142)	29	1964.jpg
@@ -26082,7 +26082,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1964	spoon	(26,169,23,33)	27	1964.jpg
 1964	glass	(0,189,26,34)	21	1964.jpg
 1964	pan_lid	(83,222,135,35)	16	1964.jpg
-1964	ham_egg	(112,147,46,40)	8	1964.jpg
+1964	broken_egg	(112,147,46,40)	4	1964.jpg
 1964	person	(48,0,147,130)	1	1964.jpg
 1965	bowl	(64,106,47,43)	17	1965.jpg
 1965	table	(0,112,100,142)	29	1965.jpg
@@ -26094,7 +26094,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1965	spoon	(26,169,23,33)	27	1965.jpg
 1965	glass	(0,189,26,34)	21	1965.jpg
 1965	pan_lid	(83,222,135,35)	16	1965.jpg
-1965	ham_egg	(112,147,46,40)	8	1965.jpg
+1965	broken_egg	(112,147,46,40)	4	1965.jpg
 1965	person	(44,0,149,131)	1	1965.jpg
 1966	bowl	(62,108,48,43)	17	1966.jpg
 1966	table	(0,112,100,142)	29	1966.jpg
@@ -26106,7 +26106,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1966	spoon	(26,169,23,33)	27	1966.jpg
 1966	glass	(0,189,26,34)	21	1966.jpg
 1966	pan_lid	(83,222,135,35)	16	1966.jpg
-1966	ham_egg	(112,147,46,40)	8	1966.jpg
+1966	broken_egg	(112,147,46,40)	4	1966.jpg
 1966	person	(45,0,146,134)	1	1966.jpg
 1967	bowl	(62,108,47,46)	17	1967.jpg
 1967	table	(0,112,100,142)	29	1967.jpg
@@ -26118,7 +26118,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1967	spoon	(26,169,23,33)	27	1967.jpg
 1967	glass	(0,189,26,34)	21	1967.jpg
 1967	pan_lid	(83,222,135,35)	16	1967.jpg
-1967	ham_egg	(112,147,46,40)	8	1967.jpg
+1967	broken_egg	(112,147,46,40)	4	1967.jpg
 1967	person	(42,0,147,138)	1	1967.jpg
 1968	bowl	(62,113,46,41)	17	1968.jpg
 1968	table	(0,112,100,142)	29	1968.jpg
@@ -26130,7 +26130,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1968	spoon	(26,169,23,33)	27	1968.jpg
 1968	glass	(0,189,26,34)	21	1968.jpg
 1968	pan_lid	(83,222,135,35)	16	1968.jpg
-1968	ham_egg	(112,147,46,40)	8	1968.jpg
+1968	broken_egg	(112,147,46,40)	4	1968.jpg
 1968	person	(41,0,146,140)	1	1968.jpg
 1969	bowl	(62,116,45,40)	17	1969.jpg
 1969	table	(0,112,100,142)	29	1969.jpg
@@ -26142,7 +26142,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1969	spoon	(26,169,23,33)	27	1969.jpg
 1969	glass	(0,189,26,34)	21	1969.jpg
 1969	pan_lid	(83,222,135,35)	16	1969.jpg
-1969	ham_egg	(112,147,46,40)	8	1969.jpg
+1969	broken_egg	(112,147,46,40)	4	1969.jpg
 1969	person	(41,0,146,140)	1	1969.jpg
 1970	bowl	(61,115,45,42)	17	1970.jpg
 1970	table	(0,112,100,142)	29	1970.jpg
@@ -26154,7 +26154,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1970	spoon	(26,169,23,33)	27	1970.jpg
 1970	glass	(0,189,26,34)	21	1970.jpg
 1970	pan_lid	(83,222,135,35)	16	1970.jpg
-1970	ham_egg	(112,147,46,40)	8	1970.jpg
+1970	broken_egg	(112,147,46,40)	4	1970.jpg
 1970	person	(41,0,146,140)	1	1970.jpg
 1971	bowl	(61,117,45,40)	17	1971.jpg
 1971	table	(0,112,100,142)	29	1971.jpg
@@ -26166,7 +26166,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1971	spoon	(26,169,23,33)	27	1971.jpg
 1971	glass	(0,189,26,34)	21	1971.jpg
 1971	pan_lid	(83,222,135,35)	16	1971.jpg
-1971	ham_egg	(112,147,46,40)	8	1971.jpg
+1971	broken_egg	(112,147,46,40)	4	1971.jpg
 1971	person	(41,0,146,140)	1	1971.jpg
 1972	bowl	(61,117,44,43)	17	1972.jpg
 1972	table	(0,112,100,142)	29	1972.jpg
@@ -26178,7 +26178,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1972	spoon	(26,169,23,33)	27	1972.jpg
 1972	glass	(0,189,26,34)	21	1972.jpg
 1972	pan_lid	(83,222,135,35)	16	1972.jpg
-1972	ham_egg	(112,147,46,40)	8	1972.jpg
+1972	broken_egg	(112,147,46,40)	4	1972.jpg
 1972	person	(33,0,147,138)	1	1972.jpg
 1973	bowl	(60,117,44,42)	17	1973.jpg
 1973	table	(0,112,100,142)	29	1973.jpg
@@ -26190,7 +26190,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1973	spoon	(26,169,23,33)	27	1973.jpg
 1973	glass	(0,189,26,34)	21	1973.jpg
 1973	pan_lid	(83,222,135,35)	16	1973.jpg
-1973	ham_egg	(112,147,46,40)	8	1973.jpg
+1973	broken_egg	(112,147,46,40)	4	1973.jpg
 1973	person	(32,0,147,138)	1	1973.jpg
 1974	bowl	(60,118,44,42)	17	1974.jpg
 1974	table	(0,112,100,142)	29	1974.jpg
@@ -26202,7 +26202,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1974	spoon	(26,169,23,33)	27	1974.jpg
 1974	glass	(0,189,26,34)	21	1974.jpg
 1974	pan_lid	(83,222,135,35)	16	1974.jpg
-1974	ham_egg	(112,147,46,40)	8	1974.jpg
+1974	broken_egg	(112,147,46,40)	4	1974.jpg
 1974	person	(32,0,147,138)	1	1974.jpg
 1975	bowl	(60,118,44,42)	17	1975.jpg
 1975	table	(0,112,100,142)	29	1975.jpg
@@ -26214,7 +26214,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1975	spoon	(26,169,23,33)	27	1975.jpg
 1975	glass	(0,189,26,34)	21	1975.jpg
 1975	pan_lid	(83,222,135,35)	16	1975.jpg
-1975	ham_egg	(112,147,46,40)	8	1975.jpg
+1975	broken_egg	(112,147,46,40)	4	1975.jpg
 1975	person	(32,0,147,138)	1	1975.jpg
 1976	bowl	(60,118,44,42)	17	1976.jpg
 1976	table	(0,112,100,142)	29	1976.jpg
@@ -26226,7 +26226,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1976	spoon	(26,169,23,33)	27	1976.jpg
 1976	glass	(0,189,26,34)	21	1976.jpg
 1976	pan_lid	(83,222,135,35)	16	1976.jpg
-1976	ham_egg	(112,147,46,40)	8	1976.jpg
+1976	broken_egg	(112,147,46,40)	4	1976.jpg
 1976	person	(32,0,147,138)	1	1976.jpg
 1977	bowl	(60,118,44,42)	17	1977.jpg
 1977	table	(0,112,100,142)	29	1977.jpg
@@ -26238,7 +26238,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1977	spoon	(26,169,23,33)	27	1977.jpg
 1977	glass	(0,189,26,34)	21	1977.jpg
 1977	pan_lid	(83,222,135,35)	16	1977.jpg
-1977	ham_egg	(112,147,46,40)	8	1977.jpg
+1977	broken_egg	(112,147,46,40)	4	1977.jpg
 1977	person	(32,0,147,138)	1	1977.jpg
 1978	bowl	(60,118,44,42)	17	1978.jpg
 1978	table	(0,112,100,142)	29	1978.jpg
@@ -26250,7 +26250,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1978	spoon	(26,169,23,33)	27	1978.jpg
 1978	glass	(0,189,26,34)	21	1978.jpg
 1978	pan_lid	(83,222,135,35)	16	1978.jpg
-1978	ham_egg	(112,147,46,40)	8	1978.jpg
+1978	broken_egg	(112,147,46,40)	4	1978.jpg
 1978	person	(32,0,147,138)	1	1978.jpg
 1979	bowl	(61,118,43,44)	17	1979.jpg
 1979	table	(0,112,100,142)	29	1979.jpg
@@ -26262,7 +26262,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1979	spoon	(26,169,23,33)	27	1979.jpg
 1979	glass	(0,189,26,34)	21	1979.jpg
 1979	pan_lid	(83,222,135,35)	16	1979.jpg
-1979	ham_egg	(112,147,46,40)	8	1979.jpg
+1979	broken_egg	(112,147,46,40)	4	1979.jpg
 1979	person	(32,0,147,138)	1	1979.jpg
 1980	bowl	(61,118,43,44)	17	1980.jpg
 1980	table	(0,112,100,142)	29	1980.jpg
@@ -26274,7 +26274,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1980	spoon	(26,169,23,33)	27	1980.jpg
 1980	glass	(0,189,26,34)	21	1980.jpg
 1980	pan_lid	(83,222,135,35)	16	1980.jpg
-1980	ham_egg	(112,147,46,40)	8	1980.jpg
+1980	broken_egg	(112,147,46,40)	4	1980.jpg
 1980	person	(31,0,144,135)	1	1980.jpg
 1981	bowl	(61,118,43,44)	17	1981.jpg
 1981	table	(0,112,100,142)	29	1981.jpg
@@ -26286,7 +26286,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/ham-egg/
 1981	spoon	(26,169,23,33)	27	1981.jpg
 1981	glass	(0,189,26,34)	21	1981.jpg
 1981	pan_lid	(83,222,135,35)	16	1981.jpg
-1981	ham_egg	(112,147,46,40)	8	1981.jpg
+1981	broken_egg	(112,147,46,40)	4	1981.jpg
 1981	person	(31,0,143,133)	1	1981.jpg
 1982	bowl	(61,118,43,44)	17	1982.jpg
 1982	table	(0,112,100,142)	29	1982.jpg
