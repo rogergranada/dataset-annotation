@@ -23212,7 +23212,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2376	ham	(9,128,32,29)	12	2376.jpg
 2376	bowl	(49,110,40,41)	17	2376.jpg
 2376	cutting_board	(0,116,44,47)	19	2376.jpg
-2376	shell_egg	(50,113,21,20)	7	2376.jpg
+2376	broken_egg	(50,113,21,20)	4	2376.jpg
 2376	frying_pan	(101,88,83,107)	14	2376.jpg
 2376	saltshaker	(12,164,37,47)	26	2376.jpg
 2376	person	(0,0,133,138)	1	2376.jpg
@@ -23221,7 +23221,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2377	ham	(9,128,32,29)	12	2377.jpg
 2377	bowl	(49,110,40,41)	17	2377.jpg
 2377	cutting_board	(0,116,44,47)	19	2377.jpg
-2377	shell_egg	(50,113,21,20)	7	2377.jpg
+2377	broken_egg	(50,113,21,20)	4	2377.jpg
 2377	frying_pan	(101,88,83,107)	14	2377.jpg
 2377	saltshaker	(12,164,37,47)	26	2377.jpg
 2377	person	(0,0,133,138)	1	2377.jpg
@@ -23230,7 +23230,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2378	ham	(9,128,32,29)	12	2378.jpg
 2378	bowl	(49,110,40,41)	17	2378.jpg
 2378	cutting_board	(0,116,44,47)	19	2378.jpg
-2378	shell_egg	(50,113,21,20)	7	2378.jpg
+2378	broken_egg	(50,113,21,20)	4	2378.jpg
 2378	frying_pan	(101,88,83,107)	14	2378.jpg
 2378	saltshaker	(12,164,37,47)	26	2378.jpg
 2378	person	(0,0,133,138)	1	2378.jpg
@@ -23239,7 +23239,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2379	ham	(9,128,32,29)	12	2379.jpg
 2379	bowl	(49,110,40,41)	17	2379.jpg
 2379	cutting_board	(0,116,44,47)	19	2379.jpg
-2379	shell_egg	(50,113,21,20)	7	2379.jpg
+2379	broken_egg	(50,113,21,20)	4	2379.jpg
 2379	frying_pan	(101,88,83,107)	14	2379.jpg
 2379	saltshaker	(12,164,37,47)	26	2379.jpg
 2379	person	(0,0,133,138)	1	2379.jpg
@@ -23248,7 +23248,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2380	ham	(9,128,32,29)	12	2380.jpg
 2380	bowl	(49,110,40,41)	17	2380.jpg
 2380	cutting_board	(0,116,44,47)	19	2380.jpg
-2380	shell_egg	(50,113,21,20)	7	2380.jpg
+2380	broken_egg	(50,113,21,20)	4	2380.jpg
 2380	frying_pan	(101,88,83,107)	14	2380.jpg
 2380	saltshaker	(12,164,37,47)	26	2380.jpg
 2380	person	(0,0,133,138)	1	2380.jpg
@@ -23257,7 +23257,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2381	ham	(9,128,32,29)	12	2381.jpg
 2381	bowl	(49,110,40,41)	17	2381.jpg
 2381	cutting_board	(0,116,44,47)	19	2381.jpg
-2381	shell_egg	(50,113,21,20)	7	2381.jpg
+2381	broken_egg	(50,113,21,20)	4	2381.jpg
 2381	frying_pan	(101,88,83,107)	14	2381.jpg
 2381	saltshaker	(12,164,37,47)	26	2381.jpg
 2381	person	(0,0,133,138)	1	2381.jpg
@@ -23266,7 +23266,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2382	ham	(9,128,32,29)	12	2382.jpg
 2382	bowl	(49,110,40,41)	17	2382.jpg
 2382	cutting_board	(0,116,44,47)	19	2382.jpg
-2382	shell_egg	(50,113,21,20)	7	2382.jpg
+2382	broken_egg	(50,113,21,20)	4	2382.jpg
 2382	frying_pan	(101,88,83,107)	14	2382.jpg
 2382	saltshaker	(12,164,37,47)	26	2382.jpg
 2382	person	(0,0,133,138)	1	2382.jpg
@@ -23275,7 +23275,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2383	ham	(9,128,32,29)	12	2383.jpg
 2383	bowl	(49,110,40,41)	17	2383.jpg
 2383	cutting_board	(0,116,44,47)	19	2383.jpg
-2383	shell_egg	(50,113,21,20)	7	2383.jpg
+2383	broken_egg	(50,113,21,20)	4	2383.jpg
 2383	frying_pan	(101,88,83,107)	14	2383.jpg
 2383	saltshaker	(12,164,37,47)	26	2383.jpg
 2383	person	(0,0,133,138)	1	2383.jpg
@@ -23284,7 +23284,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2384	ham	(9,128,32,29)	12	2384.jpg
 2384	bowl	(49,110,40,41)	17	2384.jpg
 2384	cutting_board	(0,116,44,47)	19	2384.jpg
-2384	shell_egg	(50,113,21,20)	7	2384.jpg
+2384	broken_egg	(50,113,21,20)	4	2384.jpg
 2384	frying_pan	(101,88,83,107)	14	2384.jpg
 2384	saltshaker	(12,164,37,47)	26	2384.jpg
 2384	person	(0,0,133,138)	1	2384.jpg
@@ -23293,7 +23293,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2385	ham	(9,128,32,29)	12	2385.jpg
 2385	bowl	(49,110,40,41)	17	2385.jpg
 2385	cutting_board	(0,116,44,47)	19	2385.jpg
-2385	shell_egg	(50,113,21,20)	7	2385.jpg
+2385	broken_egg	(50,113,21,20)	4	2385.jpg
 2385	frying_pan	(101,88,83,107)	14	2385.jpg
 2385	saltshaker	(12,164,37,47)	26	2385.jpg
 2385	person	(0,0,133,138)	1	2385.jpg
@@ -23302,7 +23302,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2386	ham	(9,128,32,29)	12	2386.jpg
 2386	bowl	(49,110,40,41)	17	2386.jpg
 2386	cutting_board	(0,116,44,47)	19	2386.jpg
-2386	shell_egg	(50,113,21,20)	7	2386.jpg
+2386	broken_egg	(50,113,21,20)	4	2386.jpg
 2386	frying_pan	(101,88,83,107)	14	2386.jpg
 2386	saltshaker	(12,164,37,47)	26	2386.jpg
 2386	person	(0,0,133,138)	1	2386.jpg
@@ -23311,7 +23311,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2387	ham	(9,128,32,29)	12	2387.jpg
 2387	bowl	(49,110,40,41)	17	2387.jpg
 2387	cutting_board	(0,116,44,47)	19	2387.jpg
-2387	shell_egg	(50,113,21,20)	7	2387.jpg
+2387	broken_egg	(50,113,21,20)	4	2387.jpg
 2387	frying_pan	(101,88,83,107)	14	2387.jpg
 2387	saltshaker	(12,164,37,47)	26	2387.jpg
 2387	person	(0,0,133,138)	1	2387.jpg
@@ -23320,7 +23320,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2388	ham	(9,128,32,29)	12	2388.jpg
 2388	bowl	(49,110,40,41)	17	2388.jpg
 2388	cutting_board	(0,116,44,47)	19	2388.jpg
-2388	shell_egg	(50,113,21,20)	7	2388.jpg
+2388	broken_egg	(50,113,21,20)	4	2388.jpg
 2388	frying_pan	(101,88,83,107)	14	2388.jpg
 2388	saltshaker	(12,164,37,47)	26	2388.jpg
 2388	person	(0,0,133,138)	1	2388.jpg
@@ -23329,7 +23329,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2389	ham	(9,128,32,29)	12	2389.jpg
 2389	bowl	(49,110,40,41)	17	2389.jpg
 2389	cutting_board	(0,116,44,47)	19	2389.jpg
-2389	shell_egg	(50,113,21,20)	7	2389.jpg
+2389	broken_egg	(50,113,21,20)	4	2389.jpg
 2389	frying_pan	(101,88,83,107)	14	2389.jpg
 2389	saltshaker	(12,164,37,47)	26	2389.jpg
 2389	person	(0,0,133,138)	1	2389.jpg
@@ -23338,7 +23338,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2390	ham	(9,128,32,29)	12	2390.jpg
 2390	bowl	(49,110,40,41)	17	2390.jpg
 2390	cutting_board	(0,116,44,47)	19	2390.jpg
-2390	shell_egg	(50,113,21,20)	7	2390.jpg
+2390	broken_egg	(50,113,21,20)	4	2390.jpg
 2390	frying_pan	(101,88,83,107)	14	2390.jpg
 2390	saltshaker	(12,164,37,47)	26	2390.jpg
 2390	person	(0,0,133,138)	1	2390.jpg
@@ -23347,7 +23347,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2391	ham	(9,128,32,29)	12	2391.jpg
 2391	bowl	(49,110,40,41)	17	2391.jpg
 2391	cutting_board	(0,116,44,47)	19	2391.jpg
-2391	shell_egg	(50,113,21,20)	7	2391.jpg
+2391	broken_egg	(50,113,21,20)	4	2391.jpg
 2391	frying_pan	(101,88,83,107)	14	2391.jpg
 2391	saltshaker	(12,164,37,47)	26	2391.jpg
 2391	person	(0,0,133,138)	1	2391.jpg
@@ -23356,7 +23356,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2392	ham	(9,128,32,29)	12	2392.jpg
 2392	bowl	(49,110,40,41)	17	2392.jpg
 2392	cutting_board	(0,116,44,47)	19	2392.jpg
-2392	shell_egg	(50,113,21,20)	7	2392.jpg
+2392	broken_egg	(50,113,21,20)	4	2392.jpg
 2392	frying_pan	(101,88,83,107)	14	2392.jpg
 2392	saltshaker	(12,164,37,47)	26	2392.jpg
 2392	person	(0,0,133,138)	1	2392.jpg
@@ -23365,7 +23365,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2393	ham	(9,128,32,29)	12	2393.jpg
 2393	bowl	(49,110,40,41)	17	2393.jpg
 2393	cutting_board	(0,116,44,47)	19	2393.jpg
-2393	shell_egg	(50,113,21,20)	7	2393.jpg
+2393	broken_egg	(50,113,21,20)	4	2393.jpg
 2393	frying_pan	(101,88,83,107)	14	2393.jpg
 2393	saltshaker	(12,164,37,47)	26	2393.jpg
 2393	person	(0,0,133,138)	1	2393.jpg
@@ -23374,7 +23374,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2394	ham	(9,128,32,29)	12	2394.jpg
 2394	bowl	(49,110,40,41)	17	2394.jpg
 2394	cutting_board	(0,116,44,47)	19	2394.jpg
-2394	shell_egg	(50,113,21,20)	7	2394.jpg
+2394	broken_egg	(50,113,21,20)	4	2394.jpg
 2394	frying_pan	(101,88,83,107)	14	2394.jpg
 2394	saltshaker	(12,164,37,47)	26	2394.jpg
 2394	person	(0,0,133,138)	1	2394.jpg
@@ -23383,7 +23383,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2395	ham	(9,128,32,29)	12	2395.jpg
 2395	bowl	(49,110,40,41)	17	2395.jpg
 2395	cutting_board	(0,116,44,47)	19	2395.jpg
-2395	shell_egg	(50,113,21,20)	7	2395.jpg
+2395	broken_egg	(50,113,21,20)	4	2395.jpg
 2395	frying_pan	(101,88,83,107)	14	2395.jpg
 2395	saltshaker	(12,164,37,47)	26	2395.jpg
 2395	person	(0,0,133,138)	1	2395.jpg
@@ -23392,7 +23392,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2396	ham	(9,128,32,29)	12	2396.jpg
 2396	bowl	(49,110,40,41)	17	2396.jpg
 2396	cutting_board	(0,116,44,47)	19	2396.jpg
-2396	shell_egg	(50,113,21,20)	7	2396.jpg
+2396	broken_egg	(50,113,21,20)	4	2396.jpg
 2396	frying_pan	(101,88,83,107)	14	2396.jpg
 2396	saltshaker	(12,164,37,47)	26	2396.jpg
 2396	person	(0,0,133,138)	1	2396.jpg
@@ -23401,7 +23401,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2397	ham	(9,128,32,29)	12	2397.jpg
 2397	bowl	(49,110,40,41)	17	2397.jpg
 2397	cutting_board	(0,116,44,47)	19	2397.jpg
-2397	shell_egg	(50,113,21,20)	7	2397.jpg
+2397	broken_egg	(50,113,21,20)	4	2397.jpg
 2397	frying_pan	(101,88,83,107)	14	2397.jpg
 2397	saltshaker	(12,164,37,47)	26	2397.jpg
 2397	person	(0,0,133,138)	1	2397.jpg
@@ -23410,7 +23410,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2398	ham	(9,128,32,29)	12	2398.jpg
 2398	bowl	(49,110,40,41)	17	2398.jpg
 2398	cutting_board	(0,116,44,47)	19	2398.jpg
-2398	shell_egg	(50,113,21,20)	7	2398.jpg
+2398	broken_egg	(50,113,21,20)	4	2398.jpg
 2398	frying_pan	(101,88,83,107)	14	2398.jpg
 2398	saltshaker	(12,164,37,47)	26	2398.jpg
 2398	person	(0,0,133,138)	1	2398.jpg
@@ -23419,7 +23419,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2399	ham	(9,128,32,29)	12	2399.jpg
 2399	bowl	(49,110,40,41)	17	2399.jpg
 2399	cutting_board	(0,116,44,47)	19	2399.jpg
-2399	shell_egg	(50,113,21,20)	7	2399.jpg
+2399	broken_egg	(50,113,21,20)	4	2399.jpg
 2399	frying_pan	(101,88,83,107)	14	2399.jpg
 2399	saltshaker	(12,164,37,47)	26	2399.jpg
 2399	person	(0,0,133,138)	1	2399.jpg
@@ -23428,7 +23428,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2400	ham	(9,128,32,29)	12	2400.jpg
 2400	bowl	(49,110,40,41)	17	2400.jpg
 2400	cutting_board	(0,116,44,47)	19	2400.jpg
-2400	shell_egg	(50,113,21,20)	7	2400.jpg
+2400	broken_egg	(50,113,21,20)	4	2400.jpg
 2400	frying_pan	(101,88,83,107)	14	2400.jpg
 2400	saltshaker	(12,164,37,47)	26	2400.jpg
 2400	person	(0,0,133,138)	1	2400.jpg
@@ -23437,7 +23437,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2401	ham	(9,128,32,29)	12	2401.jpg
 2401	bowl	(49,110,40,41)	17	2401.jpg
 2401	cutting_board	(0,116,44,47)	19	2401.jpg
-2401	shell_egg	(50,113,21,20)	7	2401.jpg
+2401	broken_egg	(50,113,21,20)	4	2401.jpg
 2401	frying_pan	(101,88,83,107)	14	2401.jpg
 2401	saltshaker	(12,164,37,47)	26	2401.jpg
 2401	person	(0,0,133,138)	1	2401.jpg
@@ -23446,7 +23446,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 2402	ham	(9,128,32,29)	12	2402.jpg
 2402	bowl	(49,110,40,41)	17	2402.jpg
 2402	cutting_board	(0,116,44,47)	19	2402.jpg
-2402	shell_egg	(50,113,21,20)	7	2402.jpg
+2402	broken_egg	(50,113,21,20)	4	2402.jpg
 2402	frying_pan	(101,88,83,107)	14	2402.jpg
 2402	saltshaker	(12,164,37,47)	26	2402.jpg
 2402	person	(0,0,133,138)	1	2402.jpg
@@ -52454,7 +52454,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5480	frying_pan	(101,92,82,104)	14	5480.jpg
 5480	chopstick	(147,67,57,69)	18	5480.jpg
 5480	saltshaker	(16,160,37,55)	26	5480.jpg
-5480	baked_egg	(112,136,59,26)	2	5480.jpg
+5480	mixed_egg	(112,136,59,26)	6	5480.jpg
 5480	person	(41,0,161,154)	1	5480.jpg
 5481	table	(0,112,101,142)	29	5481.jpg
 5481	stove	(103,112,154,123)	30	5481.jpg
@@ -52463,7 +52463,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5481	frying_pan	(101,92,82,104)	14	5481.jpg
 5481	chopstick	(147,67,57,69)	18	5481.jpg
 5481	saltshaker	(16,160,37,55)	26	5481.jpg
-5481	baked_egg	(115,134,55,26)	2	5481.jpg
+5481	mixed_egg	(115,134,55,26)	6	5481.jpg
 5481	person	(41,0,161,154)	1	5481.jpg
 5482	table	(0,112,101,142)	29	5482.jpg
 5482	stove	(103,112,154,123)	30	5482.jpg
@@ -52472,7 +52472,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5482	frying_pan	(101,92,82,104)	14	5482.jpg
 5482	chopstick	(147,67,57,69)	18	5482.jpg
 5482	saltshaker	(16,160,37,55)	26	5482.jpg
-5482	baked_egg	(117,135,51,25)	2	5482.jpg
+5482	mixed_egg	(117,135,51,25)	6	5482.jpg
 5482	person	(41,0,161,154)	1	5482.jpg
 5483	table	(0,112,101,142)	29	5483.jpg
 5483	stove	(103,112,154,123)	30	5483.jpg
@@ -52481,7 +52481,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5483	frying_pan	(101,92,82,104)	14	5483.jpg
 5483	chopstick	(147,67,57,69)	18	5483.jpg
 5483	saltshaker	(16,160,37,55)	26	5483.jpg
-5483	baked_egg	(115,136,53,23)	2	5483.jpg
+5483	mixed_egg	(115,136,53,23)	6	5483.jpg
 5483	person	(41,0,161,154)	1	5483.jpg
 5484	table	(0,112,101,142)	29	5484.jpg
 5484	stove	(103,112,154,123)	30	5484.jpg
@@ -52490,7 +52490,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5484	frying_pan	(101,92,82,104)	14	5484.jpg
 5484	chopstick	(147,67,57,69)	18	5484.jpg
 5484	saltshaker	(16,160,37,55)	26	5484.jpg
-5484	baked_egg	(113,136,58,23)	2	5484.jpg
+5484	mixed_egg	(113,136,58,23)	6	5484.jpg
 5484	person	(41,0,161,154)	1	5484.jpg
 5485	table	(0,112,101,142)	29	5485.jpg
 5485	stove	(103,112,154,123)	30	5485.jpg
@@ -52499,7 +52499,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5485	frying_pan	(101,92,82,104)	14	5485.jpg
 5485	chopstick	(147,67,57,69)	18	5485.jpg
 5485	saltshaker	(16,160,37,55)	26	5485.jpg
-5485	baked_egg	(113,136,58,23)	2	5485.jpg
+5485	mixed_egg	(113,136,58,23)	6	5485.jpg
 5485	person	(41,0,161,154)	1	5485.jpg
 5486	table	(0,112,101,142)	29	5486.jpg
 5486	stove	(103,112,154,123)	30	5486.jpg
@@ -52508,7 +52508,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5486	frying_pan	(101,92,82,104)	14	5486.jpg
 5486	chopstick	(147,67,57,69)	18	5486.jpg
 5486	saltshaker	(16,160,37,55)	26	5486.jpg
-5486	baked_egg	(113,136,58,23)	2	5486.jpg
+5486	mixed_egg	(113,136,58,23)	6	5486.jpg
 5486	person	(41,0,161,154)	1	5486.jpg
 5487	table	(0,112,101,142)	29	5487.jpg
 5487	stove	(103,112,154,123)	30	5487.jpg
@@ -52517,7 +52517,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5487	frying_pan	(101,92,82,104)	14	5487.jpg
 5487	chopstick	(147,67,57,69)	18	5487.jpg
 5487	saltshaker	(16,160,37,55)	26	5487.jpg
-5487	baked_egg	(113,136,58,23)	2	5487.jpg
+5487	mixed_egg	(113,136,58,23)	6	5487.jpg
 5487	person	(41,0,161,154)	1	5487.jpg
 5488	table	(0,112,101,142)	29	5488.jpg
 5488	stove	(103,112,154,123)	30	5488.jpg
@@ -52526,7 +52526,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5488	frying_pan	(101,92,82,104)	14	5488.jpg
 5488	chopstick	(147,67,57,69)	18	5488.jpg
 5488	saltshaker	(16,160,37,55)	26	5488.jpg
-5488	baked_egg	(113,136,58,23)	2	5488.jpg
+5488	mixed_egg	(113,136,58,23)	6	5488.jpg
 5488	person	(41,0,161,154)	1	5488.jpg
 5489	table	(0,112,101,142)	29	5489.jpg
 5489	stove	(103,112,154,123)	30	5489.jpg
@@ -52535,7 +52535,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5489	frying_pan	(101,92,82,104)	14	5489.jpg
 5489	chopstick	(151,58,58,69)	18	5489.jpg
 5489	saltshaker	(16,160,37,55)	26	5489.jpg
-5489	baked_egg	(113,136,58,23)	2	5489.jpg
+5489	mixed_egg	(113,136,58,23)	6	5489.jpg
 5489	person	(41,0,161,154)	1	5489.jpg
 5490	table	(0,112,101,142)	29	5490.jpg
 5490	stove	(103,112,154,123)	30	5490.jpg
@@ -52544,7 +52544,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5490	frying_pan	(101,92,82,104)	14	5490.jpg
 5490	chopstick	(151,58,58,69)	18	5490.jpg
 5490	saltshaker	(16,160,37,55)	26	5490.jpg
-5490	baked_egg	(112,133,63,32)	2	5490.jpg
+5490	mixed_egg	(112,133,63,32)	6	5490.jpg
 5490	person	(41,0,161,154)	1	5490.jpg
 5491	table	(0,112,101,142)	29	5491.jpg
 5491	stove	(103,112,154,123)	30	5491.jpg
@@ -52553,7 +52553,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5491	frying_pan	(101,92,82,104)	14	5491.jpg
 5491	chopstick	(151,58,58,69)	18	5491.jpg
 5491	saltshaker	(16,160,37,55)	26	5491.jpg
-5491	baked_egg	(112,133,63,32)	2	5491.jpg
+5491	mixed_egg	(112,133,63,32)	6	5491.jpg
 5491	person	(41,0,161,154)	1	5491.jpg
 5492	table	(0,112,101,142)	29	5492.jpg
 5492	stove	(103,112,154,123)	30	5492.jpg
@@ -52562,7 +52562,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5492	frying_pan	(101,92,82,104)	14	5492.jpg
 5492	chopstick	(151,58,58,69)	18	5492.jpg
 5492	saltshaker	(16,160,37,55)	26	5492.jpg
-5492	baked_egg	(112,133,63,32)	2	5492.jpg
+5492	mixed_egg	(112,133,63,32)	6	5492.jpg
 5492	person	(41,0,161,154)	1	5492.jpg
 5493	table	(0,112,101,142)	29	5493.jpg
 5493	stove	(103,112,154,123)	30	5493.jpg
@@ -52571,7 +52571,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5493	frying_pan	(101,92,82,104)	14	5493.jpg
 5493	chopstick	(151,58,58,69)	18	5493.jpg
 5493	saltshaker	(16,160,37,55)	26	5493.jpg
-5493	baked_egg	(112,133,63,32)	2	5493.jpg
+5493	mixed_egg	(112,133,63,32)	6	5493.jpg
 5493	person	(41,0,161,154)	1	5493.jpg
 5494	table	(0,112,101,142)	29	5494.jpg
 5494	stove	(103,112,154,123)	30	5494.jpg
@@ -52580,7 +52580,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5494	frying_pan	(101,92,82,104)	14	5494.jpg
 5494	chopstick	(151,58,58,69)	18	5494.jpg
 5494	saltshaker	(16,160,37,55)	26	5494.jpg
-5494	baked_egg	(112,133,63,32)	2	5494.jpg
+5494	mixed_egg	(112,133,63,32)	6	5494.jpg
 5494	person	(41,0,161,154)	1	5494.jpg
 5495	table	(0,112,101,142)	29	5495.jpg
 5495	stove	(103,112,154,123)	30	5495.jpg
@@ -52589,7 +52589,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5495	frying_pan	(101,92,82,104)	14	5495.jpg
 5495	chopstick	(151,58,58,69)	18	5495.jpg
 5495	saltshaker	(16,160,37,55)	26	5495.jpg
-5495	baked_egg	(112,133,63,32)	2	5495.jpg
+5495	mixed_egg	(112,133,63,32)	6	5495.jpg
 5495	person	(41,0,161,154)	1	5495.jpg
 5496	table	(0,112,101,142)	29	5496.jpg
 5496	stove	(103,112,154,123)	30	5496.jpg
@@ -52598,7 +52598,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5496	frying_pan	(101,92,82,104)	14	5496.jpg
 5496	chopstick	(151,58,58,69)	18	5496.jpg
 5496	saltshaker	(16,160,37,55)	26	5496.jpg
-5496	baked_egg	(112,133,63,32)	2	5496.jpg
+5496	mixed_egg	(112,133,63,32)	6	5496.jpg
 5496	person	(41,0,161,154)	1	5496.jpg
 5497	table	(0,112,101,142)	29	5497.jpg
 5497	stove	(103,112,154,123)	30	5497.jpg
@@ -52607,7 +52607,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5497	frying_pan	(101,92,82,104)	14	5497.jpg
 5497	chopstick	(151,58,58,69)	18	5497.jpg
 5497	saltshaker	(16,160,37,55)	26	5497.jpg
-5497	baked_egg	(112,133,63,32)	2	5497.jpg
+5497	mixed_egg	(112,133,63,32)	6	5497.jpg
 5497	person	(43,0,166,145)	1	5497.jpg
 5498	table	(0,112,101,142)	29	5498.jpg
 5498	stove	(103,112,154,123)	30	5498.jpg
@@ -52616,7 +52616,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5498	frying_pan	(101,92,82,104)	14	5498.jpg
 5498	chopstick	(151,58,58,69)	18	5498.jpg
 5498	saltshaker	(16,160,37,55)	26	5498.jpg
-5498	baked_egg	(112,133,63,32)	2	5498.jpg
+5498	mixed_egg	(112,133,63,32)	6	5498.jpg
 5498	person	(43,0,166,145)	1	5498.jpg
 5499	table	(0,112,101,142)	29	5499.jpg
 5499	stove	(103,112,154,123)	30	5499.jpg
@@ -52625,7 +52625,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5499	frying_pan	(101,92,82,104)	14	5499.jpg
 5499	chopstick	(151,58,58,69)	18	5499.jpg
 5499	saltshaker	(16,160,37,55)	26	5499.jpg
-5499	baked_egg	(112,133,63,32)	2	5499.jpg
+5499	mixed_egg	(112,133,63,32)	6	5499.jpg
 5499	person	(43,0,166,145)	1	5499.jpg
 5500	table	(0,112,101,142)	29	5500.jpg
 5500	stove	(103,112,154,123)	30	5500.jpg
@@ -52634,7 +52634,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5500	frying_pan	(101,92,82,104)	14	5500.jpg
 5500	chopstick	(151,58,58,69)	18	5500.jpg
 5500	saltshaker	(16,160,37,55)	26	5500.jpg
-5500	baked_egg	(112,133,63,32)	2	5500.jpg
+5500	mixed_egg	(112,133,63,32)	6	5500.jpg
 5500	person	(43,0,166,145)	1	5500.jpg
 5501	table	(0,112,101,142)	29	5501.jpg
 5501	stove	(103,112,154,123)	30	5501.jpg
@@ -52643,7 +52643,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5501	frying_pan	(101,92,82,104)	14	5501.jpg
 5501	chopstick	(151,58,58,69)	18	5501.jpg
 5501	saltshaker	(16,160,37,55)	26	5501.jpg
-5501	baked_egg	(112,133,63,32)	2	5501.jpg
+5501	mixed_egg	(112,133,63,32)	6	5501.jpg
 5501	person	(43,0,166,145)	1	5501.jpg
 5502	table	(0,112,101,142)	29	5502.jpg
 5502	stove	(103,112,154,123)	30	5502.jpg
@@ -52652,7 +52652,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5502	frying_pan	(101,92,82,104)	14	5502.jpg
 5502	chopstick	(151,58,58,69)	18	5502.jpg
 5502	saltshaker	(16,160,37,55)	26	5502.jpg
-5502	baked_egg	(112,133,63,32)	2	5502.jpg
+5502	mixed_egg	(112,133,63,32)	6	5502.jpg
 5502	person	(43,0,166,145)	1	5502.jpg
 5503	table	(0,112,101,142)	29	5503.jpg
 5503	stove	(103,112,154,123)	30	5503.jpg
@@ -52661,7 +52661,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5503	frying_pan	(101,92,82,104)	14	5503.jpg
 5503	chopstick	(151,58,58,69)	18	5503.jpg
 5503	saltshaker	(16,160,37,55)	26	5503.jpg
-5503	baked_egg	(112,133,63,32)	2	5503.jpg
+5503	mixed_egg	(112,133,63,32)	6	5503.jpg
 5503	person	(43,0,166,145)	1	5503.jpg
 5504	table	(0,112,101,142)	29	5504.jpg
 5504	stove	(103,112,154,123)	30	5504.jpg
@@ -52670,7 +52670,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5504	frying_pan	(101,92,82,104)	14	5504.jpg
 5504	chopstick	(151,58,58,69)	18	5504.jpg
 5504	saltshaker	(16,160,37,55)	26	5504.jpg
-5504	baked_egg	(111,131,64,36)	2	5504.jpg
+5504	mixed_egg	(111,131,64,36)	6	5504.jpg
 5504	person	(43,0,166,145)	1	5504.jpg
 5505	table	(0,112,101,142)	29	5505.jpg
 5505	stove	(103,112,154,123)	30	5505.jpg
@@ -52679,7 +52679,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5505	frying_pan	(101,92,82,104)	14	5505.jpg
 5505	chopstick	(151,58,58,69)	18	5505.jpg
 5505	saltshaker	(16,160,37,55)	26	5505.jpg
-5505	baked_egg	(111,131,64,36)	2	5505.jpg
+5505	mixed_egg	(111,131,64,36)	6	5505.jpg
 5505	person	(43,0,166,145)	1	5505.jpg
 5506	table	(0,112,101,142)	29	5506.jpg
 5506	stove	(103,112,154,123)	30	5506.jpg
@@ -52688,7 +52688,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5506	frying_pan	(101,92,82,104)	14	5506.jpg
 5506	chopstick	(151,58,58,69)	18	5506.jpg
 5506	saltshaker	(16,160,37,55)	26	5506.jpg
-5506	baked_egg	(111,131,64,36)	2	5506.jpg
+5506	mixed_egg	(111,131,64,36)	6	5506.jpg
 5506	person	(43,0,166,145)	1	5506.jpg
 5507	table	(0,112,101,142)	29	5507.jpg
 5507	stove	(103,112,154,123)	30	5507.jpg
@@ -52697,7 +52697,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5507	frying_pan	(101,92,82,104)	14	5507.jpg
 5507	chopstick	(151,58,58,69)	18	5507.jpg
 5507	saltshaker	(16,160,37,55)	26	5507.jpg
-5507	baked_egg	(111,131,64,36)	2	5507.jpg
+5507	mixed_egg	(111,131,64,36)	6	5507.jpg
 5507	person	(43,0,166,145)	1	5507.jpg
 5508	table	(0,112,101,142)	29	5508.jpg
 5508	stove	(103,112,154,123)	30	5508.jpg
@@ -52706,7 +52706,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5508	frying_pan	(101,92,82,104)	14	5508.jpg
 5508	chopstick	(151,58,58,69)	18	5508.jpg
 5508	saltshaker	(16,160,37,55)	26	5508.jpg
-5508	baked_egg	(111,131,64,36)	2	5508.jpg
+5508	mixed_egg	(111,131,64,36)	6	5508.jpg
 5508	person	(43,0,166,145)	1	5508.jpg
 5509	table	(0,112,101,142)	29	5509.jpg
 5509	stove	(103,112,154,123)	30	5509.jpg
@@ -52715,7 +52715,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5509	frying_pan	(101,92,82,104)	14	5509.jpg
 5509	chopstick	(151,58,58,69)	18	5509.jpg
 5509	saltshaker	(16,160,37,55)	26	5509.jpg
-5509	baked_egg	(111,131,64,36)	2	5509.jpg
+5509	mixed_egg	(111,131,64,36)	6	5509.jpg
 5509	person	(43,0,166,145)	1	5509.jpg
 5510	table	(0,112,101,142)	29	5510.jpg
 5510	stove	(103,112,154,123)	30	5510.jpg
@@ -52724,7 +52724,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5510	frying_pan	(101,92,82,104)	14	5510.jpg
 5510	chopstick	(151,58,58,69)	18	5510.jpg
 5510	saltshaker	(16,160,37,55)	26	5510.jpg
-5510	baked_egg	(111,131,64,36)	2	5510.jpg
+5510	mixed_egg	(111,131,64,36)	6	5510.jpg
 5510	person	(43,0,166,145)	1	5510.jpg
 5511	table	(0,112,101,142)	29	5511.jpg
 5511	stove	(103,112,154,123)	30	5511.jpg
@@ -52733,7 +52733,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5511	frying_pan	(101,92,82,104)	14	5511.jpg
 5511	chopstick	(151,58,58,69)	18	5511.jpg
 5511	saltshaker	(16,160,37,55)	26	5511.jpg
-5511	baked_egg	(111,131,64,36)	2	5511.jpg
+5511	mixed_egg	(111,131,64,36)	6	5511.jpg
 5511	person	(43,0,166,145)	1	5511.jpg
 5512	table	(0,112,101,142)	29	5512.jpg
 5512	stove	(103,112,154,123)	30	5512.jpg
@@ -52742,7 +52742,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5512	frying_pan	(101,92,82,104)	14	5512.jpg
 5512	chopstick	(151,58,58,69)	18	5512.jpg
 5512	saltshaker	(16,160,37,55)	26	5512.jpg
-5512	baked_egg	(111,131,64,36)	2	5512.jpg
+5512	mixed_egg	(111,131,64,36)	6	5512.jpg
 5512	person	(43,0,166,145)	1	5512.jpg
 5513	table	(0,112,101,142)	29	5513.jpg
 5513	stove	(103,112,154,123)	30	5513.jpg
@@ -52751,7 +52751,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5513	frying_pan	(101,92,82,104)	14	5513.jpg
 5513	chopstick	(151,58,58,69)	18	5513.jpg
 5513	saltshaker	(16,160,37,55)	26	5513.jpg
-5513	baked_egg	(111,131,64,36)	2	5513.jpg
+5513	mixed_egg	(111,131,64,36)	6	5513.jpg
 5513	person	(43,0,166,145)	1	5513.jpg
 5514	table	(0,112,101,142)	29	5514.jpg
 5514	stove	(103,112,154,123)	30	5514.jpg
@@ -52760,7 +52760,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5514	frying_pan	(101,92,82,104)	14	5514.jpg
 5514	chopstick	(151,58,58,69)	18	5514.jpg
 5514	saltshaker	(16,160,37,55)	26	5514.jpg
-5514	baked_egg	(111,131,64,36)	2	5514.jpg
+5514	mixed_egg	(111,131,64,36)	6	5514.jpg
 5514	person	(43,0,166,145)	1	5514.jpg
 5515	table	(0,112,101,142)	29	5515.jpg
 5515	stove	(103,112,154,123)	30	5515.jpg
@@ -52769,7 +52769,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5515	frying_pan	(101,92,82,104)	14	5515.jpg
 5515	chopstick	(151,58,58,69)	18	5515.jpg
 5515	saltshaker	(16,160,37,55)	26	5515.jpg
-5515	baked_egg	(111,131,64,36)	2	5515.jpg
+5515	mixed_egg	(111,131,64,36)	6	5515.jpg
 5515	person	(43,0,166,145)	1	5515.jpg
 5516	table	(0,112,101,142)	29	5516.jpg
 5516	stove	(103,112,154,123)	30	5516.jpg
@@ -52778,7 +52778,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5516	frying_pan	(101,92,82,104)	14	5516.jpg
 5516	chopstick	(151,58,58,69)	18	5516.jpg
 5516	saltshaker	(16,160,37,55)	26	5516.jpg
-5516	baked_egg	(111,131,64,36)	2	5516.jpg
+5516	mixed_egg	(111,131,64,36)	6	5516.jpg
 5516	person	(43,0,166,145)	1	5516.jpg
 5517	table	(0,112,101,142)	29	5517.jpg
 5517	stove	(103,112,154,123)	30	5517.jpg
@@ -52787,7 +52787,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5517	frying_pan	(101,92,82,104)	14	5517.jpg
 5517	chopstick	(151,58,58,69)	18	5517.jpg
 5517	saltshaker	(16,160,37,55)	26	5517.jpg
-5517	baked_egg	(111,131,64,36)	2	5517.jpg
+5517	mixed_egg	(111,131,64,36)	6	5517.jpg
 5517	person	(43,0,166,145)	1	5517.jpg
 5518	table	(0,112,101,142)	29	5518.jpg
 5518	stove	(103,112,154,123)	30	5518.jpg
@@ -52796,7 +52796,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5518	frying_pan	(101,92,82,104)	14	5518.jpg
 5518	chopstick	(151,58,58,69)	18	5518.jpg
 5518	saltshaker	(16,160,37,55)	26	5518.jpg
-5518	baked_egg	(111,131,64,36)	2	5518.jpg
+5518	mixed_egg	(111,131,64,36)	6	5518.jpg
 5518	person	(43,0,166,145)	1	5518.jpg
 5519	table	(0,112,101,142)	29	5519.jpg
 5519	stove	(103,112,154,123)	30	5519.jpg
@@ -52805,7 +52805,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5519	frying_pan	(101,92,82,104)	14	5519.jpg
 5519	chopstick	(151,58,58,69)	18	5519.jpg
 5519	saltshaker	(16,160,37,55)	26	5519.jpg
-5519	baked_egg	(111,131,64,36)	2	5519.jpg
+5519	mixed_egg	(111,131,64,36)	6	5519.jpg
 5519	person	(43,0,166,145)	1	5519.jpg
 5520	table	(0,112,101,142)	29	5520.jpg
 5520	stove	(103,112,154,123)	30	5520.jpg
@@ -52814,7 +52814,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5520	frying_pan	(101,92,82,104)	14	5520.jpg
 5520	chopstick	(151,58,58,69)	18	5520.jpg
 5520	saltshaker	(16,160,37,55)	26	5520.jpg
-5520	baked_egg	(111,131,64,36)	2	5520.jpg
+5520	mixed_egg	(111,131,64,36)	6	5520.jpg
 5520	person	(43,0,166,145)	1	5520.jpg
 5521	table	(0,112,101,142)	29	5521.jpg
 5521	stove	(103,112,154,123)	30	5521.jpg
@@ -52823,7 +52823,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5521	frying_pan	(101,92,82,104)	14	5521.jpg
 5521	chopstick	(151,58,58,69)	18	5521.jpg
 5521	saltshaker	(16,160,37,55)	26	5521.jpg
-5521	baked_egg	(111,131,64,36)	2	5521.jpg
+5521	mixed_egg	(111,131,64,36)	6	5521.jpg
 5521	person	(43,0,166,145)	1	5521.jpg
 5522	table	(0,112,101,142)	29	5522.jpg
 5522	stove	(103,112,154,123)	30	5522.jpg
@@ -52832,7 +52832,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5522	frying_pan	(101,92,82,104)	14	5522.jpg
 5522	chopstick	(151,58,58,69)	18	5522.jpg
 5522	saltshaker	(16,160,37,55)	26	5522.jpg
-5522	baked_egg	(111,131,64,36)	2	5522.jpg
+5522	mixed_egg	(111,131,64,36)	6	5522.jpg
 5522	person	(43,0,166,145)	1	5522.jpg
 5523	table	(0,112,101,142)	29	5523.jpg
 5523	stove	(103,112,154,123)	30	5523.jpg
@@ -52841,7 +52841,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5523	frying_pan	(101,92,82,104)	14	5523.jpg
 5523	chopstick	(151,58,58,69)	18	5523.jpg
 5523	saltshaker	(16,160,37,55)	26	5523.jpg
-5523	baked_egg	(111,131,64,36)	2	5523.jpg
+5523	mixed_egg	(111,131,64,36)	6	5523.jpg
 5523	person	(43,0,166,145)	1	5523.jpg
 5524	table	(0,112,101,142)	29	5524.jpg
 5524	stove	(103,112,154,123)	30	5524.jpg
@@ -52850,7 +52850,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5524	frying_pan	(101,92,82,104)	14	5524.jpg
 5524	chopstick	(151,58,58,69)	18	5524.jpg
 5524	saltshaker	(16,160,37,55)	26	5524.jpg
-5524	baked_egg	(111,131,64,36)	2	5524.jpg
+5524	mixed_egg	(111,131,64,36)	6	5524.jpg
 5524	person	(43,0,166,145)	1	5524.jpg
 5525	table	(0,112,101,142)	29	5525.jpg
 5525	stove	(103,112,154,123)	30	5525.jpg
@@ -52859,7 +52859,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5525	frying_pan	(101,92,82,104)	14	5525.jpg
 5525	chopstick	(151,58,58,69)	18	5525.jpg
 5525	saltshaker	(16,160,37,55)	26	5525.jpg
-5525	baked_egg	(111,131,64,36)	2	5525.jpg
+5525	mixed_egg	(111,131,64,36)	6	5525.jpg
 5525	person	(43,0,166,145)	1	5525.jpg
 5526	table	(0,112,101,142)	29	5526.jpg
 5526	stove	(103,112,154,123)	30	5526.jpg
@@ -52868,7 +52868,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5526	frying_pan	(101,92,82,104)	14	5526.jpg
 5526	chopstick	(151,58,58,69)	18	5526.jpg
 5526	saltshaker	(16,160,37,55)	26	5526.jpg
-5526	baked_egg	(111,131,64,36)	2	5526.jpg
+5526	mixed_egg	(111,131,64,36)	6	5526.jpg
 5526	person	(43,0,166,145)	1	5526.jpg
 5527	table	(0,112,101,142)	29	5527.jpg
 5527	stove	(103,112,154,123)	30	5527.jpg
@@ -52877,7 +52877,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5527	frying_pan	(101,92,82,104)	14	5527.jpg
 5527	chopstick	(151,58,58,69)	18	5527.jpg
 5527	saltshaker	(16,160,37,55)	26	5527.jpg
-5527	baked_egg	(111,131,64,36)	2	5527.jpg
+5527	mixed_egg	(111,131,64,36)	6	5527.jpg
 5527	person	(44,0,156,138)	1	5527.jpg
 5528	table	(0,112,101,142)	29	5528.jpg
 5528	stove	(103,112,154,123)	30	5528.jpg
@@ -52886,7 +52886,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5528	frying_pan	(101,92,82,104)	14	5528.jpg
 5528	chopstick	(151,58,58,69)	18	5528.jpg
 5528	saltshaker	(16,160,37,55)	26	5528.jpg
-5528	baked_egg	(110,131,65,39)	2	5528.jpg
+5528	mixed_egg	(110,131,65,39)	6	5528.jpg
 5528	person	(47,0,151,133)	1	5528.jpg
 5529	table	(0,112,101,142)	29	5529.jpg
 5529	stove	(103,112,154,123)	30	5529.jpg
@@ -52895,7 +52895,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5529	frying_pan	(101,92,82,104)	14	5529.jpg
 5529	chopstick	(145,56,50,61)	18	5529.jpg
 5529	saltshaker	(16,160,37,55)	26	5529.jpg
-5529	baked_egg	(110,131,65,39)	2	5529.jpg
+5529	mixed_egg	(110,131,65,39)	6	5529.jpg
 5529	person	(47,0,145,137)	1	5529.jpg
 5530	table	(0,112,101,142)	29	5530.jpg
 5530	stove	(103,112,154,123)	30	5530.jpg
@@ -52904,7 +52904,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5530	frying_pan	(101,92,82,104)	14	5530.jpg
 5530	chopstick	(143,53,49,62)	18	5530.jpg
 5530	saltshaker	(16,160,37,55)	26	5530.jpg
-5530	baked_egg	(110,131,65,39)	2	5530.jpg
+5530	mixed_egg	(110,131,65,39)	6	5530.jpg
 5530	person	(47,0,145,137)	1	5530.jpg
 5531	table	(0,112,101,142)	29	5531.jpg
 5531	stove	(103,112,154,123)	30	5531.jpg
@@ -52913,7 +52913,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5531	frying_pan	(101,92,82,104)	14	5531.jpg
 5531	chopstick	(141,54,48,60)	18	5531.jpg
 5531	saltshaker	(16,160,37,55)	26	5531.jpg
-5531	baked_egg	(110,131,65,39)	2	5531.jpg
+5531	mixed_egg	(110,131,65,39)	6	5531.jpg
 5531	person	(47,0,145,137)	1	5531.jpg
 5532	table	(0,112,101,142)	29	5532.jpg
 5532	stove	(103,112,154,123)	30	5532.jpg
@@ -52922,7 +52922,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5532	frying_pan	(101,92,82,104)	14	5532.jpg
 5532	chopstick	(139,56,47,56)	18	5532.jpg
 5532	saltshaker	(16,160,37,55)	26	5532.jpg
-5532	baked_egg	(110,131,65,39)	2	5532.jpg
+5532	mixed_egg	(110,131,65,39)	6	5532.jpg
 5532	person	(47,0,145,137)	1	5532.jpg
 5533	table	(0,112,101,142)	29	5533.jpg
 5533	stove	(103,112,154,123)	30	5533.jpg
@@ -52931,7 +52931,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5533	frying_pan	(101,92,82,104)	14	5533.jpg
 5533	chopstick	(139,58,44,54)	18	5533.jpg
 5533	saltshaker	(16,160,37,55)	26	5533.jpg
-5533	baked_egg	(110,131,65,39)	2	5533.jpg
+5533	mixed_egg	(110,131,65,39)	6	5533.jpg
 5533	person	(47,0,145,137)	1	5533.jpg
 5534	table	(0,112,101,142)	29	5534.jpg
 5534	stove	(103,112,154,123)	30	5534.jpg
@@ -52940,7 +52940,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5534	frying_pan	(101,92,82,104)	14	5534.jpg
 5534	chopstick	(141,58,42,54)	18	5534.jpg
 5534	saltshaker	(16,160,37,55)	26	5534.jpg
-5534	baked_egg	(110,131,65,39)	2	5534.jpg
+5534	mixed_egg	(110,131,65,39)	6	5534.jpg
 5534	person	(47,0,145,137)	1	5534.jpg
 5535	table	(0,112,101,142)	29	5535.jpg
 5535	stove	(103,112,154,123)	30	5535.jpg
@@ -52949,7 +52949,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5535	frying_pan	(101,92,82,104)	14	5535.jpg
 5535	chopstick	(138,58,44,54)	18	5535.jpg
 5535	saltshaker	(16,160,37,55)	26	5535.jpg
-5535	baked_egg	(110,131,64,44)	2	5535.jpg
+5535	mixed_egg	(110,131,64,44)	6	5535.jpg
 5535	person	(47,0,145,137)	1	5535.jpg
 5536	table	(0,112,101,142)	29	5536.jpg
 5536	stove	(103,112,154,123)	30	5536.jpg
@@ -52958,7 +52958,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5536	frying_pan	(101,92,82,104)	14	5536.jpg
 5536	chopstick	(140,58,41,52)	18	5536.jpg
 5536	saltshaker	(16,160,37,55)	26	5536.jpg
-5536	baked_egg	(110,131,64,44)	2	5536.jpg
+5536	mixed_egg	(110,131,64,44)	6	5536.jpg
 5536	person	(47,0,145,137)	1	5536.jpg
 5537	table	(0,112,101,142)	29	5537.jpg
 5537	stove	(103,112,154,123)	30	5537.jpg
@@ -52967,7 +52967,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5537	frying_pan	(101,92,82,104)	14	5537.jpg
 5537	chopstick	(141,57,40,55)	18	5537.jpg
 5537	saltshaker	(16,160,37,55)	26	5537.jpg
-5537	baked_egg	(110,131,64,44)	2	5537.jpg
+5537	mixed_egg	(110,131,64,44)	6	5537.jpg
 5537	person	(47,0,145,137)	1	5537.jpg
 5538	table	(0,112,101,142)	29	5538.jpg
 5538	stove	(103,112,154,123)	30	5538.jpg
@@ -52976,7 +52976,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5538	frying_pan	(101,92,82,104)	14	5538.jpg
 5538	chopstick	(139,60,41,52)	18	5538.jpg
 5538	saltshaker	(16,160,37,55)	26	5538.jpg
-5538	baked_egg	(110,131,64,44)	2	5538.jpg
+5538	mixed_egg	(110,131,64,44)	6	5538.jpg
 5538	person	(47,0,145,137)	1	5538.jpg
 5539	table	(0,112,101,142)	29	5539.jpg
 5539	stove	(103,112,154,123)	30	5539.jpg
@@ -52985,7 +52985,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5539	frying_pan	(101,92,82,104)	14	5539.jpg
 5539	chopstick	(140,62,40,51)	18	5539.jpg
 5539	saltshaker	(16,160,37,55)	26	5539.jpg
-5539	baked_egg	(110,131,64,44)	2	5539.jpg
+5539	mixed_egg	(110,131,64,44)	6	5539.jpg
 5539	person	(47,0,145,137)	1	5539.jpg
 5540	table	(0,112,101,142)	29	5540.jpg
 5540	stove	(103,112,154,123)	30	5540.jpg
@@ -52994,7 +52994,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5540	frying_pan	(101,92,82,104)	14	5540.jpg
 5540	chopstick	(140,62,40,51)	18	5540.jpg
 5540	saltshaker	(16,160,37,55)	26	5540.jpg
-5540	baked_egg	(110,131,64,44)	2	5540.jpg
+5540	mixed_egg	(110,131,64,44)	6	5540.jpg
 5540	person	(47,0,145,137)	1	5540.jpg
 5541	table	(0,112,101,142)	29	5541.jpg
 5541	stove	(103,112,154,123)	30	5541.jpg
@@ -53003,7 +53003,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5541	frying_pan	(101,92,82,104)	14	5541.jpg
 5541	chopstick	(141,61,41,51)	18	5541.jpg
 5541	saltshaker	(16,160,37,55)	26	5541.jpg
-5541	baked_egg	(110,131,64,44)	2	5541.jpg
+5541	mixed_egg	(110,131,64,44)	6	5541.jpg
 5541	person	(47,0,145,137)	1	5541.jpg
 5542	table	(0,112,101,142)	29	5542.jpg
 5542	stove	(103,112,154,123)	30	5542.jpg
@@ -53012,7 +53012,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5542	frying_pan	(101,92,82,104)	14	5542.jpg
 5542	chopstick	(140,60,42,52)	18	5542.jpg
 5542	saltshaker	(16,160,37,55)	26	5542.jpg
-5542	baked_egg	(110,129,64,48)	2	5542.jpg
+5542	mixed_egg	(110,129,64,48)	6	5542.jpg
 5542	person	(47,0,145,137)	1	5542.jpg
 5543	table	(0,112,101,142)	29	5543.jpg
 5543	stove	(103,112,154,123)	30	5543.jpg
@@ -53021,7 +53021,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5543	frying_pan	(101,92,82,104)	14	5543.jpg
 5543	chopstick	(140,58,42,53)	18	5543.jpg
 5543	saltshaker	(16,160,37,55)	26	5543.jpg
-5543	baked_egg	(110,129,64,48)	2	5543.jpg
+5543	mixed_egg	(110,129,64,48)	6	5543.jpg
 5543	person	(47,0,145,137)	1	5543.jpg
 5544	table	(0,112,101,142)	29	5544.jpg
 5544	stove	(103,112,154,123)	30	5544.jpg
@@ -53030,7 +53030,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5544	frying_pan	(101,92,82,104)	14	5544.jpg
 5544	chopstick	(138,57,42,54)	18	5544.jpg
 5544	saltshaker	(16,160,37,55)	26	5544.jpg
-5544	baked_egg	(110,129,64,48)	2	5544.jpg
+5544	mixed_egg	(110,129,64,48)	6	5544.jpg
 5544	person	(47,0,145,137)	1	5544.jpg
 5545	table	(0,112,101,142)	29	5545.jpg
 5545	stove	(103,112,154,123)	30	5545.jpg
@@ -53039,7 +53039,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5545	frying_pan	(101,92,82,104)	14	5545.jpg
 5545	chopstick	(137,58,42,53)	18	5545.jpg
 5545	saltshaker	(16,160,37,55)	26	5545.jpg
-5545	baked_egg	(110,129,64,48)	2	5545.jpg
+5545	mixed_egg	(110,129,64,48)	6	5545.jpg
 5545	person	(47,0,145,137)	1	5545.jpg
 5546	table	(0,112,101,142)	29	5546.jpg
 5546	stove	(103,112,154,123)	30	5546.jpg
@@ -53048,7 +53048,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5546	frying_pan	(101,92,82,104)	14	5546.jpg
 5546	chopstick	(136,60,41,52)	18	5546.jpg
 5546	saltshaker	(16,160,37,55)	26	5546.jpg
-5546	baked_egg	(110,129,64,48)	2	5546.jpg
+5546	mixed_egg	(110,129,64,48)	6	5546.jpg
 5546	person	(47,0,145,137)	1	5546.jpg
 5547	table	(0,112,101,142)	29	5547.jpg
 5547	stove	(103,112,154,123)	30	5547.jpg
@@ -53057,7 +53057,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5547	frying_pan	(101,92,82,104)	14	5547.jpg
 5547	chopstick	(134,61,42,53)	18	5547.jpg
 5547	saltshaker	(16,160,37,55)	26	5547.jpg
-5547	baked_egg	(110,129,64,48)	2	5547.jpg
+5547	mixed_egg	(110,129,64,48)	6	5547.jpg
 5547	person	(47,0,145,137)	1	5547.jpg
 5548	table	(0,112,101,142)	29	5548.jpg
 5548	stove	(103,112,154,123)	30	5548.jpg
@@ -53066,7 +53066,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5548	frying_pan	(101,92,82,104)	14	5548.jpg
 5548	chopstick	(136,62,42,53)	18	5548.jpg
 5548	saltshaker	(16,160,37,55)	26	5548.jpg
-5548	baked_egg	(110,129,64,48)	2	5548.jpg
+5548	mixed_egg	(110,129,64,48)	6	5548.jpg
 5548	person	(47,0,145,137)	1	5548.jpg
 5549	table	(0,112,101,142)	29	5549.jpg
 5549	stove	(103,112,154,123)	30	5549.jpg
@@ -53075,7 +53075,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5549	frying_pan	(101,92,82,104)	14	5549.jpg
 5549	chopstick	(137,62,41,53)	18	5549.jpg
 5549	saltshaker	(16,160,37,55)	26	5549.jpg
-5549	baked_egg	(110,129,64,48)	2	5549.jpg
+5549	mixed_egg	(110,129,64,48)	6	5549.jpg
 5549	person	(47,0,145,137)	1	5549.jpg
 5550	table	(0,112,101,142)	29	5550.jpg
 5550	stove	(103,112,154,123)	30	5550.jpg
@@ -53084,7 +53084,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5550	frying_pan	(101,92,82,104)	14	5550.jpg
 5550	chopstick	(138,62,42,53)	18	5550.jpg
 5550	saltshaker	(16,160,37,55)	26	5550.jpg
-5550	baked_egg	(110,129,64,48)	2	5550.jpg
+5550	mixed_egg	(110,129,64,48)	6	5550.jpg
 5550	person	(47,0,145,137)	1	5550.jpg
 5551	table	(0,112,101,142)	29	5551.jpg
 5551	stove	(103,112,154,123)	30	5551.jpg
@@ -53093,7 +53093,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5551	frying_pan	(101,92,82,104)	14	5551.jpg
 5551	chopstick	(140,61,41,53)	18	5551.jpg
 5551	saltshaker	(16,160,37,55)	26	5551.jpg
-5551	baked_egg	(110,129,64,48)	2	5551.jpg
+5551	mixed_egg	(110,129,64,48)	6	5551.jpg
 5551	person	(47,0,145,137)	1	5551.jpg
 5552	table	(0,112,101,142)	29	5552.jpg
 5552	stove	(103,112,154,123)	30	5552.jpg
@@ -53102,7 +53102,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5552	frying_pan	(101,92,82,104)	14	5552.jpg
 5552	chopstick	(141,61,41,52)	18	5552.jpg
 5552	saltshaker	(16,160,37,55)	26	5552.jpg
-5552	baked_egg	(110,129,64,48)	2	5552.jpg
+5552	mixed_egg	(110,129,64,48)	6	5552.jpg
 5552	person	(47,0,145,137)	1	5552.jpg
 5553	table	(0,112,101,142)	29	5553.jpg
 5553	stove	(103,112,154,123)	30	5553.jpg
@@ -53111,7 +53111,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5553	frying_pan	(101,92,82,104)	14	5553.jpg
 5553	chopstick	(141,59,42,53)	18	5553.jpg
 5553	saltshaker	(16,160,37,55)	26	5553.jpg
-5553	baked_egg	(109,130,64,50)	2	5553.jpg
+5553	mixed_egg	(109,130,64,50)	6	5553.jpg
 5553	person	(47,0,145,137)	1	5553.jpg
 5554	table	(0,112,101,142)	29	5554.jpg
 5554	stove	(103,112,154,123)	30	5554.jpg
@@ -53120,7 +53120,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5554	frying_pan	(101,92,82,104)	14	5554.jpg
 5554	chopstick	(138,57,43,55)	18	5554.jpg
 5554	saltshaker	(16,160,37,55)	26	5554.jpg
-5554	baked_egg	(109,130,64,50)	2	5554.jpg
+5554	mixed_egg	(109,130,64,50)	6	5554.jpg
 5554	person	(47,0,145,137)	1	5554.jpg
 5555	table	(0,112,101,142)	29	5555.jpg
 5555	stove	(103,112,154,123)	30	5555.jpg
@@ -53129,7 +53129,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5555	frying_pan	(101,92,82,104)	14	5555.jpg
 5555	chopstick	(139,57,43,54)	18	5555.jpg
 5555	saltshaker	(16,160,37,55)	26	5555.jpg
-5555	baked_egg	(109,130,64,50)	2	5555.jpg
+5555	mixed_egg	(109,130,64,50)	6	5555.jpg
 5555	person	(47,0,145,137)	1	5555.jpg
 5556	table	(0,112,101,142)	29	5556.jpg
 5556	stove	(103,112,154,123)	30	5556.jpg
@@ -53138,7 +53138,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5556	frying_pan	(101,92,82,104)	14	5556.jpg
 5556	chopstick	(136,57,42,53)	18	5556.jpg
 5556	saltshaker	(16,160,37,55)	26	5556.jpg
-5556	baked_egg	(109,130,64,50)	2	5556.jpg
+5556	mixed_egg	(109,130,64,50)	6	5556.jpg
 5556	person	(47,0,145,137)	1	5556.jpg
 5557	table	(0,112,101,142)	29	5557.jpg
 5557	stove	(103,112,154,123)	30	5557.jpg
@@ -53147,7 +53147,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5557	frying_pan	(101,92,82,104)	14	5557.jpg
 5557	chopstick	(136,58,42,54)	18	5557.jpg
 5557	saltshaker	(16,160,37,55)	26	5557.jpg
-5557	baked_egg	(109,130,64,50)	2	5557.jpg
+5557	mixed_egg	(109,130,64,50)	6	5557.jpg
 5557	person	(47,0,145,137)	1	5557.jpg
 5558	table	(0,112,101,142)	29	5558.jpg
 5558	stove	(103,112,154,123)	30	5558.jpg
@@ -53156,7 +53156,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5558	frying_pan	(101,92,82,104)	14	5558.jpg
 5558	chopstick	(139,61,40,51)	18	5558.jpg
 5558	saltshaker	(16,160,37,55)	26	5558.jpg
-5558	baked_egg	(109,130,64,50)	2	5558.jpg
+5558	mixed_egg	(109,130,64,50)	6	5558.jpg
 5558	person	(47,0,145,137)	1	5558.jpg
 5559	table	(0,112,101,142)	29	5559.jpg
 5559	stove	(103,112,154,123)	30	5559.jpg
@@ -53165,7 +53165,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5559	frying_pan	(101,92,82,104)	14	5559.jpg
 5559	chopstick	(141,61,40,52)	18	5559.jpg
 5559	saltshaker	(16,160,37,55)	26	5559.jpg
-5559	baked_egg	(109,130,64,50)	2	5559.jpg
+5559	mixed_egg	(109,130,64,50)	6	5559.jpg
 5559	person	(47,0,145,137)	1	5559.jpg
 5560	table	(0,112,101,142)	29	5560.jpg
 5560	stove	(103,112,154,123)	30	5560.jpg
@@ -53174,7 +53174,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5560	frying_pan	(101,92,82,104)	14	5560.jpg
 5560	chopstick	(142,62,39,50)	18	5560.jpg
 5560	saltshaker	(16,160,37,55)	26	5560.jpg
-5560	baked_egg	(109,130,64,50)	2	5560.jpg
+5560	mixed_egg	(109,130,64,50)	6	5560.jpg
 5560	person	(49,0,199,127)	1	5560.jpg
 5561	table	(0,112,101,142)	29	5561.jpg
 5561	stove	(103,112,154,123)	30	5561.jpg
@@ -53183,7 +53183,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5561	frying_pan	(101,92,82,104)	14	5561.jpg
 5561	chopstick	(146,63,37,52)	18	5561.jpg
 5561	saltshaker	(16,160,37,55)	26	5561.jpg
-5561	baked_egg	(109,130,64,50)	2	5561.jpg
+5561	mixed_egg	(109,130,64,50)	6	5561.jpg
 5561	person	(49,0,199,127)	1	5561.jpg
 5562	table	(0,112,101,142)	29	5562.jpg
 5562	stove	(103,112,154,123)	30	5562.jpg
@@ -53192,7 +53192,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5562	frying_pan	(101,92,82,104)	14	5562.jpg
 5562	chopstick	(146,64,38,48)	18	5562.jpg
 5562	saltshaker	(16,160,37,55)	26	5562.jpg
-5562	baked_egg	(109,130,64,50)	2	5562.jpg
+5562	mixed_egg	(109,130,64,50)	6	5562.jpg
 5562	person	(49,0,199,127)	1	5562.jpg
 5563	table	(0,112,101,142)	29	5563.jpg
 5563	stove	(103,112,154,123)	30	5563.jpg
@@ -53201,7 +53201,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5563	frying_pan	(101,92,82,104)	14	5563.jpg
 5563	chopstick	(145,62,39,50)	18	5563.jpg
 5563	saltshaker	(16,160,37,55)	26	5563.jpg
-5563	baked_egg	(109,130,64,50)	2	5563.jpg
+5563	mixed_egg	(109,130,64,50)	6	5563.jpg
 5563	person	(49,0,199,127)	1	5563.jpg
 5564	table	(0,112,101,142)	29	5564.jpg
 5564	stove	(103,112,154,123)	30	5564.jpg
@@ -53210,7 +53210,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5564	frying_pan	(101,92,82,104)	14	5564.jpg
 5564	chopstick	(144,61,41,51)	18	5564.jpg
 5564	saltshaker	(16,160,37,55)	26	5564.jpg
-5564	baked_egg	(109,130,64,50)	2	5564.jpg
+5564	mixed_egg	(109,130,64,50)	6	5564.jpg
 5564	person	(49,0,199,127)	1	5564.jpg
 5565	table	(0,112,101,142)	29	5565.jpg
 5565	stove	(103,112,154,123)	30	5565.jpg
@@ -53219,7 +53219,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5565	frying_pan	(101,92,82,104)	14	5565.jpg
 5565	chopstick	(142,60,41,52)	18	5565.jpg
 5565	saltshaker	(16,160,37,55)	26	5565.jpg
-5565	baked_egg	(109,130,64,50)	2	5565.jpg
+5565	mixed_egg	(109,130,64,50)	6	5565.jpg
 5565	person	(49,0,199,127)	1	5565.jpg
 5566	table	(0,112,101,142)	29	5566.jpg
 5566	stove	(103,112,154,123)	30	5566.jpg
@@ -53228,7 +53228,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5566	frying_pan	(101,92,82,104)	14	5566.jpg
 5566	chopstick	(140,60,41,52)	18	5566.jpg
 5566	saltshaker	(16,160,37,55)	26	5566.jpg
-5566	baked_egg	(109,130,64,50)	2	5566.jpg
+5566	mixed_egg	(109,130,64,50)	6	5566.jpg
 5566	person	(49,0,199,127)	1	5566.jpg
 5567	table	(0,112,101,142)	29	5567.jpg
 5567	stove	(103,112,154,123)	30	5567.jpg
@@ -53237,7 +53237,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5567	frying_pan	(101,92,82,104)	14	5567.jpg
 5567	chopstick	(140,62,40,50)	18	5567.jpg
 5567	saltshaker	(16,160,37,55)	26	5567.jpg
-5567	baked_egg	(109,130,64,50)	2	5567.jpg
+5567	mixed_egg	(109,130,64,50)	6	5567.jpg
 5567	person	(49,0,199,127)	1	5567.jpg
 5568	table	(0,112,101,142)	29	5568.jpg
 5568	stove	(103,112,154,123)	30	5568.jpg
@@ -53246,7 +53246,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5568	frying_pan	(101,92,82,104)	14	5568.jpg
 5568	chopstick	(143,63,41,51)	18	5568.jpg
 5568	saltshaker	(16,160,37,55)	26	5568.jpg
-5568	baked_egg	(109,130,64,50)	2	5568.jpg
+5568	mixed_egg	(109,130,64,50)	6	5568.jpg
 5568	person	(49,0,199,127)	1	5568.jpg
 5569	table	(0,112,101,142)	29	5569.jpg
 5569	stove	(103,112,154,123)	30	5569.jpg
@@ -53255,7 +53255,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5569	frying_pan	(101,92,82,104)	14	5569.jpg
 5569	chopstick	(145,64,40,51)	18	5569.jpg
 5569	saltshaker	(16,160,37,55)	26	5569.jpg
-5569	baked_egg	(109,130,64,50)	2	5569.jpg
+5569	mixed_egg	(109,130,64,50)	6	5569.jpg
 5569	person	(49,0,199,127)	1	5569.jpg
 5570	table	(0,112,101,142)	29	5570.jpg
 5570	stove	(103,112,154,123)	30	5570.jpg
@@ -53264,7 +53264,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5570	frying_pan	(101,92,82,104)	14	5570.jpg
 5570	chopstick	(146,65,40,50)	18	5570.jpg
 5570	saltshaker	(16,160,37,55)	26	5570.jpg
-5570	baked_egg	(109,130,64,50)	2	5570.jpg
+5570	mixed_egg	(109,130,64,50)	6	5570.jpg
 5570	person	(49,0,199,127)	1	5570.jpg
 5571	table	(0,112,101,142)	29	5571.jpg
 5571	stove	(103,112,154,123)	30	5571.jpg
@@ -53273,7 +53273,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5571	frying_pan	(101,92,82,104)	14	5571.jpg
 5571	chopstick	(147,63,41,51)	18	5571.jpg
 5571	saltshaker	(16,160,37,55)	26	5571.jpg
-5571	baked_egg	(109,130,64,50)	2	5571.jpg
+5571	mixed_egg	(109,130,64,50)	6	5571.jpg
 5571	person	(49,0,199,127)	1	5571.jpg
 5572	table	(0,112,101,142)	29	5572.jpg
 5572	stove	(103,112,154,123)	30	5572.jpg
@@ -53282,7 +53282,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5572	frying_pan	(101,92,82,104)	14	5572.jpg
 5572	chopstick	(146,62,41,52)	18	5572.jpg
 5572	saltshaker	(16,160,37,55)	26	5572.jpg
-5572	baked_egg	(109,130,64,50)	2	5572.jpg
+5572	mixed_egg	(109,130,64,50)	6	5572.jpg
 5572	person	(49,0,199,127)	1	5572.jpg
 5573	table	(0,112,101,142)	29	5573.jpg
 5573	stove	(103,112,154,123)	30	5573.jpg
@@ -53291,7 +53291,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5573	frying_pan	(101,92,82,104)	14	5573.jpg
 5573	chopstick	(145,60,41,53)	18	5573.jpg
 5573	saltshaker	(16,160,37,55)	26	5573.jpg
-5573	baked_egg	(109,130,64,50)	2	5573.jpg
+5573	mixed_egg	(109,130,64,50)	6	5573.jpg
 5573	person	(49,0,199,127)	1	5573.jpg
 5574	table	(0,112,101,142)	29	5574.jpg
 5574	stove	(103,112,154,123)	30	5574.jpg
@@ -53300,7 +53300,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5574	frying_pan	(101,92,82,104)	14	5574.jpg
 5574	chopstick	(143,60,42,53)	18	5574.jpg
 5574	saltshaker	(16,160,37,55)	26	5574.jpg
-5574	baked_egg	(109,130,64,50)	2	5574.jpg
+5574	mixed_egg	(109,130,64,50)	6	5574.jpg
 5574	person	(49,0,199,127)	1	5574.jpg
 5575	table	(0,112,101,142)	29	5575.jpg
 5575	stove	(103,112,154,123)	30	5575.jpg
@@ -53309,7 +53309,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5575	frying_pan	(101,92,82,104)	14	5575.jpg
 5575	chopstick	(141,61,41,53)	18	5575.jpg
 5575	saltshaker	(16,160,37,55)	26	5575.jpg
-5575	baked_egg	(109,130,64,50)	2	5575.jpg
+5575	mixed_egg	(109,130,64,50)	6	5575.jpg
 5575	person	(49,0,199,127)	1	5575.jpg
 5576	table	(0,112,101,142)	29	5576.jpg
 5576	stove	(103,112,154,123)	30	5576.jpg
@@ -53318,7 +53318,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5576	frying_pan	(101,92,82,104)	14	5576.jpg
 5576	chopstick	(144,63,39,51)	18	5576.jpg
 5576	saltshaker	(16,160,37,55)	26	5576.jpg
-5576	baked_egg	(109,130,64,50)	2	5576.jpg
+5576	mixed_egg	(109,130,64,50)	6	5576.jpg
 5576	person	(49,0,199,127)	1	5576.jpg
 5577	table	(0,112,101,142)	29	5577.jpg
 5577	stove	(103,112,154,123)	30	5577.jpg
@@ -53327,7 +53327,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5577	frying_pan	(101,92,82,104)	14	5577.jpg
 5577	chopstick	(145,64,39,49)	18	5577.jpg
 5577	saltshaker	(16,160,37,55)	26	5577.jpg
-5577	baked_egg	(109,130,64,50)	2	5577.jpg
+5577	mixed_egg	(109,130,64,50)	6	5577.jpg
 5577	person	(49,0,199,127)	1	5577.jpg
 5578	table	(0,112,101,142)	29	5578.jpg
 5578	stove	(103,112,154,123)	30	5578.jpg
@@ -53336,7 +53336,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5578	frying_pan	(101,92,82,104)	14	5578.jpg
 5578	chopstick	(147,65,39,49)	18	5578.jpg
 5578	saltshaker	(16,160,37,55)	26	5578.jpg
-5578	baked_egg	(109,130,64,50)	2	5578.jpg
+5578	mixed_egg	(109,130,64,50)	6	5578.jpg
 5578	person	(49,0,199,127)	1	5578.jpg
 5579	table	(0,112,101,142)	29	5579.jpg
 5579	stove	(103,112,154,123)	30	5579.jpg
@@ -53345,7 +53345,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5579	frying_pan	(101,92,82,104)	14	5579.jpg
 5579	chopstick	(147,63,39,50)	18	5579.jpg
 5579	saltshaker	(16,160,37,55)	26	5579.jpg
-5579	baked_egg	(109,130,64,50)	2	5579.jpg
+5579	mixed_egg	(109,130,64,50)	6	5579.jpg
 5579	person	(49,0,199,127)	1	5579.jpg
 5580	table	(0,112,101,142)	29	5580.jpg
 5580	stove	(103,112,154,123)	30	5580.jpg
@@ -53354,7 +53354,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5580	frying_pan	(101,92,82,104)	14	5580.jpg
 5580	chopstick	(148,63,39,50)	18	5580.jpg
 5580	saltshaker	(16,160,37,55)	26	5580.jpg
-5580	baked_egg	(109,130,64,50)	2	5580.jpg
+5580	mixed_egg	(109,130,64,50)	6	5580.jpg
 5580	person	(49,0,199,127)	1	5580.jpg
 5581	table	(0,112,101,142)	29	5581.jpg
 5581	stove	(103,112,154,123)	30	5581.jpg
@@ -53363,7 +53363,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5581	frying_pan	(101,92,82,104)	14	5581.jpg
 5581	chopstick	(147,62,39,50)	18	5581.jpg
 5581	saltshaker	(16,160,37,55)	26	5581.jpg
-5581	baked_egg	(109,130,64,50)	2	5581.jpg
+5581	mixed_egg	(109,130,64,50)	6	5581.jpg
 5581	person	(49,0,199,127)	1	5581.jpg
 5582	table	(0,112,101,142)	29	5582.jpg
 5582	stove	(103,112,154,123)	30	5582.jpg
@@ -53372,7 +53372,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5582	frying_pan	(101,92,82,104)	14	5582.jpg
 5582	chopstick	(147,61,38,49)	18	5582.jpg
 5582	saltshaker	(16,160,37,55)	26	5582.jpg
-5582	baked_egg	(109,130,64,50)	2	5582.jpg
+5582	mixed_egg	(109,130,64,50)	6	5582.jpg
 5582	person	(49,0,199,127)	1	5582.jpg
 5583	table	(0,112,101,142)	29	5583.jpg
 5583	stove	(103,112,154,123)	30	5583.jpg
@@ -53381,7 +53381,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5583	frying_pan	(101,92,82,104)	14	5583.jpg
 5583	chopstick	(145,61,38,49)	18	5583.jpg
 5583	saltshaker	(16,160,37,55)	26	5583.jpg
-5583	baked_egg	(109,130,64,50)	2	5583.jpg
+5583	mixed_egg	(109,130,64,50)	6	5583.jpg
 5583	person	(49,0,199,127)	1	5583.jpg
 5584	table	(0,112,101,142)	29	5584.jpg
 5584	stove	(103,112,154,123)	30	5584.jpg
@@ -53390,7 +53390,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5584	frying_pan	(101,92,82,104)	14	5584.jpg
 5584	chopstick	(144,62,38,48)	18	5584.jpg
 5584	saltshaker	(16,160,37,55)	26	5584.jpg
-5584	baked_egg	(109,130,64,50)	2	5584.jpg
+5584	mixed_egg	(109,130,64,50)	6	5584.jpg
 5584	person	(49,0,199,127)	1	5584.jpg
 5585	table	(0,112,101,142)	29	5585.jpg
 5585	stove	(103,112,154,123)	30	5585.jpg
@@ -53399,7 +53399,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5585	frying_pan	(101,92,82,104)	14	5585.jpg
 5585	chopstick	(143,62,39,50)	18	5585.jpg
 5585	saltshaker	(16,160,37,55)	26	5585.jpg
-5585	baked_egg	(109,130,64,50)	2	5585.jpg
+5585	mixed_egg	(109,130,64,50)	6	5585.jpg
 5585	person	(49,0,199,127)	1	5585.jpg
 5586	table	(0,112,101,142)	29	5586.jpg
 5586	stove	(103,112,154,123)	30	5586.jpg
@@ -53408,7 +53408,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5586	frying_pan	(101,92,82,104)	14	5586.jpg
 5586	chopstick	(146,63,38,49)	18	5586.jpg
 5586	saltshaker	(16,160,37,55)	26	5586.jpg
-5586	baked_egg	(109,130,64,50)	2	5586.jpg
+5586	mixed_egg	(109,130,64,50)	6	5586.jpg
 5586	person	(49,0,199,127)	1	5586.jpg
 5587	table	(0,112,101,142)	29	5587.jpg
 5587	stove	(103,112,154,123)	30	5587.jpg
@@ -53417,7 +53417,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5587	frying_pan	(101,92,82,104)	14	5587.jpg
 5587	chopstick	(148,64,38,48)	18	5587.jpg
 5587	saltshaker	(16,160,37,55)	26	5587.jpg
-5587	baked_egg	(109,130,64,50)	2	5587.jpg
+5587	mixed_egg	(109,130,64,50)	6	5587.jpg
 5587	person	(49,0,199,127)	1	5587.jpg
 5588	table	(0,112,101,142)	29	5588.jpg
 5588	stove	(103,112,154,123)	30	5588.jpg
@@ -53426,7 +53426,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5588	frying_pan	(101,92,82,104)	14	5588.jpg
 5588	chopstick	(148,64,38,49)	18	5588.jpg
 5588	saltshaker	(16,160,37,55)	26	5588.jpg
-5588	baked_egg	(109,130,64,50)	2	5588.jpg
+5588	mixed_egg	(109,130,64,50)	6	5588.jpg
 5588	person	(49,0,199,127)	1	5588.jpg
 5589	table	(0,112,101,142)	29	5589.jpg
 5589	stove	(103,112,154,123)	30	5589.jpg
@@ -53435,7 +53435,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5589	frying_pan	(101,92,82,104)	14	5589.jpg
 5589	chopstick	(149,63,38,49)	18	5589.jpg
 5589	saltshaker	(16,160,37,55)	26	5589.jpg
-5589	baked_egg	(109,130,64,50)	2	5589.jpg
+5589	mixed_egg	(109,130,64,50)	6	5589.jpg
 5589	person	(49,0,199,127)	1	5589.jpg
 5590	table	(0,112,101,142)	29	5590.jpg
 5590	stove	(103,112,154,123)	30	5590.jpg
@@ -53444,7 +53444,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5590	frying_pan	(101,92,82,104)	14	5590.jpg
 5590	chopstick	(146,62,40,50)	18	5590.jpg
 5590	saltshaker	(16,160,37,55)	26	5590.jpg
-5590	baked_egg	(109,130,64,50)	2	5590.jpg
+5590	mixed_egg	(109,130,64,50)	6	5590.jpg
 5590	person	(49,0,199,127)	1	5590.jpg
 5591	table	(0,112,101,142)	29	5591.jpg
 5591	stove	(103,112,154,123)	30	5591.jpg
@@ -53453,7 +53453,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5591	frying_pan	(101,92,82,104)	14	5591.jpg
 5591	chopstick	(146,59,42,53)	18	5591.jpg
 5591	saltshaker	(16,160,37,55)	26	5591.jpg
-5591	baked_egg	(109,130,64,50)	2	5591.jpg
+5591	mixed_egg	(109,130,64,50)	6	5591.jpg
 5591	person	(49,0,199,127)	1	5591.jpg
 5592	table	(0,112,101,142)	29	5592.jpg
 5592	stove	(103,112,154,123)	30	5592.jpg
@@ -53462,7 +53462,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5592	frying_pan	(101,92,82,104)	14	5592.jpg
 5592	chopstick	(143,59,42,54)	18	5592.jpg
 5592	saltshaker	(16,160,37,55)	26	5592.jpg
-5592	baked_egg	(109,130,64,50)	2	5592.jpg
+5592	mixed_egg	(109,130,64,50)	6	5592.jpg
 5592	person	(49,0,199,127)	1	5592.jpg
 5593	table	(0,112,101,142)	29	5593.jpg
 5593	stove	(103,112,154,123)	30	5593.jpg
@@ -53471,7 +53471,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5593	frying_pan	(101,92,82,104)	14	5593.jpg
 5593	chopstick	(144,60,41,53)	18	5593.jpg
 5593	saltshaker	(16,160,37,55)	26	5593.jpg
-5593	baked_egg	(109,130,64,50)	2	5593.jpg
+5593	mixed_egg	(109,130,64,50)	6	5593.jpg
 5593	person	(49,0,199,127)	1	5593.jpg
 5594	table	(0,112,101,142)	29	5594.jpg
 5594	stove	(103,112,154,123)	30	5594.jpg
@@ -53480,7 +53480,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5594	frying_pan	(101,92,82,104)	14	5594.jpg
 5594	chopstick	(143,61,42,54)	18	5594.jpg
 5594	saltshaker	(16,160,37,55)	26	5594.jpg
-5594	baked_egg	(109,130,64,50)	2	5594.jpg
+5594	mixed_egg	(109,130,64,50)	6	5594.jpg
 5594	person	(49,0,199,127)	1	5594.jpg
 5595	table	(0,112,101,142)	29	5595.jpg
 5595	stove	(103,112,154,123)	30	5595.jpg
@@ -53489,7 +53489,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5595	frying_pan	(101,92,82,104)	14	5595.jpg
 5595	chopstick	(145,62,42,53)	18	5595.jpg
 5595	saltshaker	(16,160,37,55)	26	5595.jpg
-5595	baked_egg	(109,130,64,50)	2	5595.jpg
+5595	mixed_egg	(109,130,64,50)	6	5595.jpg
 5595	person	(49,0,199,127)	1	5595.jpg
 5596	table	(0,112,101,142)	29	5596.jpg
 5596	stove	(103,112,154,123)	30	5596.jpg
@@ -53498,7 +53498,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5596	frying_pan	(101,92,82,104)	14	5596.jpg
 5596	chopstick	(148,63,41,52)	18	5596.jpg
 5596	saltshaker	(16,160,37,55)	26	5596.jpg
-5596	baked_egg	(109,130,64,50)	2	5596.jpg
+5596	mixed_egg	(109,130,64,50)	6	5596.jpg
 5596	person	(49,0,199,127)	1	5596.jpg
 5597	table	(0,112,101,142)	29	5597.jpg
 5597	stove	(103,112,154,123)	30	5597.jpg
@@ -53507,7 +53507,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5597	frying_pan	(101,92,82,104)	14	5597.jpg
 5597	chopstick	(149,62,40,51)	18	5597.jpg
 5597	saltshaker	(16,160,37,55)	26	5597.jpg
-5597	baked_egg	(109,130,64,50)	2	5597.jpg
+5597	mixed_egg	(109,130,64,50)	6	5597.jpg
 5597	person	(49,0,199,127)	1	5597.jpg
 5598	table	(0,112,101,142)	29	5598.jpg
 5598	stove	(103,112,154,123)	30	5598.jpg
@@ -53516,7 +53516,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5598	frying_pan	(101,92,82,104)	14	5598.jpg
 5598	chopstick	(147,61,40,51)	18	5598.jpg
 5598	saltshaker	(16,160,37,55)	26	5598.jpg
-5598	baked_egg	(109,130,64,50)	2	5598.jpg
+5598	mixed_egg	(109,130,64,50)	6	5598.jpg
 5598	person	(49,0,199,127)	1	5598.jpg
 5599	table	(0,112,101,142)	29	5599.jpg
 5599	stove	(103,112,154,123)	30	5599.jpg
@@ -53525,7 +53525,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5599	frying_pan	(101,92,82,104)	14	5599.jpg
 5599	chopstick	(146,60,41,52)	18	5599.jpg
 5599	saltshaker	(16,160,37,55)	26	5599.jpg
-5599	baked_egg	(109,130,64,50)	2	5599.jpg
+5599	mixed_egg	(109,130,64,50)	6	5599.jpg
 5599	person	(49,0,199,127)	1	5599.jpg
 5600	table	(0,112,101,142)	29	5600.jpg
 5600	stove	(103,112,154,123)	30	5600.jpg
@@ -53534,7 +53534,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5600	frying_pan	(101,92,82,104)	14	5600.jpg
 5600	chopstick	(143,62,40,51)	18	5600.jpg
 5600	saltshaker	(16,160,37,55)	26	5600.jpg
-5600	baked_egg	(109,130,64,50)	2	5600.jpg
+5600	mixed_egg	(109,130,64,50)	6	5600.jpg
 5600	person	(49,0,199,127)	1	5600.jpg
 5601	table	(0,112,101,142)	29	5601.jpg
 5601	stove	(103,112,154,123)	30	5601.jpg
@@ -53543,7 +53543,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5601	frying_pan	(101,92,82,104)	14	5601.jpg
 5601	chopstick	(142,63,39,50)	18	5601.jpg
 5601	saltshaker	(16,160,37,55)	26	5601.jpg
-5601	baked_egg	(109,130,64,50)	2	5601.jpg
+5601	mixed_egg	(109,130,64,50)	6	5601.jpg
 5601	person	(49,0,199,127)	1	5601.jpg
 5602	table	(0,112,101,142)	29	5602.jpg
 5602	stove	(103,112,154,123)	30	5602.jpg
@@ -53552,7 +53552,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5602	frying_pan	(101,92,82,104)	14	5602.jpg
 5602	chopstick	(144,65,37,47)	18	5602.jpg
 5602	saltshaker	(16,160,37,55)	26	5602.jpg
-5602	baked_egg	(109,130,64,50)	2	5602.jpg
+5602	mixed_egg	(109,130,64,50)	6	5602.jpg
 5602	person	(49,0,199,127)	1	5602.jpg
 5603	table	(0,112,101,142)	29	5603.jpg
 5603	stove	(103,112,154,123)	30	5603.jpg
@@ -53561,7 +53561,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5603	frying_pan	(101,92,82,104)	14	5603.jpg
 5603	chopstick	(146,66,37,46)	18	5603.jpg
 5603	saltshaker	(16,160,37,55)	26	5603.jpg
-5603	baked_egg	(110,128,64,57)	2	5603.jpg
+5603	mixed_egg	(110,128,64,57)	6	5603.jpg
 5603	person	(49,0,199,127)	1	5603.jpg
 5604	table	(0,112,101,142)	29	5604.jpg
 5604	stove	(103,112,154,123)	30	5604.jpg
@@ -53570,7 +53570,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5604	frying_pan	(101,92,82,104)	14	5604.jpg
 5604	chopstick	(147,66,36,46)	18	5604.jpg
 5604	saltshaker	(16,160,37,55)	26	5604.jpg
-5604	baked_egg	(110,128,64,57)	2	5604.jpg
+5604	mixed_egg	(110,128,64,57)	6	5604.jpg
 5604	person	(49,0,199,127)	1	5604.jpg
 5605	table	(0,112,101,142)	29	5605.jpg
 5605	stove	(103,112,154,123)	30	5605.jpg
@@ -53579,7 +53579,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5605	frying_pan	(101,92,82,104)	14	5605.jpg
 5605	chopstick	(150,67,35,45)	18	5605.jpg
 5605	saltshaker	(16,160,37,55)	26	5605.jpg
-5605	baked_egg	(110,128,64,57)	2	5605.jpg
+5605	mixed_egg	(110,128,64,57)	6	5605.jpg
 5605	person	(49,0,199,127)	1	5605.jpg
 5606	table	(0,112,101,142)	29	5606.jpg
 5606	stove	(103,112,154,123)	30	5606.jpg
@@ -53588,7 +53588,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5606	frying_pan	(101,92,82,104)	14	5606.jpg
 5606	chopstick	(149,66,37,46)	18	5606.jpg
 5606	saltshaker	(16,160,37,55)	26	5606.jpg
-5606	baked_egg	(110,128,64,57)	2	5606.jpg
+5606	mixed_egg	(110,128,64,57)	6	5606.jpg
 5606	person	(49,0,199,127)	1	5606.jpg
 5607	table	(0,112,101,142)	29	5607.jpg
 5607	stove	(103,112,154,123)	30	5607.jpg
@@ -53597,7 +53597,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5607	frying_pan	(101,92,82,104)	14	5607.jpg
 5607	chopstick	(149,63,38,49)	18	5607.jpg
 5607	saltshaker	(16,160,37,55)	26	5607.jpg
-5607	baked_egg	(110,128,64,57)	2	5607.jpg
+5607	mixed_egg	(110,128,64,57)	6	5607.jpg
 5607	person	(49,0,199,127)	1	5607.jpg
 5608	table	(0,112,101,142)	29	5608.jpg
 5608	stove	(103,112,154,123)	30	5608.jpg
@@ -53606,7 +53606,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5608	frying_pan	(101,92,82,104)	14	5608.jpg
 5608	chopstick	(146,61,40,51)	18	5608.jpg
 5608	saltshaker	(16,160,37,55)	26	5608.jpg
-5608	baked_egg	(110,128,64,57)	2	5608.jpg
+5608	mixed_egg	(110,128,64,57)	6	5608.jpg
 5608	person	(49,0,199,127)	1	5608.jpg
 5609	table	(0,112,101,142)	29	5609.jpg
 5609	stove	(103,112,154,123)	30	5609.jpg
@@ -53615,7 +53615,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5609	frying_pan	(101,92,82,104)	14	5609.jpg
 5609	chopstick	(145,61,39,49)	18	5609.jpg
 5609	saltshaker	(16,160,37,55)	26	5609.jpg
-5609	baked_egg	(110,128,64,57)	2	5609.jpg
+5609	mixed_egg	(110,128,64,57)	6	5609.jpg
 5609	person	(49,0,199,127)	1	5609.jpg
 5610	table	(0,112,101,142)	29	5610.jpg
 5610	stove	(103,112,154,123)	30	5610.jpg
@@ -53624,7 +53624,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5610	frying_pan	(101,92,82,104)	14	5610.jpg
 5610	chopstick	(143,60,39,50)	18	5610.jpg
 5610	saltshaker	(16,160,37,55)	26	5610.jpg
-5610	baked_egg	(110,128,64,57)	2	5610.jpg
+5610	mixed_egg	(110,128,64,57)	6	5610.jpg
 5610	person	(49,0,199,127)	1	5610.jpg
 5611	table	(0,112,101,142)	29	5611.jpg
 5611	stove	(103,112,154,123)	30	5611.jpg
@@ -53633,7 +53633,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5611	frying_pan	(101,92,82,104)	14	5611.jpg
 5611	chopstick	(141,60,39,50)	18	5611.jpg
 5611	saltshaker	(16,160,37,55)	26	5611.jpg
-5611	baked_egg	(110,128,64,57)	2	5611.jpg
+5611	mixed_egg	(110,128,64,57)	6	5611.jpg
 5611	person	(49,0,199,127)	1	5611.jpg
 5612	table	(0,112,101,142)	29	5612.jpg
 5612	stove	(103,112,154,123)	30	5612.jpg
@@ -53642,7 +53642,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5612	frying_pan	(101,92,82,104)	14	5612.jpg
 5612	chopstick	(141,60,39,50)	18	5612.jpg
 5612	saltshaker	(16,160,37,55)	26	5612.jpg
-5612	baked_egg	(110,128,64,57)	2	5612.jpg
+5612	mixed_egg	(110,128,64,57)	6	5612.jpg
 5612	person	(49,0,199,127)	1	5612.jpg
 5613	table	(0,112,101,142)	29	5613.jpg
 5613	stove	(103,112,154,123)	30	5613.jpg
@@ -53651,7 +53651,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5613	frying_pan	(101,92,82,104)	14	5613.jpg
 5613	chopstick	(142,62,37,48)	18	5613.jpg
 5613	saltshaker	(16,160,37,55)	26	5613.jpg
-5613	baked_egg	(110,128,64,57)	2	5613.jpg
+5613	mixed_egg	(110,128,64,57)	6	5613.jpg
 5613	person	(49,0,199,127)	1	5613.jpg
 5614	table	(0,112,101,142)	29	5614.jpg
 5614	stove	(103,112,154,123)	30	5614.jpg
@@ -53660,7 +53660,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5614	frying_pan	(101,92,82,104)	14	5614.jpg
 5614	chopstick	(142,63,37,47)	18	5614.jpg
 5614	saltshaker	(16,160,37,55)	26	5614.jpg
-5614	baked_egg	(110,128,64,57)	2	5614.jpg
+5614	mixed_egg	(110,128,64,57)	6	5614.jpg
 5614	person	(49,0,199,127)	1	5614.jpg
 5615	table	(0,112,101,142)	29	5615.jpg
 5615	stove	(103,112,154,123)	30	5615.jpg
@@ -53669,7 +53669,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5615	frying_pan	(101,92,82,104)	14	5615.jpg
 5615	chopstick	(141,64,36,46)	18	5615.jpg
 5615	saltshaker	(16,160,37,55)	26	5615.jpg
-5615	baked_egg	(110,128,64,57)	2	5615.jpg
+5615	mixed_egg	(110,128,64,57)	6	5615.jpg
 5615	person	(49,0,199,127)	1	5615.jpg
 5616	table	(0,112,101,142)	29	5616.jpg
 5616	stove	(103,112,154,123)	30	5616.jpg
@@ -53678,7 +53678,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5616	frying_pan	(101,92,82,104)	14	5616.jpg
 5616	chopstick	(144,66,34,44)	18	5616.jpg
 5616	saltshaker	(16,160,37,55)	26	5616.jpg
-5616	baked_egg	(110,128,64,57)	2	5616.jpg
+5616	mixed_egg	(110,128,64,57)	6	5616.jpg
 5616	person	(49,0,199,127)	1	5616.jpg
 5617	table	(0,112,101,142)	29	5617.jpg
 5617	stove	(103,112,154,123)	30	5617.jpg
@@ -53687,7 +53687,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5617	frying_pan	(101,92,82,104)	14	5617.jpg
 5617	chopstick	(145,66,34,44)	18	5617.jpg
 5617	saltshaker	(16,160,37,55)	26	5617.jpg
-5617	baked_egg	(110,128,64,57)	2	5617.jpg
+5617	mixed_egg	(110,128,64,57)	6	5617.jpg
 5617	person	(49,0,199,127)	1	5617.jpg
 5618	table	(0,112,101,142)	29	5618.jpg
 5618	stove	(103,112,154,123)	30	5618.jpg
@@ -53696,7 +53696,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5618	frying_pan	(101,92,82,104)	14	5618.jpg
 5618	chopstick	(146,65,35,45)	18	5618.jpg
 5618	saltshaker	(16,160,37,55)	26	5618.jpg
-5618	baked_egg	(110,128,64,57)	2	5618.jpg
+5618	mixed_egg	(110,128,64,57)	6	5618.jpg
 5618	person	(49,0,199,127)	1	5618.jpg
 5619	table	(0,112,101,142)	29	5619.jpg
 5619	stove	(103,112,154,123)	30	5619.jpg
@@ -53705,7 +53705,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5619	frying_pan	(101,92,82,104)	14	5619.jpg
 5619	chopstick	(147,63,36,46)	18	5619.jpg
 5619	saltshaker	(16,160,37,55)	26	5619.jpg
-5619	baked_egg	(110,128,64,57)	2	5619.jpg
+5619	mixed_egg	(110,128,64,57)	6	5619.jpg
 5619	person	(49,0,199,127)	1	5619.jpg
 5620	table	(0,112,101,142)	29	5620.jpg
 5620	stove	(103,112,154,123)	30	5620.jpg
@@ -53714,7 +53714,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5620	frying_pan	(101,92,82,104)	14	5620.jpg
 5620	chopstick	(147,61,36,46)	18	5620.jpg
 5620	saltshaker	(16,160,37,55)	26	5620.jpg
-5620	baked_egg	(110,128,64,57)	2	5620.jpg
+5620	mixed_egg	(110,128,64,57)	6	5620.jpg
 5620	person	(49,0,199,127)	1	5620.jpg
 5621	table	(0,112,101,142)	29	5621.jpg
 5621	stove	(103,112,154,123)	30	5621.jpg
@@ -53723,7 +53723,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5621	frying_pan	(101,92,82,104)	14	5621.jpg
 5621	chopstick	(147,60,37,47)	18	5621.jpg
 5621	saltshaker	(16,160,37,55)	26	5621.jpg
-5621	baked_egg	(110,128,64,57)	2	5621.jpg
+5621	mixed_egg	(110,128,64,57)	6	5621.jpg
 5621	person	(49,0,199,127)	1	5621.jpg
 5622	table	(0,112,101,142)	29	5622.jpg
 5622	stove	(103,112,154,123)	30	5622.jpg
@@ -53732,7 +53732,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5622	frying_pan	(101,92,82,104)	14	5622.jpg
 5622	chopstick	(146,61,37,47)	18	5622.jpg
 5622	saltshaker	(16,160,37,55)	26	5622.jpg
-5622	baked_egg	(110,128,64,57)	2	5622.jpg
+5622	mixed_egg	(110,128,64,57)	6	5622.jpg
 5622	person	(49,0,199,127)	1	5622.jpg
 5623	table	(0,112,101,142)	29	5623.jpg
 5623	stove	(103,112,154,123)	30	5623.jpg
@@ -53741,7 +53741,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5623	frying_pan	(101,92,82,104)	14	5623.jpg
 5623	chopstick	(145,61,36,47)	18	5623.jpg
 5623	saltshaker	(16,160,37,55)	26	5623.jpg
-5623	baked_egg	(110,128,64,57)	2	5623.jpg
+5623	mixed_egg	(110,128,64,57)	6	5623.jpg
 5623	person	(49,0,199,127)	1	5623.jpg
 5624	table	(0,112,101,142)	29	5624.jpg
 5624	stove	(103,112,154,123)	30	5624.jpg
@@ -53750,7 +53750,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5624	frying_pan	(101,92,82,104)	14	5624.jpg
 5624	chopstick	(144,61,38,49)	18	5624.jpg
 5624	saltshaker	(16,160,37,55)	26	5624.jpg
-5624	baked_egg	(110,128,64,57)	2	5624.jpg
+5624	mixed_egg	(110,128,64,57)	6	5624.jpg
 5624	person	(49,0,199,127)	1	5624.jpg
 5625	table	(0,112,101,142)	29	5625.jpg
 5625	stove	(103,112,154,123)	30	5625.jpg
@@ -53759,7 +53759,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5625	frying_pan	(101,92,82,104)	14	5625.jpg
 5625	chopstick	(144,62,37,48)	18	5625.jpg
 5625	saltshaker	(16,160,37,55)	26	5625.jpg
-5625	baked_egg	(110,128,64,57)	2	5625.jpg
+5625	mixed_egg	(110,128,64,57)	6	5625.jpg
 5625	person	(49,0,199,127)	1	5625.jpg
 5626	table	(0,112,101,142)	29	5626.jpg
 5626	stove	(103,112,154,123)	30	5626.jpg
@@ -53768,7 +53768,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5626	frying_pan	(101,92,82,104)	14	5626.jpg
 5626	chopstick	(145,64,36,46)	18	5626.jpg
 5626	saltshaker	(16,160,37,55)	26	5626.jpg
-5626	baked_egg	(110,128,64,57)	2	5626.jpg
+5626	mixed_egg	(110,128,64,57)	6	5626.jpg
 5626	person	(49,0,199,127)	1	5626.jpg
 5627	table	(0,112,101,142)	29	5627.jpg
 5627	stove	(103,112,154,123)	30	5627.jpg
@@ -53777,7 +53777,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5627	frying_pan	(101,92,82,104)	14	5627.jpg
 5627	chopstick	(146,64,36,46)	18	5627.jpg
 5627	saltshaker	(16,160,37,55)	26	5627.jpg
-5627	baked_egg	(110,128,64,57)	2	5627.jpg
+5627	mixed_egg	(110,128,64,57)	6	5627.jpg
 5627	person	(49,0,199,127)	1	5627.jpg
 5628	table	(0,112,101,142)	29	5628.jpg
 5628	stove	(103,112,154,123)	30	5628.jpg
@@ -53786,7 +53786,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5628	frying_pan	(101,92,82,104)	14	5628.jpg
 5628	chopstick	(146,63,36,47)	18	5628.jpg
 5628	saltshaker	(16,160,37,55)	26	5628.jpg
-5628	baked_egg	(110,128,64,57)	2	5628.jpg
+5628	mixed_egg	(110,128,64,57)	6	5628.jpg
 5628	person	(49,0,199,127)	1	5628.jpg
 5629	table	(0,112,101,142)	29	5629.jpg
 5629	stove	(103,112,154,123)	30	5629.jpg
@@ -53795,7 +53795,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5629	frying_pan	(101,92,82,104)	14	5629.jpg
 5629	chopstick	(147,62,37,47)	18	5629.jpg
 5629	saltshaker	(16,160,37,55)	26	5629.jpg
-5629	baked_egg	(110,128,64,57)	2	5629.jpg
+5629	mixed_egg	(110,128,64,57)	6	5629.jpg
 5629	person	(49,0,199,127)	1	5629.jpg
 5630	table	(0,112,101,142)	29	5630.jpg
 5630	stove	(103,112,154,123)	30	5630.jpg
@@ -53804,7 +53804,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5630	frying_pan	(101,92,82,104)	14	5630.jpg
 5630	chopstick	(147,60,39,50)	18	5630.jpg
 5630	saltshaker	(16,160,37,55)	26	5630.jpg
-5630	baked_egg	(110,128,64,57)	2	5630.jpg
+5630	mixed_egg	(110,128,64,57)	6	5630.jpg
 5630	person	(49,0,199,127)	1	5630.jpg
 5631	table	(0,112,101,142)	29	5631.jpg
 5631	stove	(103,112,154,123)	30	5631.jpg
@@ -53813,7 +53813,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5631	frying_pan	(101,92,82,104)	14	5631.jpg
 5631	chopstick	(148,58,38,56)	18	5631.jpg
 5631	saltshaker	(16,160,37,55)	26	5631.jpg
-5631	baked_egg	(110,128,64,57)	2	5631.jpg
+5631	mixed_egg	(110,128,64,57)	6	5631.jpg
 5631	person	(49,0,199,127)	1	5631.jpg
 5632	table	(0,112,101,142)	29	5632.jpg
 5632	stove	(103,112,154,123)	30	5632.jpg
@@ -53822,7 +53822,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5632	frying_pan	(101,92,82,104)	14	5632.jpg
 5632	chopstick	(147,58,38,49)	18	5632.jpg
 5632	saltshaker	(16,160,37,55)	26	5632.jpg
-5632	baked_egg	(110,128,64,57)	2	5632.jpg
+5632	mixed_egg	(110,128,64,57)	6	5632.jpg
 5632	person	(49,0,199,127)	1	5632.jpg
 5633	table	(0,112,101,142)	29	5633.jpg
 5633	stove	(103,112,154,123)	30	5633.jpg
@@ -53831,7 +53831,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5633	frying_pan	(101,92,82,104)	14	5633.jpg
 5633	chopstick	(145,57,38,49)	18	5633.jpg
 5633	saltshaker	(16,160,37,55)	26	5633.jpg
-5633	baked_egg	(110,128,64,57)	2	5633.jpg
+5633	mixed_egg	(110,128,64,57)	6	5633.jpg
 5633	person	(49,0,199,127)	1	5633.jpg
 5634	table	(0,112,101,142)	29	5634.jpg
 5634	stove	(103,112,154,123)	30	5634.jpg
@@ -53840,7 +53840,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5634	frying_pan	(101,92,82,104)	14	5634.jpg
 5634	chopstick	(144,58,38,48)	18	5634.jpg
 5634	saltshaker	(16,160,37,55)	26	5634.jpg
-5634	baked_egg	(110,128,64,57)	2	5634.jpg
+5634	mixed_egg	(110,128,64,57)	6	5634.jpg
 5634	person	(49,0,199,127)	1	5634.jpg
 5635	table	(0,112,101,142)	29	5635.jpg
 5635	stove	(103,112,154,123)	30	5635.jpg
@@ -53849,7 +53849,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5635	frying_pan	(101,92,82,104)	14	5635.jpg
 5635	chopstick	(145,58,38,49)	18	5635.jpg
 5635	saltshaker	(16,160,37,55)	26	5635.jpg
-5635	baked_egg	(110,128,64,57)	2	5635.jpg
+5635	mixed_egg	(110,128,64,57)	6	5635.jpg
 5635	person	(49,0,199,127)	1	5635.jpg
 5636	table	(0,112,101,142)	29	5636.jpg
 5636	stove	(103,112,154,123)	30	5636.jpg
@@ -53858,7 +53858,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5636	frying_pan	(101,92,82,104)	14	5636.jpg
 5636	chopstick	(144,59,37,48)	18	5636.jpg
 5636	saltshaker	(16,160,37,55)	26	5636.jpg
-5636	baked_egg	(110,128,64,57)	2	5636.jpg
+5636	mixed_egg	(110,128,64,57)	6	5636.jpg
 5636	person	(49,0,199,127)	1	5636.jpg
 5637	table	(0,112,101,142)	29	5637.jpg
 5637	stove	(103,112,154,123)	30	5637.jpg
@@ -53867,7 +53867,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5637	frying_pan	(101,92,82,104)	14	5637.jpg
 5637	chopstick	(143,60,38,49)	18	5637.jpg
 5637	saltshaker	(16,160,37,55)	26	5637.jpg
-5637	baked_egg	(110,128,64,57)	2	5637.jpg
+5637	mixed_egg	(110,128,64,57)	6	5637.jpg
 5637	person	(49,0,199,127)	1	5637.jpg
 5638	table	(0,112,101,142)	29	5638.jpg
 5638	stove	(103,112,154,123)	30	5638.jpg
@@ -53876,7 +53876,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5638	frying_pan	(101,92,82,104)	14	5638.jpg
 5638	chopstick	(145,63,37,47)	18	5638.jpg
 5638	saltshaker	(16,160,37,55)	26	5638.jpg
-5638	baked_egg	(110,128,64,57)	2	5638.jpg
+5638	mixed_egg	(110,128,64,57)	6	5638.jpg
 5638	person	(49,0,199,127)	1	5638.jpg
 5639	table	(0,112,101,142)	29	5639.jpg
 5639	stove	(103,112,154,123)	30	5639.jpg
@@ -53885,7 +53885,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5639	frying_pan	(101,92,82,104)	14	5639.jpg
 5639	chopstick	(146,63,36,47)	18	5639.jpg
 5639	saltshaker	(16,160,37,55)	26	5639.jpg
-5639	baked_egg	(109,129,66,57)	2	5639.jpg
+5639	mixed_egg	(109,129,66,57)	6	5639.jpg
 5639	person	(49,0,199,127)	1	5639.jpg
 5640	table	(0,112,101,142)	29	5640.jpg
 5640	stove	(103,112,154,123)	30	5640.jpg
@@ -53894,7 +53894,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5640	frying_pan	(101,92,82,104)	14	5640.jpg
 5640	chopstick	(147,63,36,47)	18	5640.jpg
 5640	saltshaker	(16,160,37,55)	26	5640.jpg
-5640	baked_egg	(109,129,66,57)	2	5640.jpg
+5640	mixed_egg	(109,129,66,57)	6	5640.jpg
 5640	person	(49,0,199,127)	1	5640.jpg
 5641	table	(0,112,101,142)	29	5641.jpg
 5641	stove	(103,112,154,123)	30	5641.jpg
@@ -53903,7 +53903,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5641	frying_pan	(101,92,82,104)	14	5641.jpg
 5641	chopstick	(146,62,38,48)	18	5641.jpg
 5641	saltshaker	(16,160,37,55)	26	5641.jpg
-5641	baked_egg	(109,129,66,57)	2	5641.jpg
+5641	mixed_egg	(109,129,66,57)	6	5641.jpg
 5641	person	(49,0,199,127)	1	5641.jpg
 5642	table	(0,112,101,142)	29	5642.jpg
 5642	stove	(103,112,154,123)	30	5642.jpg
@@ -53912,7 +53912,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5642	frying_pan	(101,92,82,104)	14	5642.jpg
 5642	chopstick	(147,61,38,48)	18	5642.jpg
 5642	saltshaker	(16,160,37,55)	26	5642.jpg
-5642	baked_egg	(109,129,66,57)	2	5642.jpg
+5642	mixed_egg	(109,129,66,57)	6	5642.jpg
 5642	person	(49,0,199,127)	1	5642.jpg
 5643	table	(0,112,101,142)	29	5643.jpg
 5643	stove	(103,112,154,123)	30	5643.jpg
@@ -53921,7 +53921,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5643	frying_pan	(101,92,82,104)	14	5643.jpg
 5643	chopstick	(147,60,38,49)	18	5643.jpg
 5643	saltshaker	(16,160,37,55)	26	5643.jpg
-5643	baked_egg	(109,129,66,57)	2	5643.jpg
+5643	mixed_egg	(109,129,66,57)	6	5643.jpg
 5643	person	(49,0,199,127)	1	5643.jpg
 5644	table	(0,112,101,142)	29	5644.jpg
 5644	stove	(103,112,154,123)	30	5644.jpg
@@ -53930,7 +53930,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5644	frying_pan	(101,92,82,104)	14	5644.jpg
 5644	chopstick	(147,59,38,49)	18	5644.jpg
 5644	saltshaker	(16,160,37,55)	26	5644.jpg
-5644	baked_egg	(109,129,66,57)	2	5644.jpg
+5644	mixed_egg	(109,129,66,57)	6	5644.jpg
 5644	person	(49,0,199,127)	1	5644.jpg
 5645	table	(0,112,101,142)	29	5645.jpg
 5645	stove	(103,112,154,123)	30	5645.jpg
@@ -53939,7 +53939,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5645	frying_pan	(101,92,82,104)	14	5645.jpg
 5645	chopstick	(146,57,38,50)	18	5645.jpg
 5645	saltshaker	(16,160,37,55)	26	5645.jpg
-5645	baked_egg	(109,129,66,57)	2	5645.jpg
+5645	mixed_egg	(109,129,66,57)	6	5645.jpg
 5645	person	(49,0,199,127)	1	5645.jpg
 5646	table	(0,112,101,142)	29	5646.jpg
 5646	stove	(103,112,154,123)	30	5646.jpg
@@ -53948,7 +53948,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5646	frying_pan	(101,92,82,104)	14	5646.jpg
 5646	chopstick	(144,57,39,50)	18	5646.jpg
 5646	saltshaker	(16,160,37,55)	26	5646.jpg
-5646	baked_egg	(109,129,66,57)	2	5646.jpg
+5646	mixed_egg	(109,129,66,57)	6	5646.jpg
 5646	person	(49,0,199,127)	1	5646.jpg
 5647	table	(0,112,101,142)	29	5647.jpg
 5647	stove	(103,112,154,123)	30	5647.jpg
@@ -53957,7 +53957,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5647	frying_pan	(101,92,82,104)	14	5647.jpg
 5647	chopstick	(143,58,39,49)	18	5647.jpg
 5647	saltshaker	(16,160,37,55)	26	5647.jpg
-5647	baked_egg	(109,129,66,57)	2	5647.jpg
+5647	mixed_egg	(109,129,66,57)	6	5647.jpg
 5647	person	(49,0,199,127)	1	5647.jpg
 5648	table	(0,112,101,142)	29	5648.jpg
 5648	stove	(103,112,154,123)	30	5648.jpg
@@ -53966,7 +53966,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5648	frying_pan	(101,92,82,104)	14	5648.jpg
 5648	chopstick	(143,60,38,48)	18	5648.jpg
 5648	saltshaker	(16,160,37,55)	26	5648.jpg
-5648	baked_egg	(109,129,66,57)	2	5648.jpg
+5648	mixed_egg	(109,129,66,57)	6	5648.jpg
 5648	person	(49,0,199,127)	1	5648.jpg
 5649	table	(0,112,101,142)	29	5649.jpg
 5649	stove	(103,112,154,123)	30	5649.jpg
@@ -53975,7 +53975,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5649	frying_pan	(101,92,82,104)	14	5649.jpg
 5649	chopstick	(146,61,37,47)	18	5649.jpg
 5649	saltshaker	(16,160,37,55)	26	5649.jpg
-5649	baked_egg	(109,129,66,57)	2	5649.jpg
+5649	mixed_egg	(109,129,66,57)	6	5649.jpg
 5649	person	(49,0,199,127)	1	5649.jpg
 5650	table	(0,112,101,142)	29	5650.jpg
 5650	stove	(103,112,154,123)	30	5650.jpg
@@ -53984,7 +53984,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5650	frying_pan	(101,92,82,104)	14	5650.jpg
 5650	chopstick	(144,61,37,47)	18	5650.jpg
 5650	saltshaker	(16,160,37,55)	26	5650.jpg
-5650	baked_egg	(109,129,66,57)	2	5650.jpg
+5650	mixed_egg	(109,129,66,57)	6	5650.jpg
 5650	person	(49,0,199,127)	1	5650.jpg
 5651	table	(0,112,101,142)	29	5651.jpg
 5651	stove	(103,112,154,123)	30	5651.jpg
@@ -53993,7 +53993,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5651	frying_pan	(101,92,82,104)	14	5651.jpg
 5651	chopstick	(147,61,36,47)	18	5651.jpg
 5651	saltshaker	(16,160,37,55)	26	5651.jpg
-5651	baked_egg	(109,129,66,57)	2	5651.jpg
+5651	mixed_egg	(109,129,66,57)	6	5651.jpg
 5651	person	(49,0,199,127)	1	5651.jpg
 5652	table	(0,112,101,142)	29	5652.jpg
 5652	stove	(103,112,154,123)	30	5652.jpg
@@ -54002,7 +54002,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5652	frying_pan	(101,92,82,104)	14	5652.jpg
 5652	chopstick	(146,62,36,46)	18	5652.jpg
 5652	saltshaker	(16,160,37,55)	26	5652.jpg
-5652	baked_egg	(109,129,66,57)	2	5652.jpg
+5652	mixed_egg	(109,129,66,57)	6	5652.jpg
 5652	person	(49,0,199,127)	1	5652.jpg
 5653	table	(0,112,101,142)	29	5653.jpg
 5653	stove	(103,112,154,123)	30	5653.jpg
@@ -54011,7 +54011,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5653	frying_pan	(101,92,82,104)	14	5653.jpg
 5653	chopstick	(148,62,36,46)	18	5653.jpg
 5653	saltshaker	(16,160,37,55)	26	5653.jpg
-5653	baked_egg	(109,129,66,57)	2	5653.jpg
+5653	mixed_egg	(109,129,66,57)	6	5653.jpg
 5653	person	(49,0,199,127)	1	5653.jpg
 5654	table	(0,112,101,142)	29	5654.jpg
 5654	stove	(103,112,154,123)	30	5654.jpg
@@ -54020,7 +54020,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5654	frying_pan	(101,92,82,104)	14	5654.jpg
 5654	chopstick	(148,61,36,47)	18	5654.jpg
 5654	saltshaker	(16,160,37,55)	26	5654.jpg
-5654	baked_egg	(109,129,66,57)	2	5654.jpg
+5654	mixed_egg	(109,129,66,57)	6	5654.jpg
 5654	person	(49,0,199,127)	1	5654.jpg
 5655	table	(0,112,101,142)	29	5655.jpg
 5655	stove	(103,112,154,123)	30	5655.jpg
@@ -54029,7 +54029,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5655	frying_pan	(101,92,82,104)	14	5655.jpg
 5655	chopstick	(147,60,37,47)	18	5655.jpg
 5655	saltshaker	(16,160,37,55)	26	5655.jpg
-5655	baked_egg	(109,129,66,57)	2	5655.jpg
+5655	mixed_egg	(109,129,66,57)	6	5655.jpg
 5655	person	(49,0,199,127)	1	5655.jpg
 5656	table	(0,112,101,142)	29	5656.jpg
 5656	stove	(103,112,154,123)	30	5656.jpg
@@ -54038,7 +54038,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5656	frying_pan	(101,92,82,104)	14	5656.jpg
 5656	chopstick	(147,60,36,47)	18	5656.jpg
 5656	saltshaker	(16,160,37,55)	26	5656.jpg
-5656	baked_egg	(109,129,66,57)	2	5656.jpg
+5656	mixed_egg	(109,129,66,57)	6	5656.jpg
 5656	person	(49,0,199,127)	1	5656.jpg
 5657	table	(0,112,101,142)	29	5657.jpg
 5657	stove	(103,112,154,123)	30	5657.jpg
@@ -54047,7 +54047,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5657	frying_pan	(101,92,82,104)	14	5657.jpg
 5657	chopstick	(146,60,37,47)	18	5657.jpg
 5657	saltshaker	(16,160,37,55)	26	5657.jpg
-5657	baked_egg	(109,129,66,57)	2	5657.jpg
+5657	mixed_egg	(109,129,66,57)	6	5657.jpg
 5657	person	(49,0,199,127)	1	5657.jpg
 5658	table	(0,112,101,142)	29	5658.jpg
 5658	stove	(103,112,154,123)	30	5658.jpg
@@ -54056,7 +54056,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5658	frying_pan	(101,92,82,104)	14	5658.jpg
 5658	chopstick	(144,60,37,48)	18	5658.jpg
 5658	saltshaker	(16,160,37,55)	26	5658.jpg
-5658	baked_egg	(109,129,66,57)	2	5658.jpg
+5658	mixed_egg	(109,129,66,57)	6	5658.jpg
 5658	person	(49,0,199,127)	1	5658.jpg
 5659	table	(0,112,101,142)	29	5659.jpg
 5659	stove	(103,112,154,123)	30	5659.jpg
@@ -54065,7 +54065,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5659	frying_pan	(101,92,82,104)	14	5659.jpg
 5659	chopstick	(142,61,36,47)	18	5659.jpg
 5659	saltshaker	(16,160,37,55)	26	5659.jpg
-5659	baked_egg	(109,129,66,57)	2	5659.jpg
+5659	mixed_egg	(109,129,66,57)	6	5659.jpg
 5659	person	(49,0,199,127)	1	5659.jpg
 5660	table	(0,112,101,142)	29	5660.jpg
 5660	stove	(103,112,154,123)	30	5660.jpg
@@ -54074,7 +54074,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5660	frying_pan	(101,92,82,104)	14	5660.jpg
 5660	chopstick	(141,63,37,47)	18	5660.jpg
 5660	saltshaker	(16,160,37,55)	26	5660.jpg
-5660	baked_egg	(109,129,66,57)	2	5660.jpg
+5660	mixed_egg	(109,129,66,57)	6	5660.jpg
 5660	person	(49,0,199,127)	1	5660.jpg
 5661	table	(0,112,101,142)	29	5661.jpg
 5661	stove	(103,112,154,123)	30	5661.jpg
@@ -54083,7 +54083,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5661	frying_pan	(101,92,82,104)	14	5661.jpg
 5661	chopstick	(144,64,35,46)	18	5661.jpg
 5661	saltshaker	(16,160,37,55)	26	5661.jpg
-5661	baked_egg	(109,129,66,57)	2	5661.jpg
+5661	mixed_egg	(109,129,66,57)	6	5661.jpg
 5661	person	(49,0,199,127)	1	5661.jpg
 5662	table	(0,112,101,142)	29	5662.jpg
 5662	stove	(103,112,154,123)	30	5662.jpg
@@ -54092,7 +54092,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5662	frying_pan	(101,92,82,104)	14	5662.jpg
 5662	chopstick	(143,64,35,46)	18	5662.jpg
 5662	saltshaker	(16,160,37,55)	26	5662.jpg
-5662	baked_egg	(109,129,66,57)	2	5662.jpg
+5662	mixed_egg	(109,129,66,57)	6	5662.jpg
 5662	person	(49,0,199,127)	1	5662.jpg
 5663	table	(0,112,101,142)	29	5663.jpg
 5663	stove	(103,112,154,123)	30	5663.jpg
@@ -54101,7 +54101,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5663	frying_pan	(101,92,82,104)	14	5663.jpg
 5663	chopstick	(145,65,35,45)	18	5663.jpg
 5663	saltshaker	(16,160,37,55)	26	5663.jpg
-5663	baked_egg	(109,129,66,57)	2	5663.jpg
+5663	mixed_egg	(109,129,66,57)	6	5663.jpg
 5663	person	(49,0,199,127)	1	5663.jpg
 5664	table	(0,112,101,142)	29	5664.jpg
 5664	stove	(103,112,154,123)	30	5664.jpg
@@ -54110,7 +54110,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5664	frying_pan	(101,92,82,104)	14	5664.jpg
 5664	chopstick	(144,64,36,46)	18	5664.jpg
 5664	saltshaker	(16,160,37,55)	26	5664.jpg
-5664	baked_egg	(109,129,66,57)	2	5664.jpg
+5664	mixed_egg	(109,129,66,57)	6	5664.jpg
 5664	person	(49,0,199,127)	1	5664.jpg
 5665	table	(0,112,101,142)	29	5665.jpg
 5665	stove	(103,112,154,123)	30	5665.jpg
@@ -54119,7 +54119,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5665	frying_pan	(101,92,82,104)	14	5665.jpg
 5665	chopstick	(145,63,37,47)	18	5665.jpg
 5665	saltshaker	(16,160,37,55)	26	5665.jpg
-5665	baked_egg	(109,129,66,57)	2	5665.jpg
+5665	mixed_egg	(109,129,66,57)	6	5665.jpg
 5665	person	(49,0,199,127)	1	5665.jpg
 5666	table	(0,112,101,142)	29	5666.jpg
 5666	stove	(103,112,154,123)	30	5666.jpg
@@ -54128,7 +54128,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5666	frying_pan	(101,92,82,104)	14	5666.jpg
 5666	chopstick	(145,59,38,51)	18	5666.jpg
 5666	saltshaker	(16,160,37,55)	26	5666.jpg
-5666	baked_egg	(109,129,66,57)	2	5666.jpg
+5666	mixed_egg	(109,129,66,57)	6	5666.jpg
 5666	person	(49,0,199,127)	1	5666.jpg
 5667	table	(0,112,101,142)	29	5667.jpg
 5667	stove	(103,112,154,123)	30	5667.jpg
@@ -54137,7 +54137,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5667	frying_pan	(101,92,82,104)	14	5667.jpg
 5667	chopstick	(145,61,38,48)	18	5667.jpg
 5667	saltshaker	(16,160,37,55)	26	5667.jpg
-5667	baked_egg	(109,129,66,57)	2	5667.jpg
+5667	mixed_egg	(109,129,66,57)	6	5667.jpg
 5667	person	(49,0,199,127)	1	5667.jpg
 5668	table	(0,112,101,142)	29	5668.jpg
 5668	stove	(103,112,154,123)	30	5668.jpg
@@ -54146,7 +54146,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5668	frying_pan	(101,92,82,104)	14	5668.jpg
 5668	chopstick	(145,60,37,48)	18	5668.jpg
 5668	saltshaker	(16,160,37,55)	26	5668.jpg
-5668	baked_egg	(109,129,66,57)	2	5668.jpg
+5668	mixed_egg	(109,129,66,57)	6	5668.jpg
 5668	person	(49,0,199,127)	1	5668.jpg
 5669	table	(0,112,101,142)	29	5669.jpg
 5669	stove	(103,112,154,123)	30	5669.jpg
@@ -54155,7 +54155,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5669	frying_pan	(101,92,82,104)	14	5669.jpg
 5669	chopstick	(144,60,37,47)	18	5669.jpg
 5669	saltshaker	(16,160,37,55)	26	5669.jpg
-5669	baked_egg	(109,129,66,57)	2	5669.jpg
+5669	mixed_egg	(109,129,66,57)	6	5669.jpg
 5669	person	(49,0,199,127)	1	5669.jpg
 5670	table	(0,112,101,142)	29	5670.jpg
 5670	stove	(103,112,154,123)	30	5670.jpg
@@ -54164,7 +54164,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5670	frying_pan	(101,92,82,104)	14	5670.jpg
 5670	chopstick	(143,60,37,47)	18	5670.jpg
 5670	saltshaker	(16,160,37,55)	26	5670.jpg
-5670	baked_egg	(109,129,66,57)	2	5670.jpg
+5670	mixed_egg	(109,129,66,57)	6	5670.jpg
 5670	person	(49,0,199,127)	1	5670.jpg
 5671	table	(0,112,101,142)	29	5671.jpg
 5671	stove	(103,112,154,123)	30	5671.jpg
@@ -54173,7 +54173,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5671	frying_pan	(101,92,82,104)	14	5671.jpg
 5671	chopstick	(143,61,37,47)	18	5671.jpg
 5671	saltshaker	(16,160,37,55)	26	5671.jpg
-5671	baked_egg	(109,129,66,57)	2	5671.jpg
+5671	mixed_egg	(109,129,66,57)	6	5671.jpg
 5671	person	(49,0,199,127)	1	5671.jpg
 5672	table	(0,112,101,142)	29	5672.jpg
 5672	stove	(103,112,154,123)	30	5672.jpg
@@ -54182,7 +54182,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5672	frying_pan	(101,92,82,104)	14	5672.jpg
 5672	chopstick	(143,64,36,46)	18	5672.jpg
 5672	saltshaker	(16,160,37,55)	26	5672.jpg
-5672	baked_egg	(109,129,66,57)	2	5672.jpg
+5672	mixed_egg	(109,129,66,57)	6	5672.jpg
 5672	person	(49,0,199,127)	1	5672.jpg
 5673	table	(0,112,101,142)	29	5673.jpg
 5673	stove	(103,112,154,123)	30	5673.jpg
@@ -54191,7 +54191,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5673	frying_pan	(101,92,82,104)	14	5673.jpg
 5673	chopstick	(144,65,35,45)	18	5673.jpg
 5673	saltshaker	(16,160,37,55)	26	5673.jpg
-5673	baked_egg	(109,129,66,57)	2	5673.jpg
+5673	mixed_egg	(109,129,66,57)	6	5673.jpg
 5673	person	(49,0,199,127)	1	5673.jpg
 5674	table	(0,112,101,142)	29	5674.jpg
 5674	stove	(103,112,154,123)	30	5674.jpg
@@ -54200,7 +54200,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5674	frying_pan	(101,92,82,104)	14	5674.jpg
 5674	chopstick	(145,65,35,45)	18	5674.jpg
 5674	saltshaker	(16,160,37,55)	26	5674.jpg
-5674	baked_egg	(109,129,66,57)	2	5674.jpg
+5674	mixed_egg	(109,129,66,57)	6	5674.jpg
 5674	person	(49,0,199,127)	1	5674.jpg
 5675	table	(0,112,101,142)	29	5675.jpg
 5675	stove	(103,112,154,123)	30	5675.jpg
@@ -54209,7 +54209,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5675	frying_pan	(101,92,82,104)	14	5675.jpg
 5675	chopstick	(146,64,36,45)	18	5675.jpg
 5675	saltshaker	(16,160,37,55)	26	5675.jpg
-5675	baked_egg	(109,129,66,57)	2	5675.jpg
+5675	mixed_egg	(109,129,66,57)	6	5675.jpg
 5675	person	(49,0,199,127)	1	5675.jpg
 5676	table	(0,112,101,142)	29	5676.jpg
 5676	stove	(103,112,154,123)	30	5676.jpg
@@ -54218,7 +54218,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5676	frying_pan	(101,92,82,104)	14	5676.jpg
 5676	chopstick	(146,63,36,46)	18	5676.jpg
 5676	saltshaker	(16,160,37,55)	26	5676.jpg
-5676	baked_egg	(109,129,66,57)	2	5676.jpg
+5676	mixed_egg	(109,129,66,57)	6	5676.jpg
 5676	person	(49,0,199,127)	1	5676.jpg
 5677	table	(0,112,101,142)	29	5677.jpg
 5677	stove	(103,112,154,123)	30	5677.jpg
@@ -54227,7 +54227,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5677	frying_pan	(101,92,82,104)	14	5677.jpg
 5677	chopstick	(147,62,36,47)	18	5677.jpg
 5677	saltshaker	(16,160,37,55)	26	5677.jpg
-5677	baked_egg	(109,129,66,57)	2	5677.jpg
+5677	mixed_egg	(109,129,66,57)	6	5677.jpg
 5677	person	(49,0,199,127)	1	5677.jpg
 5678	table	(0,112,101,142)	29	5678.jpg
 5678	stove	(103,112,154,123)	30	5678.jpg
@@ -54236,7 +54236,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5678	frying_pan	(101,92,82,104)	14	5678.jpg
 5678	chopstick	(146,62,37,47)	18	5678.jpg
 5678	saltshaker	(16,160,37,55)	26	5678.jpg
-5678	baked_egg	(109,129,66,57)	2	5678.jpg
+5678	mixed_egg	(109,129,66,57)	6	5678.jpg
 5678	person	(49,0,199,127)	1	5678.jpg
 5679	table	(0,112,101,142)	29	5679.jpg
 5679	stove	(103,112,154,123)	30	5679.jpg
@@ -54245,7 +54245,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5679	frying_pan	(101,92,82,104)	14	5679.jpg
 5679	chopstick	(147,61,37,47)	18	5679.jpg
 5679	saltshaker	(16,160,37,55)	26	5679.jpg
-5679	baked_egg	(109,129,66,57)	2	5679.jpg
+5679	mixed_egg	(109,129,66,57)	6	5679.jpg
 5679	person	(49,0,199,127)	1	5679.jpg
 5680	table	(0,112,101,142)	29	5680.jpg
 5680	stove	(103,112,154,123)	30	5680.jpg
@@ -54254,7 +54254,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5680	frying_pan	(101,92,82,104)	14	5680.jpg
 5680	chopstick	(145,61,37,47)	18	5680.jpg
 5680	saltshaker	(16,160,37,55)	26	5680.jpg
-5680	baked_egg	(109,129,66,57)	2	5680.jpg
+5680	mixed_egg	(109,129,66,57)	6	5680.jpg
 5680	person	(49,0,199,127)	1	5680.jpg
 5681	table	(0,112,101,142)	29	5681.jpg
 5681	stove	(103,112,154,123)	30	5681.jpg
@@ -54263,7 +54263,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5681	frying_pan	(101,92,82,104)	14	5681.jpg
 5681	chopstick	(144,61,37,46)	18	5681.jpg
 5681	saltshaker	(16,160,37,55)	26	5681.jpg
-5681	baked_egg	(109,129,66,57)	2	5681.jpg
+5681	mixed_egg	(109,129,66,57)	6	5681.jpg
 5681	person	(49,0,199,127)	1	5681.jpg
 5682	table	(0,112,101,142)	29	5682.jpg
 5682	stove	(103,112,154,123)	30	5682.jpg
@@ -54272,7 +54272,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5682	frying_pan	(101,92,82,104)	14	5682.jpg
 5682	chopstick	(143,62,36,46)	18	5682.jpg
 5682	saltshaker	(16,160,37,55)	26	5682.jpg
-5682	baked_egg	(109,129,66,57)	2	5682.jpg
+5682	mixed_egg	(109,129,66,57)	6	5682.jpg
 5682	person	(49,0,199,127)	1	5682.jpg
 5683	table	(0,112,101,142)	29	5683.jpg
 5683	stove	(103,112,154,123)	30	5683.jpg
@@ -54281,7 +54281,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5683	frying_pan	(101,92,82,104)	14	5683.jpg
 5683	chopstick	(142,63,36,46)	18	5683.jpg
 5683	saltshaker	(16,160,37,55)	26	5683.jpg
-5683	baked_egg	(109,129,66,57)	2	5683.jpg
+5683	mixed_egg	(109,129,66,57)	6	5683.jpg
 5683	person	(49,0,199,127)	1	5683.jpg
 5684	table	(0,112,101,142)	29	5684.jpg
 5684	stove	(103,112,154,123)	30	5684.jpg
@@ -54290,7 +54290,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5684	frying_pan	(101,92,82,104)	14	5684.jpg
 5684	chopstick	(143,64,36,46)	18	5684.jpg
 5684	saltshaker	(16,160,37,55)	26	5684.jpg
-5684	baked_egg	(109,129,66,57)	2	5684.jpg
+5684	mixed_egg	(109,129,66,57)	6	5684.jpg
 5684	person	(49,0,199,127)	1	5684.jpg
 5685	table	(0,112,101,142)	29	5685.jpg
 5685	stove	(103,112,154,123)	30	5685.jpg
@@ -54299,7 +54299,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5685	frying_pan	(101,92,82,104)	14	5685.jpg
 5685	chopstick	(144,65,36,45)	18	5685.jpg
 5685	saltshaker	(16,160,37,55)	26	5685.jpg
-5685	baked_egg	(109,129,66,57)	2	5685.jpg
+5685	mixed_egg	(109,129,66,57)	6	5685.jpg
 5685	person	(49,0,199,127)	1	5685.jpg
 5686	table	(0,112,101,142)	29	5686.jpg
 5686	stove	(103,112,154,123)	30	5686.jpg
@@ -54308,7 +54308,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5686	frying_pan	(101,92,82,104)	14	5686.jpg
 5686	chopstick	(146,65,36,45)	18	5686.jpg
 5686	saltshaker	(16,160,37,55)	26	5686.jpg
-5686	baked_egg	(109,129,66,57)	2	5686.jpg
+5686	mixed_egg	(109,129,66,57)	6	5686.jpg
 5686	person	(49,0,199,127)	1	5686.jpg
 5687	table	(0,112,101,142)	29	5687.jpg
 5687	stove	(103,112,154,123)	30	5687.jpg
@@ -54317,7 +54317,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5687	frying_pan	(101,92,82,104)	14	5687.jpg
 5687	chopstick	(147,64,36,46)	18	5687.jpg
 5687	saltshaker	(16,160,37,55)	26	5687.jpg
-5687	baked_egg	(109,129,66,57)	2	5687.jpg
+5687	mixed_egg	(109,129,66,57)	6	5687.jpg
 5687	person	(49,0,199,127)	1	5687.jpg
 5688	table	(0,112,101,142)	29	5688.jpg
 5688	stove	(103,112,154,123)	30	5688.jpg
@@ -54326,7 +54326,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5688	frying_pan	(101,92,82,104)	14	5688.jpg
 5688	chopstick	(147,63,36,47)	18	5688.jpg
 5688	saltshaker	(16,160,37,55)	26	5688.jpg
-5688	baked_egg	(109,129,66,57)	2	5688.jpg
+5688	mixed_egg	(109,129,66,57)	6	5688.jpg
 5688	person	(49,0,199,127)	1	5688.jpg
 5689	table	(0,112,101,142)	29	5689.jpg
 5689	stove	(103,112,154,123)	30	5689.jpg
@@ -54335,7 +54335,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5689	frying_pan	(101,92,82,104)	14	5689.jpg
 5689	chopstick	(148,62,36,47)	18	5689.jpg
 5689	saltshaker	(16,160,37,55)	26	5689.jpg
-5689	baked_egg	(109,129,66,57)	2	5689.jpg
+5689	mixed_egg	(109,129,66,57)	6	5689.jpg
 5689	person	(49,0,199,127)	1	5689.jpg
 5690	table	(0,112,101,142)	29	5690.jpg
 5690	stove	(103,112,154,123)	30	5690.jpg
@@ -54344,7 +54344,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5690	frying_pan	(101,92,82,104)	14	5690.jpg
 5690	chopstick	(147,62,37,47)	18	5690.jpg
 5690	saltshaker	(16,160,37,55)	26	5690.jpg
-5690	baked_egg	(109,129,66,57)	2	5690.jpg
+5690	mixed_egg	(109,129,66,57)	6	5690.jpg
 5690	person	(49,0,199,127)	1	5690.jpg
 5691	table	(0,112,101,142)	29	5691.jpg
 5691	stove	(103,112,154,123)	30	5691.jpg
@@ -54353,7 +54353,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5691	frying_pan	(101,92,82,104)	14	5691.jpg
 5691	chopstick	(148,61,37,47)	18	5691.jpg
 5691	saltshaker	(16,160,37,55)	26	5691.jpg
-5691	baked_egg	(109,129,66,57)	2	5691.jpg
+5691	mixed_egg	(109,129,66,57)	6	5691.jpg
 5691	person	(49,0,199,127)	1	5691.jpg
 5692	table	(0,112,101,142)	29	5692.jpg
 5692	stove	(103,112,154,123)	30	5692.jpg
@@ -54362,7 +54362,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5692	frying_pan	(101,92,82,104)	14	5692.jpg
 5692	chopstick	(147,62,37,46)	18	5692.jpg
 5692	saltshaker	(16,160,37,55)	26	5692.jpg
-5692	baked_egg	(109,129,66,57)	2	5692.jpg
+5692	mixed_egg	(109,129,66,57)	6	5692.jpg
 5692	person	(49,0,199,127)	1	5692.jpg
 5693	table	(0,112,101,142)	29	5693.jpg
 5693	stove	(103,112,154,123)	30	5693.jpg
@@ -54371,7 +54371,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5693	frying_pan	(101,92,82,104)	14	5693.jpg
 5693	chopstick	(147,63,36,46)	18	5693.jpg
 5693	saltshaker	(16,160,37,55)	26	5693.jpg
-5693	baked_egg	(109,129,66,57)	2	5693.jpg
+5693	mixed_egg	(109,129,66,57)	6	5693.jpg
 5693	person	(49,0,199,127)	1	5693.jpg
 5694	table	(0,112,101,142)	29	5694.jpg
 5694	stove	(103,112,154,123)	30	5694.jpg
@@ -54380,7 +54380,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5694	frying_pan	(101,92,82,104)	14	5694.jpg
 5694	chopstick	(148,64,36,47)	18	5694.jpg
 5694	saltshaker	(16,160,37,55)	26	5694.jpg
-5694	baked_egg	(109,129,66,57)	2	5694.jpg
+5694	mixed_egg	(109,129,66,57)	6	5694.jpg
 5694	person	(49,0,199,127)	1	5694.jpg
 5695	table	(0,112,101,142)	29	5695.jpg
 5695	stove	(103,112,154,123)	30	5695.jpg
@@ -54389,7 +54389,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5695	frying_pan	(101,92,82,104)	14	5695.jpg
 5695	chopstick	(147,66,37,46)	18	5695.jpg
 5695	saltshaker	(16,160,37,55)	26	5695.jpg
-5695	baked_egg	(109,129,66,57)	2	5695.jpg
+5695	mixed_egg	(109,129,66,57)	6	5695.jpg
 5695	person	(49,0,199,127)	1	5695.jpg
 5696	table	(0,112,101,142)	29	5696.jpg
 5696	stove	(103,112,154,123)	30	5696.jpg
@@ -54398,7 +54398,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5696	frying_pan	(101,92,82,104)	14	5696.jpg
 5696	chopstick	(149,67,36,46)	18	5696.jpg
 5696	saltshaker	(16,160,37,55)	26	5696.jpg
-5696	baked_egg	(109,129,66,57)	2	5696.jpg
+5696	mixed_egg	(109,129,66,57)	6	5696.jpg
 5696	person	(49,0,199,127)	1	5696.jpg
 5697	table	(0,112,101,142)	29	5697.jpg
 5697	stove	(103,112,154,123)	30	5697.jpg
@@ -54407,7 +54407,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5697	frying_pan	(101,92,82,104)	14	5697.jpg
 5697	chopstick	(148,66,37,46)	18	5697.jpg
 5697	saltshaker	(16,160,37,55)	26	5697.jpg
-5697	baked_egg	(109,129,66,57)	2	5697.jpg
+5697	mixed_egg	(109,129,66,57)	6	5697.jpg
 5697	person	(49,0,199,127)	1	5697.jpg
 5698	table	(0,112,101,142)	29	5698.jpg
 5698	stove	(103,112,154,123)	30	5698.jpg
@@ -54416,7 +54416,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5698	frying_pan	(101,92,82,104)	14	5698.jpg
 5698	chopstick	(148,65,37,47)	18	5698.jpg
 5698	saltshaker	(16,160,37,55)	26	5698.jpg
-5698	baked_egg	(109,129,66,57)	2	5698.jpg
+5698	mixed_egg	(109,129,66,57)	6	5698.jpg
 5698	person	(49,0,199,127)	1	5698.jpg
 5699	table	(0,112,101,142)	29	5699.jpg
 5699	stove	(103,112,154,123)	30	5699.jpg
@@ -54425,7 +54425,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5699	frying_pan	(101,92,82,104)	14	5699.jpg
 5699	chopstick	(149,65,37,47)	18	5699.jpg
 5699	saltshaker	(16,160,37,55)	26	5699.jpg
-5699	baked_egg	(109,129,66,57)	2	5699.jpg
+5699	mixed_egg	(109,129,66,57)	6	5699.jpg
 5699	person	(49,0,199,127)	1	5699.jpg
 5700	table	(0,112,101,142)	29	5700.jpg
 5700	stove	(103,112,154,123)	30	5700.jpg
@@ -54434,7 +54434,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5700	frying_pan	(101,92,82,104)	14	5700.jpg
 5700	chopstick	(148,64,37,48)	18	5700.jpg
 5700	saltshaker	(16,160,37,55)	26	5700.jpg
-5700	baked_egg	(109,129,66,57)	2	5700.jpg
+5700	mixed_egg	(109,129,66,57)	6	5700.jpg
 5700	person	(49,0,199,127)	1	5700.jpg
 5701	table	(0,112,101,142)	29	5701.jpg
 5701	stove	(103,112,154,123)	30	5701.jpg
@@ -54443,7 +54443,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5701	frying_pan	(101,92,82,104)	14	5701.jpg
 5701	chopstick	(149,64,38,48)	18	5701.jpg
 5701	saltshaker	(16,160,37,55)	26	5701.jpg
-5701	baked_egg	(109,129,66,57)	2	5701.jpg
+5701	mixed_egg	(109,129,66,57)	6	5701.jpg
 5701	person	(49,0,199,127)	1	5701.jpg
 5702	table	(0,112,101,142)	29	5702.jpg
 5702	stove	(103,112,154,123)	30	5702.jpg
@@ -54452,7 +54452,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5702	frying_pan	(101,92,82,104)	14	5702.jpg
 5702	chopstick	(147,63,38,49)	18	5702.jpg
 5702	saltshaker	(16,160,37,55)	26	5702.jpg
-5702	baked_egg	(109,129,66,57)	2	5702.jpg
+5702	mixed_egg	(109,129,66,57)	6	5702.jpg
 5702	person	(49,0,199,127)	1	5702.jpg
 5703	table	(0,112,101,142)	29	5703.jpg
 5703	stove	(103,112,154,123)	30	5703.jpg
@@ -54461,7 +54461,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5703	frying_pan	(101,92,82,104)	14	5703.jpg
 5703	chopstick	(147,63,38,54)	18	5703.jpg
 5703	saltshaker	(16,160,37,55)	26	5703.jpg
-5703	baked_egg	(109,129,66,57)	2	5703.jpg
+5703	mixed_egg	(109,129,66,57)	6	5703.jpg
 5703	person	(49,0,199,127)	1	5703.jpg
 5704	table	(0,112,101,142)	29	5704.jpg
 5704	stove	(103,112,154,123)	30	5704.jpg
@@ -54470,7 +54470,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5704	frying_pan	(101,92,82,104)	14	5704.jpg
 5704	chopstick	(147,64,37,55)	18	5704.jpg
 5704	saltshaker	(16,160,37,55)	26	5704.jpg
-5704	baked_egg	(109,129,66,57)	2	5704.jpg
+5704	mixed_egg	(109,129,66,57)	6	5704.jpg
 5704	person	(49,0,199,127)	1	5704.jpg
 5705	table	(0,112,101,142)	29	5705.jpg
 5705	stove	(103,112,154,123)	30	5705.jpg
@@ -54479,7 +54479,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5705	frying_pan	(101,92,82,104)	14	5705.jpg
 5705	chopstick	(145,66,37,51)	18	5705.jpg
 5705	saltshaker	(16,160,37,55)	26	5705.jpg
-5705	baked_egg	(109,129,66,57)	2	5705.jpg
+5705	mixed_egg	(109,129,66,57)	6	5705.jpg
 5705	person	(49,0,199,127)	1	5705.jpg
 5706	table	(0,112,101,142)	29	5706.jpg
 5706	stove	(103,112,154,123)	30	5706.jpg
@@ -54488,7 +54488,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5706	frying_pan	(101,92,82,104)	14	5706.jpg
 5706	chopstick	(150,67,35,50)	18	5706.jpg
 5706	saltshaker	(16,160,37,55)	26	5706.jpg
-5706	baked_egg	(109,129,66,57)	2	5706.jpg
+5706	mixed_egg	(109,129,66,57)	6	5706.jpg
 5706	person	(49,0,199,127)	1	5706.jpg
 5707	table	(0,112,101,142)	29	5707.jpg
 5707	stove	(103,112,154,123)	30	5707.jpg
@@ -54497,7 +54497,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5707	frying_pan	(101,92,82,104)	14	5707.jpg
 5707	chopstick	(149,67,36,53)	18	5707.jpg
 5707	saltshaker	(16,160,37,55)	26	5707.jpg
-5707	baked_egg	(109,129,66,57)	2	5707.jpg
+5707	mixed_egg	(109,129,66,57)	6	5707.jpg
 5707	person	(49,0,199,127)	1	5707.jpg
 5708	table	(0,112,101,142)	29	5708.jpg
 5708	stove	(103,112,154,123)	30	5708.jpg
@@ -54506,7 +54506,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5708	frying_pan	(101,92,82,104)	14	5708.jpg
 5708	chopstick	(149,66,40,55)	18	5708.jpg
 5708	saltshaker	(16,160,37,55)	26	5708.jpg
-5708	baked_egg	(109,129,66,57)	2	5708.jpg
+5708	mixed_egg	(109,129,66,57)	6	5708.jpg
 5708	person	(49,0,199,127)	1	5708.jpg
 5709	table	(0,112,101,142)	29	5709.jpg
 5709	stove	(103,112,154,123)	30	5709.jpg
@@ -54515,7 +54515,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5709	frying_pan	(101,92,82,104)	14	5709.jpg
 5709	chopstick	(151,64,38,56)	18	5709.jpg
 5709	saltshaker	(16,160,37,55)	26	5709.jpg
-5709	baked_egg	(109,129,66,57)	2	5709.jpg
+5709	mixed_egg	(109,129,66,57)	6	5709.jpg
 5709	person	(49,0,199,127)	1	5709.jpg
 5710	table	(0,112,101,142)	29	5710.jpg
 5710	stove	(103,112,154,123)	30	5710.jpg
@@ -54524,7 +54524,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5710	frying_pan	(101,92,82,104)	14	5710.jpg
 5710	chopstick	(152,63,38,58)	18	5710.jpg
 5710	saltshaker	(16,160,37,55)	26	5710.jpg
-5710	baked_egg	(109,129,66,57)	2	5710.jpg
+5710	mixed_egg	(109,129,66,57)	6	5710.jpg
 5710	person	(49,0,199,127)	1	5710.jpg
 5711	table	(0,112,101,142)	29	5711.jpg
 5711	stove	(103,112,154,123)	30	5711.jpg
@@ -54533,7 +54533,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5711	frying_pan	(101,92,82,104)	14	5711.jpg
 5711	chopstick	(152,63,38,57)	18	5711.jpg
 5711	saltshaker	(16,160,37,55)	26	5711.jpg
-5711	baked_egg	(109,129,66,57)	2	5711.jpg
+5711	mixed_egg	(109,129,66,57)	6	5711.jpg
 5711	person	(49,0,199,127)	1	5711.jpg
 5712	table	(0,112,101,142)	29	5712.jpg
 5712	stove	(103,112,154,123)	30	5712.jpg
@@ -54542,7 +54542,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5712	frying_pan	(101,92,82,104)	14	5712.jpg
 5712	chopstick	(151,64,39,57)	18	5712.jpg
 5712	saltshaker	(16,160,37,55)	26	5712.jpg
-5712	baked_egg	(109,129,66,57)	2	5712.jpg
+5712	mixed_egg	(109,129,66,57)	6	5712.jpg
 5712	person	(49,0,199,127)	1	5712.jpg
 5713	table	(0,112,101,142)	29	5713.jpg
 5713	stove	(103,112,154,123)	30	5713.jpg
@@ -54551,7 +54551,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5713	frying_pan	(101,92,82,104)	14	5713.jpg
 5713	chopstick	(150,62,38,55)	18	5713.jpg
 5713	saltshaker	(16,160,37,55)	26	5713.jpg
-5713	baked_egg	(109,130,66,59)	2	5713.jpg
+5713	mixed_egg	(109,130,66,59)	6	5713.jpg
 5713	person	(49,0,199,127)	1	5713.jpg
 5714	table	(0,112,101,142)	29	5714.jpg
 5714	stove	(103,112,154,123)	30	5714.jpg
@@ -54560,7 +54560,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5714	frying_pan	(101,92,82,104)	14	5714.jpg
 5714	chopstick	(151,65,35,51)	18	5714.jpg
 5714	saltshaker	(16,160,37,55)	26	5714.jpg
-5714	baked_egg	(109,130,66,59)	2	5714.jpg
+5714	mixed_egg	(109,130,66,59)	6	5714.jpg
 5714	person	(49,0,199,127)	1	5714.jpg
 5715	table	(0,112,101,142)	29	5715.jpg
 5715	stove	(103,112,154,123)	30	5715.jpg
@@ -54569,7 +54569,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5715	frying_pan	(101,92,82,104)	14	5715.jpg
 5715	chopstick	(149,65,38,53)	18	5715.jpg
 5715	saltshaker	(16,160,37,55)	26	5715.jpg
-5715	baked_egg	(109,130,66,59)	2	5715.jpg
+5715	mixed_egg	(109,130,66,59)	6	5715.jpg
 5715	person	(49,0,199,127)	1	5715.jpg
 5716	table	(0,112,101,142)	29	5716.jpg
 5716	stove	(103,112,154,123)	30	5716.jpg
@@ -54578,7 +54578,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5716	frying_pan	(101,92,82,104)	14	5716.jpg
 5716	chopstick	(150,66,38,52)	18	5716.jpg
 5716	saltshaker	(16,160,37,55)	26	5716.jpg
-5716	baked_egg	(109,130,66,59)	2	5716.jpg
+5716	mixed_egg	(109,130,66,59)	6	5716.jpg
 5716	person	(49,0,199,127)	1	5716.jpg
 5717	table	(0,112,101,142)	29	5717.jpg
 5717	stove	(103,112,154,123)	30	5717.jpg
@@ -54587,7 +54587,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5717	frying_pan	(101,92,82,104)	14	5717.jpg
 5717	chopstick	(150,66,40,53)	18	5717.jpg
 5717	saltshaker	(16,160,37,55)	26	5717.jpg
-5717	baked_egg	(109,130,66,59)	2	5717.jpg
+5717	mixed_egg	(109,130,66,59)	6	5717.jpg
 5717	person	(49,0,199,127)	1	5717.jpg
 5718	table	(0,112,101,142)	29	5718.jpg
 5718	stove	(103,112,154,123)	30	5718.jpg
@@ -54596,7 +54596,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5718	frying_pan	(101,92,82,104)	14	5718.jpg
 5718	chopstick	(151,66,37,54)	18	5718.jpg
 5718	saltshaker	(16,160,37,55)	26	5718.jpg
-5718	baked_egg	(109,130,66,59)	2	5718.jpg
+5718	mixed_egg	(109,130,66,59)	6	5718.jpg
 5718	person	(49,0,199,127)	1	5718.jpg
 5719	table	(0,112,101,142)	29	5719.jpg
 5719	stove	(103,112,154,123)	30	5719.jpg
@@ -54605,7 +54605,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5719	frying_pan	(101,92,82,104)	14	5719.jpg
 5719	chopstick	(148,65,40,53)	18	5719.jpg
 5719	saltshaker	(16,160,37,55)	26	5719.jpg
-5719	baked_egg	(109,130,66,59)	2	5719.jpg
+5719	mixed_egg	(109,130,66,59)	6	5719.jpg
 5719	person	(49,0,199,127)	1	5719.jpg
 5720	table	(0,112,101,142)	29	5720.jpg
 5720	stove	(103,112,154,123)	30	5720.jpg
@@ -54614,7 +54614,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5720	frying_pan	(101,92,82,104)	14	5720.jpg
 5720	chopstick	(152,65,37,56)	18	5720.jpg
 5720	saltshaker	(16,160,37,55)	26	5720.jpg
-5720	baked_egg	(109,130,66,59)	2	5720.jpg
+5720	mixed_egg	(109,130,66,59)	6	5720.jpg
 5720	person	(49,0,199,127)	1	5720.jpg
 5721	table	(0,112,101,142)	29	5721.jpg
 5721	stove	(103,112,154,123)	30	5721.jpg
@@ -54623,7 +54623,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5721	frying_pan	(101,92,82,104)	14	5721.jpg
 5721	chopstick	(149,62,43,58)	18	5721.jpg
 5721	saltshaker	(16,160,37,55)	26	5721.jpg
-5721	baked_egg	(109,130,66,59)	2	5721.jpg
+5721	mixed_egg	(109,130,66,59)	6	5721.jpg
 5721	person	(49,0,199,127)	1	5721.jpg
 5722	table	(0,112,101,142)	29	5722.jpg
 5722	stove	(103,112,154,123)	30	5722.jpg
@@ -54632,7 +54632,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5722	frying_pan	(101,92,82,104)	14	5722.jpg
 5722	chopstick	(150,62,40,54)	18	5722.jpg
 5722	saltshaker	(16,160,37,55)	26	5722.jpg
-5722	baked_egg	(109,130,66,59)	2	5722.jpg
+5722	mixed_egg	(109,130,66,59)	6	5722.jpg
 5722	person	(49,0,199,127)	1	5722.jpg
 5723	table	(0,112,101,142)	29	5723.jpg
 5723	stove	(103,112,154,123)	30	5723.jpg
@@ -54641,7 +54641,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5723	frying_pan	(101,92,82,104)	14	5723.jpg
 5723	chopstick	(148,64,40,53)	18	5723.jpg
 5723	saltshaker	(16,160,37,55)	26	5723.jpg
-5723	baked_egg	(109,130,66,59)	2	5723.jpg
+5723	mixed_egg	(109,130,66,59)	6	5723.jpg
 5723	person	(49,0,199,127)	1	5723.jpg
 5724	table	(0,112,101,142)	29	5724.jpg
 5724	stove	(103,112,154,123)	30	5724.jpg
@@ -54650,7 +54650,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5724	frying_pan	(101,92,82,104)	14	5724.jpg
 5724	chopstick	(150,66,38,51)	18	5724.jpg
 5724	saltshaker	(16,160,37,55)	26	5724.jpg
-5724	baked_egg	(109,130,66,59)	2	5724.jpg
+5724	mixed_egg	(109,130,66,59)	6	5724.jpg
 5724	person	(49,0,199,127)	1	5724.jpg
 5725	table	(0,112,101,142)	29	5725.jpg
 5725	stove	(103,112,154,123)	30	5725.jpg
@@ -54659,7 +54659,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5725	frying_pan	(101,92,82,104)	14	5725.jpg
 5725	chopstick	(150,66,38,52)	18	5725.jpg
 5725	saltshaker	(16,160,37,55)	26	5725.jpg
-5725	baked_egg	(109,130,66,59)	2	5725.jpg
+5725	mixed_egg	(109,130,66,59)	6	5725.jpg
 5725	person	(49,0,199,127)	1	5725.jpg
 5726	table	(0,112,101,142)	29	5726.jpg
 5726	stove	(103,112,154,123)	30	5726.jpg
@@ -54668,7 +54668,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5726	frying_pan	(101,92,82,104)	14	5726.jpg
 5726	chopstick	(151,66,37,51)	18	5726.jpg
 5726	saltshaker	(16,160,37,55)	26	5726.jpg
-5726	baked_egg	(109,130,66,59)	2	5726.jpg
+5726	mixed_egg	(109,130,66,59)	6	5726.jpg
 5726	person	(49,0,199,127)	1	5726.jpg
 5727	table	(0,112,101,142)	29	5727.jpg
 5727	stove	(103,112,154,123)	30	5727.jpg
@@ -54677,7 +54677,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5727	frying_pan	(101,92,82,104)	14	5727.jpg
 5727	chopstick	(151,65,41,53)	18	5727.jpg
 5727	saltshaker	(16,160,37,55)	26	5727.jpg
-5727	baked_egg	(109,130,66,59)	2	5727.jpg
+5727	mixed_egg	(109,130,66,59)	6	5727.jpg
 5727	person	(49,0,199,127)	1	5727.jpg
 5728	table	(0,112,101,142)	29	5728.jpg
 5728	stove	(103,112,154,123)	30	5728.jpg
@@ -54686,7 +54686,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5728	frying_pan	(101,92,82,104)	14	5728.jpg
 5728	chopstick	(153,65,39,53)	18	5728.jpg
 5728	saltshaker	(16,160,37,55)	26	5728.jpg
-5728	baked_egg	(109,130,66,59)	2	5728.jpg
+5728	mixed_egg	(109,130,66,59)	6	5728.jpg
 5728	person	(49,0,199,127)	1	5728.jpg
 5729	table	(0,112,101,142)	29	5729.jpg
 5729	stove	(103,112,154,123)	30	5729.jpg
@@ -54695,7 +54695,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5729	frying_pan	(101,92,82,104)	14	5729.jpg
 5729	chopstick	(151,63,41,54)	18	5729.jpg
 5729	saltshaker	(16,160,37,55)	26	5729.jpg
-5729	baked_egg	(109,130,66,59)	2	5729.jpg
+5729	mixed_egg	(109,130,66,59)	6	5729.jpg
 5729	person	(49,0,199,127)	1	5729.jpg
 5730	table	(0,112,101,142)	29	5730.jpg
 5730	stove	(103,112,154,123)	30	5730.jpg
@@ -54704,7 +54704,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5730	frying_pan	(101,92,82,104)	14	5730.jpg
 5730	chopstick	(149,63,42,52)	18	5730.jpg
 5730	saltshaker	(16,160,37,55)	26	5730.jpg
-5730	baked_egg	(109,130,66,59)	2	5730.jpg
+5730	mixed_egg	(109,130,66,59)	6	5730.jpg
 5730	person	(49,0,199,127)	1	5730.jpg
 5731	table	(0,112,101,142)	29	5731.jpg
 5731	stove	(103,112,154,123)	30	5731.jpg
@@ -54713,7 +54713,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5731	frying_pan	(101,92,82,104)	14	5731.jpg
 5731	chopstick	(147,63,38,49)	18	5731.jpg
 5731	saltshaker	(16,160,37,55)	26	5731.jpg
-5731	baked_egg	(109,130,66,59)	2	5731.jpg
+5731	mixed_egg	(109,130,66,59)	6	5731.jpg
 5731	person	(49,0,199,127)	1	5731.jpg
 5732	table	(0,112,101,142)	29	5732.jpg
 5732	stove	(103,112,154,123)	30	5732.jpg
@@ -54722,7 +54722,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5732	frying_pan	(101,92,82,104)	14	5732.jpg
 5732	chopstick	(148,64,38,48)	18	5732.jpg
 5732	saltshaker	(16,160,37,55)	26	5732.jpg
-5732	baked_egg	(109,130,66,59)	2	5732.jpg
+5732	mixed_egg	(109,130,66,59)	6	5732.jpg
 5732	person	(49,0,199,127)	1	5732.jpg
 5733	table	(0,112,101,142)	29	5733.jpg
 5733	stove	(103,112,154,123)	30	5733.jpg
@@ -54731,7 +54731,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5733	frying_pan	(101,92,82,104)	14	5733.jpg
 5733	chopstick	(148,65,37,48)	18	5733.jpg
 5733	saltshaker	(16,160,37,55)	26	5733.jpg
-5733	baked_egg	(109,130,66,59)	2	5733.jpg
+5733	mixed_egg	(109,130,66,59)	6	5733.jpg
 5733	person	(49,0,199,127)	1	5733.jpg
 5734	table	(0,112,101,142)	29	5734.jpg
 5734	stove	(103,112,154,123)	30	5734.jpg
@@ -54740,7 +54740,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5734	frying_pan	(101,92,82,104)	14	5734.jpg
 5734	chopstick	(150,66,38,48)	18	5734.jpg
 5734	saltshaker	(16,160,37,55)	26	5734.jpg
-5734	baked_egg	(109,130,66,59)	2	5734.jpg
+5734	mixed_egg	(109,130,66,59)	6	5734.jpg
 5734	person	(49,0,199,127)	1	5734.jpg
 5735	table	(0,112,101,142)	29	5735.jpg
 5735	stove	(103,112,154,123)	30	5735.jpg
@@ -54749,7 +54749,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5735	frying_pan	(101,92,82,104)	14	5735.jpg
 5735	chopstick	(152,66,38,49)	18	5735.jpg
 5735	saltshaker	(16,160,37,55)	26	5735.jpg
-5735	baked_egg	(109,130,66,59)	2	5735.jpg
+5735	mixed_egg	(109,130,66,59)	6	5735.jpg
 5735	person	(49,0,199,127)	1	5735.jpg
 5736	table	(0,112,101,142)	29	5736.jpg
 5736	stove	(103,112,154,123)	30	5736.jpg
@@ -54758,7 +54758,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5736	frying_pan	(101,92,82,104)	14	5736.jpg
 5736	chopstick	(153,65,39,54)	18	5736.jpg
 5736	saltshaker	(16,160,37,55)	26	5736.jpg
-5736	baked_egg	(109,130,66,59)	2	5736.jpg
+5736	mixed_egg	(109,130,66,59)	6	5736.jpg
 5736	person	(49,0,199,127)	1	5736.jpg
 5737	table	(0,112,101,142)	29	5737.jpg
 5737	stove	(103,112,154,123)	30	5737.jpg
@@ -54767,7 +54767,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5737	frying_pan	(101,92,82,104)	14	5737.jpg
 5737	chopstick	(154,64,38,55)	18	5737.jpg
 5737	saltshaker	(16,160,37,55)	26	5737.jpg
-5737	baked_egg	(109,130,66,59)	2	5737.jpg
+5737	mixed_egg	(109,130,66,59)	6	5737.jpg
 5737	person	(49,0,199,127)	1	5737.jpg
 5738	table	(0,112,101,142)	29	5738.jpg
 5738	stove	(103,112,154,123)	30	5738.jpg
@@ -54776,7 +54776,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5738	frying_pan	(101,92,82,104)	14	5738.jpg
 5738	chopstick	(152,63,39,55)	18	5738.jpg
 5738	saltshaker	(16,160,37,55)	26	5738.jpg
-5738	baked_egg	(109,130,66,59)	2	5738.jpg
+5738	mixed_egg	(109,130,66,59)	6	5738.jpg
 5738	person	(49,0,199,127)	1	5738.jpg
 5739	table	(0,112,101,142)	29	5739.jpg
 5739	stove	(103,112,154,123)	30	5739.jpg
@@ -54785,7 +54785,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5739	frying_pan	(101,92,82,104)	14	5739.jpg
 5739	chopstick	(152,62,42,54)	18	5739.jpg
 5739	saltshaker	(16,160,37,55)	26	5739.jpg
-5739	baked_egg	(109,130,66,59)	2	5739.jpg
+5739	mixed_egg	(109,130,66,59)	6	5739.jpg
 5739	person	(49,0,199,127)	1	5739.jpg
 5740	table	(0,112,101,142)	29	5740.jpg
 5740	stove	(103,112,154,123)	30	5740.jpg
@@ -54794,7 +54794,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5740	frying_pan	(101,92,82,104)	14	5740.jpg
 5740	chopstick	(150,61,42,53)	18	5740.jpg
 5740	saltshaker	(16,160,37,55)	26	5740.jpg
-5740	baked_egg	(109,130,66,59)	2	5740.jpg
+5740	mixed_egg	(109,130,66,59)	6	5740.jpg
 5740	person	(49,0,199,127)	1	5740.jpg
 5741	table	(0,112,101,142)	29	5741.jpg
 5741	stove	(103,112,154,123)	30	5741.jpg
@@ -54803,7 +54803,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5741	frying_pan	(101,92,82,104)	14	5741.jpg
 5741	chopstick	(149,63,43,51)	18	5741.jpg
 5741	saltshaker	(16,160,37,55)	26	5741.jpg
-5741	baked_egg	(109,130,66,59)	2	5741.jpg
+5741	mixed_egg	(109,130,66,59)	6	5741.jpg
 5741	person	(49,0,199,127)	1	5741.jpg
 5742	table	(0,112,101,142)	29	5742.jpg
 5742	stove	(103,112,154,123)	30	5742.jpg
@@ -54812,7 +54812,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5742	frying_pan	(101,92,82,104)	14	5742.jpg
 5742	chopstick	(150,63,41,52)	18	5742.jpg
 5742	saltshaker	(16,160,37,55)	26	5742.jpg
-5742	baked_egg	(109,130,66,59)	2	5742.jpg
+5742	mixed_egg	(109,130,66,59)	6	5742.jpg
 5742	person	(49,0,199,127)	1	5742.jpg
 5743	table	(0,112,101,142)	29	5743.jpg
 5743	stove	(103,112,154,123)	30	5743.jpg
@@ -54821,7 +54821,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5743	frying_pan	(101,92,82,104)	14	5743.jpg
 5743	chopstick	(151,64,42,49)	18	5743.jpg
 5743	saltshaker	(16,160,37,55)	26	5743.jpg
-5743	baked_egg	(109,130,66,59)	2	5743.jpg
+5743	mixed_egg	(109,130,66,59)	6	5743.jpg
 5743	person	(49,0,199,127)	1	5743.jpg
 5744	table	(0,112,101,142)	29	5744.jpg
 5744	stove	(103,112,154,123)	30	5744.jpg
@@ -54830,7 +54830,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5744	frying_pan	(101,92,82,104)	14	5744.jpg
 5744	chopstick	(153,64,41,50)	18	5744.jpg
 5744	saltshaker	(16,160,37,55)	26	5744.jpg
-5744	baked_egg	(109,130,66,59)	2	5744.jpg
+5744	mixed_egg	(109,130,66,59)	6	5744.jpg
 5744	person	(49,0,199,127)	1	5744.jpg
 5745	table	(0,112,101,142)	29	5745.jpg
 5745	stove	(103,112,154,123)	30	5745.jpg
@@ -54839,7 +54839,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5745	frying_pan	(101,92,82,104)	14	5745.jpg
 5745	chopstick	(154,64,42,54)	18	5745.jpg
 5745	saltshaker	(16,160,37,55)	26	5745.jpg
-5745	baked_egg	(109,130,66,59)	2	5745.jpg
+5745	mixed_egg	(109,130,66,59)	6	5745.jpg
 5745	person	(49,0,199,127)	1	5745.jpg
 5746	table	(0,112,101,142)	29	5746.jpg
 5746	stove	(103,112,154,123)	30	5746.jpg
@@ -54848,7 +54848,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5746	frying_pan	(101,92,82,104)	14	5746.jpg
 5746	chopstick	(153,63,42,55)	18	5746.jpg
 5746	saltshaker	(16,160,37,55)	26	5746.jpg
-5746	baked_egg	(109,130,66,59)	2	5746.jpg
+5746	mixed_egg	(109,130,66,59)	6	5746.jpg
 5746	person	(49,0,199,127)	1	5746.jpg
 5747	table	(0,112,101,142)	29	5747.jpg
 5747	stove	(103,112,154,123)	30	5747.jpg
@@ -54857,7 +54857,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5747	frying_pan	(101,92,82,104)	14	5747.jpg
 5747	chopstick	(154,62,41,55)	18	5747.jpg
 5747	saltshaker	(16,160,37,55)	26	5747.jpg
-5747	baked_egg	(109,130,66,59)	2	5747.jpg
+5747	mixed_egg	(109,130,66,59)	6	5747.jpg
 5747	person	(49,0,199,127)	1	5747.jpg
 5748	table	(0,112,101,142)	29	5748.jpg
 5748	stove	(103,112,154,123)	30	5748.jpg
@@ -54866,7 +54866,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5748	frying_pan	(101,92,82,104)	14	5748.jpg
 5748	chopstick	(150,61,43,57)	18	5748.jpg
 5748	saltshaker	(16,160,37,55)	26	5748.jpg
-5748	baked_egg	(109,130,66,59)	2	5748.jpg
+5748	mixed_egg	(109,130,66,59)	6	5748.jpg
 5748	person	(49,0,199,127)	1	5748.jpg
 5749	table	(0,112,101,142)	29	5749.jpg
 5749	stove	(103,112,154,123)	30	5749.jpg
@@ -54875,7 +54875,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5749	frying_pan	(101,92,82,104)	14	5749.jpg
 5749	chopstick	(148,60,43,58)	18	5749.jpg
 5749	saltshaker	(16,160,37,55)	26	5749.jpg
-5749	baked_egg	(109,130,66,59)	2	5749.jpg
+5749	mixed_egg	(109,130,66,59)	6	5749.jpg
 5749	person	(49,0,199,127)	1	5749.jpg
 5750	table	(0,112,101,142)	29	5750.jpg
 5750	stove	(103,112,154,123)	30	5750.jpg
@@ -54884,7 +54884,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5750	frying_pan	(101,92,82,104)	14	5750.jpg
 5750	chopstick	(149,62,42,54)	18	5750.jpg
 5750	saltshaker	(16,160,37,55)	26	5750.jpg
-5750	baked_egg	(109,130,66,59)	2	5750.jpg
+5750	mixed_egg	(109,130,66,59)	6	5750.jpg
 5750	person	(49,0,199,127)	1	5750.jpg
 5751	table	(0,112,101,142)	29	5751.jpg
 5751	stove	(103,112,154,123)	30	5751.jpg
@@ -54893,7 +54893,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5751	frying_pan	(101,92,82,104)	14	5751.jpg
 5751	chopstick	(150,64,42,52)	18	5751.jpg
 5751	saltshaker	(16,160,37,55)	26	5751.jpg
-5751	baked_egg	(109,130,66,59)	2	5751.jpg
+5751	mixed_egg	(109,130,66,59)	6	5751.jpg
 5751	person	(49,0,199,127)	1	5751.jpg
 5752	table	(0,112,101,142)	29	5752.jpg
 5752	stove	(103,112,154,123)	30	5752.jpg
@@ -54902,7 +54902,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5752	frying_pan	(101,92,82,104)	14	5752.jpg
 5752	chopstick	(151,63,41,55)	18	5752.jpg
 5752	saltshaker	(16,160,37,55)	26	5752.jpg
-5752	baked_egg	(109,130,66,59)	2	5752.jpg
+5752	mixed_egg	(109,130,66,59)	6	5752.jpg
 5752	person	(49,0,199,127)	1	5752.jpg
 5753	table	(0,112,101,142)	29	5753.jpg
 5753	stove	(103,112,154,123)	30	5753.jpg
@@ -54911,7 +54911,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5753	frying_pan	(101,92,82,104)	14	5753.jpg
 5753	chopstick	(152,64,42,55)	18	5753.jpg
 5753	saltshaker	(16,160,37,55)	26	5753.jpg
-5753	baked_egg	(109,130,66,59)	2	5753.jpg
+5753	mixed_egg	(109,130,66,59)	6	5753.jpg
 5753	person	(49,0,199,127)	1	5753.jpg
 5754	table	(0,112,101,142)	29	5754.jpg
 5754	stove	(103,112,154,123)	30	5754.jpg
@@ -54920,7 +54920,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5754	frying_pan	(101,92,82,104)	14	5754.jpg
 5754	chopstick	(153,64,41,55)	18	5754.jpg
 5754	saltshaker	(16,160,37,55)	26	5754.jpg
-5754	baked_egg	(109,130,66,59)	2	5754.jpg
+5754	mixed_egg	(109,130,66,59)	6	5754.jpg
 5754	person	(49,0,199,127)	1	5754.jpg
 5755	table	(0,112,101,142)	29	5755.jpg
 5755	stove	(103,112,154,123)	30	5755.jpg
@@ -54929,7 +54929,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5755	frying_pan	(101,92,82,104)	14	5755.jpg
 5755	chopstick	(153,63,41,57)	18	5755.jpg
 5755	saltshaker	(16,160,37,55)	26	5755.jpg
-5755	baked_egg	(109,130,66,59)	2	5755.jpg
+5755	mixed_egg	(109,130,66,59)	6	5755.jpg
 5755	person	(49,0,199,127)	1	5755.jpg
 5756	table	(0,112,101,142)	29	5756.jpg
 5756	stove	(103,112,154,123)	30	5756.jpg
@@ -54938,7 +54938,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5756	frying_pan	(101,92,82,104)	14	5756.jpg
 5756	chopstick	(152,62,41,55)	18	5756.jpg
 5756	saltshaker	(16,160,37,55)	26	5756.jpg
-5756	baked_egg	(109,130,66,59)	2	5756.jpg
+5756	mixed_egg	(109,130,66,59)	6	5756.jpg
 5756	person	(49,0,199,127)	1	5756.jpg
 5757	table	(0,112,101,142)	29	5757.jpg
 5757	stove	(103,112,154,123)	30	5757.jpg
@@ -54947,7 +54947,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5757	frying_pan	(101,92,82,104)	14	5757.jpg
 5757	chopstick	(151,61,42,59)	18	5757.jpg
 5757	saltshaker	(16,160,37,55)	26	5757.jpg
-5757	baked_egg	(109,130,66,59)	2	5757.jpg
+5757	mixed_egg	(109,130,66,59)	6	5757.jpg
 5757	person	(49,0,199,127)	1	5757.jpg
 5758	table	(0,112,101,142)	29	5758.jpg
 5758	stove	(103,112,154,123)	30	5758.jpg
@@ -54956,7 +54956,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5758	frying_pan	(101,92,82,104)	14	5758.jpg
 5758	chopstick	(148,59,44,55)	18	5758.jpg
 5758	saltshaker	(16,160,37,55)	26	5758.jpg
-5758	baked_egg	(109,130,66,59)	2	5758.jpg
+5758	mixed_egg	(109,130,66,59)	6	5758.jpg
 5758	person	(49,0,199,127)	1	5758.jpg
 5759	table	(0,112,101,142)	29	5759.jpg
 5759	stove	(103,112,154,123)	30	5759.jpg
@@ -54965,7 +54965,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5759	frying_pan	(101,92,82,104)	14	5759.jpg
 5759	chopstick	(147,59,44,54)	18	5759.jpg
 5759	saltshaker	(16,160,37,55)	26	5759.jpg
-5759	baked_egg	(109,130,66,59)	2	5759.jpg
+5759	mixed_egg	(109,130,66,59)	6	5759.jpg
 5759	person	(49,0,199,127)	1	5759.jpg
 5760	table	(0,112,101,142)	29	5760.jpg
 5760	stove	(103,112,154,123)	30	5760.jpg
@@ -54974,7 +54974,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5760	frying_pan	(101,92,82,104)	14	5760.jpg
 5760	chopstick	(148,60,42,54)	18	5760.jpg
 5760	saltshaker	(16,160,37,55)	26	5760.jpg
-5760	baked_egg	(109,130,66,59)	2	5760.jpg
+5760	mixed_egg	(109,130,66,59)	6	5760.jpg
 5760	person	(49,0,199,127)	1	5760.jpg
 5761	table	(0,112,101,142)	29	5761.jpg
 5761	stove	(103,112,154,123)	30	5761.jpg
@@ -54983,7 +54983,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5761	frying_pan	(101,92,82,104)	14	5761.jpg
 5761	chopstick	(149,62,43,54)	18	5761.jpg
 5761	saltshaker	(16,160,37,55)	26	5761.jpg
-5761	baked_egg	(109,130,66,59)	2	5761.jpg
+5761	mixed_egg	(109,130,66,59)	6	5761.jpg
 5761	person	(49,0,199,127)	1	5761.jpg
 5762	table	(0,112,101,142)	29	5762.jpg
 5762	stove	(103,112,154,123)	30	5762.jpg
@@ -54992,7 +54992,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5762	frying_pan	(101,92,82,104)	14	5762.jpg
 5762	chopstick	(152,63,41,55)	18	5762.jpg
 5762	saltshaker	(16,160,37,55)	26	5762.jpg
-5762	baked_egg	(109,130,66,59)	2	5762.jpg
+5762	mixed_egg	(109,130,66,59)	6	5762.jpg
 5762	person	(49,0,199,127)	1	5762.jpg
 5763	table	(0,112,101,142)	29	5763.jpg
 5763	stove	(103,112,154,123)	30	5763.jpg
@@ -55001,7 +55001,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5763	frying_pan	(101,92,82,104)	14	5763.jpg
 5763	chopstick	(152,64,41,55)	18	5763.jpg
 5763	saltshaker	(16,160,37,55)	26	5763.jpg
-5763	baked_egg	(109,130,66,59)	2	5763.jpg
+5763	mixed_egg	(109,130,66,59)	6	5763.jpg
 5763	person	(49,0,199,127)	1	5763.jpg
 5764	table	(0,112,101,142)	29	5764.jpg
 5764	stove	(103,112,154,123)	30	5764.jpg
@@ -55010,7 +55010,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5764	frying_pan	(101,92,82,104)	14	5764.jpg
 5764	chopstick	(153,64,40,54)	18	5764.jpg
 5764	saltshaker	(16,160,37,55)	26	5764.jpg
-5764	baked_egg	(109,130,66,59)	2	5764.jpg
+5764	mixed_egg	(109,130,66,59)	6	5764.jpg
 5764	person	(49,0,199,127)	1	5764.jpg
 5765	table	(0,112,101,142)	29	5765.jpg
 5765	stove	(103,112,154,123)	30	5765.jpg
@@ -55019,7 +55019,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5765	frying_pan	(101,92,82,104)	14	5765.jpg
 5765	chopstick	(153,62,42,60)	18	5765.jpg
 5765	saltshaker	(16,160,37,55)	26	5765.jpg
-5765	baked_egg	(109,130,66,59)	2	5765.jpg
+5765	mixed_egg	(109,130,66,59)	6	5765.jpg
 5765	person	(49,0,199,127)	1	5765.jpg
 5766	table	(0,112,101,142)	29	5766.jpg
 5766	stove	(103,112,154,123)	30	5766.jpg
@@ -55028,7 +55028,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5766	frying_pan	(101,92,82,104)	14	5766.jpg
 5766	chopstick	(152,62,41,56)	18	5766.jpg
 5766	saltshaker	(16,160,37,55)	26	5766.jpg
-5766	baked_egg	(109,130,66,59)	2	5766.jpg
+5766	mixed_egg	(109,130,66,59)	6	5766.jpg
 5766	person	(49,0,199,127)	1	5766.jpg
 5767	table	(0,112,101,142)	29	5767.jpg
 5767	stove	(103,112,154,123)	30	5767.jpg
@@ -55037,7 +55037,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5767	frying_pan	(101,92,82,104)	14	5767.jpg
 5767	chopstick	(151,60,42,57)	18	5767.jpg
 5767	saltshaker	(16,160,37,55)	26	5767.jpg
-5767	baked_egg	(109,130,66,59)	2	5767.jpg
+5767	mixed_egg	(109,130,66,59)	6	5767.jpg
 5767	person	(49,0,199,127)	1	5767.jpg
 5768	table	(0,112,101,142)	29	5768.jpg
 5768	stove	(103,112,154,123)	30	5768.jpg
@@ -55046,7 +55046,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5768	frying_pan	(101,92,82,104)	14	5768.jpg
 5768	chopstick	(148,59,43,56)	18	5768.jpg
 5768	saltshaker	(16,160,37,55)	26	5768.jpg
-5768	baked_egg	(109,130,66,59)	2	5768.jpg
+5768	mixed_egg	(109,130,66,59)	6	5768.jpg
 5768	person	(49,0,199,127)	1	5768.jpg
 5769	table	(0,112,101,142)	29	5769.jpg
 5769	stove	(103,112,154,123)	30	5769.jpg
@@ -55055,7 +55055,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5769	frying_pan	(101,92,82,104)	14	5769.jpg
 5769	chopstick	(149,60,42,56)	18	5769.jpg
 5769	saltshaker	(16,160,37,55)	26	5769.jpg
-5769	baked_egg	(109,130,66,59)	2	5769.jpg
+5769	mixed_egg	(109,130,66,59)	6	5769.jpg
 5769	person	(49,0,199,127)	1	5769.jpg
 5770	table	(0,112,101,142)	29	5770.jpg
 5770	stove	(103,112,154,123)	30	5770.jpg
@@ -55064,7 +55064,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5770	frying_pan	(101,92,82,104)	14	5770.jpg
 5770	chopstick	(150,62,41,53)	18	5770.jpg
 5770	saltshaker	(16,160,37,55)	26	5770.jpg
-5770	baked_egg	(109,130,66,59)	2	5770.jpg
+5770	mixed_egg	(109,130,66,59)	6	5770.jpg
 5770	person	(49,0,199,127)	1	5770.jpg
 5771	table	(0,112,101,142)	29	5771.jpg
 5771	stove	(103,112,154,123)	30	5771.jpg
@@ -55073,7 +55073,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5771	frying_pan	(101,92,82,104)	14	5771.jpg
 5771	chopstick	(153,63,39,55)	18	5771.jpg
 5771	saltshaker	(16,160,37,55)	26	5771.jpg
-5771	baked_egg	(109,130,66,59)	2	5771.jpg
+5771	mixed_egg	(109,130,66,59)	6	5771.jpg
 5771	person	(49,0,199,127)	1	5771.jpg
 5772	table	(0,112,101,142)	29	5772.jpg
 5772	stove	(103,112,154,123)	30	5772.jpg
@@ -55082,7 +55082,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5772	frying_pan	(101,92,82,104)	14	5772.jpg
 5772	chopstick	(155,61,40,59)	18	5772.jpg
 5772	saltshaker	(16,160,37,55)	26	5772.jpg
-5772	baked_egg	(109,130,66,59)	2	5772.jpg
+5772	mixed_egg	(109,130,66,59)	6	5772.jpg
 5772	person	(49,0,199,127)	1	5772.jpg
 5773	table	(0,112,101,142)	29	5773.jpg
 5773	stove	(103,112,154,123)	30	5773.jpg
@@ -55091,7 +55091,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5773	frying_pan	(101,92,82,104)	14	5773.jpg
 5773	chopstick	(156,61,39,63)	18	5773.jpg
 5773	saltshaker	(16,160,37,55)	26	5773.jpg
-5773	baked_egg	(109,130,66,59)	2	5773.jpg
+5773	mixed_egg	(109,130,66,59)	6	5773.jpg
 5773	person	(49,0,199,127)	1	5773.jpg
 5774	table	(0,112,101,142)	29	5774.jpg
 5774	stove	(103,112,154,123)	30	5774.jpg
@@ -55100,7 +55100,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5774	frying_pan	(101,92,82,104)	14	5774.jpg
 5774	chopstick	(156,59,41,59)	18	5774.jpg
 5774	saltshaker	(16,160,37,55)	26	5774.jpg
-5774	baked_egg	(109,130,66,59)	2	5774.jpg
+5774	mixed_egg	(109,130,66,59)	6	5774.jpg
 5774	person	(49,0,199,127)	1	5774.jpg
 5775	table	(0,112,101,142)	29	5775.jpg
 5775	stove	(103,112,154,123)	30	5775.jpg
@@ -55109,7 +55109,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5775	frying_pan	(101,92,82,104)	14	5775.jpg
 5775	chopstick	(153,58,42,61)	18	5775.jpg
 5775	saltshaker	(16,160,37,55)	26	5775.jpg
-5775	baked_egg	(109,130,66,59)	2	5775.jpg
+5775	mixed_egg	(109,130,66,59)	6	5775.jpg
 5775	person	(49,0,199,127)	1	5775.jpg
 5776	table	(0,112,101,142)	29	5776.jpg
 5776	stove	(103,112,154,123)	30	5776.jpg
@@ -55118,7 +55118,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5776	frying_pan	(101,92,82,104)	14	5776.jpg
 5776	chopstick	(151,58,41,57)	18	5776.jpg
 5776	saltshaker	(16,160,37,55)	26	5776.jpg
-5776	baked_egg	(109,130,66,59)	2	5776.jpg
+5776	mixed_egg	(109,130,66,59)	6	5776.jpg
 5776	person	(49,0,199,127)	1	5776.jpg
 5777	table	(0,112,101,142)	29	5777.jpg
 5777	stove	(103,112,154,123)	30	5777.jpg
@@ -55127,7 +55127,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5777	frying_pan	(101,92,82,104)	14	5777.jpg
 5777	chopstick	(148,57,43,53)	18	5777.jpg
 5777	saltshaker	(16,160,37,55)	26	5777.jpg
-5777	baked_egg	(109,130,66,59)	2	5777.jpg
+5777	mixed_egg	(109,130,66,59)	6	5777.jpg
 5777	person	(49,0,199,127)	1	5777.jpg
 5778	table	(0,112,101,142)	29	5778.jpg
 5778	stove	(103,112,154,123)	30	5778.jpg
@@ -55136,7 +55136,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5778	frying_pan	(101,92,82,104)	14	5778.jpg
 5778	chopstick	(147,58,43,48)	18	5778.jpg
 5778	saltshaker	(16,160,37,55)	26	5778.jpg
-5778	baked_egg	(109,130,66,59)	2	5778.jpg
+5778	mixed_egg	(109,130,66,59)	6	5778.jpg
 5778	person	(49,0,199,127)	1	5778.jpg
 5779	table	(0,112,101,142)	29	5779.jpg
 5779	stove	(103,112,154,123)	30	5779.jpg
@@ -55145,7 +55145,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5779	frying_pan	(101,92,82,104)	14	5779.jpg
 5779	chopstick	(146,60,42,47)	18	5779.jpg
 5779	saltshaker	(16,160,37,55)	26	5779.jpg
-5779	baked_egg	(109,130,66,59)	2	5779.jpg
+5779	mixed_egg	(109,130,66,59)	6	5779.jpg
 5779	person	(49,0,199,127)	1	5779.jpg
 5780	table	(0,112,101,142)	29	5780.jpg
 5780	stove	(103,112,154,123)	30	5780.jpg
@@ -55154,7 +55154,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5780	frying_pan	(101,92,82,104)	14	5780.jpg
 5780	chopstick	(148,61,37,46)	18	5780.jpg
 5780	saltshaker	(16,160,37,55)	26	5780.jpg
-5780	baked_egg	(109,130,66,59)	2	5780.jpg
+5780	mixed_egg	(109,130,66,59)	6	5780.jpg
 5780	person	(49,0,199,127)	1	5780.jpg
 5781	table	(0,112,101,142)	29	5781.jpg
 5781	stove	(103,112,154,123)	30	5781.jpg
@@ -55163,7 +55163,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5781	frying_pan	(101,92,82,104)	14	5781.jpg
 5781	chopstick	(149,62,36,46)	18	5781.jpg
 5781	saltshaker	(16,160,37,55)	26	5781.jpg
-5781	baked_egg	(109,130,66,59)	2	5781.jpg
+5781	mixed_egg	(109,130,66,59)	6	5781.jpg
 5781	person	(49,0,199,127)	1	5781.jpg
 5782	table	(0,112,101,142)	29	5782.jpg
 5782	stove	(103,112,154,123)	30	5782.jpg
@@ -55172,7 +55172,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5782	frying_pan	(101,92,82,104)	14	5782.jpg
 5782	chopstick	(150,64,37,46)	18	5782.jpg
 5782	saltshaker	(16,160,37,55)	26	5782.jpg
-5782	baked_egg	(109,130,66,59)	2	5782.jpg
+5782	mixed_egg	(109,130,66,59)	6	5782.jpg
 5782	person	(49,0,199,127)	1	5782.jpg
 5783	table	(0,112,101,142)	29	5783.jpg
 5783	stove	(103,112,154,123)	30	5783.jpg
@@ -55181,7 +55181,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5783	frying_pan	(101,92,82,104)	14	5783.jpg
 5783	chopstick	(152,65,37,46)	18	5783.jpg
 5783	saltshaker	(16,160,37,55)	26	5783.jpg
-5783	baked_egg	(109,130,66,59)	2	5783.jpg
+5783	mixed_egg	(109,130,66,59)	6	5783.jpg
 5783	person	(49,0,199,127)	1	5783.jpg
 5784	table	(0,112,101,142)	29	5784.jpg
 5784	stove	(103,112,154,123)	30	5784.jpg
@@ -55190,7 +55190,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5784	frying_pan	(101,92,82,104)	14	5784.jpg
 5784	chopstick	(153,66,38,47)	18	5784.jpg
 5784	saltshaker	(16,160,37,55)	26	5784.jpg
-5784	baked_egg	(109,130,66,59)	2	5784.jpg
+5784	mixed_egg	(109,130,66,59)	6	5784.jpg
 5784	person	(49,0,199,127)	1	5784.jpg
 5785	table	(0,112,101,142)	29	5785.jpg
 5785	stove	(103,112,154,123)	30	5785.jpg
@@ -55199,7 +55199,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5785	frying_pan	(101,92,82,104)	14	5785.jpg
 5785	chopstick	(155,67,39,54)	18	5785.jpg
 5785	saltshaker	(16,160,37,55)	26	5785.jpg
-5785	baked_egg	(109,130,66,59)	2	5785.jpg
+5785	mixed_egg	(109,130,66,59)	6	5785.jpg
 5785	person	(49,0,199,127)	1	5785.jpg
 5786	table	(0,112,101,142)	29	5786.jpg
 5786	stove	(103,112,154,123)	30	5786.jpg
@@ -55208,7 +55208,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5786	frying_pan	(101,92,82,104)	14	5786.jpg
 5786	chopstick	(155,67,39,60)	18	5786.jpg
 5786	saltshaker	(16,160,37,55)	26	5786.jpg
-5786	baked_egg	(109,130,66,59)	2	5786.jpg
+5786	mixed_egg	(109,130,66,59)	6	5786.jpg
 5786	person	(49,0,199,127)	1	5786.jpg
 5787	table	(0,112,101,142)	29	5787.jpg
 5787	stove	(103,112,154,123)	30	5787.jpg
@@ -55217,7 +55217,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5787	frying_pan	(101,92,82,104)	14	5787.jpg
 5787	chopstick	(155,67,41,59)	18	5787.jpg
 5787	saltshaker	(16,160,37,55)	26	5787.jpg
-5787	baked_egg	(109,130,66,59)	2	5787.jpg
+5787	mixed_egg	(109,130,66,59)	6	5787.jpg
 5787	person	(49,0,199,127)	1	5787.jpg
 5788	table	(0,112,101,142)	29	5788.jpg
 5788	stove	(103,112,154,123)	30	5788.jpg
@@ -55226,7 +55226,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5788	frying_pan	(101,92,82,104)	14	5788.jpg
 5788	chopstick	(154,66,42,60)	18	5788.jpg
 5788	saltshaker	(16,160,37,55)	26	5788.jpg
-5788	baked_egg	(109,130,66,59)	2	5788.jpg
+5788	mixed_egg	(109,130,66,59)	6	5788.jpg
 5788	person	(49,0,199,127)	1	5788.jpg
 5789	table	(0,112,101,142)	29	5789.jpg
 5789	stove	(103,112,154,123)	30	5789.jpg
@@ -55235,7 +55235,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5789	frying_pan	(101,92,82,104)	14	5789.jpg
 5789	chopstick	(152,66,44,55)	18	5789.jpg
 5789	saltshaker	(16,160,37,55)	26	5789.jpg
-5789	baked_egg	(109,130,66,59)	2	5789.jpg
+5789	mixed_egg	(109,130,66,59)	6	5789.jpg
 5789	person	(49,0,199,127)	1	5789.jpg
 5790	table	(0,112,101,142)	29	5790.jpg
 5790	stove	(103,112,154,123)	30	5790.jpg
@@ -55244,7 +55244,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5790	frying_pan	(101,92,82,104)	14	5790.jpg
 5790	chopstick	(150,65,45,54)	18	5790.jpg
 5790	saltshaker	(16,160,37,55)	26	5790.jpg
-5790	baked_egg	(109,130,66,59)	2	5790.jpg
+5790	mixed_egg	(109,130,66,59)	6	5790.jpg
 5790	person	(49,0,199,127)	1	5790.jpg
 5791	table	(0,112,101,142)	29	5791.jpg
 5791	stove	(103,112,154,123)	30	5791.jpg
@@ -55253,7 +55253,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5791	frying_pan	(101,92,82,104)	14	5791.jpg
 5791	chopstick	(148,64,45,52)	18	5791.jpg
 5791	saltshaker	(16,160,37,55)	26	5791.jpg
-5791	baked_egg	(109,130,66,59)	2	5791.jpg
+5791	mixed_egg	(109,130,66,59)	6	5791.jpg
 5791	person	(48,0,159,125)	1	5791.jpg
 5792	table	(0,112,101,142)	29	5792.jpg
 5792	stove	(103,112,154,123)	30	5792.jpg
@@ -55262,7 +55262,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5792	frying_pan	(101,92,82,104)	14	5792.jpg
 5792	chopstick	(147,63,45,51)	18	5792.jpg
 5792	saltshaker	(16,160,37,55)	26	5792.jpg
-5792	baked_egg	(109,130,66,59)	2	5792.jpg
+5792	mixed_egg	(109,130,66,59)	6	5792.jpg
 5792	person	(48,0,158,124)	1	5792.jpg
 5793	table	(0,112,101,142)	29	5793.jpg
 5793	stove	(103,112,154,123)	30	5793.jpg
@@ -55271,7 +55271,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5793	frying_pan	(101,92,82,104)	14	5793.jpg
 5793	chopstick	(148,62,41,52)	18	5793.jpg
 5793	saltshaker	(16,160,37,55)	26	5793.jpg
-5793	baked_egg	(109,130,66,59)	2	5793.jpg
+5793	mixed_egg	(109,130,66,59)	6	5793.jpg
 5793	person	(48,0,158,124)	1	5793.jpg
 5794	table	(0,112,101,142)	29	5794.jpg
 5794	stove	(103,112,154,123)	30	5794.jpg
@@ -55280,7 +55280,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5794	frying_pan	(101,92,82,104)	14	5794.jpg
 5794	chopstick	(150,63,41,52)	18	5794.jpg
 5794	saltshaker	(16,160,37,55)	26	5794.jpg
-5794	baked_egg	(109,130,66,59)	2	5794.jpg
+5794	mixed_egg	(109,130,66,59)	6	5794.jpg
 5794	person	(48,0,159,124)	1	5794.jpg
 5795	table	(0,112,101,142)	29	5795.jpg
 5795	stove	(103,112,154,123)	30	5795.jpg
@@ -55289,7 +55289,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5795	frying_pan	(101,92,82,104)	14	5795.jpg
 5795	chopstick	(157,64,36,62)	18	5795.jpg
 5795	saltshaker	(16,160,37,55)	26	5795.jpg
-5795	baked_egg	(109,130,66,59)	2	5795.jpg
+5795	mixed_egg	(109,130,66,59)	6	5795.jpg
 5795	person	(48,0,159,124)	1	5795.jpg
 5796	table	(0,112,101,142)	29	5796.jpg
 5796	stove	(103,112,154,123)	30	5796.jpg
@@ -55298,7 +55298,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5796	frying_pan	(101,92,82,104)	14	5796.jpg
 5796	chopstick	(155,62,41,81)	18	5796.jpg
 5796	saltshaker	(16,160,37,55)	26	5796.jpg
-5796	baked_egg	(109,130,66,59)	2	5796.jpg
+5796	mixed_egg	(109,130,66,59)	6	5796.jpg
 5796	person	(48,0,159,124)	1	5796.jpg
 5797	table	(0,112,101,142)	29	5797.jpg
 5797	stove	(103,112,154,123)	30	5797.jpg
@@ -55307,7 +55307,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5797	frying_pan	(101,92,82,104)	14	5797.jpg
 5797	chopstick	(154,61,44,80)	18	5797.jpg
 5797	saltshaker	(16,160,37,55)	26	5797.jpg
-5797	baked_egg	(109,130,66,59)	2	5797.jpg
+5797	mixed_egg	(109,130,66,59)	6	5797.jpg
 5797	person	(48,0,160,125)	1	5797.jpg
 5798	table	(0,112,101,142)	29	5798.jpg
 5798	stove	(103,112,154,123)	30	5798.jpg
@@ -55316,7 +55316,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5798	frying_pan	(101,92,82,104)	14	5798.jpg
 5798	chopstick	(152,59,46,80)	18	5798.jpg
 5798	saltshaker	(16,160,37,55)	26	5798.jpg
-5798	baked_egg	(109,130,66,59)	2	5798.jpg
+5798	mixed_egg	(109,130,66,59)	6	5798.jpg
 5798	person	(48,0,159,125)	1	5798.jpg
 5799	table	(0,112,101,142)	29	5799.jpg
 5799	stove	(103,112,154,123)	30	5799.jpg
@@ -55325,7 +55325,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5799	frying_pan	(101,92,82,104)	14	5799.jpg
 5799	chopstick	(152,58,46,73)	18	5799.jpg
 5799	saltshaker	(16,160,37,55)	26	5799.jpg
-5799	baked_egg	(109,130,66,59)	2	5799.jpg
+5799	mixed_egg	(109,130,66,59)	6	5799.jpg
 5799	person	(47,0,160,125)	1	5799.jpg
 5800	table	(0,112,101,142)	29	5800.jpg
 5800	stove	(103,112,154,123)	30	5800.jpg
@@ -55334,7 +55334,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5800	frying_pan	(101,92,82,104)	14	5800.jpg
 5800	chopstick	(152,58,43,68)	18	5800.jpg
 5800	saltshaker	(16,160,37,55)	26	5800.jpg
-5800	baked_egg	(109,130,66,59)	2	5800.jpg
+5800	mixed_egg	(109,130,66,59)	6	5800.jpg
 5800	person	(48,0,158,123)	1	5800.jpg
 5801	table	(0,112,101,142)	29	5801.jpg
 5801	stove	(103,112,154,123)	30	5801.jpg
@@ -55343,7 +55343,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5801	frying_pan	(101,92,82,104)	14	5801.jpg
 5801	chopstick	(149,57,47,60)	18	5801.jpg
 5801	saltshaker	(16,160,37,55)	26	5801.jpg
-5801	baked_egg	(109,130,66,59)	2	5801.jpg
+5801	mixed_egg	(109,130,66,59)	6	5801.jpg
 5801	person	(48,0,157,123)	1	5801.jpg
 5802	table	(0,112,101,142)	29	5802.jpg
 5802	stove	(103,112,154,123)	30	5802.jpg
@@ -55352,7 +55352,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5802	frying_pan	(101,92,82,104)	14	5802.jpg
 5802	chopstick	(147,58,46,56)	18	5802.jpg
 5802	saltshaker	(16,160,37,55)	26	5802.jpg
-5802	baked_egg	(109,130,66,59)	2	5802.jpg
+5802	mixed_egg	(109,130,66,59)	6	5802.jpg
 5802	person	(47,0,158,124)	1	5802.jpg
 5803	table	(0,112,101,142)	29	5803.jpg
 5803	stove	(103,112,154,123)	30	5803.jpg
@@ -55361,7 +55361,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5803	frying_pan	(101,92,82,104)	14	5803.jpg
 5803	chopstick	(145,58,46,56)	18	5803.jpg
 5803	saltshaker	(16,160,37,55)	26	5803.jpg
-5803	baked_egg	(109,130,66,59)	2	5803.jpg
+5803	mixed_egg	(109,130,66,59)	6	5803.jpg
 5803	person	(48,0,156,121)	1	5803.jpg
 5804	table	(0,112,101,142)	29	5804.jpg
 5804	stove	(103,112,154,123)	30	5804.jpg
@@ -55370,7 +55370,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5804	frying_pan	(101,92,82,104)	14	5804.jpg
 5804	chopstick	(147,57,44,53)	18	5804.jpg
 5804	saltshaker	(16,160,37,55)	26	5804.jpg
-5804	baked_egg	(109,130,66,59)	2	5804.jpg
+5804	mixed_egg	(109,130,66,59)	6	5804.jpg
 5804	person	(48,0,156,121)	1	5804.jpg
 5805	table	(0,112,101,142)	29	5805.jpg
 5805	stove	(103,112,154,123)	30	5805.jpg
@@ -55379,7 +55379,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5805	frying_pan	(101,92,82,104)	14	5805.jpg
 5805	chopstick	(147,58,45,50)	18	5805.jpg
 5805	saltshaker	(16,160,37,55)	26	5805.jpg
-5805	baked_egg	(109,130,66,59)	2	5805.jpg
+5805	mixed_egg	(109,130,66,59)	6	5805.jpg
 5805	person	(49,0,156,121)	1	5805.jpg
 5806	table	(0,112,101,142)	29	5806.jpg
 5806	stove	(103,112,154,123)	30	5806.jpg
@@ -55388,7 +55388,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5806	frying_pan	(101,92,82,104)	14	5806.jpg
 5806	chopstick	(150,59,42,53)	18	5806.jpg
 5806	saltshaker	(16,160,37,55)	26	5806.jpg
-5806	baked_egg	(109,130,66,59)	2	5806.jpg
+5806	mixed_egg	(109,130,66,59)	6	5806.jpg
 5806	person	(49,0,157,122)	1	5806.jpg
 5807	table	(0,112,101,142)	29	5807.jpg
 5807	stove	(103,112,154,123)	30	5807.jpg
@@ -55397,7 +55397,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5807	frying_pan	(101,92,82,104)	14	5807.jpg
 5807	chopstick	(147,60,48,82)	18	5807.jpg
 5807	saltshaker	(16,160,37,55)	26	5807.jpg
-5807	baked_egg	(109,130,66,59)	2	5807.jpg
+5807	mixed_egg	(109,130,66,59)	6	5807.jpg
 5807	person	(50,0,156,122)	1	5807.jpg
 5808	table	(0,112,101,142)	29	5808.jpg
 5808	stove	(103,112,154,123)	30	5808.jpg
@@ -55406,7 +55406,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5808	frying_pan	(101,92,82,104)	14	5808.jpg
 5808	chopstick	(151,60,47,84)	18	5808.jpg
 5808	saltshaker	(16,160,37,55)	26	5808.jpg
-5808	baked_egg	(109,130,66,59)	2	5808.jpg
+5808	mixed_egg	(109,130,66,59)	6	5808.jpg
 5808	person	(55,0,154,121)	1	5808.jpg
 5809	table	(0,112,101,142)	29	5809.jpg
 5809	stove	(103,112,154,123)	30	5809.jpg
@@ -55415,7 +55415,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5809	frying_pan	(101,92,82,104)	14	5809.jpg
 5809	chopstick	(150,60,50,84)	18	5809.jpg
 5809	saltshaker	(16,160,37,55)	26	5809.jpg
-5809	baked_egg	(109,130,66,59)	2	5809.jpg
+5809	mixed_egg	(109,130,66,59)	6	5809.jpg
 5809	person	(51,0,156,122)	1	5809.jpg
 5810	table	(0,112,101,142)	29	5810.jpg
 5810	stove	(103,112,154,123)	30	5810.jpg
@@ -55424,7 +55424,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5810	frying_pan	(101,92,82,104)	14	5810.jpg
 5810	chopstick	(147,60,51,83)	18	5810.jpg
 5810	saltshaker	(16,160,37,55)	26	5810.jpg
-5810	baked_egg	(109,130,66,59)	2	5810.jpg
+5810	mixed_egg	(109,130,66,59)	6	5810.jpg
 5810	person	(50,0,159,124)	1	5810.jpg
 5811	table	(0,112,101,142)	29	5811.jpg
 5811	stove	(103,112,154,123)	30	5811.jpg
@@ -55433,7 +55433,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5811	frying_pan	(101,92,82,104)	14	5811.jpg
 5811	chopstick	(154,59,43,61)	18	5811.jpg
 5811	saltshaker	(16,160,37,55)	26	5811.jpg
-5811	baked_egg	(109,130,66,59)	2	5811.jpg
+5811	mixed_egg	(109,130,66,59)	6	5811.jpg
 5811	person	(55,0,156,121)	1	5811.jpg
 5812	table	(0,112,101,142)	29	5812.jpg
 5812	stove	(103,112,154,123)	30	5812.jpg
@@ -55442,7 +55442,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5812	frying_pan	(101,92,82,104)	14	5812.jpg
 5812	chopstick	(153,58,46,54)	18	5812.jpg
 5812	saltshaker	(16,160,37,55)	26	5812.jpg
-5812	baked_egg	(109,130,66,59)	2	5812.jpg
+5812	mixed_egg	(109,130,66,59)	6	5812.jpg
 5812	person	(48,0,153,114)	1	5812.jpg
 5813	table	(0,112,101,142)	29	5813.jpg
 5813	stove	(103,112,154,123)	30	5813.jpg
@@ -55451,7 +55451,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5813	frying_pan	(101,92,82,104)	14	5813.jpg
 5813	chopstick	(151,58,47,54)	18	5813.jpg
 5813	saltshaker	(16,160,37,55)	26	5813.jpg
-5813	baked_egg	(109,130,66,59)	2	5813.jpg
+5813	mixed_egg	(109,130,66,59)	6	5813.jpg
 5813	person	(49,0,153,120)	1	5813.jpg
 5814	table	(0,112,101,142)	29	5814.jpg
 5814	stove	(103,112,154,123)	30	5814.jpg
@@ -55460,7 +55460,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5814	frying_pan	(101,92,82,104)	14	5814.jpg
 5814	chopstick	(153,58,42,54)	18	5814.jpg
 5814	saltshaker	(16,160,37,55)	26	5814.jpg
-5814	baked_egg	(109,130,66,59)	2	5814.jpg
+5814	mixed_egg	(109,130,66,59)	6	5814.jpg
 5814	person	(50,0,154,120)	1	5814.jpg
 5815	table	(0,112,101,142)	29	5815.jpg
 5815	stove	(103,112,154,123)	30	5815.jpg
@@ -55469,7 +55469,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5815	frying_pan	(101,92,82,104)	14	5815.jpg
 5815	chopstick	(156,58,41,52)	18	5815.jpg
 5815	saltshaker	(16,160,37,55)	26	5815.jpg
-5815	baked_egg	(109,130,66,59)	2	5815.jpg
+5815	mixed_egg	(109,130,66,59)	6	5815.jpg
 5815	person	(50,0,155,121)	1	5815.jpg
 5816	table	(0,112,101,142)	29	5816.jpg
 5816	stove	(103,112,154,123)	30	5816.jpg
@@ -55478,7 +55478,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5816	frying_pan	(101,92,82,104)	14	5816.jpg
 5816	chopstick	(150,57,50,80)	18	5816.jpg
 5816	saltshaker	(16,160,37,55)	26	5816.jpg
-5816	baked_egg	(109,130,66,59)	2	5816.jpg
+5816	mixed_egg	(109,130,66,59)	6	5816.jpg
 5816	person	(52,0,156,122)	1	5816.jpg
 5817	table	(0,112,101,142)	29	5817.jpg
 5817	stove	(103,112,154,123)	30	5817.jpg
@@ -55487,7 +55487,7 @@ Frame:	Label:	Points:	Bounding Box ID:	Frame path: data1/scrambled-egg/
 5817	frying_pan	(101,92,82,104)	14	5817.jpg
 5817	chopstick	(146,57,52,82)	18	5817.jpg
 5817	saltshaker	(16,160,37,55)	26	5817.jpg
-5817	baked_egg	(109,130,66,59)	2	5817.jpg
+5817	mixed_egg	(109,130,66,59)	6	5817.jpg
 5817	person	(52,0,156,122)	1	5817.jpg
 5818	table	(0,112,101,142)	29	5818.jpg
 5818	stove	(103,112,154,123)	30	5818.jpg
