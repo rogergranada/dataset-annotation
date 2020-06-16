@@ -12,12 +12,15 @@ i.e., the same number of frames.
 import sys
 import os
 import argparse
-from os.path import join, dirname
 import logging
 logger = logging.getLogger(__name__)
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 #from sklearn.metrics import cohen_kappa_score
 from scipy.spatial.distance import cosine, euclidean
+from collections import defaultdict
+from matplotlib import pyplot as plt
+from os.path import join, dirname, basename
+import numpy as np
 
 import filehandler as fh
 import progressbar as pbar
@@ -69,7 +72,9 @@ def align_lists(list1, list2):
 
 
 def stats_of_agreement(lis_1, lis_2):
-    """ Show some stats about the agreement """
+    """ Show some stats about the Cohen Kappa agreement 
+        It considers the intersection of objects between 
+        annotators."""
     annotator1 = []
     annotator2 = []
     both_annotators = []
@@ -172,36 +177,6 @@ def multiple_pairs(objs1, objs2, first_ref=True):
         pairs.append(pair)
     return pairs
 
-"""
-def align_objects(objs1, objs2):
-    size1 = len(objs1)
-    size2 = len(objs2)
-    if size1 > 1:
-        if size2 > 1:
-            if size2 >= size1:
-                print 'multiple 1:', objs1, objs2, '::',
-                pairs = multiple_pairs(objs1, objs2, first_ref=True)
-                print pairs
-            else:
-                print 'multiple 2:', objs2, objs1, '::',
-                pairs = multiple_pairs(objs2, objs1, first_ref=False)
-                print pairs
-        else:
-            print 'single 1:', objs2, objs1, '::',
-            pairs = [single_pair(objs2[0], objs1, first_ref=False)]
-            print pairs
-    else:
-        if size2 > 1:
-            print 'single 2:', objs1, objs2, '::',
-            pairs = [single_pair(objs1[0], objs2, first_ref=True)]
-            print pairs
-        else:
-            print '1 to 1:', objs1, objs2, '::',
-            pairs = [(objs1[0], objs2[0])]
-            print pairs
-    print 
-    return pairs
-"""
 
 def align_objects(objects_1, objects_2):
     """ From a list containing bounding boxes, join the boxes that 
@@ -241,15 +216,13 @@ def align_objects(objects_1, objects_2):
         dobjs[i] = pairs
     return dobjs
 
-    
-
 
 def agreement_iou(lis_1, lis_2):
-    """ Agreement of bounding boxes considering threshold=0.5 """
-    accumulated_iou = 0.0
-    nb_objects = 0
+    """ Generate the IoU score for each pair of bounding box.
+
+        Output: list containing (id_frame, id_object, iou)
+    """
     list_iou = []
-    
     with fh.LisFile(lis_1) as flis1, \
          fh.LisFile(lis_2) as flis2:
         if flis1.nb_frames() != flis2.nb_frames():
@@ -261,25 +234,103 @@ def agreement_iou(lis_1, lis_2):
                        flis2.objects_in_frame(ids=True, pos=True)):
                 idfr, objs1 = frame_objs1
                 idfr, objs2 = frame_objs2
+                # get correspondence between bounding boxes
                 dpairs = align_objects(objs1, objs2)
                 for idobj in dpairs:
                     for bbox1, bbox2 in dpairs[idobj]:
                         bbox1 = (bbox1[0], bbox1[1], bbox1[0]+bbox1[2], bbox1[1]+bbox1[3])
                         bbox2 = (bbox2[0], bbox2[1], bbox2[0]+bbox2[2], bbox2[1]+bbox2[3])
                         iou = intersection_over_union(bbox1, bbox2)
-                        accumulated_iou += iou
-                        nb_objects += 1
-                        list_iou.append(round(iou, 2))
-                        #print idobj, iou, bbox1, bbox2
-                #break 
+                        # (id_frame, id_object, iou)
+                        list_iou.append((idfr, idobj, round(iou, 2)))
                 pb.update()
-    print accumulated_iou
-    print nb_objects
-    print accumulated_iou / float(nb_objects)
-    with open(join(dirname(lis_1), 'iou.txt'), 'w') as fout:
-        for value in list_iou:
-            fout.write('{}\n'.format(value))
+    return list_iou
+
+
+def stats_iou(lis_1, lis_2, output=None, classes='classes.cfg'):
+    """ Check statistics for IoU objects. """
+    if not output:
+        output = dirname(lis_1)
+
+    dclasses = fh.ConfigFile(classes).load_classes()
+
+    accumulated_iou = 0.0
+    nb_objects = 0
+    dic_obj = defaultdict(list)
+    all_iou = []
+
+    # create dictionary with iou for each object
+    list_iou = agreement_iou(lis_1, lis_2)
+    for _, idobj, iou in list_iou:
+        dic_obj[idobj].append(iou)
+        accumulated_iou += iou
+        all_iou.append(iou)
+        nb_objects += 1
+
+    # convert to numpy arrays
+    for idobj in dic_obj:
+        dic_obj[idobj] = np.array(dic_obj[idobj])
+    all_iou = np.array(all_iou)
     
+    # plot distribution for all iou
+    plt.hist(all_iou, bins=100)
+    plt.axis(xmin=0, xmax=1.0)
+    plt.title('Distribution of IoU for all objects')
+    plt.xlabel('IoU scores')
+    plt.ylabel('Number of instances')
+    plt.savefig(join(output, 'iou_all.svg'))
+    plt.clf()
+
+    # plot distribution for each object
+    for idobj in dic_obj:
+        iou_obj = dic_obj[idobj]
+        plt.hist(iou_obj, bins=100)
+        plt.axis(xmin=0, xmax=1.0)
+        plt.title('Distribution of IoU for {}'.format(dclasses[idobj]))
+        plt.xlabel('IoU scores')
+        plt.ylabel('Number of instances')
+        plt.savefig(join(output, 'iou_'+dclasses[idobj]+'.svg'))
+        plt.clf()
+
+    # save stats of IoU in a file
+    with open(join(output,'stats_iou.txt'), 'w') as fout:
+        fout.write('Statistics for intersection over union - IoU\n')
+        fout.write('============================================\n')
+        fout.write('Input file 1: {}\n'.format(basename(lis_1)))
+        fout.write('Input file 2: {}\n\n'.format(basename(lis_2)))
+
+        fout.write('Statistics for Objects\n')
+        fout.write('----------------------\n')
+        fout.write('Total number of object: {}\n'.format(len(all_iou)))
+        for idobj in dic_obj:
+            fout.write('Object {}: {}\n'.format(dclasses[idobj], len(dic_obj[idobj])))
+        fout.write('\n')
+        
+        fout.write('General Intersection over Union (IoU)\n')
+        fout.write('-------------------------------------\n')
+        fout.write('Mean Iou: {}\n'.format(np.mean(all_iou)))
+        fout.write('Std Iou: {}\n'.format(np.std(all_iou)))
+        fout.write('\n')
+        
+        agree_05 = all_iou[all_iou>=0.5]
+        agree_07 = all_iou[all_iou>=0.7]
+        fout.write('Correct bboxes IoU>=0.5: {}\n'.format(len(agree_05)))
+        fout.write('Ratio correct bboxes IoU>=0.5: {}\n'.format(len(agree_05)/float(len(all_iou))))
+        fout.write('Correct bboxes IoU>=0.7: {}\n'.format(len(agree_07)))
+        fout.write('Ratio correct bboxes IoU>=0.7: {}\n\n'.format(len(agree_07)/float(len(all_iou))))
+
+        fout.write('Intersection over Union (IoU) for objects\n')
+        fout.write('-----------------------------------------\n')
+        for idobj in dic_obj:
+            obj_iou = dic_obj[idobj]
+            agree_05 = obj_iou[obj_iou>=0.5]
+            agree_07 = obj_iou[obj_iou>=0.7]
+            fout.write('Object {}:\n'.format(dclasses[idobj]))
+            fout.write('- Correct bboxes IoU>=0.5: {}\n'.format(len(agree_05)))
+            fout.write('- Ratio correct bboxes IoU>=0.5: {}\n'.format(len(agree_05)/float(len(obj_iou))))
+            fout.write('- Correct bboxes IoU>=0.7: {}\n'.format(len(agree_07)))
+            fout.write('- Ratio correct bboxes IoU>=0.7: {}\n'.format(len(agree_07)/float(len(obj_iou))))
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -292,4 +343,4 @@ if __name__ == '__main__':
     
     #cohens_kappa(args.annotator_1, args.annotator_2)
     #stats_of_agreement(args.annotator_1, args.annotator_2)
-    agreement_iou(args.annotator_1, args.annotator_2)
+    stats_iou(args.annotator_1, args.annotator_2)
