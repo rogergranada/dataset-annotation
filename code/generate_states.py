@@ -71,7 +71,8 @@ class StateRepresentation(object):
         logger.info('Saving state representation at: {}'.format(fname))
         with open(fname, 'w') as fout:
             for idx in self.idx2rel:
-                fout.write('{} {}\n'.format(idx, self.idx2rel[idx]))
+                s, r, o = self.idx2rel[idx]
+                fout.write('{} {} {} {}\n'.format(idx, s, r, o))
 # End of StateRepresentation
 
 class State(object):
@@ -296,6 +297,52 @@ def domains_folder(folder_input, output):
     generate_pddl(srep, dprec, fpddl)
     srep.save(fdic)
     
+import configparser
+from ast import literal_eval
+def init_goal(fsrep, output, fconfig='pddl.ini', domain='autokitchen'):
+    if not output:
+        dirout = dirname(fsrep)
+        foutput = join(dirout, 'init.pddl')
+
+    config = configparser.ConfigParser()
+    config.read(fconfig)
+    initial_state = list(literal_eval(config.get('INIT_STATE', 'init')))
+    d = {}
+    for i in initial_state:
+        d[tuple(i)] = ''
+    #print d
+
+    srep = {}
+    with open(fsrep) as fin:
+        for line in fin:
+            arr = line.strip().split()
+            idx = int(arr[0])
+            rels = (arr[1], arr[2], arr[3])
+            srep[idx] = rels
+
+    print srep
+    content = '(define (problem pb1)\n'
+    content += '  (:domain {})\n\n'.format(domain)
+    content += '  (:init\n'
+    for idx in srep:
+        triplet = srep[idx]
+        if triplet in d:
+            content += '    (p{})\n'.format(idx)
+        else:
+            content += '    (not (p{}))\n'.format(idx)
+    content += '  )\n\n'
+    content += '  (:goal\n'
+    content += '    (and\n'
+    content += '      <HYPOTHESIS>\n'
+    content += '    )\n'
+    content += '  )\n)'
+    #print(srep)
+
+    with open(foutput, 'w') as fout:
+        fout.write(content)
+
+
+
 
 
 if __name__ == '__main__':
@@ -305,7 +352,9 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     if isfile(args.input):
-        domains_folder(args.input, args.output)
+        pass
+        #domains_folder(args.input, args.output)
     elif isdir(args.input):
-        domains_folder(args.input, args.output)
-    
+        pass
+        #domains_folder(args.input, args.output)
+    init_goal(args.input, args.output)
