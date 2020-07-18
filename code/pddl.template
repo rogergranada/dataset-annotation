@@ -1,0 +1,9 @@
+(define (domain $domain)
+(:requirements $requirements)
+
+(:predicates
+$predicates
+)
+
+$actions
+)
