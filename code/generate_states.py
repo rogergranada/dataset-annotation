@@ -2,7 +2,7 @@
 # coding: utf-8
 """
 This script reads a folder containing Decompressed files and generate a PDDL containing
-the domain extracted from each file.
+the domain extracted from each file. It generates data-driven PDDLs.
 
 """
 import sys
@@ -17,25 +17,15 @@ import numpy as np
 import filehandler as fh
 
 
-
-def XOR(state0, state1):
-    """ last_state = state0, current_state = state1 """
-    state0 = set(state0)
-    state1 = set(state1)
-    common = state0.intersection(state1)
-    effdel = state0 - state1
-    effadd = state1 - state0
-    return effadd, effdel
-
-#-----------------------------------------------------------------
-
-
 class StateRepresentation(object):
-    def __init__(self, folder_input):
+    def __init__(self, input=None):
         self.rel2idx = {} # [(triplet)] = i
         self.idx2rel = {} # [i] = (triplet)
-        self.relations = self._extract_relations(folder_input)
-        self._build_dictionary()
+        if input and isdir(input):
+            self.relations = self._extract_relations(input)
+            self._build_dictionary()
+        elif input and isfile(input):
+            self.load(input)
 
     def __iter__(self):
         for idx in sorted(self.idx2rel):
@@ -53,11 +43,12 @@ class StateRepresentation(object):
         return relations
 
     def _build_dictionary(self):
-        for i, arr in enumerate(sorted(self.relations)):
+        for i, arr in enumerate(sorted(set(self.relations))):
             self.rel2idx[arr] = i
             self.idx2rel[i] = arr
 
     def relations_to_vector(self, relations):
+        """ Relations [] """
         vector = [0]*len(self.idx2rel)
         for idx, triplet in self:
             if triplet in relations:
@@ -73,6 +64,16 @@ class StateRepresentation(object):
             for idx in self.idx2rel:
                 s, r, o = self.idx2rel[idx]
                 fout.write('{} {} {} {}\n'.format(idx, s, r, o))
+
+    #@classmethod
+    def load(self, fname):
+        logger.info('Loading state representation from: {}'.format(fname))
+        with open(fname) as fin:
+            for line in fin:
+                idx, s, r, o = line.strip().split()
+                idx = int(idx)
+                self.idx2rel[idx] = (s, r, o)
+                self.rel2idx[(s, r, o)] = idx
 # End of StateRepresentation
 
 class State(object):
@@ -94,6 +95,8 @@ class State(object):
         return 'STATE: {}'.format(self.state)
 
     def __eq__(self, other):
+        if isinstance(other, list):
+            return self.state == other 
         return self.state == other.state
 
     def __ne__(self, other):
@@ -183,6 +186,21 @@ class State(object):
             elif val == 1:
                 desc += '    (p{})\n'.format(idx)
         return desc[:-1]
+
+    def to_observation(self):
+        """ Convert from vector representation to PDDL observation
+            Use the following conversion configuration:
+
+            0 : negative description (not(p<id>))
+            1 : positive description (p<id>)
+        """
+        desc = ''
+        for idx, val in enumerate(self):
+            if val == 0:
+                desc += '(not (p{})),'.format(idx)
+            elif val == 1:
+                desc += '(p{}),'.format(idx)
+        return desc[:-1]
             
 # End State class
 
@@ -222,10 +240,10 @@ def XNORp(dprec, srep, convert_null=True):
         dprec[eff] = State(srep, prec[:], as_state=True)
 
 
-
 REQUIREMENTS = [':strips', ':negative-preconditions']
 
 def generate_actions(dprec):
+    """ Generate the set of action """
     # dprec[effect] = precondition
     actions = {}    
     for idact, effect in enumerate(dprec):
@@ -238,8 +256,9 @@ def generate_actions(dprec):
     return actions
         
             
-def generate_pddl(srep, dprec, foutput):
-    fpddl = fh.AutoPDDLFile('autokitchen')
+def generate_pddl(srep, dprec, foutput, domain='kitchen'):
+    """ Generate the PDDL file """
+    fpddl = fh.AutoPDDLFile(domain)
     [fpddl.add_requirements(req) for req in REQUIREMENTS]
     [fpddl.add_predicates(idpred) for idpred, _ in srep]
     actions = generate_actions(dprec)
@@ -247,86 +266,37 @@ def generate_pddl(srep, dprec, foutput):
     fpddl.save_file(foutput)
         
 
-ST0 = [0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1]
-ST1 = [0,0,0,0,1,1,1,1,0,0,0,0,1,1,1,1]
-ST2 = [0,0,1,1,0,0,1,1,0,0,1,1,0,0,1,1]
-ST3 = [0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1]
-
-def preconditions_effects(file_input, srep, dprec):
+def preconditions_effects(file_input, srep, dprec, dinit):
+    """ Generate the preconditions and effects of each action """
     last_state = []
     current_state = []
     logger.info('Processing file: {}'.format(file_input))
-    nb, allf = 0, 0
 
+    last_state = State(srep, dinit)
     with fh.DecompressedFile(file_input) as cf:
         for idfr, relations in cf.iterate_frames():
             #print idfr,  State(srep, relations).state
-            if idfr == 0:
-                last_state = State(srep, relations)
-            else:
-                current_state = State(srep, relations)
-                if current_state != last_state:
-                    effect = last_state.XORe(current_state)
-                    if effect in dprec:
-                        dprec[effect].append(last_state)
-                    else:
-                        dprec[effect] = [last_state]
-                    nb += 1
-                last_state = current_state
+            current_state = State(srep, relations)
+            if current_state != last_state:
+                effect = last_state.XORe(current_state)
+                if effect in dprec:
+                    dprec[effect].append(last_state)
+                else:
+                    dprec[effect] = [last_state]
+            last_state = current_state
     return dprec
 
-def domains_folder(folder_input, output):
-    if not output:
-        output = folder_input
-        output = join(folder_input, 'auto_pddls.tmp')
-        output = fh.mkdir_from_file(output)
-        fdic = join(output, 'dictionary.dat')
-        fpddl = join(output, 'auto_domain.pddl')
 
-    dprec = {}
-    srep = StateRepresentation(folder_input)
-    logger.info('Dictionary contaning {} relations.'.format(len(srep)))
-    relfiles = fh.FolderHandler(folder_input)
-    for file_input in relfiles:
-        fname, _ = fh.filename(file_input)
-        file_output = join(output, fname+'.pddl')
-        # get all preconditions and effects before applying XNORp
-        preconditions_effects(file_input, srep, dprec)
-    XNORp(dprec, srep)
-    v= [(v.state, dprec[v].state) for v in dprec]
-    generate_pddl(srep, dprec, fpddl)
-    srep.save(fdic)
-    
-import configparser
-from ast import literal_eval
-def init_goal(fsrep, output, fconfig='pddl.ini', domain='autokitchen'):
+def generate_template_file(srep, output, dinit, domain='autokitchen'):
     if not output:
         dirout = dirname(fsrep)
-        foutput = join(dirout, 'init.pddl')
+        output = join(dirout, 'template.pddl')
 
-    config = configparser.ConfigParser()
-    config.read(fconfig)
-    initial_state = list(literal_eval(config.get('INIT_STATE', 'init')))
-    d = {}
-    for i in initial_state:
-        d[tuple(i)] = ''
-    #print d
-
-    srep = {}
-    with open(fsrep) as fin:
-        for line in fin:
-            arr = line.strip().split()
-            idx = int(arr[0])
-            rels = (arr[1], arr[2], arr[3])
-            srep[idx] = rels
-
-    print srep
     content = '(define (problem pb1)\n'
     content += '  (:domain {})\n\n'.format(domain)
     content += '  (:init\n'
-    for idx in srep:
-        triplet = srep[idx]
-        if triplet in d:
+    for idx, triplet in srep:
+        if triplet in dinit:
             content += '    (p{})\n'.format(idx)
         else:
             content += '    (not (p{}))\n'.format(idx)
@@ -336,25 +306,50 @@ def init_goal(fsrep, output, fconfig='pddl.ini', domain='autokitchen'):
     content += '      <HYPOTHESIS>\n'
     content += '    )\n'
     content += '  )\n)'
-    #print(srep)
-
-    with open(foutput, 'w') as fout:
+    
+    logger.info('Saving file at: {}'.format(output))
+    with open(output, 'w') as fout:
         fout.write(content)
+    
 
+def domains_folder(folder_input, output, domain):
+    if not output:
+        output = folder_input
+        output = join(folder_input, 'auto_pddls.tmp')
+        output = fh.mkdir_from_file(output)
+        fdic = join(output, 'dictionary.dat')
+        fpddl = join(output, 'auto_domain.pddl')
+        ftmpt = join(output, 'template.pddl')
 
+    # pddl.ini
+    config = fh.PDDLInit()
+    dinit = config.dic_initial_states()
 
+    dprec = {}
+    srep = StateRepresentation(folder_input)
+    logger.info('Dictionary contaning {} relations.'.format(len(srep)))
+    relfiles = fh.FolderHandler(folder_input)
+    for file_input in relfiles:
+        fname, _ = fh.filename(file_input)
+        file_output = join(output, fname+'.pddl')
+        # get all preconditions and effects before applying XNORp
+        preconditions_effects(file_input, srep, dprec, dinit)
+
+    XNORp(dprec, srep)
+    generate_pddl(srep, dprec, fpddl, domain)
+    srep.save(fdic)
+    generate_template_file(srep, ftmpt, dinit, domain=domain)
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('input', metavar='input_folder', help='Plain text file')
     parser.add_argument('-o', '--output', help='Plain text file', default=None)
+    parser.add_argument('-d', '--domain', help='Domain name', default='kitchen')
     args = parser.parse_args()
 
     if isfile(args.input):
-        pass
-        #domains_folder(args.input, args.output)
+        domains_folder(args.input, args.output, args.domain)
     elif isdir(args.input):
-        pass
-        #domains_folder(args.input, args.output)
-    init_goal(args.input, args.output)
+        domains_folder(args.input, args.output, args.domain)
+    
