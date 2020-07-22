@@ -7,9 +7,47 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 import os
 import sys
 import ast
-import lxml.etree as ET
+#import lxml.etree as ET
 
-from os.path import exists, join, splitext, dirname, basename
+from os.path import exists, join, splitext, dirname, basename, realpath
+
+def is_file(inputfile):
+    """ Check whether the ``inputfile`` corresponds to a file """
+    inputfile = realpath(inputfile)
+    if not isfile(inputfile):
+        logger.error('Input is not a file!')
+        sys.exit(0)
+    return inputfile
+
+
+def is_folder(inputfolder):
+    """ Check whether the ``inputfolder`` corresponds to a folder """
+    inputfolder = realpath(inputfolder)
+    if not isdir(inputfolder):
+        logger.error('Argument %s is not a folder!' % inputfolder)
+        sys.exit(0)
+    return inputfolder
+
+
+def filename(path, extension=True, string=False):
+    fname, ext = splitext(basename(path))
+    if string:
+        return '%s%s' % (fname, ext)
+    if extension:
+        return fname, ext
+    return fname
+
+def mkdir_from_file(path):
+    """ Create a folder with the same name of the file (without extension)"""
+    path = realpath(path)
+    dirfile = dirname(path)
+    fname, ext = filename(path)
+    dirout = join(dirfile, fname)
+    if exists(dirout):
+        logger.warning('Folder %s already exists!' % dirout)
+    else:
+        os.makedirs(dirout)
+    return dirout
 
 
 class FolderHandler(object):
@@ -72,6 +110,10 @@ class FileHandler(object):
 
     def __exit__(self, *args):
         self.fin.close()
+
+    @property
+    def filename(self):
+        return basename(self.inputfile)
 
     def exist_file(self):
         if not exists(self.inputfile):
@@ -320,6 +362,24 @@ class DecompressedFile(FileHandler):
         if len(arr) == 4:
             return frame, arr[1], arr[2], arr[3]
         return frame, arr[1], arr[2], arr[3], arr[4]
+
+
+    def iterate_frames(self):
+        triplets = []
+        self.__enter__()
+        last_id =0
+        for self.nb_line, line in enumerate(self.fin):
+            if not line or not line[0].isdigit(): continue
+            arr = self.check_line(self.nb_lines, line)
+            idf, sub, rel, obj = arr[0], arr[1], arr[2], arr[3]
+            if idf != last_id:
+                yield idf-1, triplets
+                triplets = []
+                triplets.append((sub, rel, obj))
+            else:
+                triplets.append((sub, rel, obj))
+            last_id = idf
+        yield idf, triplets
 
     def list_relations(self, as_set=True):
         rels = []
