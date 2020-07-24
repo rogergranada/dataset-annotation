@@ -21,7 +21,7 @@ import random
 
 import filehandler as fh
 
-SPLITS = [10, 20, 30, 50, 70]
+SPLITS = [10, 30, 50, 70]
 
 def save_file(fileoutput, sampling, idx2rels):
     """ Save the selected sampling frames in the output file. 
