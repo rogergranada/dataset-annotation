@@ -15,7 +15,7 @@ import argparse
 import logging
 logger = logging.getLogger(__name__)
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
-#from sklearn.metrics import cohen_kappa_score
+from sklearn.metrics import cohen_kappa_score
 from scipy.spatial.distance import cosine, euclidean
 from collections import defaultdict
 from matplotlib import pyplot as plt
@@ -332,6 +332,37 @@ def stats_iou(lis_1, lis_2, output=None, classes='classes.cfg'):
             fout.write('- Ratio correct bboxes IoU>=0.7: {}\n'.format(len(agree_07)/float(len(obj_iou))))
 
 
+def convert_list(dic, vec):
+    for i in range(len(vec)):
+        triplet = vec[i]
+        if triplet in dic:
+            vec[i] = dic[triplet]
+        else:
+            dic[triplet] = str(len(dic))
+            vec[i] = dic[triplet]
+
+def cohen_kappa_relations(fanno_1, fanno_2):
+    dic = {}
+    annotator1 = []
+    annotator2 = []
+    fd1 = fh.DecompressedFile(fanno_1)
+    fd2 = fh.DecompressedFile(fanno_2)
+    for arr1, arr2 in zip(fd1.iterate_frames(), fd2.iterate_frames()):
+        idf1, vec1 = arr1
+        idf2, vec2 = arr2
+        convert_list(dic, vec1)
+        convert_list(dic, vec2)
+        if idf1 != idf2: 
+            logger.error('Files do not contain the same sequence of frames: {}/{}'.format(idf1, idf2))
+            sys.exit()
+        v1, v2 = align_lists(vec1, vec2)
+        annotator1.extend(v1)
+        annotator2.extend(v2)
+    kappa = cohen_kappa_score(annotator1, annotator2)
+    print(kappa)
+    print('Finished')
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('annotator_1', metavar='lis_annotator_1', help='LIS annotation file 1.')
@@ -343,4 +374,5 @@ if __name__ == '__main__':
     
     #cohens_kappa(args.annotator_1, args.annotator_2)
     #stats_of_agreement(args.annotator_1, args.annotator_2)
-    stats_iou(args.annotator_1, args.annotator_2)
+    #stats_iou(args.annotator_1, args.annotator_2)
+    cohen_kappa_relations(args.annotator_1, args.annotator_2)
