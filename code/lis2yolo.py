@@ -30,7 +30,7 @@ import progressbar as pbar
 from filehandler import FolderHandler, LisFile
 
 SIZE_KSCGR = 256
-SIZE_YOLO = 416
+SIZE_YOLO = 256
 
 
 def convert_size(xmin, xmax, ymin, ymax, size_in=256, size_out=416):
